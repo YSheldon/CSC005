@@ -1,20 +1,92 @@
+<script language="JavaScript" type="text/javascript">
+  function GetDateStr(AddDayCount) {
+      var dd = new Date();
+      dd.setDate(dd.getDate()+AddDayCount);//获取AddDayCount天后的日期
+      var y = dd.getFullYear();
+      var m = dd.getMonth()+1;//获取当前月份的日期
+      var d = dd.getDate();
+      return y+"-"+m+"-"+d;
+  }
+  </script>
+<style type="text/css">
+  #date_nav li { 
+  float:left; /* 往左浮动 */
+  }
+  #date_nav, #date_nav li {
+list-style:none; /* 将默认的列表符号去掉 */
+padding:0; /* 将默认的内边距去掉 */
+margin:0; /* 将默认的外边距去掉 */
+}
+  </style>
 <div class="container">
   <nav class="pagination" role="pagination">
-    <ul>
-      {% if paginator.previous_page %}
-        {% if paginator.previous_page == 1 %}
-        <p><a class="newer-posts" href="{{ site.selfurl }}"><i class="fa fa-long-arrow-left" aria-hidden="true"></i></a></p>
-        {% else %}
-        <p><a class="newer-posts" href="{{ site.baseurl }}/page/{{ paginator.previous_page }}/"><i class="fa fa-long-arrow-left" aria-hidden="true"></i></a></p>
-        {% endif %}
-      {% endif %}
-
-      <p><span class="page-number">Page {{paginator.page}} of {{paginator.total_pages}}</span></p>
-
-      {% if paginator.next_page %}
-      <p><a class="older-posts" href="{{ site.baseurl }}/page/{{ paginator.next_page }}/"><i class="fa fa-long-arrow-right" aria-hidden="true"></i></a></p>
-      {% endif %}
-      <p><a class="passed-index" href="{{ site.baseurl }}/passed/">passed</i></a></p>
+    <ul id="date_nav">
+      <li>
+        <p>
+          <span class="page-number">
+            <a href="{{site.selfurl}}passed/01/">
+              <script>
+                document.write(GetDateStr(-1));
+              </script>
+            </a>&nbsp;&nbsp;&nbsp;
+          </span>
+        </p>
+      </li>
+      <li>
+        <p>
+          <span class="page-number">
+            <a href="{{site.selfurl}}passed/02/">
+              <script>
+                document.write(GetDateStr(-2));
+              </script>
+            </a>&nbsp;&nbsp;&nbsp;
+          </span>
+        </p>
+      </li>
+      <li>
+        <p>
+          <span class="page-number">
+            <a href="{{site.selfurl}}passed/03/">
+              <script>
+                document.write(GetDateStr(-3));
+              </script>
+            </a>&nbsp;&nbsp;&nbsp;
+          </span>
+        </p>
+      </li>
+      <li>
+        <p>
+          <span class="page-number">
+            <a href="{{site.selfurl}}passed/04/">
+              <script>
+                document.write(GetDateStr(-4));
+              </script>
+            </a>&nbsp;&nbsp;&nbsp;
+          </span>
+        </p>
+      </li>
+      <li>
+        <p>
+          <span class="page-number">
+            <a href="{{site.selfurl}}passed/05/">
+              <script>
+                document.write(GetDateStr(-5));
+              </script>
+            </a>&nbsp;&nbsp;&nbsp;
+          </span>
+        </p>
+      </li>
+      <li>
+        <p>
+          <span class="page-number">
+            <a href="{{site.selfurl}}passed/06/">
+              <script>
+                document.write(GetDateStr(-6));
+              </script>
+            </a>&nbsp;&nbsp;&nbsp;
+          </span>
+        </p>
+      </li>
 
     </ul>
   </nav>
