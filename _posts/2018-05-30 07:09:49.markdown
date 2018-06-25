@@ -1,5 +1,0 @@
-title:CrowdStrike Addresses High-Profile Breaches and More at This Year’s Gartner Summit
-date:2018-05-30 07:09:49
-tourl:https://www.crowdstrike.com/blog/crowdstrike-addresses-high-profile-breaches-and-more-at-this-years-gartner-summit/
-tags:[attack,Crowdstrike]
-    The trouble with dwell time Dwell time, the period between when an attack occurs and when…\t\t\t  \t\t   \t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t Event Stream Processing (ESP) has been a central component of CrowdStrike Falcon’s IOA approach since CrowdStrike's…\t\t\t  \t\t   \t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t For as long as we have had a cybersecurity industry, the market’s attention has been solidly…\t\t\t  \t\t   \t \t\t\t\t\t\t\t\t\t   \t     
