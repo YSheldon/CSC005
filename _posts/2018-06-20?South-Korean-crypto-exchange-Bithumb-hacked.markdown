@@ -1,9 +1,0 @@
----
-layout: post
-title: ?South Korean crypto exchange Bithumb hacked
-date: 2018-06-20 05:00:50
-tourl: /article/south-korean-crypto-exchange-bithumb-hacked/
-tags: [hack]
----
-韩国密码交易Bithumb被黑客入侵，价值3150万美元的令牌被盗。黑客袭击开始于星期二晚上11点左右，星期三凌晨1点30分的兑换封存。蒂比姆，蒂特说剩余的代币存放在冷钱包里，公司会赔偿所有损失。受影响的令牌包括流行纹波（XRP）加密。就在上周，另一个交易所，同一个月内的连续性攻击引发了交易所的安全担忧。韩国互联网安全局表示，目前正在调查此事。THACGS已被全球报道。十二月，TTC炭黑研究表明，随着对隐匿性的兴趣上升，武器市场也会随之增加。TSsung SDS推出了NEXCuffic，一个AI驱动的BigStand金融平台，旨在帮助企业进行数字化改造。不要因为当前的过度繁荣而放弃BLASH链。有几个地方已经准备好产生重大影响。TSAP是坚定的，链链将是一个很大的企业，业务流程和IT。来自ZDNET和TealGrand的这份特别报告分析了B股链对经济的影响，并重新定义了产业的潜力。下载整个报告作为一个免费的PDF电子书。
-South Korean cryptocurrency exchange Bithumb has been hacked, with $31.5 million worth of token stolen.The hack started around 11 pm KST on Tuesday, with the exchange blocking deposits from 1:30am, Wednesday. tBithumb,tIt said remaining tokens were being stored in cold wallets and that the company will compensate all losses. Affected token include the popular Ripple (XRP) cryptocurrency. Just last week, another exchange,tThe consecutive attacks within the same month have raised security concerns in exchanges. Korea InternetSecurity Agency said it is now investigating the matter. tHacks have been reported globally. In December,t tCarbon Black research suggests that as interest in cryptocurrency rises, so does the market for weapons to steal it. t tSamsung SDS has unveiled Nexfinance, an AI-powered blockchain finance platform that aims to help digital transformation in the enterprise. t tDon't dismiss blockchain because of the current over-exuberance. There are a few places where it's ready to have a major impact. t tSAP is steadfast that blockchain will be a big deal in the enterprise, business processes and IT. t tThis special report from ZDNet and TechRepublic examines the potential for blockchain to shake up the economy and redefine industries. Download the entire report as a free PDF ebook.
