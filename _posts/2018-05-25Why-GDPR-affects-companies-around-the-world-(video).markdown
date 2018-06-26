@@ -1,0 +1,9 @@
+---
+layout: post
+title: Why GDPR affects companies around the world (video)
+date: 2018-05-25 17:01:10
+tourl: https://www.welivesecurity.com/2018/05/25/gdpr-affects-companies-around-world-video/
+tags: [GDPR]
+---
+了解企业需要注意的新法规，TTTTTTTTTT获得更多关于GDPR的信息，ESET有一个
+Learn what businesses need to be mindful of with the new legislation tttttttttttttttFor more information on GDPR, ESET has a 
