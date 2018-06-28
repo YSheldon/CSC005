@@ -884,7 +884,7 @@ table tfoot td {
 }
 
 .wrapper {
-  max-width: 1250px;
+  max-width: 1510px;
   position: relative;
 }
 
@@ -934,6 +934,83 @@ table tfoot td {
   height: 100%;
   padding: 20px 10px;
   background-color: #ffffff;
+}
+
+.righttags{
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 240px;
+  height: 100%;
+  padding: 0;
+  margin-left: 1250px;
+  float: right;
+  overflow: scroll;
+
+}
+
+.righttags .righttest {
+  font-family: 'PT Serif', serif;
+  margin: 0 0 10px;
+  position: relative;
+  padding-bottom: 15px;
+  font-size: 16px;
+  text-transform: uppercase;
+  color: #333030;
+}
+
+.ulblog-tags {
+  width: 100%;
+  background-color: #ffffff;
+  padding: 0 20px 20px;
+}
+
+.ulblog-tags h1 {
+  font-size: 20px;
+  text-align: center;
+  line-height: 1.3;
+  color: #263959;
+}
+
+.ultags {
+  margin: 1px;
+  padding: 1px;
+}
+
+.ultags li {
+  display: inline-block;
+  margin: 2px;
+  list-style: none;
+}
+
+.ultags li a {
+  text-decoration: none;
+  color: #263959;
+  display: inline-block;
+  padding: 2px;
+  border: 1px solid #ecf0f1;
+  background-color: #fafafa;
+  -webkit-transition: all .3s;
+  -o-transition: all .3s;
+  transition: all .3s;
+  font-size: 10px;
+}
+
+.ultags li a:hover {
+  background-color: #ecf0f1;
 }
 
 .about {
@@ -1019,6 +1096,7 @@ table tfoot td {
   -webkit-align-items: stretch;
       -ms-flex-align: stretch;
           align-items: stretch;
+  width: 1250px;
 }
 
 .contact .contact-title {
@@ -1147,7 +1225,7 @@ footer .copyright {
 
 .post .post-content {
   padding: 1rem;
-  width: 70%;
+  width: 100%;
 }
 
 .post .post-content .post-date,
