@@ -1,7 +1,7 @@
 # CSC Insight - Security Daily News
 
 
-## [Web]({{site.selfurl}})
+## [Web](https://cscinsight.github.io/CSC005)
 
 The main page would look like this:
 
