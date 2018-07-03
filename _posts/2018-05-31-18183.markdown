@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dell Virtustream secures spot on Australia's certified cloud list
-date: 2018-05-31 09:00:26
+date: 2018-05-31 09:00:23
 tourl: https://www.zdnet.com/article/dell-virtustream-secures-spot-on-australias-certified-cloud-list/
 tags: [AWS,law,bill]
 ---

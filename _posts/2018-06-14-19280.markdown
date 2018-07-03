@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Equifax names former IBM Watson exec as new CTO
-date: 2018-06-14 19:01:02
+date: 2018-06-14 19:01:01
 tourl: /article/equifax-names-former-ibm-watson-exec-as-new-cto/
 tags: [CIO]
 ---

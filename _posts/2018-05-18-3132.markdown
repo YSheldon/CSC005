@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Open source code is ubiquitous and so are many vulnerabilities
-date: 2018-05-18 17:00:23
+date: 2018-05-18 17:00:21
 tourl: https://www.welivesecurity.com/2018/05/18/open-source-code-vulnerabilities/
 tags: [hack]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TLBleed is latest Intel CPU flaw to surface: But don't expect it to be fixed
-date: 2018-06-26 15:00:31
+date: 2018-06-26 15:00:32
 tourl: /article/tlbleed-is-latest-intel-cpu-flaw-to-surface-but-dont-expect-it-to-be-fixed/
 tags: [attack,exploit]
 ---

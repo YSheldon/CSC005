@@ -1,7 +1,7 @@
 ---
 layout: post
 title: US Bill Hopes to Prevent IT Supply-Chain Issues Like the Kaspersky & ZTE Fiascos
-date: 2018-06-21 17:10:55
+date: 2018-06-21 17:10:52
 tourl: https://www.bleepingcomputer.com/news/government/us-bill-hopes-to-prevent-it-supply-chain-issues-like-the-kaspersky-and-zte-fiascos/
 tags: [bill,act]
 ---

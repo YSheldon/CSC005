@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Researchers reveal flaws that may expose encrypted emails to prying eyes
-date: 2018-05-15 17:01:12
+date: 2018-05-15 17:01:11
 tourl: https://www.welivesecurity.com/2018/05/15/researchers-reveal-flaws-encrypted-emails/
 tags: [exploit]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Success of Mirai Variants Highlights Security Dangers
-date: 2018-06-04 13:00:27
+date: 2018-06-04 13:00:23
 tourl: https://www.infosecurity-magazine.com:443/news/success-of-mirai-variants/
 tags: [DNS,Exploitation,exploit]
 ---

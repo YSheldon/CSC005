@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Phishers Target Facebook to Harvest User Data
-date: 2018-05-24 11:02:54
+date: 2018-05-24 11:02:52
 tourl: https://www.infosecurity-magazine.com:443/news/phishers-target-facebook-to/
 tags: [Telegram,GDPR]
 ---

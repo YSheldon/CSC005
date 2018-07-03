@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Synack offers free penetration testing for election systems ahead of 2018 midterms
-date: 2018-06-05 15:40:20
+date: 2018-06-05 15:40:21
 tourl: https://www.cyberscoop.com/synack-election-systems-free-check-2018-midterms/?category_news=technology
 tags: [Department of Homeland Security]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Europol, BT Partner to Boost Threat Intelligence
-date: 2018-05-15 14:30:19
+date: 2018-05-15 14:30:11
 tourl: https://www.infosecurity-magazine.com:443/news/europol-bt-partner-to-boost-threat/
 tags: [law]
 ---

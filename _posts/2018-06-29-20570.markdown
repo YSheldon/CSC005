@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Security Flaws Disclosed in LTE (4G) Mobile Telephony Standard
-date: 2018-06-29 16:10:29
+date: 2018-06-29 16:10:22
 tourl: https://www.bleepingcomputer.com/news/security/security-flaws-disclosed-in-lte-4g-mobile-telephony-standard/
 tags: [attack,DNS]
 ---

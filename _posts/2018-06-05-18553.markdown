@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Zip Slip Vulnerability Affects Thousands of Projects Across Multiple Ecosystems
-date: 2018-06-05 16:05:23
+date: 2018-06-05 16:05:22
 tourl: https://www.bleepingcomputer.com/news/security/zip-slip-vulnerability-affects-thousands-of-projects-across-multiple-ecosystems/
 tags: [exploit,attack]
 ---

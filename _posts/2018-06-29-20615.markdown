@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bill would call on White House to develop its own list of APT groups
-date: 2018-06-29 22:10:25
+date: 2018-06-29 22:10:23
 tourl: https://www.cyberscoop.com/cyber-deterrance-bill-nation-state-hacking-apt-names-ted-yoho/?category_news=technology
 tags: [bill,NSA,act]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Prof. Shamnad Basheer files PIL seeking exemplary damages for Aadhaar Data Leaks
-date: 2018-05-21 08:50:23
+date: 2018-05-21 08:50:24
 tourl: https://www.medianama.com/2018/05/223-aadhaar-pil-data-leaks/
 tags: [act,WhatsApp,regulations,law]
 ---

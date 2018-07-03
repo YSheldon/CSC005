@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cisco: Destructive VPNFilter Malware Has Infected 500K Devices
-date: 2018-05-24 09:00:20
+date: 2018-05-24 09:00:23
 tourl: https://www.infosecurity-magazine.com:443/news/vpnfilter-malware-infected-500k/
 tags: [MikroTik,exploit,attack]
 ---

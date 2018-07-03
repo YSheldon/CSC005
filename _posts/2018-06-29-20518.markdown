@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gentoo GitHub mirror hacked and considered compromised
-date: 2018-06-29 03:01:16
+date: 2018-06-29 03:01:11
 tourl: /article/gentoo-github-mirror-hacked-and-considered-compromised/
 tags: [attack]
 ---

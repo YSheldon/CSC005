@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Victoria overhauls traffic camera network after WannaCry
-date: 2018-05-24 03:00:25
+date: 2018-05-24 03:00:21
 tourl: https://www.zdnet.com/article/victoria-overhauls-traffic-camera-network-after-wannacry/
 tags: [act]
 ---

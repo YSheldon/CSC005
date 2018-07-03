@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Z-Shave Attack Could Impact Over 100 Million IoT Devices
-date: 2018-05-25 09:11:08
+date: 2018-05-25 09:11:01
 tourl: https://www.bleepingcomputer.com/news/security/z-shave-attack-could-impact-over-100-million-iot-devices/
 tags: [attack]
 ---

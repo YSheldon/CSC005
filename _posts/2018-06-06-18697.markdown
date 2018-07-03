@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VPNFilter Can Also Infect ASUS, D-Link, Huawei, Ubiquiti, UPVEL, and ZTE Devices
-date: 2018-06-06 15:55:22
+date: 2018-06-06 15:55:21
 tourl: https://www.bleepingcomputer.com/news/security/vpnfilter-can-also-infect-asus-d-link-huawei-ubiquiti-upvel-and-zte-devices/
 tags: [MikroTik]
 ---

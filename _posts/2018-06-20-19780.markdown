@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Steam Blocks Dutch Users from Trading CS:GO and Dota 2 Items To Avoid Legal Action
-date: 2018-06-20 16:15:54
+date: 2018-06-20 16:15:51
 tourl: https://www.bleepingcomputer.com/news/security/steam-blocks-dutch-users-from-trading-cs-go-and-dota-2-items-to-avoid-legal-action/
 tags: [law]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome 67 is out: Password-free logins get closer, plus bug fixes, better AR-VR support
-date: 2018-05-30 13:00:25
+date: 2018-05-30 13:00:21
 tourl: https://www.zdnet.com/article/chrome-67-is-out-password-free-logins-get-closer-plus-bug-fixes-better-ar-vr-support/
 tags: [WebAuthn]
 ---

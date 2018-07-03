@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Talos finds new VPNFilter malware hitting 500K IoT devices, mostly in Ukraine
-date: 2018-05-24 05:00:24
+date: 2018-05-24 05:00:21
 tourl: https://www.zdnet.com/article/talos-finds-new-vpnfilter-malware-hitting-500k-iot-devices-mostly-in-ukraine/
 tags: [attack]
 ---

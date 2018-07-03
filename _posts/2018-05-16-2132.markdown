@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GDPR compliance deadline still a 'significant' challenge for many
-date: 2018-05-16 13:21:11
+date: 2018-05-16 13:21:13
 tourl: https://www.zdnet.com/article/gdpr-compliance-deadline-still-a-significant-challenge-for-many/
 tags: [GDPR,exploit,regulations]
 ---

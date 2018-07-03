@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cobalt Hacking Group Still Active Despite Leader's Arrest
-date: 2018-05-28 18:15:09
+date: 2018-05-28 18:15:03
 tourl: https://www.bleepingcomputer.com/news/security/cobalt-hacking-group-still-active-despite-leaders-arrest/
 tags: [act,law,hack]
 ---

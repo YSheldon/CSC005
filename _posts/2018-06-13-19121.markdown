@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cortana Hack Lets You Change Passwords on Locked PCs
-date: 2018-06-13 13:01:00
+date: 2018-06-13 13:01:01
 tourl: https://www.bleepingcomputer.com/news/security/cortana-hack-lets-you-change-passwords-on-locked-pcs/
 tags: [attack]
 ---

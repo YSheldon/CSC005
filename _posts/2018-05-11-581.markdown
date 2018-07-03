@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Russian lawmakers want to punish foreign election meddlers
-date: 2018-05-11 07:01:05
+date: 2018-05-11 07:01:02
 tourl: /en/news/2018/05/10/russian-lawmakers-want-to-punish-foreign-election-meddlers
 tags: [law,act]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Russian-linked group tied to Winter Olympics attack is now targeting biochemical researchers
-date: 2018-06-19 18:30:51
+date: 2018-06-19 18:30:54
 tourl: https://www.cyberscoop.com/olympic-destroyer-kaspersky-biochemical-research/?category_news=technology
 tags: [NSA,attack,FIREEYE,Exploitation]
 ---

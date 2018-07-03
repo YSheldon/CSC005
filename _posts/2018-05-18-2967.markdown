@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Court Convicts Scan4You Mastermind
-date: 2018-05-18 10:06:07
+date: 2018-05-18 10:06:03
 tourl: https://www.infosecurity-magazine.com:443/news/court-convicts-scan4you-mastermind/
 tags: [act,exploit,law]
 ---

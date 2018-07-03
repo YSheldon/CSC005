@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Google: Expect email from us on our new policy on harvesting your personal data
-date: 2018-05-11 11:06:03
+date: 2018-05-11 11:06:02
 tourl: https://www.zdnet.com/article/google-expect-email-from-us-on-our-new-policy-on-harvesting-your-personal-data/
 tags: [GDPR,law]
 ---

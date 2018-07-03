@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cisco Live 2018: 'GDP is directly linked to GDPR'
-date: 2018-06-13 17:00:56
+date: 2018-06-13 17:00:52
 tourl: /article/cisco-live-2018-gdp-is-directly-linked-to-gdpr/
 tags: [GDPR,regulations]
 ---

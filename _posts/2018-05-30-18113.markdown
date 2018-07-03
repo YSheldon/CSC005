@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chinese researchers warn blockchain company EOS about 'epic' vulnerability in soon-to-launch platform
-date: 2018-05-30 17:25:26
+date: 2018-05-30 17:25:21
 tourl: https://www.cyberscoop.com/eos-vulnerability-qihoo-360/?category_news=technology
 tags: [attack]
 ---

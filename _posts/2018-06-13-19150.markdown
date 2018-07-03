@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Next-Gen Cybersecurity for Trucking
-date: 2018-06-13 17:00:55
+date: 2018-06-13 17:00:51
 tourl: https://www.infosecurity-magazine.com:443/news/nextgen-cybersecurity-for-trucking/
 tags: [regulations]
 ---

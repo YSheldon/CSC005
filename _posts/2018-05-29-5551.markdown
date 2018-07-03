@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ?Bank of Montreal, CIBC's Simplii Financial report customer data breaches
-date: 2018-05-29 03:01:10
+date: 2018-05-29 03:01:11
 tourl: https://www.zdnet.com/article/bank-of-montreal-cibcs-simplii-financial-confirm-customer-data-breaches/
 tags: [attack]
 ---

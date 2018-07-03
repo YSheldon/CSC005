@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spear-Phisher Gets Five Years for Helping FSB Yahoo Hackers
-date: 2018-05-30 11:00:26
+date: 2018-05-30 11:00:22
 tourl: https://www.infosecurity-magazine.com:443/news/spearphisher-gets-five-years-for/
 tags: [hack,attack]
 ---

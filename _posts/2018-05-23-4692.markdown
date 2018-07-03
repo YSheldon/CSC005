@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ?FBI inflated encrypted device figures, misleading public
-date: 2018-05-23 01:25:18
+date: 2018-05-23 01:25:11
 tourl: https://www.zdnet.com/article/fbi-inflated-encrypted-phone-figures-misleading-public/
 tags: [law]
 ---

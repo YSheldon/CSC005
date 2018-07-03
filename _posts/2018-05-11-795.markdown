@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are firms and regulators prepared for GDPR?
-date: 2018-05-11 17:01:06
+date: 2018-05-11 17:01:02
 tourl: https://www.welivesecurity.com/2018/05/11/firms-regulators-prepared-gdpr/
 tags: [GDPR,law]
 ---

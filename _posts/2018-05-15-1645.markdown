@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Adobe Slings Fixes For a Further 47 CVEs
-date: 2018-05-15 10:06:14
+date: 2018-05-15 10:06:11
 tourl: https://www.infosecurity-magazine.com:443/news/adobe-slings-fixes-for-a-further/
 tags: [Exploitation]
 ---

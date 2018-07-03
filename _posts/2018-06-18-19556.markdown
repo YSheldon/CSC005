@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SamSam ransomware: controlled distribution for an elusive malware June 18, 2018 - SamSam ransomware is a unique malware for its explicit human interaction on selected targets and care to erase most of its tracks.CONTINUE READING
-date: 2018-06-18 22:01:00
+date: 2018-06-18 22:01:01
 tourl: https://blog.malwarebytes.com/threat-analysis/2018/06/samsam-ransomware-controlled-distribution/
 tags: [attack]
 ---

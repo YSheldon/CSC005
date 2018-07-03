@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Georgia Votes in Primary amid Cybersecurity Suit
-date: 2018-05-22 17:02:39
+date: 2018-05-22 17:02:31
 tourl: https://www.infosecurity-magazine.com:443/news/georgia-votes-in-primary-amid/
 tags: [law]
 ---

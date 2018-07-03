@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An acoustic attack can blue screen your Windows computer
-date: 2018-05-30 17:01:48
+date: 2018-05-30 17:01:42
 tourl: https://www.welivesecurity.com/2018/05/30/acoustic-attack-blue-screen-windows-computer/
 tags: [attack,Exploitation]
 ---

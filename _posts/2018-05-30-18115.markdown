@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Contractor Exposes Credentials for Universal Music Group's IT Infrastructure
-date: 2018-05-30 17:35:25
+date: 2018-05-30 17:35:21
 tourl: https://www.bleepingcomputer.com/news/security/contractor-exposes-credentials-for-universal-music-groups-it-infrastructure/
 tags: [AWS]
 ---

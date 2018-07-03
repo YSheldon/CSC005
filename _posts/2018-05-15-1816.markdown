@@ -1,7 +1,7 @@
 ---
 layout: post
 title: No Sign of Slow Down in Vulnerability Disclosure
-date: 2018-05-15 17:30:19
+date: 2018-05-15 17:30:11
 tourl: https://www.infosecurity-magazine.com:443/news/no-sign-of-slow-down-in/
 tags: [attack]
 ---

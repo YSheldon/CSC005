@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Can we rebuild trust in the internet?
-date: 2018-06-07 13:00:35
+date: 2018-06-07 13:00:31
 tourl: /article/can-we-rebuild-trust-in-the-internet/
 tags: [attack]
 ---

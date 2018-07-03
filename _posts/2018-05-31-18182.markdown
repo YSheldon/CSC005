@@ -1,7 +1,7 @@
 ---
 layout: post
 title: US Court Upholds Kaspersky Lab Government Ban
-date: 2018-05-31 09:00:26
+date: 2018-05-31 09:00:21
 tourl: https://www.infosecurity-magazine.com:443/news/us-court-upholds-kaspersky-lab/
 tags: [act]
 ---

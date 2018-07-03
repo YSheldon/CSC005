@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hacker Steals $1.35 From Cryptocurrency Trading App Taylor
-date: 2018-05-28 21:55:06
+date: 2018-05-28 21:55:01
 tourl: https://www.bleepingcomputer.com/news/security/hacker-steals-135-from-cryptocurrency-trading-app-taylor/
 tags: [hack]
 ---

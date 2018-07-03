@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Attackers Pick Microsoft Office for Zero-Day Exploits
-date: 2018-06-21 17:01:11
+date: 2018-06-21 17:01:12
 tourl: https://www.infosecurity-magazine.com:443/news/attackers-pick-microsoft-office/
 tags: [attack,exploit]
 ---

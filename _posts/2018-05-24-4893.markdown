@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GDPR is already a success, whether you like it or not
-date: 2018-05-24 11:03:01
+date: 2018-05-24 11:03:02
 tourl: https://www.zdnet.com/article/gdpr-is-already-a-success-whether-you-like-it-or-not/
 tags: [GDPR,regulations]
 ---

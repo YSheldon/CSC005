@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Security vendors need to stop doing more harm than good
-date: 2018-05-16 18:06:12
+date: 2018-05-16 18:06:13
 tourl: https://www.zdnet.com/article/security-vendors-heal-thyself-do-good-not-harm/
 tags: [Exploitation,attack,act]
 ---

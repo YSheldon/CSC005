@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Adobe sends out second wave of security updates for critical vulnerabilities
-date: 2018-05-15 11:41:14
+date: 2018-05-15 11:41:11
 tourl: https://www.zdnet.com/article/adobe-sends-out-second-wave-of-security-updates-for-critical-vulnerabilities/
 tags: [Exploitation]
 ---

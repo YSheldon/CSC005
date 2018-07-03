@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Years of Police Dashcam Video Lost in Atlanta Ransomware Incident
-date: 2018-06-06 04:35:26
+date: 2018-06-06 04:35:21
 tourl: https://www.bleepingcomputer.com/news/security/years-of-police-dashcam-video-lost-in-atlanta-ransomware-incident/
 tags: [attack]
 ---

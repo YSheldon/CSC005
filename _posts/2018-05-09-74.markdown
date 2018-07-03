@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mirai DDoS attack against KrebsOnSecurity cost device owners $300,000
-date: 2018-05-09 12:15:32
+date: 2018-05-09 12:15:31
 tourl: https://www.zdnet.com/article/mirai-botnet-attack-against-krebsonsecurity-cost-device-owners-300000/
 tags: [attack]
 ---

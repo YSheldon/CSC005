@@ -1,7 +1,7 @@
 ---
 layout: post
 title: File-Wiping Malware Placed Inside Gentoo Linux Code After GitHub Account Hack
-date: 2018-06-29 07:55:20
+date: 2018-06-29 07:55:21
 tourl: https://www.bleepingcomputer.com/news/linux/file-wiping-malware-placed-inside-gentoo-linux-code-after-github-account-hack/
 tags: [hack]
 ---

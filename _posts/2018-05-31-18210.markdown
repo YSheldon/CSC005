@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Internet security: Slaying the botnet beast and the DDoS dragon
-date: 2018-05-31 15:00:28
+date: 2018-05-31 15:00:24
 tourl: https://www.zdnet.com/article/internet-security-slaying-the-botnet-beast-and-the-ddos-dragon/
 tags: [attack,Department of Homeland Security,law,China]
 ---

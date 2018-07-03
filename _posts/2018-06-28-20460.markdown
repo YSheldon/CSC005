@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 6 myths about security patch management
-date: 2018-06-28 17:01:06
+date: 2018-06-28 17:01:01
 tourl: https://blogs.cisco.com/government/6-myths-about-security-patch-management
 tags: [exploit]
 ---

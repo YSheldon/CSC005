@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cisco CEO Chuck Robbins on smart cities architecture
-date: 2018-06-12 23:00:58
+date: 2018-06-12 23:00:51
 tourl: /article/cisco-ceo-chuck-robbins-on-smart-cities-architecture/
 tags: [China]
 ---

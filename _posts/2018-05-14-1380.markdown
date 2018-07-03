@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Danish Railway Company DSB Suffers DDoS Attack
-date: 2018-05-14 10:51:14
+date: 2018-05-14 10:51:11
 tourl: https://www.infosecurity-magazine.com:443/news/danish-railway-ddos-attack/
 tags: [attack]
 ---

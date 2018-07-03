@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GDPR: A boon for privacy or choking regulation? Businesses weigh in
-date: 2018-05-16 10:40:18
+date: 2018-05-16 10:40:12
 tourl: https://www.zdnet.com/article/gdpr-a-boon-for-security-or-choking-regulation-businesses-weigh-in/
 tags: [GDPR,regulations]
 ---

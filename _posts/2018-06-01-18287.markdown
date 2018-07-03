@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spies win right to keep monitoring all traffic at world's biggest internet hub
-date: 2018-06-01 15:00:20
+date: 2018-06-01 15:00:23
 tourl: https://www.zdnet.com/article/spies-win-right-to-keep-monitoring-all-traffic-at-worlds-biggest-internet-hub/
 tags: [law,National Security Agency,NSA]
 ---

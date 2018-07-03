@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You have NOT won! A look at fake FIFA World Cup-themed lotteries and giveaways
-date: 2018-06-06 12:00:35
+date: 2018-06-06 12:00:32
 tourl: https://www.welivesecurity.com/2018/06/06/fake-fifa-world-cup-themed-lotteries-giveaways/
 tags: [act,WhatsApp]
 ---

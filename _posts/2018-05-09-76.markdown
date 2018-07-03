@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows critical flaw: This security bug is under attack right now, says Microsoft
-date: 2018-05-09 12:25:35
+date: 2018-05-09 12:25:32
 tourl: https://www.zdnet.com/article/windows-critical-flaw-this-security-bug-is-under-attack-right-now-says-microsoft/
 tags: [attack,exploit]
 ---

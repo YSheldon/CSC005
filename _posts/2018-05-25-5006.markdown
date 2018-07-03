@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Apple reveals latest government data demand figures
-date: 2018-05-25 19:01:15
+date: 2018-05-25 19:01:12
 tourl: https://www.zdnet.com/article/apple-reveals-latest-government-data-demand-figures/
 tags: [law,WhatsApp]
 ---

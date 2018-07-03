@@ -1,7 +1,7 @@
 ---
 layout: post
 title: This cryptocurrency phishing attack uses new trick to drain wallets
-date: 2018-05-17 15:11:07
+date: 2018-05-17 15:11:01
 tourl: https://www.zdnet.com/article/this-cryptocurrency-phishing-attack-uses-new-trick-to-drains-wallets/
 tags: [attack]
 ---

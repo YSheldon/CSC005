@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Senate Votes to Reimpose ZTE Ban Despite President Trump's Efforts
-date: 2018-06-19 08:40:49
+date: 2018-06-19 08:40:43
 tourl: https://www.bleepingcomputer.com/news/government/senate-votes-to-reimpose-zte-ban-despite-president-trumps-efforts/
 tags: [act,China,bill]
 ---

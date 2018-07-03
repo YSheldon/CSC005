@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Europol and partners dismantle prolific cyber-extortion gang
-date: 2018-06-19 12:00:48
+date: 2018-06-19 12:00:43
 tourl: https://www.welivesecurity.com/2018/06/19/europol-dismantle-cyber-extortion-gang/
 tags: [hack,law,attack]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: #Infosec18: OT/IT Conflict a Challenge in Era of Cyber-Physical Attacks
-date: 2018-06-07 11:00:29
+date: 2018-06-07 11:00:21
 tourl: https://www.infosecurity-magazine.com:443/news/infosec18-otit-conflict-challenge/
 tags: [bill]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Telegram-abusing Android RAT discovered in the wild
-date: 2018-06-18 17:01:52
+date: 2018-06-18 17:01:51
 tourl: https://www.welivesecurity.com/2018/06/18/new-telegram-abusing-android-rat/
 tags: [Telegram]
 ---

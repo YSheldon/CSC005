@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JEDI report to Congress stresses need for speed, standardization
-date: 2018-05-17 03:31:15
+date: 2018-05-17 03:31:13
 tourl: https://defensesystems.com/articles/2018/05/16/jedi-report-to-congress.aspx
 tags: [bill,DOD,act]
 ---

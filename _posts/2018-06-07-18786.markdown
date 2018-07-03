@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VPNFilter update: More bad news for routers
-date: 2018-06-07 12:00:42
+date: 2018-06-07 12:00:41
 tourl: https://www.welivesecurity.com/2018/06/07/vpnfilter-update-bad-news-routers/
 tags: [attack]
 ---

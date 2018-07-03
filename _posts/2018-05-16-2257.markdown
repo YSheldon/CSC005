@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DHS Unveils National Cybersecurity Risk Strategy
-date: 2018-05-16 17:36:07
+date: 2018-05-16 17:36:04
 tourl: https://www.infosecurity-magazine.com:443/news/dhs-unveils-national-cyber/
 tags: [Department of Homeland Security,DHS,National Security Council,CISO]
 ---

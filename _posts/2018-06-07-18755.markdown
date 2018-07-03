@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ?VPNFilter malware now targeting Asus, D-Link, Huawei, ZTE devices
-date: 2018-06-07 03:00:54
+date: 2018-06-07 03:00:52
 tourl: /article/vpnfilter-malware-now-targeting-asus-d-link-huawei-zte/
 tags: [MikroTik,Exploitation]
 ---

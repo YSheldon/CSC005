@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Man faces up to 35 years in prison for helping hackers evade detection by anti-virus software
-date: 2018-05-18 12:01:09
+date: 2018-05-18 12:01:01
 tourl: https://www.welivesecurity.com/2018/05/18/man-faces-prison-helping-hackers-evade-detection/
 tags: [law]
 ---

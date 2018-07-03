@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Turla Mosquito: A shift towards more generic tools
-date: 2018-05-22 17:02:39
+date: 2018-05-22 17:02:33
 tourl: https://www.welivesecurity.com/2018/05/22/turla-mosquito-shift-towards-generic-tools/
 tags: [Exploitation,frame,attack]
 ---

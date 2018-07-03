@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vermont Entices Remote Workers To Relocate By Paying Their Expenses
-date: 2018-05-25 20:46:16
+date: 2018-05-25 20:46:11
 tourl: https://www.bleepingcomputer.com/news/government/vermont-entices-remote-workers-to-relocate-by-paying-their-expenses/
 tags: [bill]
 ---

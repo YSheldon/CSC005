@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New MysteryBot Android Malware Packs a Banking Trojan, Keylogger, and Ransomware
-date: 2018-06-14 11:50:53
+date: 2018-06-14 11:50:51
 tourl: https://www.bleepingcomputer.com/news/security/new-mysterybot-android-malware-packs-a-banking-trojan-keylogger-and-ransomware/
 tags: [WhatsApp]
 ---

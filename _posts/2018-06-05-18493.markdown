@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Two Months Later, Over 115,000 Drupal Sites Still Vulnerable to Drupalgeddon 2
-date: 2018-06-05 05:00:26
+date: 2018-06-05 05:00:22
 tourl: https://www.bleepingcomputer.com/news/security/two-months-later-over-115-000-drupal-sites-still-vulnerable-to-drupalgeddon-2/
 tags: [attack,Exploitation]
 ---
