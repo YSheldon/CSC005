@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft Will Extend GDPR Privacy Protections to All Users, Not Just Europeans
-date: 2018-05-24 12:20:12
+date: 2018-05-24 00:00:58
 tourl: https://www.bleepingcomputer.com/news/microsoft/microsoft-will-extend-gdpr-privacy-protections-to-all-users-not-just-europeans/
 tags: [GDPR,regulations]
 ---

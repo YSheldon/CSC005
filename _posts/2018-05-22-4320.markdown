@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ahead of GDPR, UK fines University of Greenwich Ł120,000 over data breach
-date: 2018-05-22 08:31:01
+date: 2018-05-22 00:00:59
 tourl: https://www.zdnet.com/article/ahead-of-gdpr-uk-fines-university-of-greenwich-120000-over-data-breach/
 tags: [GDPR]
 ---

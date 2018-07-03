@@ -1,7 +1,7 @@
 ---
 layout: post
 title: World Cup 2018: malware attacks gunning for goal June 27, 2018 - The World Cup is in full swing, and attackers are busy both on and off the pitch. Which of the competing nations are under fire from malware authors? Read on to find out.CONTINUE READING
-date: 2018-06-27 22:00:31
+date: 2018-06-27 00:00:59
 tourl: https://blog.malwarebytes.com/cybercrime/2018/06/world-cup-2018-malware-attacks-gunning-for-goal/
 tags: [attack]
 ---

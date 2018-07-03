@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The zero-day industry tries 'transparency' in Dubai
-date: 2018-06-05 14:00:21
+date: 2018-06-05 00:00:59
 tourl: https://www.cyberscoop.com/crowdfense-zero-day-exploit-dubai-uae/?category_news=technology
 tags: [law]
 ---

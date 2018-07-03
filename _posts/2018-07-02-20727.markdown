@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NSA Deletes Hundreds of Millions of Call Records Over \
-date: 2018-07-02 09:20:14
+date: 2018-07-02 00:00:56
 tourl: https://www.bleepingcomputer.com/news/government/nsa-deletes-hundreds-of-millions-of-call-records-over-technical-irregularities/
 tags: [National Security Agency,NSA,act,frame]
 ---

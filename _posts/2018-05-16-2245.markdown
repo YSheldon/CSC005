@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SaaS SDKS Impacted by Java Vulnerability
-date: 2018-05-16 17:15:22
+date: 2018-05-16 00:00:58
 tourl: https://www.infosecurity-magazine.com:443/news/saas-sdks-impacted-by-java/
 tags: [exploit,attack]
 ---

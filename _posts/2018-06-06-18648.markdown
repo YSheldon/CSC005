@@ -1,7 +1,7 @@
 ---
 layout: post
 title: #Infosec18: A Diverse Team with Opportunities will Benefit a Company's Security
-date: 2018-06-06 09:00:22
+date: 2018-06-06 00:00:58
 tourl: https://www.infosecurity-magazine.com:443/news/infosec18-diverse-team-benefit/
 tags: [CISO,attack]
 ---

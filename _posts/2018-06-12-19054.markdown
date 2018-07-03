@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bank of Chile Suffers $10m Loss
-date: 2018-06-12 19:00:51
+date: 2018-06-12 00:00:59
 tourl: https://www.infosecurity-magazine.com:443/news/bank-of-chile-suffers-10m-loss/
 tags: [attack]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hacker Phishes Teachers, Catches 14 Felonies
-date: 2018-05-14 19:16:02
+date: 2018-05-14 00:00:58
 tourl: https://www.infosecurity-magazine.com:443/news/hacker-phishes-teachers-catches-14/
 tags: [attack,law]
 ---

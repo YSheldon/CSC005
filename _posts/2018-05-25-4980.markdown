@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft: Here's why Windows Defender AV isn't ranked higher in new antivirus tests
-date: 2018-05-25 13:00:21
+date: 2018-05-25 00:00:59
 tourl: https://www.zdnet.com/article/microsoft-heres-why-windows-defender-av-isnt-ranked-higher-in-new-antivirus-tests/
 tags: [attack]
 ---

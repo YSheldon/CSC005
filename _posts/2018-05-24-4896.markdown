@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GDPR: One rule to rule them all  legally
-date: 2018-05-24 12:00:22
+date: 2018-05-24 00:00:58
 tourl: https://www.welivesecurity.com/2018/05/24/gdpr-one-rule-legally/
 tags: [law,GDPR]
 ---

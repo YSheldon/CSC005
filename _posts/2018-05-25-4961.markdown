@@ -1,7 +1,7 @@
 ---
 layout: post
 title: #Oktane18: Interview: Yassir Abousselham, CSO, Okta
-date: 2018-05-25 09:01:12
+date: 2018-05-25 00:00:58
 tourl: https://www.infosecurity-magazine.com:443/news/oktane18-interview-cso-okta/
 tags: [CISO,attack]
 ---

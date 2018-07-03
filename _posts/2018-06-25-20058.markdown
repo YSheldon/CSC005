@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Phishing scam claims to deliver WannaCry, demands bitcoin ransom
-date: 2018-06-25 13:00:21
+date: 2018-06-25 00:00:59
 tourl: /article/phishing-scam-claims-to-deliver-wannacry-demands-bitcoin-ransom/
 tags: [hack]
 ---

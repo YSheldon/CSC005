@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Settings Shortcuts Can Be Abused for Code Execution on Windows 10
-date: 2018-06-26 19:15:21
+date: 2018-06-26 00:00:59
 tourl: https://www.bleepingcomputer.com/news/security/windows-settings-shortcuts-can-be-abused-for-code-execution-on-windows-10/
 tags: [attack]
 ---

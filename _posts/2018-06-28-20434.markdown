@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Private sector isnt sharing data with DHSs threat portal
-date: 2018-06-28 13:55:24
+date: 2018-06-28 00:00:56
 tourl: https://www.cyberscoop.com/dhs-ais-cisa-isnt-used-jim-langevin/?category_news=technology
 tags: [act,Department of Homeland Security,DHS,bill]
 ---

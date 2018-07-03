@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tech companies to disclose foreign software probes under US Bill: Report
-date: 2018-05-25 03:01:18
+date: 2018-05-25 00:00:52
 tourl: https://www.zdnet.com/article/tech-companies-to-disclose-foreign-software-probes-under-us-bill-report/
 tags: [China,attack,bill,Department of Homeland Security,DHS,draft,NSA,GDPR]
 ---

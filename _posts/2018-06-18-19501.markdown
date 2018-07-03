@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A bug in macOS' \
-date: 2018-06-18 13:00:52
+date: 2018-06-18 00:00:58
 tourl: /article/macos-quick-look-bug-leaks-encrypted-data-researchers-find/
 tags: [law,WhatsApp]
 ---

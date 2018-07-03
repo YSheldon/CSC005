@@ -1,7 +1,7 @@
 ---
 layout: post
 title: State-sponsored cyber attacks deserve tougher responses: ASPI report
-date: 2018-06-01 01:00:26
+date: 2018-06-01 00:00:54
 tourl: https://www.zdnet.com/article/state-sponsored-cyber-attacks-deserve-tougher-responses-aspi-report/
 tags: [frame,law,attack,NATO,GDPR,Department of Homeland Security]
 ---

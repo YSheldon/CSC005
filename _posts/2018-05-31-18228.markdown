@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fitness app PumpUp leaked health data, private messages
-date: 2018-05-31 21:00:32
+date: 2018-05-31 00:00:58
 tourl: https://www.zdnet.com/article/fitness-app-pumpup-leaked-health-data-private-messages/
 tags: [law,WhatsApp]
 ---

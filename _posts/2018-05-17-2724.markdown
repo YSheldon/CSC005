@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A flaw in a connected alarm system exposed vehicles to remote hacking
-date: 2018-05-17 16:35:13
+date: 2018-05-17 00:00:57
 tourl: https://www.zdnet.com/article/flaw-connected-alarm-system-exposed-vehicles-remote-hacking/
 tags: [attack,exploit,WhatsApp]
 ---

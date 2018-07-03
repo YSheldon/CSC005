@@ -1,7 +1,7 @@
 ---
 layout: post
 title: US cell carriers are selling access to your real-time phone location data
-date: 2018-05-14 19:06:13
+date: 2018-05-14 00:00:57
 tourl: https://www.zdnet.com/article/us-cell-carriers-selling-access-to-real-time-location-data/
 tags: [act,law,WhatsApp]
 ---

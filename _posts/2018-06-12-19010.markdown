@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cisco CEO: AI enables every tech we build
-date: 2018-06-12 15:00:51
+date: 2018-06-12 00:00:59
 tourl: /article/cisco-ceo-ai-enables-every-tech-we-build/
 tags: [attack]
 ---

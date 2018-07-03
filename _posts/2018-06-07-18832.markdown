@@ -1,7 +1,7 @@
 ---
 layout: post
 title: #Infosec18: Incident Response Plans Failing the Agility Test
-date: 2018-06-07 17:00:51
+date: 2018-06-07 00:00:59
 tourl: https://www.infosecurity-magazine.com:443/news/incident-response-plans-failing/
 tags: [GDPR]
 ---

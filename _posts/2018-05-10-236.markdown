@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Firefox 60 lands: It's world's first browser to give you password-free logins, says Mozilla
-date: 2018-05-10 11:11:01
+date: 2018-05-10 00:00:59
 tourl: https://www.zdnet.com/article/firefox-60-lands-its-worlds-first-browser-to-give-you-password-free-logins-says-mozilla/
 tags: [WebAuthn]
 ---

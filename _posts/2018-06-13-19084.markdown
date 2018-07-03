@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Today, the EU Will Vote If to Ban Kaspersky Products From Official EU Networks
-date: 2018-06-13 04:20:51
+date: 2018-06-13 00:00:59
 tourl: https://www.bleepingcomputer.com/news/government/today-the-eu-will-vote-if-to-ban-kaspersky-products-from-official-eu-networks/
 tags: [NATO]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cisco ASA Flaw Exploited in the Wild After Publication of Two PoCs
-date: 2018-06-27 16:00:22
+date: 2018-06-27 00:00:58
 tourl: https://www.bleepingcomputer.com/news/security/cisco-asa-flaw-exploited-in-the-wild-after-publication-of-two-pocs/
 tags: [exploit,Exploitation]
 ---

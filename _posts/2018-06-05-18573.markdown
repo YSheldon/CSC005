@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The cyberattack on banks in Mexico: The challenges posed to cybersecurity
-date: 2018-06-05 17:02:53
+date: 2018-06-05 00:00:57
 tourl: https://www.welivesecurity.com/2018/06/05/cyberattack-on-banks-mexico-cybersecurity/
 tags: [Exploitation,regulations,attack]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: #Infosec18: Regulation is Top Driver of Cybersecurity, Now & in the Future
-date: 2018-06-05 09:00:22
+date: 2018-06-05 00:00:58
 tourl: https://www.infosecurity-magazine.com:443/news/infosec18-regulations-top-driver/
 tags: [GDPR,regulations]
 ---

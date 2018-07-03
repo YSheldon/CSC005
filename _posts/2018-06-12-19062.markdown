@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cisco ACI and BlueCat DNS Integrity empowers customers implement Enterprise DDI strategy
-date: 2018-06-12 21:00:51
+date: 2018-06-12 00:00:59
 tourl: https://blogs.cisco.com/datacenter/cisco-aci-and-bluecat-dns-integrity-empowers-customers-implement-enterprise-ddi-strategy
 tags: [DNS]
 ---

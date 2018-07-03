@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Verge Cryptocurrency Network Falls Victim to Same Attack Even After Hard-Fork
-date: 2018-05-24 04:16:01
+date: 2018-05-24 00:00:59
 tourl: https://www.bleepingcomputer.com/news/security/verge-cryptocurrency-network-falls-victim-to-same-attack-even-after-hard-fork/
 tags: [attack]
 ---

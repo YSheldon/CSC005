@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ticketfly cyberattack exposed data belonging to 27 million accounts
-date: 2018-06-07 09:00:21
+date: 2018-06-07 00:00:59
 tourl: /article/ticketfly-cyberattack-exposed-data-belonging-to-27-million-accounts/
 tags: [attack]
 ---

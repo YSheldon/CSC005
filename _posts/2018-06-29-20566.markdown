@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A massive cache of law enforcement personnel data has leaked
-date: 2018-06-29 15:00:33
+date: 2018-06-29 00:00:57
 tourl: /article/a-massive-cache-of-law-enforcement-personnel-data-has-leaked/
 tags: [law,exploit,WhatsApp]
 ---

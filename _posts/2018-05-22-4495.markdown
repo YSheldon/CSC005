@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3.2 Million Files Revealed on AWS S3 Bucket
-date: 2018-05-22 15:46:11
+date: 2018-05-22 00:00:59
 tourl: https://www.infosecurity-magazine.com:443/news/3-2-million-files-revealed-on-aws/
 tags: [AWS]
 ---

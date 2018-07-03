@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Open Redis Servers Infected with Malware
-date: 2018-05-31 19:00:32
+date: 2018-05-31 00:00:58
 tourl: https://www.infosecurity-magazine.com:443/news/open-redis-servers-infected-with/
 tags: [attack,China]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: In war against botnets, manufacturers need to step up, report says
-date: 2018-05-30 18:25:22
+date: 2018-05-30 00:00:58
 tourl: https://www.cyberscoop.com/botnet-report-market-incentives-dhs-commerce/?category_news=technology
 tags: [attack,DHS]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sigrun Ransomware Author Decrypting Russian Victims for Free
-date: 2018-06-01 07:35:21
+date: 2018-06-01 00:00:59
 tourl: https://www.bleepingcomputer.com/news/security/sigrun-ransomware-author-decrypting-russian-victims-for-free/
 tags: [attack]
 ---

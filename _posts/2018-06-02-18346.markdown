@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The VPNFilter Botnet Is Attempting a Comeback
-date: 2018-06-02 09:00:32
+date: 2018-06-02 00:00:58
 tourl: https://www.bleepingcomputer.com/news/security/the-vpnfilter-botnet-is-attempting-a-comeback/
 tags: [attack,Department of Homeland Security]
 ---

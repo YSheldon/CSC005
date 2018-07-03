@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Firefox 60's WebAuthn API: No Password Required
-date: 2018-05-10 19:21:01
+date: 2018-05-10 00:00:59
 tourl: https://www.infosecurity-magazine.com:443/news/firefox-60s-webauthn-api-no/
 tags: [WebAuthn]
 ---

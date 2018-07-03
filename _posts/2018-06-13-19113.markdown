@@ -1,7 +1,7 @@
 ---
 layout: post
 title: US government report highlights gaps in battle against botnets
-date: 2018-06-13 12:01:03
+date: 2018-06-13 00:00:57
 tourl: https://www.welivesecurity.com/2018/06/13/us-report-highlights-battle-botnets/
 tags: [Department of Homeland Security,DNS,act]
 ---

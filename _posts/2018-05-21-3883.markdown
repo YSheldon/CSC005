@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Malware campaign expands to add cryptocurrency mining and iOS phishing attacks
-date: 2018-05-21 10:16:01
+date: 2018-05-21 00:00:59
 tourl: https://www.zdnet.com/article/malware-campaign-expands-to-add-cryptocurrency-mining-and-ios-phishing-attacks/
 tags: [DNS]
 ---

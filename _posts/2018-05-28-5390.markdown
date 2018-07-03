@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ghostery Tries to Comply With GDPR, but Ends Up Violating GDPR in the Process
-date: 2018-05-28 13:00:21
+date: 2018-05-28 00:00:59
 tourl: https://www.bleepingcomputer.com/news/technology/ghostery-tries-to-comply-with-gdpr-but-ends-up-violating-gdpr-in-the-process/
 tags: [GDPR]
 ---

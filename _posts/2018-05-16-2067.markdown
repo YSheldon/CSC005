@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rights Group Calls for End to Police Facial Recognition
-date: 2018-05-16 09:36:11
+date: 2018-05-16 00:00:59
 tourl: https://www.infosecurity-magazine.com:443/news/rights-group-calls-end-police/
 tags: [act]
 ---

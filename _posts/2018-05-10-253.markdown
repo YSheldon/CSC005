@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fogarty confirmed as new Army Cyber Command leader
-date: 2018-05-10 12:11:01
+date: 2018-05-10 00:00:59
 tourl: https://defensesystems.com/articles/2018/05/04/arcyber-fogarty-williams.aspx
 tags: [Cyber Command]
 ---

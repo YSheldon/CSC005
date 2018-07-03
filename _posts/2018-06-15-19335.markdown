@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gloucestershire Police BCC Error Leads to Ł80K Fine
-date: 2018-06-15 09:00:53
+date: 2018-06-15 00:00:57
 tourl: https://www.infosecurity-magazine.com:443/news/gloucestershire-police-bcc-error/
 tags: [law,act,GDPR]
 ---

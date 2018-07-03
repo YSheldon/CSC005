@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FBI to all router users: Reboot now to neuter Russia's VPNFilter malware
-date: 2018-05-29 13:01:12
+date: 2018-05-29 00:00:58
 tourl: https://www.zdnet.com/article/fbi-to-all-router-users-reboot-now-to-neuter-russias-vpnfilter-malware/
 tags: [DHS,exploit]
 ---

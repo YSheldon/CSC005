@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Smart locks easily hacked, thanks to Tapplock's leaky server
-date: 2018-06-15 17:00:51
+date: 2018-06-15 00:00:59
 tourl: /article/another-security-flaw-tapplock-smart-lock-hacking/
 tags: [WhatsApp]
 ---

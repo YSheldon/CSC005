@@ -1,7 +1,7 @@
 ---
 layout: post
 title: UK Retailer Says Hacker Accessed 5.9Mil Card Details, 1.2Mil User Records
-date: 2018-06-13 15:15:52
+date: 2018-06-13 00:00:58
 tourl: https://www.bleepingcomputer.com/news/security/uk-retailer-says-hacker-accessed-59mil-card-details-12mil-user-records/
 tags: [GDPR,law]
 ---

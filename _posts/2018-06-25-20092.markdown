@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Apple corrects the record on reported iPhone vulnerability
-date: 2018-06-25 17:10:21
+date: 2018-06-25 00:00:59
 tourl: https://www.cyberscoop.com/iphone-brute-force-passcode-matthew-hickey/?category_news=technology
 tags: [law]
 ---

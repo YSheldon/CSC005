@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vulnerability Spotlight: TALOS-2018-0545  Microsoft wimgapi LoadIntegrityInfo Code Execution Vulnerability
-date: 2018-06-13 17:00:51
+date: 2018-06-13 00:00:59
 tourl: https://blogs.cisco.com/security/talos/vulnerability-spotlight-talos-2018-0545-microsoft-wimgapi-loadintegrityinfo-code-execution-vulnerability
 tags: [attack]
 ---

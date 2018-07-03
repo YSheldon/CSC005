@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New SamSam Variant Requires Special Password Before Infection
-date: 2018-06-21 04:48:01
+date: 2018-06-21 00:00:59
 tourl: https://www.bleepingcomputer.com/news/security/new-samsam-variant-requires-special-password-before-infection/
 tags: [exploit]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Malware Infection at HR Company Triggers Flurry of Data Breach Notifications
-date: 2018-06-06 11:50:23
+date: 2018-06-06 00:00:57
 tourl: https://www.bleepingcomputer.com/news/security/malware-infection-at-hr-company-triggers-flurry-of-data-breach-notifications/
 tags: [GDPR,act,law]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Russia's parliament will consider a constitutional amendment to let Putin run for re-election in 2024
-date: 2018-05-18 19:01:12
+date: 2018-05-18 00:00:58
 tourl: /en/news/2018/05/18/russia-s-parliament-will-consider-a-constitutional-amendment-to-let-putin-run-for-re-election-in-2024
 tags: [draft,law]
 ---

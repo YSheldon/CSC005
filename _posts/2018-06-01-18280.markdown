@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IE Zero-Day Adopted by RIG Exploit Kit After Publication of PoC Code
-date: 2018-06-01 13:55:12
+date: 2018-06-01 00:00:58
 tourl: https://www.bleepingcomputer.com/news/security/ie-zero-day-adopted-by-rig-exploit-kit-after-publication-of-poc-code/
 tags: [exploit,Exploitation]
 ---

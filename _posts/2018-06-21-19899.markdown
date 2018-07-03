@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dude Gets 20 Years in the Slammer for Attempting to Hijack Domain at Gunpoint
-date: 2018-06-21 13:25:51
+date: 2018-06-21 00:00:59
 tourl: https://www.bleepingcomputer.com/news/legal/dude-gets-20-years-in-the-slammer-for-attempting-to-hijack-domain-at-gunpoint/
 tags: [law]
 ---

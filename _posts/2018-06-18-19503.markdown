@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vendor Patches Seven Vulnerabilities Across 392 Camera Models
-date: 2018-06-18 13:01:01
+date: 2018-06-18 00:00:59
 tourl: https://www.bleepingcomputer.com/news/security/vendor-patches-seven-vulnerabilities-across-392-camera-models/
 tags: [exploit]
 ---

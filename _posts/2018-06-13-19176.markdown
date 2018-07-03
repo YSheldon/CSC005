@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A protester is spreading anti-Article 13 messages over exposed internet TVs
-date: 2018-06-13 21:00:51
+date: 2018-06-13 00:00:59
 tourl: /article/protester-spreading-article-13-warnings-over-exposed-internet-tv/
 tags: [WhatsApp]
 ---

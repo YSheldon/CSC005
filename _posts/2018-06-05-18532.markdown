@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Continental Bans WhatsApp and Snapchat From Work Phones
-date: 2018-06-05 14:10:22
+date: 2018-06-05 00:00:58
 tourl: https://www.bleepingcomputer.com/news/technology/continental-bans-whatsapp-and-snapchat-from-work-phones/
 tags: [WhatsApp,GDPR]
 ---

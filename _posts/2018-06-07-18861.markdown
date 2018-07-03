@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Effects of Cyber-Attack Still Unfolds for Atlanta
-date: 2018-06-07 21:00:21
+date: 2018-06-07 00:00:59
 tourl: https://www.infosecurity-magazine.com:443/news/effects-of-cyber-attack-still/
 tags: [attack]
 ---

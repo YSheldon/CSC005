@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DNS Poisoning or BGP Hijacking Suspected Behind Trezor Wallet Phishing Incident
-date: 2018-07-01 22:15:23
+date: 2018-07-01 00:00:57
 tourl: https://www.bleepingcomputer.com/news/security/dns-poisoning-or-bgp-hijacking-suspected-behind-trezor-wallet-phishing-incident/
 tags: [attack,DNS poisoning,DNS]
 ---

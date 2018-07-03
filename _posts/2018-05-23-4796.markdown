@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Okta offers free multi-factor authentication with new product, One App
-date: 2018-05-23 15:01:11
+date: 2018-05-23 00:00:59
 tourl: https://www.zdnet.com/article/okta-offers-free-multi-factor-authentication-with-new-product-one-app/
 tags: [CIO]
 ---

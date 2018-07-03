@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ProtonMail DDoS Attacks Are a Case Study of What Happens When You Mock Attackers
-date: 2018-06-28 13:45:23
+date: 2018-06-28 00:00:57
 tourl: https://www.bleepingcomputer.com/news/security/protonmail-ddos-attacks-are-a-case-study-of-what-happens-when-you-mock-attackers/
 tags: [attack,DNS,law]
 ---

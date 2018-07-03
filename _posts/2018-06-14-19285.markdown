@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows 10 Insider Build 17692 Released. Here's Whats New!
-date: 2018-06-14 20:00:51
+date: 2018-06-14 00:00:59
 tourl: https://www.bleepingcomputer.com/news/microsoft/windows-10-insider-build-17692-released-heres-whats-new/
 tags: [frame]
 ---

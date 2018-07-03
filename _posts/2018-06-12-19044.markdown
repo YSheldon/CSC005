@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft June 2018 Patch Tuesday Fixes 50 Security Issues
-date: 2018-06-12 18:05:51
+date: 2018-06-12 00:00:59
 tourl: https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2018-patch-tuesday-fixes-50-security-issues/
 tags: [attack]
 ---

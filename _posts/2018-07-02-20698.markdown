@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tasmanian electoral body caught up in Typeform data breach
-date: 2018-07-02 03:00:51
+date: 2018-07-02 00:00:59
 tourl: /article/tasmanian-electoral-body-caught-up-in-typeform-data-breach/
 tags: [FIREEYE]
 ---

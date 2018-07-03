@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Privacy International Launches GDPR Probe into Data Companies
-date: 2018-05-25 13:00:24
+date: 2018-05-25 00:00:56
 tourl: https://www.infosecurity-magazine.com:443/news/privacy-international-launches-1/
 tags: [GDPR,law,exploit,Exploitation]
 ---

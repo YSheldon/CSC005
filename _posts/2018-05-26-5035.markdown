@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Researchers Bypass AMDs SEV Virtual Machine Encryption
-date: 2018-05-26 07:02:41
+date: 2018-05-26 00:00:59
 tourl: https://www.bleepingcomputer.com/news/security/researchers-bypass-amd-s-sev-virtual-machine-encryption/
 tags: [attack]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft Explains Whether a Vulnerability Turns Into a Windows Security Update
-date: 2018-06-13 19:35:51
+date: 2018-06-13 00:00:59
 tourl: https://www.bleepingcomputer.com/news/microsoft/microsoft-explains-whether-a-vulnerability-turns-into-a-windows-security-update/
 tags: [exploit]
 ---

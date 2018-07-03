@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rewards of Up to $500,000 Offered for FreeBSD, OpenBSD, NetBSD, Linux Zero-Days
-date: 2018-06-29 12:30:12
+date: 2018-06-29 00:00:58
 tourl: https://www.bleepingcomputer.com/news/security/rewards-of-up-to-500-000-offered-for-freebsd-openbsd-netbsd-linux-zero-days/
 tags: [exploit,law]
 ---

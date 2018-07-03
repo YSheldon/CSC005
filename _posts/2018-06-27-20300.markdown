@@ -1,7 +1,7 @@
 ---
 layout: post
 title: World Cup squads briefed on cybersecurity best practices
-date: 2018-06-27 12:00:41
+date: 2018-06-27 00:00:59
 tourl: https://www.welivesecurity.com/2018/06/27/world-cup-squads-briefed-cybersecurity-best-practices/
 tags: [attack]
 ---

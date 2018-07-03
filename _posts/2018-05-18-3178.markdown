@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2018: Scariest Year of Evil Things on the Internet
-date: 2018-05-18 19:41:11
+date: 2018-05-18 00:00:59
 tourl: https://www.infosecurity-magazine.com:443/news/2018-scariest-year-of-evil-things/
 tags: [attack]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Homeland Security subpoenas Twitter for data breach finder's account
-date: 2018-07-01 19:00:32
+date: 2018-07-01 00:00:58
 tourl: /article/homeland-security-subpoenas-twitter-for-data-breach-finders-account/
 tags: [law,WhatsApp]
 ---

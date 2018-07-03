@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows 10 black screen problems fixed, as Microsoft patches 50 security flaws
-date: 2018-06-13 13:00:53
+date: 2018-06-13 00:00:57
 tourl: /article/windows-10-black-screen-problems-fixed-as-microsoft-patches-50-security-flaws/
 tags: [DNS,Exploitation,attack]
 ---

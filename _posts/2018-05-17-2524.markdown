@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SEC launches spoof cryptocurrency ICO scam website
-date: 2018-05-17 09:16:01
+date: 2018-05-17 00:00:59
 tourl: https://www.zdnet.com/article/sec-launches-spoof-cryptocurrency-ico-scam-website/
 tags: [law]
 ---

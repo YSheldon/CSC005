@@ -1,7 +1,7 @@
 ---
 layout: post
 title: California Privacy Act Unanimously Approved
-date: 2018-06-29 17:01:14
+date: 2018-06-29 00:00:56
 tourl: https://www.infosecurity-magazine.com:443/news/california-privacy-act-unanimously/
 tags: [bill,act,GDPR,draft]
 ---

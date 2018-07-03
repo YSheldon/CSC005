@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Trends 2018: Critical infrastructure attacks on the rise
-date: 2018-05-30 12:00:31
+date: 2018-05-30 00:00:59
 tourl: https://www.welivesecurity.com/2018/05/30/trends-2018-critical-infrastructure-attacks/
 tags: [attack]
 ---

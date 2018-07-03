@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Unpatched Flaw Disclosed in WordPress CMS Core
-date: 2018-06-26 22:40:21
+date: 2018-06-26 00:00:59
 tourl: https://www.bleepingcomputer.com/news/security/unpatched-flaw-disclosed-in-wordpress-cms-core/
 tags: [exploit]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: World Cup 2018: The tech security challenges around the big event
-date: 2018-06-20 11:00:43
+date: 2018-06-20 00:00:57
 tourl: /article/world-cup-2018-the-tech-security-challenges-behind-the-big-event/
 tags: [attack,Crowdstrike,FIREEYE]
 ---

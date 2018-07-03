@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tesla's Tough Lesson on Malicious Insider Threats
-date: 2018-06-19 17:00:41
+date: 2018-06-19 00:00:59
 tourl: https://www.infosecurity-magazine.com:443/news/teslas-tough-lesson-on-malicious/
 tags: [act]
 ---

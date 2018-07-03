@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Singapore authorities highlight sharp spike in online trading fraud
-date: 2018-06-02 15:00:22
+date: 2018-06-02 00:00:58
 tourl: https://www.zdnet.com/article/singapore-authorities-highlight-sharp-spike-in-online-trading-fraud/
 tags: [law,act]
 ---

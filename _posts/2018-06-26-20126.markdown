@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Firefox is adding 'Have I Been Pwned' alerts
-date: 2018-06-26 00:00:21
+date: 2018-06-26 00:00:59
 tourl: https://www.cyberscoop.com/firefox-is-adding-haveibeenpwned-alerts/?category_news=technology
 tags: [law]
 ---
