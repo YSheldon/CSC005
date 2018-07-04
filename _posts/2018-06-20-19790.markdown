@@ -1,0 +1,8 @@
+---
+layout: post
+title: My Little FormBook
+date: 2018-06-20 00:00:11
+tourl: https://blogs.cisco.com/security/talos/my-little-formbook
+tags: [Malware]
+---
+tttCisco Talos has been tracking a new campaign involving the FormBook malware since May 2018 that utilizes four different malicious documents in a single phishing email. FormBook is an inexpensive stealer available as malware as a service. This means an attacker can purchase a compiled piece of malware based on their desired parameters. This is commonplace with crimeware and stealer type malware such as FormBook. It is able to record keystrokes, steal passwords (stored locally and in web forms) and can take screenshots.We'd love to hear from you! To earn points and badges for participating in the conversation, join 

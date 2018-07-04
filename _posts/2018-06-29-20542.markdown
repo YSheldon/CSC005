@@ -3,6 +3,6 @@ layout: post
 title: Adidas Announces Data Breach
 date: 2018-06-29 00:00:11
 tourl: https://www.bleepingcomputer.com/news/security/adidas-announces-data-breach/
-tags: [law]
+tags: [Law]
 ---
 Sportswear maker Adidas announced a data breach yesterday evening, which the company says it impacted shoppers who used its US website.The company says it became aware of the breach on Tuesday, June 26, when it learned that an unauthorized party was claiming to have acquired the details of Adidas customers."According to the preliminary investigation, the limited data includes contact information, usernames and encrypted passwords," an Adidas spokesperson said."Adidas has no reason to believe that any credit card or fitness information of those consumers was impacted," he added.The company said it's still investigating the breach with law enforcement and security firms.The sportswear company did not include a tally of affected customers, but some news outlets like CBS, the Wall Street Journal, and Bloomberg reported citing inside sources that "a few millions" of Adidas customers might be impacted.Ironically, Adidas shares went up over 2% today and continued to rise through the day.Adidas is the second major retailer to announce a data breach this week after Ticketmaster announced a similar incident on Wednesday. That breach affected around Adidas rival 
