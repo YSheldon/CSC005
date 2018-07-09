@@ -1,0 +1,8 @@
+---
+layout: post
+title: Black Hat
+date: 2018-05-29 00:00:20
+tourl: http://t.co/aMEkUhZgUH
+tags: []
+---
+RT @albinowax: I'm thrilled to announce my upcoming #BHUSA presentation: Practical Web Cache Poisoning: Redefining 'Unexploitable' https://

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Stanford University
+date: 2018-05-10 00:00:20
+tourl: https://t.co/7oJaKddQMt
+tags: []
+---
+.@StanfordMed's Nigam Shah discusses the future of artificial intelligence in medicine. https://t.co/TJXHAiZAKZ

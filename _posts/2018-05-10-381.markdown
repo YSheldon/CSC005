@@ -1,0 +1,8 @@
+---
+layout: post
+title: Elon Musk
+date: 2018-05-10 00:00:20
+tourl: www.baidu.com
+tags: []
+---
+RT @SpaceX: Falcon 9 Block 5 and Bangabandhu Satellite-1 went vertical on Pad 39A in Florida this morning. Now targeting liftoff at 4:42 p.

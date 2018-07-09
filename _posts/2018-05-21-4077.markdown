@@ -1,0 +1,10 @@
+---
+layout: post
+title: Azeria
+date: 2018-05-21 00:00:20
+tourl: https://t.co/jIUkX6kpWv
+tags: []
+---
+I understand where youre coming from. 20yrs ago there was no real path to security and the only way to get started was getting into regular IT jobs first.
+
+But hey, its 2018 and youre basically telling young people to spend the first decade of their career NOT doing security.

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Hadi Mene
+date: 2018-05-28 00:00:20
+tourl: www.baidu.com
+tags: []
+---
+RT @omespino: #Protip: Do you want to see what exploits or auxiliaries are there for specific port in #metasploit? Open a terminal and just

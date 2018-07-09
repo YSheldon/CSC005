@@ -1,0 +1,8 @@
+---
+layout: post
+title: The Dark Tangent
+date: 2018-05-20 00:00:20
+tourl: https://t.co/TPt0sbL77O
+tags: []
+---
+I attended Globsec in Slovakia this week, and as first time attendees we noticed the average age seems to be 20 year younger than at the Munich Security Conference and as such the vibe was different and the conversations seemed more relaxed.

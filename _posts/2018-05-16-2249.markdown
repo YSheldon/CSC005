@@ -1,0 +1,8 @@
+---
+layout: post
+title: Black Hat
+date: 2018-05-16 00:00:20
+tourl: http://t.co/aMEkUhZgUH
+tags: []
+---
+The @KaliLinux team will be back at #BHUSA 2018 to teach Kali customization skills in first come, first-served, drop-in workshops. Learn more here: https://t.co/MvddszWW2w

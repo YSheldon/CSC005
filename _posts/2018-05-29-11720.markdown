@@ -1,0 +1,8 @@
+---
+layout: post
+title: ????
+date: 2018-05-29 00:00:21
+tourl: https://t.co/J1NkGTtiXb
+tags: [Exploit]
+---
+RT @kmkz_security: #CVE 2018-1418 RCE on #IBM Qradar SIEM  w/ full #MSF exploit   https://t.co/1tPASN15zP

@@ -1,0 +1,8 @@
+---
+layout: post
+title: x0rz
+date: 2018-05-28 00:00:22
+tourl: https://t.co/kXWHpfnvr3
+tags: [Telegram,WhatsApp]
+---
+RT @instasegv: VulnDisco 10.57 is out, contains new Telegram and WhatsApp exploits

@@ -1,0 +1,10 @@
+---
+layout: post
+title: MalwareHunterTeam
+date: 2018-05-18 00:00:20
+tourl: https://t.co/5o4Bi68whn
+tags: []
+---
+Anyway, looks like there is a bug (or feature?) in @virustotal intelligence: searching (itw search, of course) for any part of the source link (see first tweet in the thread) gives 0 result, when obviously there are multiple files...
+????
+cc @bquintero @jcanto

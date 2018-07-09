@@ -1,0 +1,8 @@
+---
+layout: post
+title: Black Hat
+date: 2018-05-16 00:00:20
+tourl: http://t.co/aMEkUhZgUH
+tags: []
+---
+Check out the first batch of #BHUSA Smart GRID/Industrial Track Briefings for the latest safety system vulns, smart city flaws &amp; cellular gateway hacks  https://t.co/9TSCWqDv5C

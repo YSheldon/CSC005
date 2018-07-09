@@ -1,0 +1,8 @@
+---
+layout: post
+title: Black Hat
+date: 2018-05-16 00:00:20
+tourl: http://t.co/aMEkUhZgUH
+tags: []
+---
+The first Data Forensics and Incident Response #DFIR Track Briefings for #BHUSA are now live. Check out the abstracts here: https://t.co/aFZObNjFiC
