@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stanford University
-date: 2018-05-10 00:00:20
+date: 2018-05-10 00:01:20
 tourl: https://t.co/7oJaKddQMt
 tags: []
 ---

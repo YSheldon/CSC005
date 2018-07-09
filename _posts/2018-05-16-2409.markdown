@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Soviet Visuals
-date: 2018-05-16 00:00:20
+date: 2018-05-16 00:01:20
 tourl: https://t.co/YL8SdrzDB0
 tags: []
 ---
