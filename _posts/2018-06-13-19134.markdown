@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Making Blockchain Enterprise Ready
-date: 2018-06-13 00:00:11
+date: 2018-06-13 00:02:11
 tourl: https://blogs.cisco.com/innovation/making-blockchain-enterprise-ready-2
 tags: [Exploitation]
 ---

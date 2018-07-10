@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sixteen Arrested After Deploying Coinminers Across Internet Cafes in 30 Cities
-date: 2018-06-21 00:00:11
+date: 2018-06-21 00:02:11
 tourl: https://www.bleepingcomputer.com/news/security/sixteen-arrested-after-deploying-coinminers-across-internet-cafes-in-30-cities/
 tags: [Malware]
 ---

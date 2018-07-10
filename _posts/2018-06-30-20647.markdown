@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Clipboard Hijacker Malware Monitors 2.3 Million Bitcoin Addresses
-date: 2018-06-30 00:00:11
+date: 2018-06-30 00:02:11
 tourl: https://www.bleepingcomputer.com/news/security/clipboard-hijacker-malware-monitors-23-million-bitcoin-addresses/
 tags: [Malware]
 ---

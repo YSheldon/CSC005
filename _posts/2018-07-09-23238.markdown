@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Certificates stolen from Taiwanese tech-companies misused in Plead malware campaign
-date: 2018-07-09 00:00:11
+date: 2018-07-09 00:02:11
 tourl: https://www.welivesecurity.com/2018/07/09/certificates-stolen-taiwanese-tech-companies-plead-malware-campaign/
 tags: [Malware]
 ---

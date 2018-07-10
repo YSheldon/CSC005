@@ -1,7 +1,7 @@
 ---
 layout: post
 title: With physical key support, Twitter makes hacking into accounts much more difficult
-date: 2018-06-27 00:00:11
+date: 2018-06-27 00:02:11
 tourl: https://www.zdnet.com/article/with-physical-key-support-twitter-makes-hacking-accounts-far-more-difficult/
 tags: [WhatsApp]
 ---

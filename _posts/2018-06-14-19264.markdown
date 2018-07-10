@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Phishing anniversary: Heres a free $50/month subscription
-date: 2018-06-14 00:00:12
+date: 2018-06-14 00:02:12
 tourl: https://www.welivesecurity.com/2018/06/14/phishing-anniversary-free-50-month-subscription/
 tags: [WhatsApp,Attack]
 ---

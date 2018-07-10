@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Trisis masterminds have expanded operations to target U.S. industrial firms
-date: 2018-05-28 00:00:14
+date: 2018-05-28 00:02:14
 tourl: https://www.cyberscoop.com/xenotime-ics-cyber-attacks-trisis-dragos/?category_news=technology
 tags: [Malware,Hack,Attack,Department of Homeland Security]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tick espionage group is likely trying to hop air gaps, researchers say
-date: 2018-06-26 00:00:12
+date: 2018-06-26 00:02:12
 tourl: https://www.cyberscoop.com/tick-espionage-usb-air-gaps-palo-alto-networks/?category_news=technology
 tags: [Malware,Attack]
 ---

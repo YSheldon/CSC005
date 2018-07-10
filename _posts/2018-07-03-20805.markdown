@@ -1,7 +1,7 @@
 ---
 layout: post
 title: From China to Silicon Valley  A Dream Comes True for me with Cisco HRLP
-date: 2018-07-03 00:00:11
+date: 2018-07-03 00:02:11
 tourl: https://blogs.cisco.com/lifeatcisco/from-china-to-silicon-valley-a-dream-comes-true-for-me-with-cisco-hrlp
 tags: [China]
 ---

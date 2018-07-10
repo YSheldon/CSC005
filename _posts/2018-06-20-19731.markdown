@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hackers Steal $31m+ From South Korean Crypto-Exchange
-date: 2018-06-20 00:00:11
+date: 2018-06-20 00:02:11
 tourl: https://www.infosecurity-magazine.com:443/news/hackers-steal-31m-cryptoexchange/
 tags: [Attack]
 ---

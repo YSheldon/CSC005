@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Companies may think they are ready for GDPR, but their employees are not
-date: 2018-05-22 00:00:11
+date: 2018-05-22 00:02:11
 tourl: https://www.zdnet.comhttps://www.zdnet.com/article/companies-may-think-they-are-ready-for-gdpr-but-their-employees-are-not/
 tags: [GDPR]
 ---

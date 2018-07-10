@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FBI won't say how many investigations are hindered by encryption
-date: 2018-05-22 00:00:11
+date: 2018-05-22 00:02:11
 tourl: https://www.zdnet.comhttps://www.zdnet.com/article/fbi-refuse-to-say-investigations-hampered-by-encryption/
 tags: [WhatsApp]
 ---

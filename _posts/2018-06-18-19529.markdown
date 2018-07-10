@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The paranoid's guide to traveling to digitally scary places like Russia or China
-date: 2018-06-18 00:00:15
+date: 2018-06-18 00:02:15
 tourl: https://www.zdnet.com/article/the-paranoids-guide-to-traveling-to-digitally-scary-places-like-russia-or-china/
 tags: [China,Law,Malware,Act,Telegram]
 ---

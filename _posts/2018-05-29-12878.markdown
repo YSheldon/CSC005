@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reboot Your Router to remove VPNFilter? Why It's Not Enough
-date: 2018-05-29 00:00:11
+date: 2018-05-29 00:02:11
 tourl: https://www.bleepingcomputer.com/news/security/reboot-your-router-to-remove-vpnfilter-why-its-not-enough/
 tags: [Malware]
 ---

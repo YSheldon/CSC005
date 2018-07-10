@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Android security: Malicious apps sneak back into Google Play after tweaks
-date: 2018-05-09 00:00:11
+date: 2018-05-09 00:02:11
 tourl: https://www.zdnet.comhttps://www.zdnet.com/article/android-security-malicious-apps-sneak-back-into-google-play-after-tweaks/
 tags: [Malware]
 ---

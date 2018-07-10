@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Every Android Device Since 2012 Impacted by RAMpage Vulnerability
-date: 2018-06-28 00:00:12
+date: 2018-06-28 00:02:12
 tourl: https://www.bleepingcomputer.com/news/security/every-android-device-since-2012-impacted-by-rampage-vulnerability/
 tags: [Attack,Exploit]
 ---

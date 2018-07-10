@@ -1,7 +1,7 @@
 ---
 layout: post
 title: U.S. industry experts call for vigilance after Trisis group goes global
-date: 2018-05-29 00:00:14
+date: 2018-05-29 00:02:14
 tourl: https://www.cyberscoop.com/trisis-industry-vigilance-dhs-ics-cert-dragos/?category_news=technology
 tags: [Department of Homeland Security,Malware,Attack,DHS]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CSS Is So Overpowered It Can Deanonymize Facebook Users
-date: 2018-05-31 00:00:11
+date: 2018-05-31 00:02:11
 tourl: https://www.bleepingcomputer.com/news/security/css-is-so-overpowered-it-can-deanonymize-facebook-users/
 tags: [Attack]
 ---

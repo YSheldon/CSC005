@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Customer Consent Allows Leak of Location Data
-date: 2018-05-18 00:00:11
+date: 2018-05-18 00:02:11
 tourl: https://www.infosecurity-magazine.com:443/news/customer-consent-allows-leak-of/
 tags: [Exploitation]
 ---

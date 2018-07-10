@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Someone Is Playing Pranks on GTA Gamers by Fake-Announcing GTA 6
-date: 2018-07-05 00:00:11
+date: 2018-07-05 00:02:11
 tourl: https://www.bleepingcomputer.com/news/gaming/someone-is-playing-pranks-on-gta-gamers-by-fake-announcing-gta-6/
 tags: [Hack]
 ---

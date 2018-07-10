@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows 10 Gains Ground in Enterprise Environments While Windows 7 Crashes Out
-date: 2018-05-25 00:00:11
+date: 2018-05-25 00:02:11
 tourl: https://www.bleepingcomputer.com/news/microsoft/windows-10-gains-ground-in-enterprise-environments-while-windows-7-crashes-out/
 tags: [Malware]
 ---

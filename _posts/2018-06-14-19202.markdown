@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 13 cyber provisions in the FY19 NDAA
-date: 2018-06-14 00:00:11
+date: 2018-06-14 00:02:11
 tourl: https://defensesystems.com/articles/2018/06/11/senate-ndaa-cyber.aspx
 tags: [Act]
 ---

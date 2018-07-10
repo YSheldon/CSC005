@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Top 7 Multicloud Initiatives  Delivering on the Multicloud Promise
-date: 2018-06-06 00:00:12
+date: 2018-06-06 00:02:12
 tourl: https://blogs.cisco.com/cloud/top-7-multicloud-initiatives-delivering-on-the-multicloud-promise
 tags: [CIO,DNS]
 ---

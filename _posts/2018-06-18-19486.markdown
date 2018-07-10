@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Europol Disrupts Rex Mundi Cybercrime Group
-date: 2018-06-18 00:00:12
+date: 2018-06-18 00:02:12
 tourl: https://www.infosecurity-magazine.com:443/news/europol-disrupts-rex-mundi/
 tags: [Attack,Law]
 ---

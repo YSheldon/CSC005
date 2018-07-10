@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Apple reports spike in national security requests amid promises of more transparency
-date: 2018-05-29 00:00:12
+date: 2018-05-29 00:02:12
 tourl: https://www.cyberscoop.com/apple-reports-spike-u-s-national-security-requests-amid-promises-transparency/?category_news=technology
 tags: [Law,China]
 ---

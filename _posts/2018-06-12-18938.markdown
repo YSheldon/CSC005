@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Android users: Beware these popularity-faking tricks on Google Play
-date: 2018-06-12 00:00:11
+date: 2018-06-12 00:02:11
 tourl: https://www.welivesecurity.com/2018/06/11/android-popularity-faking-tricks-google-play/
 tags: [Malware]
 ---

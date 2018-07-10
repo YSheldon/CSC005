@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Australia's semantic sleight of hand on encrypted messaging revealed
-date: 2018-06-13 00:00:14
+date: 2018-06-13 00:02:14
 tourl: https://www.zdnet.com/article/australias-semantic-sleight-of-hand-on-encrypted-messaging-revealed/
 tags: [Law,Exploitation,Attack,Draft]
 ---

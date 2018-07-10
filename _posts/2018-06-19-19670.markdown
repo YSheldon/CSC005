@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Senate bill hopes to sort out supply-chain cybersecurity risks, prevent next Kaspersky drama
-date: 2018-06-19 00:00:13
+date: 2018-06-19 00:02:13
 tourl: https://www.cyberscoop.com/senate-bill-hopes-sort-supply-chain-cybersecurity-risks-prevent-next-kaspersky-drama/?category_news=technology
 tags: [Bill,Act,Department of Homeland Security]
 ---

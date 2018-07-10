@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ransomware: Not dead, just getting a lot sneakier
-date: 2018-07-03 00:00:13
+date: 2018-07-03 00:02:13
 tourl: https://www.zdnet.com/article/ransomware-not-dead-just-getting-a-lot-sneakier/
 tags: [Malware,Attack,NSA]
 ---

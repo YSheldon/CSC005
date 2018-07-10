@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You Can File Complaints About Cryptojacking With the FTC
-date: 2018-06-07 00:00:11
+date: 2018-06-07 00:02:11
 tourl: https://www.bleepingcomputer.com/news/security/you-can-file-complaints-about-cryptojacking-with-the-ftc/
 tags: [Malware]
 ---

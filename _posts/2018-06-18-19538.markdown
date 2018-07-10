@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Get Your Apps for Nothing, Your Malware for Free
-date: 2018-06-18 00:00:11
+date: 2018-06-18 00:02:11
 tourl: https://www.infosecurity-magazine.com:443/news/get-your-apps-for-nothing-your/
 tags: [Malware]
 ---

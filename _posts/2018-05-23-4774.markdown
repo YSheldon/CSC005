@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Amazon Rekognition a possible threat to the civil rights of citizens
-date: 2018-05-23 00:00:13
+date: 2018-05-23 00:02:13
 tourl: https://www.welivesecurity.com/2018/05/23/amazon-rekognition-threat-civil-rights/
 tags: [Law,Act,AWS]
 ---

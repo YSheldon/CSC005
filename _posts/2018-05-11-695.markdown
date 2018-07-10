@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 12 months on, what are the lessons learned from WannaCryptor?
-date: 2018-05-11 00:00:12
+date: 2018-05-11 00:02:12
 tourl: https://www.welivesecurity.com/2018/05/11/lessons-learned-wannacryptor/
 tags: [Malware,Exploit]
 ---

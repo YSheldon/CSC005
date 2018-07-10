@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GDPR attacks: First Google, Facebook, now activists go after Apple, Amazon, LinkedIn
-date: 2018-05-29 00:00:13
+date: 2018-05-29 00:02:13
 tourl: https://www.zdnet.comhttps://www.zdnet.com/article/gdpr-attacks-first-google-facebook-now-activists-go-after-apple-amazon-linkedin/
 tags: [GDPR,Law,WhatsApp]
 ---

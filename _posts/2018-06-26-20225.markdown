@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Files Cannot Be Decrypted? Challenge Accepted. Talos Releases ThanatosDecryptor
-date: 2018-06-26 00:00:11
+date: 2018-06-26 00:02:11
 tourl: https://blogs.cisco.com/security/talos/thanatosdecryptor
 tags: [Malware]
 ---

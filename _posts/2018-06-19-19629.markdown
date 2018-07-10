@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ZTE ban, tucked inside the NDAA, passes the Senate
-date: 2018-06-19 00:00:15
+date: 2018-06-19 00:02:15
 tourl: https://www.cyberscoop.com/zte-ban-ndaa/?category_news=technology
 tags: [Act,China,Bill,Department of Homeland Security,Law]
 ---

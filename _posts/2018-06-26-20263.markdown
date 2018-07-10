@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Office of Cyberspace Reborn In Bill Approved by Senate Panel
-date: 2018-06-26 00:00:12
+date: 2018-06-26 00:02:12
 tourl: https://www.bleepingcomputer.com/news/government/office-of-cyberspace-reborn-in-bill-approved-by-senate-panel/
 tags: [Bill,Act]
 ---

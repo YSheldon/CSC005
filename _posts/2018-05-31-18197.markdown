@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Senators Urge Bolton to Reconsider Cyber-Tsar Role
-date: 2018-05-31 00:00:12
+date: 2018-05-31 00:02:12
 tourl: https://www.infosecurity-magazine.com:443/news/senators-urge-bolton-to-reconsider/
 tags: [NSA,National Security Council]
 ---

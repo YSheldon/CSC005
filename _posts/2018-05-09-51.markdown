@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tech support scams and the call of the void
-date: 2018-05-09 00:00:11
+date: 2018-05-09 00:02:11
 tourl: https://www.welivesecurity.com/2018/05/07/tech-support-scams/
 tags: [Law]
 ---

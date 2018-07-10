@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Honda India Left Details of 50,000 Customers Exposed on an AWS S3 Server
-date: 2018-05-30 00:00:11
+date: 2018-05-30 00:02:11
 tourl: https://www.bleepingcomputer.com/news/security/honda-india-left-details-of-50-000-customers-exposed-on-an-aws-s3-server/
 tags: [AWS]
 ---

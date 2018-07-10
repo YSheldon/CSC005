@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hundreds of Hotels Affected by Data Breach at Hotel Booking Software Provider
-date: 2018-06-26 00:00:11
+date: 2018-06-26 00:02:11
 tourl: https://www.bleepingcomputer.com/news/security/hundreds-of-hotels-affected-by-data-breach-at-hotel-booking-software-provider/
 tags: [Malware]
 ---

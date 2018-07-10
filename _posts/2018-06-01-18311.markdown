@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OMB Releases Damning Report on U.S. Govt's Inability to Counter Cyber Threats
-date: 2018-06-01 00:00:15
+date: 2018-06-01 00:02:15
 tourl: https://www.bleepingcomputer.com/news/security/omb-releases-damning-report-on-us-govts-inability-to-counter-cyber-threats/
 tags: [DHS,Attack,NIST,CIO,CISO]
 ---

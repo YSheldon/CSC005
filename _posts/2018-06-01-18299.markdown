@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GAO: TRANSCOM cloud award should be cancelled
-date: 2018-06-01 00:00:13
+date: 2018-06-01 00:02:13
 tourl: https://defensesystems.com/articles/2018/06/01/rean-oracle-protest-gao.aspx
 tags: [GAO,Act,DOD]
 ---

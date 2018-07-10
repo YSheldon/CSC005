@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Around 5% of All Monero Currently in Circulation Has Been Mined Using Malware
-date: 2018-06-12 00:00:11
+date: 2018-06-12 00:02:11
 tourl: https://www.bleepingcomputer.com/news/security/around-5-percent-of-all-monero-currently-in-circulation-has-been-mined-using-malware/
 tags: [Malware]
 ---

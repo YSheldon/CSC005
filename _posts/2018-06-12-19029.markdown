@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mac Security Tool Bugs Allow Malware to Appear as Apple Software
-date: 2018-06-12 00:00:11
+date: 2018-06-12 00:02:11
 tourl: https://www.bleepingcomputer.com/news/security/mac-security-tool-bugs-allow-malware-to-appear-as-apple-software/
 tags: [Malware]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We came, we roamed, we reported.
-date: 2018-06-26 00:00:11
+date: 2018-06-26 00:02:11
 tourl: https://blogs.cisco.com/ciscoit/we-roamed-we-reported-clus-2018
 tags: [CIO]
 ---

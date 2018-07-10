@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bitcoin Gold suffers double spend attacks, $17.5 million lost
-date: 2018-05-25 00:00:11
+date: 2018-05-25 00:02:11
 tourl: https://www.zdnet.comhttps://www.zdnet.com/article/bitcoin-gold-hit-with-double-spend-attacks-18-million-lost/
 tags: [Attack]
 ---

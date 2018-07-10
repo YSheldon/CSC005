@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mac malware targets cryptomining users July 2, 2018 - A new Mac malware called OSX.Dummy is being distributed on cryptomining chat groups that, even after being removed, leaves behind remnants for future malware to find. CONTINUE READING
-date: 2018-07-03 00:00:11
+date: 2018-07-03 00:02:11
 tourl: https://blog.malwarebytes.com/malwarebytes-news/2018/07/mac-malware-targets-cryptomining-users/
 tags: [Malware]
 ---

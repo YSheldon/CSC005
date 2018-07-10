@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Five years on, Snowden inspired tech giants to change, even if governments wouldn't
-date: 2018-06-07 00:00:14
+date: 2018-06-07 00:02:14
 tourl: https://www.zdnet.com/article/edward-snowden-five-years-on-tech-giants-change/
 tags: [National Security Agency,NSA,Law,WhatsApp]
 ---

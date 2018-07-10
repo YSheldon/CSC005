@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LOL: BabaYaga WordPress Malware Updates Your Site
-date: 2018-06-07 00:00:11
+date: 2018-06-07 00:02:11
 tourl: https://www.bleepingcomputer.com/news/security/lol-babayaga-wordpress-malware-updates-your-site/
 tags: [Malware]
 ---

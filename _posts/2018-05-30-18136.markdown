@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Judge dismisses Kaspersky lawsuits, U.S. government ban will stand
-date: 2018-05-30 00:00:12
+date: 2018-05-30 00:02:12
 tourl: https://www.cyberscoop.com/kaspersky-lawsuits-dismissed-us-government-ban/?category_news=technology
 tags: [Department of Homeland Security,Act]
 ---

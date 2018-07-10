@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Obfuscated Coinhive shortlink reveals larger mining operation July 3, 2018 - A web miner injected into compromised sites is just the tip of the iceberg for an infrastructure hosting malicious Windows and Linux coin miners.CONTINUE READING
-date: 2018-07-04 00:00:11
+date: 2018-07-04 00:02:11
 tourl: https://blog.malwarebytes.com/threat-analysis/2018/07/obfuscated-coinhive-shortlink-reveals-larger-mining-operation/
 tags: [Malware]
 ---

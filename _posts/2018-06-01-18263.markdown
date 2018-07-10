@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Around 75% of Open Redis Servers Are Infected With Malware
-date: 2018-06-01 00:00:11
+date: 2018-06-01 00:02:11
 tourl: https://www.bleepingcomputer.com/news/security/around-75-percent-of-open-redis-servers-are-infected-with-malware/
 tags: [Malware]
 ---

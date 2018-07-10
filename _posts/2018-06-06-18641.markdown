@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CrowdStrike to Pay Up to $1 Million Warranty If Its Clients Suffer a Data Breach
-date: 2018-06-06 00:00:11
+date: 2018-06-06 00:02:11
 tourl: https://www.bleepingcomputer.com/news/security/crowdstrike-to-pay-up-to-1-million-warranty-if-its-clients-suffer-a-data-breach/
 tags: [Crowdstrike]
 ---

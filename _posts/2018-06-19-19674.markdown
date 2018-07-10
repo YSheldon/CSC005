@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VirusTotal launches Monitor tool to fight false positives
-date: 2018-06-19 00:00:11
+date: 2018-06-19 00:02:11
 tourl: https://www.cyberscoop.com/virustotal-monitor-tool-to-fight-false-positives/?category_news=technology
 tags: [Malware]
 ---

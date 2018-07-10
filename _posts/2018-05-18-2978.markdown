@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BYOD Threats Exposed: 61% of UK SMEs Suffer Cyber-Attacks
-date: 2018-05-18 00:00:12
+date: 2018-05-18 00:02:12
 tourl: https://www.infosecurity-magazine.com:443/news/byod-threats-exposed-61-of-uk-smes/
 tags: [Malware,GDPR]
 ---

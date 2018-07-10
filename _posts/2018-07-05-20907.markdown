@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Predictable password blamed for Gentoo GitHub organisation takeover
-date: 2018-07-05 00:00:11
+date: 2018-07-05 00:02:11
 tourl: https://www.zdnet.com/article/predictable-password-blamed-for-gentoo-github-organisation-takeover/
 tags: [Attack]
 ---

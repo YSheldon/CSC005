@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cisco NCS 5500 Sees Strong Customer Momentum
-date: 2018-06-25 00:00:11
+date: 2018-06-25 00:02:11
 tourl: https://blogs.cisco.com/sp/cisco-ncs-5500-sees-strong-customer-momentum
 tags: [Attack]
 ---

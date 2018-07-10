@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bithumb Hacked Second Time in a Year. Hackers Steal $31 Million
-date: 2018-06-20 00:00:12
+date: 2018-06-20 00:02:12
 tourl: https://www.bleepingcomputer.com/news/security/bithumb-hacked-second-time-in-a-year-hackers-steal-31-million/
 tags: [Attack,Hack]
 ---

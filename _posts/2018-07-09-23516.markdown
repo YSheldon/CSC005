@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Proposed Changes to New Zealand's Privacy Act
-date: 2018-07-09 00:00:13
+date: 2018-07-09 00:02:13
 tourl: https://www.infosecurity-magazine.com:443/news/proposed-changes-to-new-zealand/
 tags: [Bill,Act,Regulations]
 ---

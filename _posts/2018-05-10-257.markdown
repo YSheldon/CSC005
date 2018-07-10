@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DISA plans to shutter St. Louis data center
-date: 2018-05-10 00:00:11
+date: 2018-05-10 00:02:11
 tourl: https://defensesystems.com/articles/2018/05/08/disa-data-center-closed.aspx
 tags: [DOD]
 ---

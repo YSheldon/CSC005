@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HNS Evolves From IoT to Cross-Platform Botnet
-date: 2018-07-06 00:00:11
+date: 2018-07-06 00:02:11
 tourl: https://www.bleepingcomputer.com/news/security/hns-evolves-from-iot-to-cross-platform-botnet/
 tags: [Malware]
 ---

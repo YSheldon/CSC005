@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Timehop Security Breach Affects the Companys Entire 21 Million Userbase
-date: 2018-07-09 00:00:12
+date: 2018-07-09 00:02:12
 tourl: https://www.bleepingcomputer.com/news/security/timehop-security-breach-affects-the-company-s-entire-21-million-userbase/
 tags: [Law,Attack]
 ---

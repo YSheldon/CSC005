@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chinese group said to use HackingTeam tools to spread ransomware, cryptominers
-date: 2018-05-29 00:00:13
+date: 2018-05-29 00:02:13
 tourl: https://www.cyberscoop.com/chinese-group-said-use-hackingteam-tools-spread-ransomware-cryptominers/?category_news=technology
 tags: [Law,Malware,China]
 ---

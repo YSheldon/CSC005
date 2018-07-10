@@ -1,7 +1,7 @@
 ---
 layout: post
 title: #IRMS18 Can Blockchain be Compliant with GDPR?
-date: 2018-05-21 00:00:12
+date: 2018-05-21 00:02:12
 tourl: https://www.infosecurity-magazine.com:443/news/irms18-blockchain-compliant-gdpr/
 tags: [GDPR,Law]
 ---

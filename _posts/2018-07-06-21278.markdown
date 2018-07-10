@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NSO Group employee allegedly stole source code worth 'hundreds of millions of dollars'
-date: 2018-07-06 00:00:11
+date: 2018-07-06 00:02:11
 tourl: https://www.cyberscoop.com/nso-group-employee-allegedly-stole-source-code-worth-hundreds-millions-dollars/?category_news=technology
 tags: [Malware]
 ---

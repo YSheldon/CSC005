@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Obscurity is the only security
-date: 2018-07-09 00:00:11
+date: 2018-07-09 00:02:11
 tourl: https://www.cyberscoop.com/obscurity-cryptography-jonathan-wilkins-op-ed/?category_news=technology
 tags: [Attack]
 ---

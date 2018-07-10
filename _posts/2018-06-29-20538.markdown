@@ -1,7 +1,7 @@
 ---
 layout: post
 title: #SplunkLiveLDN: Defeating a Phishing Attack in 100 Minutes
-date: 2018-06-29 00:00:13
+date: 2018-06-29 00:02:13
 tourl: https://www.infosecurity-magazine.com:443/news/splunkliveldn-defeating-phishing/
 tags: [Malware,Attack,Exploit]
 ---

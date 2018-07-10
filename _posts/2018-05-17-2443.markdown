@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Decryption' legislation a top priority for Australia's cybersecurity minister
-date: 2018-05-17 00:00:11
+date: 2018-05-17 00:02:11
 tourl: https://www.zdnet.comhttps://www.zdnet.com/article/decryption-legislation-a-top-priority-for-australias-cybersecurity-minister/
 tags: [Law]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: #Belfast2018: The Three Key Aims of the National Cyber Security Strategy
-date: 2018-05-10 00:00:11
+date: 2018-05-10 00:02:11
 tourl: https://www.infosecurity-magazine.com:443/news/belfast2018-national-cyber/
 tags: [Law]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Man Gets 15 Years for DDoS Revenge Campaign
-date: 2018-05-21 00:00:11
+date: 2018-05-21 00:02:11
 tourl: https://www.infosecurity-magazine.com:443/news/man-gets-15-years-for-ddos-revenge/
 tags: [Law]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VirusTotal Monitor Alerts You When Your Program Has False Positives
-date: 2018-06-19 00:00:11
+date: 2018-06-19 00:02:11
 tourl: https://www.bleepingcomputer.com/news/security/virustotal-monitor-alerts-you-when-your-program-has-false-positives/
 tags: [Malware]
 ---

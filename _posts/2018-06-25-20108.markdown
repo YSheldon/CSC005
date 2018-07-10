@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FileZilla's Use Of Bundled Offers Sparks Outrage From Users
-date: 2018-06-25 00:00:11
+date: 2018-06-25 00:02:11
 tourl: https://www.bleepingcomputer.com/news/security/filezillas-use-of-bundled-offers-sparks-outrage-from-users/
 tags: [Malware]
 ---

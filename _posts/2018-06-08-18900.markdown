@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Malspam Campaigns Using IQY Attachments to Bypass AV Filters and Install RATs
-date: 2018-06-08 00:00:11
+date: 2018-06-08 00:02:11
 tourl: https://www.bleepingcomputer.com/news/security/malspam-campaigns-using-iqy-attachments-to-bypass-av-filters-and-install-rats/
 tags: [Malware]
 ---

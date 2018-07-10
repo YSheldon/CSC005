@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft Patches Two Zero-Day Flaws this Month
-date: 2018-05-09 00:00:11
+date: 2018-05-09 00:02:11
 tourl: https://www.infosecurity-magazine.com:443/news/microsoft-patches-zero-day-flaws/
 tags: [Exploit]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A hacker claims to be selling access to Apple internal tools
-date: 2018-06-04 00:00:12
+date: 2018-06-04 00:02:12
 tourl: https://www.zdnet.comhttps://www.zdnet.com/article/hacker-claims-to-be-selling-access-to-apple-internal-tools/
 tags: [Exploit,WhatsApp]
 ---

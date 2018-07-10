@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nigelthorn malware steals Facebook credentials, mines for cryptocurrency
-date: 2018-05-11 00:00:11
+date: 2018-05-11 00:02:11
 tourl: https://www.zdnet.comhttps://www.zdnet.com/article/nigelthorn-malware-steals-facebook-credentials-mines-for-cryptocurrency/
 tags: [Malware]
 ---

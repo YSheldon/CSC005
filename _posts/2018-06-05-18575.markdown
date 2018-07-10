@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your Network Should Never Be Impacted by an Issue We Know About
-date: 2018-06-05 00:00:11
+date: 2018-06-05 00:02:11
 tourl: https://blogs.cisco.com/services/your-network-should-never-be-impacted-by-an-issue-we-know-about
 tags: [Act]
 ---

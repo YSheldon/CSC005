@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Laying the Foundations for Innovation
-date: 2018-06-21 00:00:11
+date: 2018-06-21 00:02:11
 tourl: https://blogs.cisco.com/sp/laying-the-foundations-for-innovation
 tags: [Act]
 ---

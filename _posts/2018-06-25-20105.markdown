@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lazarus Targets South Korea with Malicious Docs
-date: 2018-06-25 00:00:13
+date: 2018-06-25 00:02:13
 tourl: https://www.infosecurity-magazine.com:443/news/lazarus-targets-south-korea-with/
 tags: [Hack,Malware,Attack]
 ---

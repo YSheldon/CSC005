@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Last call for GDPR
-date: 2018-05-17 00:00:12
+date: 2018-05-17 00:02:12
 tourl: https://www.welivesecurity.com/2018/05/17/last-call-gdpr/
 tags: [GDPR,Regulations]
 ---

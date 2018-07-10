@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Going on vacation? Five things to do before you leave
-date: 2018-07-04 00:00:12
+date: 2018-07-04 00:02:12
 tourl: https://www.welivesecurity.com/2018/07/04/vacation-five-things-before-you-leave/
 tags: [Attack,Malware]
 ---

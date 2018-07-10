@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Brutal cryptocurrency mining malware crashes your PC when discovered
-date: 2018-05-17 00:00:11
+date: 2018-05-17 00:02:11
 tourl: https://www.zdnet.comhttps://www.zdnet.com/article/brutal-cryptominer-crashes-your-pc-when-discovered/
 tags: [Malware]
 ---

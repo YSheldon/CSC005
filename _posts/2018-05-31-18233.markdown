@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ticketfly Temporarily Shuts Down to Investigate Hack
-date: 2018-05-31 00:00:11
+date: 2018-05-31 00:02:11
 tourl: https://www.bleepingcomputer.com/news/security/ticketfly-temporarily-shuts-down-to-investigate-hack/
 tags: [Hack]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BackSwap malware finds innovative ways to empty bank accounts
-date: 2018-05-25 00:00:12
+date: 2018-05-25 00:02:12
 tourl: https://www.welivesecurity.com/2018/05/25/backswap-malware-empty-bank-accounts/
 tags: [Malware,Attack]
 ---

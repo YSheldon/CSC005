@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FSMI expresses concern about Aadhaar Enrolment Software security
-date: 2018-05-09 00:00:12
+date: 2018-05-09 00:02:12
 tourl: https://www.medianama.com/2018/05/223-fsmi-expresses-concern-about-aadhaar-enrolment-software-security/
 tags: [Hack,WhatsApp]
 ---

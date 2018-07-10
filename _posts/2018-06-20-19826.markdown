@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lawmakers urge Google to end partnership with China's Huawei
-date: 2018-06-20 00:00:11
+date: 2018-06-20 00:02:11
 tourl: https://www.cyberscoop.com/lawmakers-urge-google-to-end-partnership-with-chinas-huawei/?category_news=technology
 tags: [Bill]
 ---

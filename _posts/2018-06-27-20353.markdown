@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows 10 Insider Build 17704 Is Now Available. Heres Whats New!
-date: 2018-06-27 00:00:11
+date: 2018-06-27 00:02:11
 tourl: https://www.bleepingcomputer.com/news/microsoft/windows-10-insider-build-17704-is-now-available-here-s-whats-new/
 tags: [Exploit]
 ---

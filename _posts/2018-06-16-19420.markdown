@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Android App Devs Find Clever Trick for Fooling Users Into Installing Their Crapware
-date: 2018-06-16 00:00:11
+date: 2018-06-16 00:02:11
 tourl: https://www.bleepingcomputer.com/news/mobile/android-app-devs-find-clever-trick-for-fooling-users-into-installing-their-crapware/
 tags: [Malware]
 ---

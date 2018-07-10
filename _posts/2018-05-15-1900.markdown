@@ -1,7 +1,7 @@
 ---
 layout: post
 title: White House eliminates cybersecurity coordinator role
-date: 2018-05-15 00:00:12
+date: 2018-05-15 00:02:12
 tourl: https://www.zdnet.comhttps://www.zdnet.com/article/white-house-just-eliminated-cyber-coordinator-role/
 tags: [National Security Council,WhatsApp]
 ---

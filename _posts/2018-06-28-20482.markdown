@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Adidas warns U.S. customers of new data breach
-date: 2018-06-28 00:00:11
+date: 2018-06-28 00:02:11
 tourl: https://www.cyberscoop.com/adidas-data-breach/?category_news=technology
 tags: [Law]
 ---

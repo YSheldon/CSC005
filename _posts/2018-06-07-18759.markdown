@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sofacy APT Has Subtly Changed Tactics
-date: 2018-06-07 00:00:14
+date: 2018-06-07 00:02:14
 tourl: https://www.bleepingcomputer.com/news/security/sofacy-apt-has-subtly-changed-tactics/
 tags: [APT28,Exploit,Malware,Attack]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Transparency and the CLOUD Act: The Importance of Evolving Transparency Reports
-date: 2018-07-09 00:00:11
+date: 2018-07-09 00:02:11
 tourl: https://blogs.cisco.com/security/transparency-and-the-cloud-act-the-importance-of-evolving-transparency-reports
 tags: [Act]
 ---

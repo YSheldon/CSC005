@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Public backlash pressures Russian lawmakers to pause adoption of legislation that would criminalize observing or facilitating new foreign sanctions
-date: 2018-05-18 00:00:11
+date: 2018-05-18 00:02:11
 tourl: https://meduza.io/en/news/2018/05/17/public-backlash-pressures-russian-lawmakers-to-pause-adoption-of-legislation-that-would-criminalize-observing-or-facilitating-new-foreign-sanctions
 tags: [Bill]
 ---
