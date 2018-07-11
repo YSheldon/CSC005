@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Donald J. Trump
-date: 2018-05-14 00:01:20
+date: 2018-05-14 00:00:20
 tourl: https://t.co/OMxB0x7xC5
 tags: []
 ---

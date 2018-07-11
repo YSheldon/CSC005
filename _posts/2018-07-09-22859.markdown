@@ -1,7 +1,7 @@
 ---
 layout: post
 title: StDoms Threat Intel
-date: 2018-07-09 00:01:21
+date: 2018-07-09 00:00:21
 tourl: https://t.co/nQqfuM3qSf
 tags: [Exploitation]
 ---
