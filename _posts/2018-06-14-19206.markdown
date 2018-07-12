@@ -1,0 +1,8 @@
+---
+layout: post
+title: Microsoft Fixes Faulty Debian Package That Messed With Users' Settings
+date: 2018-06-14 00:02:1
+tourl: https://www.bleepingcomputer.com/news/linux/microsoft-fixes-faulty-debian-package-that-messed-with-users-settings/
+tags: [Source]
+---
+Microsoft fixed yesterday a faulty Debian package that was messing with users' OS settings during its installation routine.The faulty package that was causing all the problems was Open R v3.5. Open R is an enhanced version of the R programming language maintained by Microsoft.The faulty package forcibly relinked Furthermore, the package also forcibly removed Preining "While we work hard to be a good steward in all the open source communities we participate in, this one did not stand up to the community's or our high expectations," a Microsoft spokesperson said."We have put processes in place to help us fix things like this as soon as they are discovered (this issue was identified in 2016 but wasn't fixed) and named individuals have been identified to monitor and address any issues as soon as possible. We are lucky at Microsoft to have many experienced Linux contributors at our company, and we will do better at getting their input going forward," Microsoft added.Microsoft is single largest contributor to open source on GitHub . According to GitHub, Microsoft has the largest open source community in the entire world with Visual Studio Code. if this is a surprise, you weren't paying attention ;) 

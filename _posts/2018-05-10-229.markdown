@@ -1,0 +1,8 @@
+---
+layout: post
+title: #Belfast2018: The Challenges of Securing Connected Devices, and How to Do It
+date: 2018-05-10 00:02:1
+tourl: https://www.infosecurity-magazine.com:443/news/belfast2018-the-challenges/
+tags: [at]
+---
+Cookies enable us to provide the best experience possible and help us understand how visitors use our website. By browsing Infosecurity Magazine, you agree to our use of cookies.Speaking at With the multitude of connected devices used globally today, and the continued growth in the future, Âwe are going to have to use machine-to-machine communication [to control them], which means going forward, weÂll no longer have direct control over with whom or what our devices are communicating with, leading to major security risks,Â OÂNeill said.Along with the threats surrounding the huge number of global connected devices, OÂNeill also pointed to counterfeit devices, untrusted supply chains, hardware trojans and vulnerabilities affecting hardware devices as factors that are increasing the risks of insecure IoT/connected products.In terms of the challenges in securing connected devices and making them trustworthy, she cited the following as key:The answer lies in a need for hardware security, OÂNeill said, with a multi-layered approach, establishing a trusted computing baseline that anchors trust in tamper-proof hardware.To address the issue, RISE was set up with the followings aims/visions:

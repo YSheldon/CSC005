@@ -1,0 +1,8 @@
+---
+layout: post
+title: #Belfast2018: CSIT Announces Jobs Boost for Cybersecurity Industry
+date: 2018-05-09 00:02:1
+tourl: https://www.infosecurity-magazine.com:443/news/belfast2018-csit-jobs-cybersecurity/
+tags: [at]
+---
+Cookies enable us to provide the best experience possible and help us understand how visitors use our website. By browsing Infosecurity Magazine, you agree to our use of cookies.At CSIT, the UKÂs lead university center for commercialization of cybersecurity research, is housed at QueenÂs UniversityÂs Institute of Electronics, Communications and Information Technology, and was recently selected by the The announced jobs range from graduate level to principal engineer, and will focus on creating industry-viable products to reduce cyber-attacks and make networks more resilient.Speaking at the event, director of CSIT Dr Godfrey Gaston said: ÂThe cybersecurity industry in Northern Ireland is growing rapidly and we are pleased to be recruiting 10 new research and engineering staff, who will make a positive impact across the globe, ensuring that networks are more resilient and less likely to be attacked. It is also a welcome boost for the local economy in Northern Ireland.ÂAt CSIT, our experts work closely with many high profile partners to shape and direct the research agenda and ensure that there is strong commercial and societal impact. With graduate level jobs to principal engineer, we are helping to develop the next generation of industry leaders to address the widespread demand for cybersecurity professionals and technologies.Â

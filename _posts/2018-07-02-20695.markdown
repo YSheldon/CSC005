@@ -1,7 +1,7 @@
 ---
 layout: post
 title: India's digital Universal ID program is deeply flawed, say critics
-date: 2018-07-02 00:02:12
+date: 2018-07-02 00:02:4
 tourl: https://www.zdnet.com/article/indias-digital-universal-id-program-is-deeply-flawed-say-critics/
 tags: [Act,Biometric]
 ---

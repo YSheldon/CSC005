@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NDAA markup keeps DISA cuts, ups cyber funding
-date: 2018-05-13 00:02:15
+date: 2018-05-13 00:02:10
 tourl: https://defensesystems.com/articles/2018/05/10/ndaa-fourth-estate-cyber.aspx
 tags: [Act,Bill,CIO,DOD,Law]
 ---

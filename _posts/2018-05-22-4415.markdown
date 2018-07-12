@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft: We're giving you all Euro-style GDPR rights over how we use your data
-date: 2018-05-22 00:02:12
+date: 2018-05-22 00:02:4
 tourl: https://www.zdnet.comhttps://www.zdnet.com/article/microsoft-were-giving-you-all-euro-style-gdpr-rights-over-how-we-use-your-data/
 tags: [GDPR,Law]
 ---

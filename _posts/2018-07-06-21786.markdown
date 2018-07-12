@@ -1,0 +1,8 @@
+---
+layout: post
+title: Threat Roundup for June 29 to July 6th
+date: 2018-07-06 00:02:1
+tourl: https://blogs.cisco.com/security/talos/threat-roundup-0629-0706
+tags: [Net]
+---
+tttToday, as we do every week, Talos is giving you a glimpse into the most prevalent threats weÂve observed this week Â covering the dates between June 29 and July 6. As with previous roundups, this post isnÂt meant to be an in-depth analysis. Instead, it will summarize the threats weÂve observed by highlighting key behavioral characteristics, indicators of compromise, and discussing how our customers are automatically protected from these threats.As a reminder, the information provided for the following threats in this post is non-exhaustive, and is current as of the date of publication. Detection and coverage for the following threats is subject to updates, pending additional threat or vulnerability analysis. For the most current information, please refer to your Firepower Management Center, Snort.org, or ClamAV.net.We'd love to hear from you! To earn points and badges for participating in the conversation, join 

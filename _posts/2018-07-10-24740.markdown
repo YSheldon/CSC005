@@ -1,0 +1,8 @@
+---
+layout: post
+title: Microsoft July 2018 Patch Tuesday Fixes 53 Security Bugs Across 15 Products
+date: 2018-07-10 00:02:1
+tourl: https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2018-patch-tuesday-fixes-53-security-bugs-across-15-products/
+tags: [PowerShell]
+---
+The Microsoft July 2018 Patch Tuesday is out! This month, the OS maker fixed 53 security flaws in 15 different products.The list of applications that received patches this month includes:On top of this, the Microsoft July 2018 Patch Tuesday also includes Below is a table listing of all the security issues Microsoft fixed this month. We used PowerShell and the Microsoft API to assemble the table below, but the report is much longer. We hosted the full report on GitHub, If you're not interested in all security updates and you'd like to filter updates per product, you can use Microsoft's official Security Update Guide, available 

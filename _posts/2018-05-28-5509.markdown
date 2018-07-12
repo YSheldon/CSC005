@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The GDPR can slim your mailbox while improving mailing lists and business processes
-date: 2018-05-28 00:02:12
+date: 2018-05-28 00:02:4
 tourl: https://www.zdnet.comhttps://www.zdnet.com/article/the-gdpr-can-slim-your-mailbox-while-improving-mailing-lists-and-business-processes/
 tags: [GDPR,Law]
 ---

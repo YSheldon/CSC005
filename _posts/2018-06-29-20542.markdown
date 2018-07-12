@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Adidas Announces Data Breach
-date: 2018-06-29 00:02:11
+date: 2018-06-29 00:02:2
 tourl: https://www.bleepingcomputer.com/news/security/adidas-announces-data-breach/
 tags: [Law]
 ---

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Iranian Attackers Spoof Security Site for Phishing Lure
+date: 2018-07-04 00:02:6
+tourl: https://www.infosecurity-magazine.com:443/news/iranian-attackers-spoof-phishing/
+tags: [Net,Charming Kitten]
+---
+Cookies enable us to provide the best experience possible and help us understand how visitors use our website. By browsing Infosecurity Magazine, you agree to our use of cookies.An Iranian APT group has been spotted building a phishing site, using a cybersecurity company which outed it as a lure.Charming Kitten has been in operation since 2014 and its activities were laid bare in a December report by Israeli security vendor Clearsky Security.The In aÂThe fake website is clearskysecurity.net (the real website is http://clearskysec.com ). They copied pages from our public website and changed one of them to include a Âsign inÂ option with multiple services,Â it said.ÂThese sign in options are all phishing pages that would send the victim's credentials to the attackers. Our legitimate website does not have any sign in option. It seems that the impersonating website is still being built because some of the pages have error messages in them.ÂOne of the fake pages even displayed content of a previously outed Charming Kitten campaign, according to the firm.The group is just one of a growing list of Iranian APT groups most likely backed by the government. These Also notable is the 

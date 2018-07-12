@@ -1,0 +1,8 @@
+---
+layout: post
+title: L3 Technologies acquires two hacking companies
+date: 2018-07-11 00:02:3
+tourl: https://www.cyberscoop.com/l3-acquires-azimuth-and-linchpin/?category_news=technology
+tags: [exploit,Tor]
+---
+New York-based L3 Technologies L3 is a contractor that provides communication, electronic, aerospace and sensor systems to military, homeland security and commercial clients. The company said that the acquisitions will strengthen its cybersecurity, intelligence and surveillance capabilities.Based in Australia, Azimuth says on its website that it provides security assessments and penetration testing on software services. Linchpin Labs, also based in Australia with offices in the U.S., the United Kingdom and Canada, describes itself as a Âcustom software development companyÂ that serves corporate and government clients.According to Azimuth has dealt with intelligence and investigation agencies with at least the U.S., the U.K., Canada and Australia, according to Motherboard. Azimuth has reportedly developed exploits to remotely access iPhones and Android devices, as well as provided the FBI with an exploit for the Tor browser.L3 said that once the transaction is completed, the companies will become one entity called L3 Trenchant and will be involved in Âvariety of complex ISR [intelligence, surveillance and reconnaissance] and classified missions.ÂÂThese pioneering intelligence solutions Â the ÂIÂ in ISR Â give our customers an intelligence advantage through next-generation network security and threat mitigation,Â said Jeff Miller, a senior vice president with L3, in a statement.

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Microsoft Patch Tuesday  June 2018
+date: 2018-06-12 00:02:1
+tourl: https://blogs.cisco.com/security/talos/ms-tuesday-jun-2018
+tags: [Scripting]
+---
+tttMicrosoft has released its monthly set of security advisories for vulnerabilities that have been identified and addressed in various products. This monthÂs advisory release addresses 50 flaws, with 11 of them rated Âcritical,Â and 39 rated Âimportant.Â These vulnerabilities impact Microsoft Edge, Internet Explorer, Chakra Scripting Engine, Windows DNSAPI, Microsoft Office, Windows Kernel and more.In addition to the 50 vulnerabilities referenced above, Microsoft has also released a critical update advisory, ADV180014, the June 2018 Adobe Flash Security Update, which addresses the vulnerabilities described in the security bulletin.We'd love to hear from you! To earn points and badges for participating in the conversation, join 

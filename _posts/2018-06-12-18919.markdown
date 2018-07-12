@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FBI announces arrest of 74 email fraudsters
-date: 2018-06-12 00:02:11
+date: 2018-06-12 00:02:2
 tourl: https://www.zdnet.com/article/fbi-arrests-74-email-fraudsters/
 tags: [Department of Homeland Security]
 ---

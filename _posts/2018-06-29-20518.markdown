@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Gentoo GitHub mirror hacked and considered compromised
-date: 2018-06-29 00:02:11
+date: 2018-06-29 00:02:6
 tourl: https://www.zdnet.com/article/gentoo-github-mirror-hacked-and-considered-compromised/
-tags: [Attack]
+tags: [attack,PLATINUM]
 ---
  t tLinux distribution Gentoo has had its GitHub mirror broken into and taken over, with GitHub pages changed and ebuilds replaced. t tIn ant t"All Gentoo code hosted on github should for the moment be considered compromised," the alert said. t tGentoo said its own infrastructure was considered safe, and users should be OK if they rsync or webrsync from gentoo.org. t tAt t"Whilst the malicious code shouldn't work as is and GitHub has now removed the organisation, please don't use any ebuild from the GitHub mirror obtained before 28/06/2018, 18:00 GMTuntil new warning," Gentoo developer Francisco Blas Izquierdo Riera wrote. t tThe distribution is yet to provide any details on how the attack happened. t tGentoo is used as a base fort tThe latest TOP500 Supercomputer list is out. What's not surprising is that Linux runs on every last one of the world's fastest supercomputers. What is surprising is that GPUs, not CPUs, now power most of supercomputers' speed. t tGoogle is joining The Linux Foundation as a Platinum member. Google executive Sarah Novotny will become a Linux Foundation board member. t tTimes have changed, we've all grown up, says the Linux Foundation. t tOwners of recent Chromebooks and Chromeboxes will be able to use Google's Crostini system to run Linux apps on their devices. t tWhile most mainstream Linux distributions have adopted Red Hat's systemd init system, the Devuan distribution caters to holdouts.
