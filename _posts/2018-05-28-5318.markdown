@@ -3,6 +3,6 @@ layout: post
 title: Nicolas Krassas
 date: 2018-05-28 00:00:21
 tourl: http://t.co/nj3EPPRowo
-tags: [Exploit]
+tags: [exploit]
 ---
 Experts noticed an ongoing activity involving the RIG Exploit Kit to deliver the Grobios Trojan https://t.co/OzPOKF0cLj

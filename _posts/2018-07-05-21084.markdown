@@ -3,6 +3,6 @@ layout: post
 title: Threatpost
 date: 2018-07-05 00:00:21
 tourl: http://t.co/rD9Wvdqf3e
-tags: [Exploit]
+tags: [exploit]
 ---
 ThreatList: Exploit kits still a top web-based #threat: https://t.co/HkHu89YR2r

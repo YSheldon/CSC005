@@ -1,8 +1,8 @@
 ---
 layout: post
 title: TrendLabs
-date: 2018-07-05 00:00:21
+date: 2018-07-05 00:00:20
 tourl: http://t.co/MB171H1oL9
-tags: [Malware]
+tags: []
 ---
 It appears #ExploitKits and their users are shifting tactics by capitalizing on #cryptocurrencys popularity or using off-the-rack #malware: https://t.co/t8PV0AUK6q https://t.co/VGDSCU2hpr

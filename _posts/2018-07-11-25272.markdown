@@ -1,0 +1,8 @@
+---
+layout: post
+title: Azeria
+date: 2018-07-11 00:00:20
+tourl: https://t.co/jIUkX6kpWv
+tags: []
+---
+In response to Arm's outburst, the inevitable https://t.co/I76E4inNQv, piling into Arm's approach to licensing, emerged online, and infosec guru Maria "Azeria" Markstedter vowed to create https://t.co/Q4R9goR5Ou with guides on how to write exploits for vulnerabilities in Arm..

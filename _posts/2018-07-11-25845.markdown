@@ -1,0 +1,8 @@
+---
+layout: post
+title: Azeria
+date: 2018-07-11 00:00:21
+tourl: https://t.co/jIUkX6kpWv
+tags: [exploit]
+---
+We even included MIPS basics in each section and the Metasploit module for the exploit!

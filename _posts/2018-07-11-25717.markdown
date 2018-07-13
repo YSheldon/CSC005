@@ -1,0 +1,10 @@
+---
+layout: post
+title: Joseph Cox
+date: 2018-07-11 00:00:20
+tourl: www.baidu.com
+tags: []
+---
+Today L3 announced it is acquiring Linchpin Labs and Azimuth Security for $200 million: https://t.co/2wmLW8b0WR
+
+Here's our profile where we surfaced these companies as major providers of zero day exploits to Five Eyes intelligence agencies: https://t.co/1Efm5wxhaY

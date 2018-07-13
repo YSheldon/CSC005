@@ -3,7 +3,7 @@ layout: post
 title: Vincent Yiu
 date: 2018-05-28 00:00:21
 tourl: https://t.co/tj7TThqwVR
-tags: [Exploit]
+tags: [exploit]
 ---
 RT @bohops: Despite Ringeaders Arrest, Cobalt Group Still Active: https://t.co/5IWjDFoULx via @threatpost
 

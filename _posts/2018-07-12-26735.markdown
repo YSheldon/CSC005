@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-12 00:00:20
+tourl: https://t.co/k9HZz2bu5G
+tags: []
+---
+CVE-2018-12981 An issue was discovered on WAGO e!DISPLAY 762-3000 through 762-3003 devices with firmware before FW 02. The vulnerability can be exploited by authenticated and unauthenticated users by sending special crafted ... https://t.co/558s5U9A1n

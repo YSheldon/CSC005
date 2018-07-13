@@ -1,0 +1,9 @@
+---
+layout: post
+title: Nicolas Krassas
+date: 2018-07-13 00:00:21
+tourl: http://t.co/nj3EPPRowo
+tags: [Exploitation]
+---
+Single-click Exploitation of Apple Safari with CVE-2018-4192
+https://t.co/wzypxNCPye

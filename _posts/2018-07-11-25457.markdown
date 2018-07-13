@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-11 00:00:20
+tourl: https://t.co/k9HZz2bu5G
+tags: []
+---
+CVE-2018-0500 Curl_smtp_escape_eob in lib/smtp.c in curl before 7.61.0 has a heap-based buffer overflow that might be exploitable by an attacker who can control the data that curl transmits over SMTP with certain settings (i.e., ... https://t.co/uaIIQUllKE

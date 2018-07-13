@@ -1,8 +1,8 @@
 ---
 layout: post
 title: U.S. Commerce Dept.
-date: 2018-05-14 00:00:21
+date: 2018-05-14 00:00:20
 tourl: https://t.co/uPiAu9MHPC
-tags: [NIST]
+tags: []
 ---
 RT @usnistgov: #BuildingSafetyMonth: NIST studies disasters to help engineers, local governments, #FirstResponders and communities understa

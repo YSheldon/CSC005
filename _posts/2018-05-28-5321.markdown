@@ -3,6 +3,6 @@ layout: post
 title: Threatpost
 date: 2018-05-28 00:00:21
 tourl: http://t.co/rD9Wvdqf3e
-tags: [Exploit]
+tags: [exploit]
 ---
 ICYMI: The RIG EK #exploit kit is making waves with a stealthy #backdoor, researchers say: https://t.co/J7wERIomcb
