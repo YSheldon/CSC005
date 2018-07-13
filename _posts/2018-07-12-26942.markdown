@@ -1,0 +1,8 @@
+---
+layout: post
+title: Microsoft Edge Beta for Android Updated With New Features
+date: 2018-07-12 00:02:1
+tourl: https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-beta-for-android-updated-with-new-features/
+tags: [Page]
+---
+There are plenty of browsers available onÂ Android, butÂ Microsoft EdgeÂ was surprisingly announced for Google's mobile platform back in October.Â Edge for Android incorporates features like Continue on PC, Favorites, Reading ListÂ and Reading View.Â Edge for Android is also very snappy, which is due to its use of ChromeÂs Blink engine.TheÂ Microsoft Edge beta version today received a new update that brings support for web page translation. Microsoft is testing this new feature with the beta testers and the automatic translation would work when users load a website in a different language.The feature lets you translate web pages that are inYou can now seeÂ mobile browser activity on your PCÂs timeline and securely access intranet sites from home. It's worth noting that these improvements are currently available for beta users and if no major bug is discovered, the public release should happen shortly.Â Personally, IÂve found Edge for Android to be very fast and you can find out for yourself by giving MicrosoftÂs browser a download 

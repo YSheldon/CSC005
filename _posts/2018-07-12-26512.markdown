@@ -1,0 +1,8 @@
+---
+layout: post
+title: Microsoft Rolls Out Patches for \
+date: 2018-07-12 00:02:1
+tourl: https://www.bleepingcomputer.com/news/security/microsoft-rolls-out-patches-for-lazy-fp-state-restore-bug-affecting-intel-cpus/
+tags: [Hypervisor]
+---
+A month after details about the "Lazy FP State Restore" Intel CPU bug surfaced online, Microsoft has rolled out patches to fix this vulnerability at the operating system's level.Microsoft rolled out the patches part of its regular Patch Tuesday security updates, which the company released this week, Patches for this bug are now available for Windows 10, 8.1, 7, and Windows Server 2012 R2, 2012, 2008 R2, according to the table embedded at the bottom of this story.The Lazy FP State Restore vulnerability, also known as Lazy FPU, is a vulnerability that was disclosed in mid-June, and which affects all Intel Core-based microprocessors. For in-depth details about this bug, you can check out In a simple description, the bug affects the CPU code that handles floating point numbers, and when exploited, it can allow a malicious program to read data being used by other processes.When details about this vulnerability became public last month, most vendors had already fixed the issue in their code years before, while others released patches with their own fixes.The only vendor whose OS and hypervisor software was vulnerable was Microsoft. At the time, Microsoft promised to release patches to address the issue, a promise it fulfilled earlier this week:
