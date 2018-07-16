@@ -3,6 +3,6 @@ layout: post
 title: Don't Miss This: July's Simulated Phishing and Security Awareness Training Live Demo
 date: 2018-07-09 00:02:2
 tourl: https://blog.knowbe4.com/security-awareness-training-live-demo-knowbe4
-tags: [hack]
+tags: [Hack]
 ---
-Old-school Security Awareness Training doesnÂt hack it anymore. More than ever, your users are the weak link in your network security.Â Â Stu Sjouwerman Topics:Â Ĺ  KnowBe4, Inc. All rights reserved. | 
+Old-school Security Awareness Training doesnt hack it anymore. More than ever, your users are the weak link in your network security.  Stu Sjouwerman Topics: Š KnowBe4, Inc. All rights reserved. | 

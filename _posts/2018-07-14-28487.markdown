@@ -1,0 +1,8 @@
+---
+layout: post
+title: Bad guys use Google's Golang to cross-compile multi-platform malware
+date: 2018-07-14 00:02:1
+tourl: https://blog.knowbe4.com/bad-guys-use-googles-golang-to-cross-compile-multi-platform-malware
+tags: [Source]
+---
+Google's Golangwhich supports cross compiling to run on multiple operating systemsis now being utilized by attackers to target Windows and Linux workstations.While WellMess is far from the first malware to run on Linux systems, the perceived security of Linux distributions as not being a significant enough target for malware developers should no longer be considered the prevailing wisdom, as cross-compilation on Golang will ease malware development to an extent for attackers looking to target Linux desktop users. As with Windows and macOS, users of Linux on the desktop should install some type of antivirus software in order to protect against malware such as WellMess.And of course step users through new-school Source:  Topics: Š KnowBe4, Inc. All rights reserved. | 
