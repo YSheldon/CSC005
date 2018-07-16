@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-13 00:00:20
+tourl: https://t.co/k9HZz2bu5G
+tags: []
+---
+CVE-2016-6559 Improper bounds checking of the obuf variable in the link_ntoa() function in linkaddr.c of the BSD libc library may allow an attacker to read or write from memory. The full impact and severity depends on the method of ... https://t.co/sPowL8Yqy8

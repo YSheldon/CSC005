@@ -1,0 +1,8 @@
+---
+layout: post
+title: TrendLabs
+date: 2018-07-15 00:00:20
+tourl: http://t.co/MB171H1oL9
+tags: []
+---
+#ICYMI: Discovered cyberattack begins with a malicious #macro that hijacks familiar shortcuts, and ends with granting remote desktop access to the threat actor. https://t.co/wv6a36rcsL https://t.co/vUMLzKDhaS

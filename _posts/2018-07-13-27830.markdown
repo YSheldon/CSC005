@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-13 00:00:20
+tourl: https://t.co/k9HZz2bu5G
+tags: []
+---
+CVE-2016-6552 Green Packet DX-350 uses non-random default credentials of: root:wimax. A remote network attacker can gain privileged access to a vulnerable device.  https://t.co/xRsqhDI59u

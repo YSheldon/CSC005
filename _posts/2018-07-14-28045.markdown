@@ -1,0 +1,10 @@
+---
+layout: post
+title: Nick Carr
+date: 2018-07-14 00:00:20
+tourl: https://t.co/mZbXbe0al0
+tags: [APT]
+---
+#DFIR reminder: network + endpoint visibility complement each other &amp; protect you if activity on Linux systems is missed or client deems them out-of-scope.
+
+Host &amp; network overlap was critical in properly evicting Russian APT in 2014/2015's #NoEasyBreach: https://t.co/5eXw5GogaT

@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-15 00:00:20
+tourl: https://t.co/k9HZz2bu5G
+tags: []
+---
+CVE-2018-14060 OS command injection in the AP mode settings feature in /cgi-bin/luci /api/misystem/set_router_wifiap on Xiaomi R3D before 2.26.4 devices allows an attacker to execute any command via crafted JSON data.  https://t.co/0WH3lf3PX5

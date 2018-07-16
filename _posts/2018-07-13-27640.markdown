@@ -1,0 +1,10 @@
+---
+layout: post
+title: Malwrologist
+date: 2018-07-13 00:00:21
+tourl: https://t.co/DMaAFKt4hs
+tags: [PowerShell]
+---
+#sophisticated #malicious #docx -&gt; #rtf (contains 19 #ole objects) -&gt; #xls file -&gt; #obfuscated #vba macro (using #goto) -&gt; #powershell -&gt; dl #JScript &amp; #PE
+
+#docx: https://t.co/0icCIS7y3I https://t.co/V47lOvGclF

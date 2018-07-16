@@ -1,0 +1,8 @@
+---
+layout: post
+title: Black Hat
+date: 2018-07-15 00:00:21
+tourl: http://t.co/aMEkUhZgUH
+tags: [Attack]
+---
+Balint Seeber (@spenchdotnet) studied San Francisco's Outdoor Public Warning System and found it insecure &amp; vulnerable to attack. Hear the full story, from research process &amp; tools used, thru Responsible Disclosure w/the vendor in his #BHUSA Briefing https://t.co/zdgKUqMnEZ

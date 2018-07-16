@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Binni Shah
-date: 2018-07-11 00:00:24
+date: 2018-07-11 00:00:23
 tourl: https://t.co/LfZIicBDza
-tags: [DNS,PowerShell,exploit]
+tags: [PowerShell,exploit]
 ---
 Beyond LLMNR/NBNS Spoofing  Exploiting Active Directory-Integrated DNS : https://t.co/e5DMcTr4GU , Powermad : PowerShell MachineAccountQuota and DNS exploit tools : https://t.co/82hpekcfqm  cc @kevin_robertson
