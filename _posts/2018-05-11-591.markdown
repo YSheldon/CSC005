@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TreasureHunter source code leaked for the masses to pillage PoS systems
-date: 2018-05-11 00:02:1
+date: 2018-05-11 00:02:11
 tourl: https://www.zdnet.comhttps://www.zdnet.com/article/treasurehunter-source-code-leaked-to-pillage-pos-systems/
 tags: [Source,Trojan]
 ---

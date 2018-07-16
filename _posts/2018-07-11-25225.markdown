@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Suning signs with SAP for smart retail, finance, sport R&D
-date: 2018-07-11 00:02:1
+date: 2018-07-11 00:02:11
 tourl: https://www.zdnet.com/article/suning-signs-with-sap-for-smart-retail-finance-sport-r-d/
 tags: [Group,China]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Newer Diameter Telephony Protocol Just As Vulnerable As SS7
-date: 2018-07-02 00:02:2
+date: 2018-07-02 00:02:12
 tourl: https://www.bleepingcomputer.com/news/security/newer-diameter-telephony-protocol-just-as-vulnerable-as-ss7/
 tags: [TLS,Attack]
 ---

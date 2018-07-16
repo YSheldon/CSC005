@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Three Arrests Made in Largest Hack in Lebanon's History
-date: 2018-07-12 00:02:2
+date: 2018-07-12 00:02:12
 tourl: https://www.bleepingcomputer.com/news/security/three-arrests-made-in-largest-hack-in-lebanons-history/
 tags: [Hack]
 ---

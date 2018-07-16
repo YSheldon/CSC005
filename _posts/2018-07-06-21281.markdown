@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Smart In-store Wi-Fi Keeps People Shopping
-date: 2018-07-06 00:02:0
+date: 2018-07-06 00:02:10
 tourl: https://blogs.cisco.com/partner/smart-instore-wifi-keeps-people-shopping
 tags: [Group]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Trump taps DOE veteran to head Homeland Security research arm
-date: 2018-07-09 00:02:4
+date: 2018-07-09 00:02:14
 tourl: https://www.cyberscoop.com/trump-taps-doe-veteran-head-homeland-security-research-arm/?category_news=technology
 tags: [Department of Homeland Security,DHS]
 ---

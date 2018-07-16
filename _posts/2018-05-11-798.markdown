@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Extension Malware Targets Facebook
-date: 2018-05-11 00:02:0
+date: 2018-05-11 00:02:10
 tourl: https://www.infosecurity-magazine.com:443/news/chrome-extensions-malware-targets/
 tags: [Group]
 ---

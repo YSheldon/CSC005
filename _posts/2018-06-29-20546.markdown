@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ticketmaster Breach Discovered in April, Says Bank
-date: 2018-06-29 00:02:3
+date: 2018-06-29 00:02:13
 tourl: https://www.infosecurity-magazine.com:443/news/ticketmaster-breach-discovered-in/
 tags: [Source,GDPR]
 ---

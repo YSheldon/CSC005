@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Meet CrowdStrikes Adversary of the Month for June: MUSTANG PANDA
-date: 2018-06-15 00:02:11
+date: 2018-06-15 00:02:21
 tourl: https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-june-mustang-panda/
 tags: [China,exploit,Crowdstrike,Group,Poison Ivy,PlugX,Attack,Scripting,PowerShell,Cobalt Strike]
 ---

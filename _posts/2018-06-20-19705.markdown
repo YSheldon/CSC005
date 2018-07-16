@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ?South Korean crypto exchange Bithumb hacked
-date: 2018-06-20 00:02:2
+date: 2018-06-20 00:02:12
 tourl: https://www.zdnet.com/article/south-korean-crypto-exchange-bithumb-hacked/
 tags: [Hack]
 ---

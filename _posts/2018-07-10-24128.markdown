@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ?LG CNS launches AI document security and access card solutions
-date: 2018-07-10 00:02:0
+date: 2018-07-10 00:02:10
 tourl: https://www.zdnet.com/article/lg-cns-launches-ai-document-security-and-access-card-solutions/
 tags: [Group]
 ---

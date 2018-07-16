@@ -1,7 +1,7 @@
 ---
 layout: post
 title: German Police Accused of Carrying Out Some Pretty Stupid Raids
-date: 2018-07-04 00:02:2
+date: 2018-07-04 00:02:12
 tourl: https://www.bleepingcomputer.com/news/government/german-police-accused-of-carrying-out-some-pretty-stupid-raids/
 tags: [Group,Chaos,Attack]
 ---

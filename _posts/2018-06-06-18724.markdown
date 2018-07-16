@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Malware Targets Users of Online Banking Service
-date: 2018-06-06 00:02:3
+date: 2018-06-06 00:02:13
 tourl: https://www.infosecurity-magazine.com:443/news/malware-targets-users-of-online/
 tags: [Trojan,Source,Attack,Browser Extensions]
 ---

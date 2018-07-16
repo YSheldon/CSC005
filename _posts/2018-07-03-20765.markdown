@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Theyre Trying to Run Malicious Code (And Youre Letting Them!)
-date: 2018-07-03 00:02:2
+date: 2018-07-03 00:02:12
 tourl: https://blog.knowbe4.com/theyre-trying-to-run-malicious-code-and-youre-letting-them
 tags: [PowerShell,Mshta]
 ---

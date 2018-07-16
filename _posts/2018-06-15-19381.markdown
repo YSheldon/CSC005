@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CLOUD ACT: Cloudy Forecast Brings Opportunity for More Transparency
-date: 2018-06-15 00:02:4
+date: 2018-06-15 00:02:14
 tourl: https://blogs.cisco.com/gov/cloud-act-cloudy-forecast-brings-opportunity-for-more-transparency
 tags: [Law,Regulations]
 ---

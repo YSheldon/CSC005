@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cisco: Patch now, attackers are exploiting ASA DoS flaw to take down security
-date: 2018-06-28 00:02:3
+date: 2018-06-28 00:02:13
 tourl: https://www.zdnet.com/article/cisco-patch-now-attackers-are-exploiting-asa-dos-flaw-to-take-down-security/
 tags: [exploit,Attack]
 ---

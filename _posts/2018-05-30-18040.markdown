@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CrowdStrike Addresses High-Profile Breaches and More at This Years Gartner Summit
-date: 2018-05-30 00:02:3
+date: 2018-05-30 00:02:13
 tourl: https://www.crowdstrike.com/blog/crowdstrike-addresses-high-profile-breaches-and-more-at-this-years-gartner-summit/
 tags: [Attack,Crowdstrike]
 ---

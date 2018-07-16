@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Navy awards $653M Microsoft license deal
-date: 2018-05-14 00:02:2
+date: 2018-05-14 00:02:12
 tourl: https://defensesystems.com/articles/2018/05/10/insight-public-sector-navy.aspx
 tags: [DOD]
 ---

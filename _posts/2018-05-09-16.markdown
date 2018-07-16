@@ -1,7 +1,7 @@
 ---
 layout: post
 title: For this Army project, it's the Internet of Trash
-date: 2018-05-09 00:02:1
+date: 2018-05-09 00:02:11
 tourl: https://defensesystems.com/articles/2018/05/03/army-dumpster-sensors.aspx
 tags: [Source]
 ---

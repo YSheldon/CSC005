@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Facebook fined over data privacy scandal
-date: 2018-07-12 00:02:2
+date: 2018-07-12 00:02:12
 tourl: https://www.welivesecurity.com/2018/07/12/facebook-fined-data-privacy-scandal/
 tags: [Law]
 ---

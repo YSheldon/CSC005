@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hotels, airlines and travel sites battle bot attacks
-date: 2018-06-26 00:02:2
+date: 2018-06-26 00:02:12
 tourl: https://www.zdnet.com/article/hotels-airlines-and-travel-sites-battle-bot-attacks/
 tags: [China,Source]
 ---

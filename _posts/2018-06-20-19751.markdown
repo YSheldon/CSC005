@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 11 teammates to help you win your own cybersecurity game
-date: 2018-06-20 00:02:1
+date: 2018-06-20 00:02:11
 tourl: https://www.welivesecurity.com/2018/06/20/11-teammates-help-win-cybersecurity-game/
 tags: [Attack]
 ---

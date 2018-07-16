@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ProtonMail Launches Free ProtonVPN VPN Service For Macs
-date: 2018-05-30 00:02:1
+date: 2018-05-30 00:02:11
 tourl: https://www.bleepingcomputer.com/news/security/protonmail-launches-free-protonvpn-vpn-service-for-macs/
 tags: [Tor]
 ---

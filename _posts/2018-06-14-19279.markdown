@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 23,000 Individuals Affected in HealthEquity Breach
-date: 2018-06-14 00:02:3
+date: 2018-06-14 00:02:13
 tourl: https://www.infosecurity-magazine.com:443/news/23000-individuals-affected-in/
 tags: [exploit,Attack]
 ---

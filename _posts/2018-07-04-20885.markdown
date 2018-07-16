@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Phone apps aren't secretly listening to your calls: But what they do is still 'alarming'
-date: 2018-07-04 00:02:2
+date: 2018-07-04 00:02:12
 tourl: https://www.zdnet.com/article/phone-apps-arent-secretly-listening-to-your-calls-but-what-they-do-is-still-alarming/
 tags: [Chaos,WhatsApp]
 ---

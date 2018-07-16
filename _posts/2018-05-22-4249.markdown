@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Home Affairs thankful Australia's diversity allows for improved facial recognition
-date: 2018-05-22 00:02:4
+date: 2018-05-22 00:02:14
 tourl: https://www.zdnet.comhttps://www.zdnet.com/article/home-affairs-thankful-australias-diversity-allows-for-improved-facial-recognition/
 tags: [National Institute of Standards and Technology,Law]
 ---

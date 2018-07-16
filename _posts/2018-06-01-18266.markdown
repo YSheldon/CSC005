@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Queens University Belfast Launches Cyber-Testing Labs
-date: 2018-06-01 00:02:1
+date: 2018-06-01 00:02:11
 tourl: https://www.infosecurity-magazine.com:443/news/belfast-launches-cybertesting-labs/
 tags: [Attack]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft Is Rolling Out New Cumulative Updates for Windows 10, 8.1, and 7
-date: 2018-07-10 00:02:4
+date: 2018-07-10 00:02:14
 tourl: https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-new-cumulative-updates-for-windows-10-81-and-7/
 tags: [Group,PowerShell,Scripting,Draft]
 ---

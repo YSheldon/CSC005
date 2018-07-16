@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dont Take The Vendors Word For It: The Importance of Third-Party Testing
-date: 2018-06-27 00:02:3
+date: 2018-06-27 00:02:13
 tourl: https://www.crowdstrike.com/blog/dont-take-the-vendors-word-for-it-the-importance-of-third-party-testing/
 tags: [Crowdstrike,Attack]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Comcast fixes another Xfinity website data leak
-date: 2018-06-25 00:02:1
+date: 2018-06-25 00:02:11
 tourl: https://www.zdnet.com/article/comcast-fixes-another-xfinity-website-data-leak/
 tags: [WhatsApp]
 ---

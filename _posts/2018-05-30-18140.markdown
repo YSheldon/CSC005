@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Remote Code Execution Vulnerability Disclosed in Windows JScript Component
-date: 2018-05-30 00:02:2
+date: 2018-05-30 00:02:12
 tourl: https://www.bleepingcomputer.com/news/security/remote-code-execution-vulnerability-disclosed-in-windows-jscript-component/
 tags: [exploit]
 ---

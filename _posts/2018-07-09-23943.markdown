@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Macys Locks Small Number of Accounts Following Suspicious Logins, Fraud Reports
-date: 2018-07-09 00:02:1
+date: 2018-07-09 00:02:11
 tourl: https://www.bleepingcomputer.com/news/security/macy-s-locks-small-number-of-accounts-following-suspicious-logins-fraud-reports/
 tags: [Source]
 ---

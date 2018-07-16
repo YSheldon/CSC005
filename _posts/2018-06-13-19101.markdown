@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dixons Carphone Breach Hits 5.9 Million Cards
-date: 2018-06-13 00:02:2
+date: 2018-06-13 00:02:12
 tourl: https://www.infosecurity-magazine.com:443/news/dixons-carphone-breach-hits-59m/
 tags: [GDPR]
 ---

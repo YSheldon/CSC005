@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Brave browser adds private tabs with Tor for 'enhanced privacy protection'
-date: 2018-06-28 00:02:2
+date: 2018-06-28 00:02:12
 tourl: https://www.cyberscoop.com/brave-browser-adds-tor-tabs/?category_news=technology
 tags: [Source,Tor]
 ---

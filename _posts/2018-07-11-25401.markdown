@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IronKey D300: Ultra durable USB flash drive with built-in encryption
-date: 2018-07-11 00:02:5
+date: 2018-07-11 00:02:15
 tourl: https://www.zdnet.com/article/ironkey-d300-ultra-durable-usb-flash-drive-with-built-in-encryption/
 tags: [ZINC]
 ---

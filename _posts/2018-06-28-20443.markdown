@@ -1,7 +1,7 @@
 ---
 layout: post
 title: As the military's cyber units change guard, a battle over control rages on
-date: 2018-06-28 00:02:10
+date: 2018-06-28 00:02:20
 tourl: https://www.cyberscoop.com/militarys-cyber-units-change-guard-battle-control-rages/?category_news=technology
 tags: [Bill,Source,Attack,National Security Council,Cyber Command,NSA]
 ---

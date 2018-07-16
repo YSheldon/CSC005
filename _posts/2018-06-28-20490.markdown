@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Homographic Domains Make Phishing Scams Easier
-date: 2018-06-28 00:02:1
+date: 2018-06-28 00:02:11
 tourl: https://blog.knowbe4.com/homographic-domains-make-phishing-scams-easier
 tags: [Attack]
 ---

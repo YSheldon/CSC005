@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Travel Information Leaked at Thomas Cook Airlines
-date: 2018-07-11 00:02:4
+date: 2018-07-11 00:02:14
 tourl: https://www.infosecurity-magazine.com:443/news/travel-information-leaked-at/
 tags: [exploit,Law]
 ---

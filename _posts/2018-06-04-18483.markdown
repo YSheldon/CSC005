@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Apple Unveils iOS 12 at the WWDC. Here's What's New
-date: 2018-06-04 00:02:0
+date: 2018-06-04 00:02:10
 tourl: https://www.bleepingcomputer.com/news/apple/apple-unveils-ios-12-at-the-wwdc-heres-whats-new/
 tags: [Group]
 ---

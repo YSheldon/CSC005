@@ -1,7 +1,7 @@
 ---
 layout: post
 title: State of the SOC? Depends on Who You Ask
-date: 2018-07-06 00:02:2
+date: 2018-07-06 00:02:12
 tourl: https://www.infosecurity-magazine.com:443/news/state-of-the-soc-depends-on-who/
 tags: [CISO]
 ---

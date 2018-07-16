@@ -1,7 +1,7 @@
 ---
 layout: post
 title: This new Android malware delivers banking trojan, keylogger and ransomware
-date: 2018-06-15 00:02:0
+date: 2018-06-15 00:02:10
 tourl: https://www.zdnet.com/article/this-new-android-malware-delivers-banking-trojan-keylogger-and-ransomware/
 tags: [Trojan]
 ---

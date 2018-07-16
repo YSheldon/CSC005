@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Small-Business Owners Unaware of Looming GDPR
-date: 2018-05-18 00:02:4
+date: 2018-05-18 00:02:14
 tourl: https://www.infosecurity-magazine.com:443/news/business-owners-unaware-of-looming/
 tags: [GDPR,Regulations]
 ---

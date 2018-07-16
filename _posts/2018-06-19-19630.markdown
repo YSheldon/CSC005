@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TRON Cryptocurrency Founder Acquires BitTorrent
-date: 2018-06-19 00:02:1
+date: 2018-06-19 00:02:11
 tourl: https://www.bleepingcomputer.com/news/business/tron-cryptocurrency-founder-acquires-bittorrent/
 tags: [Source]
 ---

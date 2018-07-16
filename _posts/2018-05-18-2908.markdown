@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Operator of counter-antivirus service Scan4You prosecuted
-date: 2018-05-18 00:02:5
+date: 2018-05-18 00:02:15
 tourl: https://www.zdnet.comhttps://www.zdnet.com/article/operator-of-service-for-avoiding-antivirus-products-scan4you-prosecuted/
 tags: [Chaos,Law,exploit]
 ---

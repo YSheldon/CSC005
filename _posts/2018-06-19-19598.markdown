@@ -1,7 +1,7 @@
 ---
 layout: post
 title: US Fraudster Pleads Guilty to Using OPM Breach Data
-date: 2018-06-19 00:02:2
+date: 2018-06-19 00:02:12
 tourl: https://www.infosecurity-magazine.com:443/news/us-fraudster-pleads-guilty-using/
 tags: [Hack]
 ---

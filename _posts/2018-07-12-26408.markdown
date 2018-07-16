@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Unknown and Unsecure Domains Bother Businesses
-date: 2018-07-12 00:02:1
+date: 2018-07-12 00:02:11
 tourl: https://www.infosecurity-magazine.com:443/news/unknown-unsecure-domains-bother/
 tags: [Attack]
 ---

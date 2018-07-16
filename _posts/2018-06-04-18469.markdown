@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Feds Ramp Up Investigations Into Online Harassment, Cyberstalking & Threats
-date: 2018-06-04 00:02:2
+date: 2018-06-04 00:02:12
 tourl: https://www.bleepingcomputer.com/news/government/feds-ramp-up-investigations-into-online-harassment-cyberstalking-and-threats/
 tags: [Law]
 ---

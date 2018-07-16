@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thanatos ransomware: Free decryption tool released for destructive file-locking malware
-date: 2018-06-27 00:02:1
+date: 2018-06-27 00:02:11
 tourl: https://www.zdnet.com/article/thanatos-ransomware-free-decryption-tool-released-for-destructive-file-locking-malware/
 tags: [Attack]
 ---

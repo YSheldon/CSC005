@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Smoking Guns  Smoke Loader learned new tricks
-date: 2018-07-03 00:02:3
+date: 2018-07-03 00:02:13
 tourl: https://blogs.cisco.com/security/talos/smoking-guns-smoke-loader-learned-new-tricks
 tags: [Smoke Loader,exploit]
 ---

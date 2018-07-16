@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Google: Chrome now protects you from Spectre password-stealing attacks
-date: 2018-07-12 00:02:1
+date: 2018-07-12 00:02:11
 tourl: https://www.zdnet.com/article/google-chrome-now-protects-you-from-spectre-password-stealing-attacks/
 tags: [Attack]
 ---

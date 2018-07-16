@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Get The Pay What You Want: AWS Cloud Development Bundle Deal
-date: 2018-06-06 00:02:2
+date: 2018-06-06 00:02:12
 tourl: https://www.bleepingcomputer.com/offer/deals/get-the-pay-what-you-want-aws-cloud-development-bundle-deal/
 tags: [AWS]
 ---

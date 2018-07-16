@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Senators question vulnerability disclosure process after Spectre and Meltdown stumbles
-date: 2018-07-11 00:02:6
+date: 2018-07-11 00:02:16
 tourl: https://www.cyberscoop.com/senators-question-vulnerability-disclosure-process-spectre-meltdown-stumbles/?category_news=technology
 tags: [Bill,Department of Homeland Security,exploit]
 ---

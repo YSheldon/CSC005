@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CrowdStrike Falcon on GovCloud: Cloud-Delivered Endpoint Protection for the Public Sector
-date: 2018-06-20 00:02:8
+date: 2018-06-20 00:02:18
 tourl: https://www.crowdstrike.com/blog/advances-in-cloud-delivered-security-help-public-sector-embrace-the-cloud/
 tags: [AWS,Crowdstrike,Regulations,DOD]
 ---

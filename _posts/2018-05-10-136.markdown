@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ?Australia to force 'big four' to open banking data by July 2019
-date: 2018-05-10 00:02:2
+date: 2018-05-10 00:02:12
 tourl: https://www.zdnet.comhttps://www.zdnet.com/article/australia-to-force-big-four-to-open-banking-data-by-july-2019/
 tags: [Law,Group]
 ---

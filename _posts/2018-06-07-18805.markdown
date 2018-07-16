@@ -1,7 +1,7 @@
 ---
 layout: post
 title: House panel rejects call for cyberthreat report on ZTE amid possible Trump deal
-date: 2018-06-07 00:02:7
+date: 2018-06-07 00:02:17
 tourl: https://www.cyberscoop.com/house-panel-rejects-call-cyberthreat-report-zte-amid-trump-deal/?category_news=technology
 tags: [Department of Homeland Security,DHS,China,DOD]
 ---

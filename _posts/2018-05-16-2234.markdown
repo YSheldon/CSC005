@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Siemens Issues Alert, DoS Vulnerability
-date: 2018-05-16 00:02:2
+date: 2018-05-16 00:02:12
 tourl: https://www.infosecurity-magazine.com:443/news/industrial-process-control/
 tags: [exploit]
 ---

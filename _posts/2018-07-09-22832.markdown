@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Timehop breach hits 21 million users due to a lack of 2FA on cloud services
-date: 2018-07-09 00:02:6
+date: 2018-07-09 00:02:16
 tourl: https://www.zdnet.com/article/timehop-breach-hits-21-million-users-due-to-a-lack-of-2fa-on-cloud-services/
 tags: [Law,Attack,China,GDPR]
 ---

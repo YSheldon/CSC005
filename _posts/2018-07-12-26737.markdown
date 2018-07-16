@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Google Chrome shifts browser architecture to thwart Spectre attacks
-date: 2018-07-12 00:02:1
+date: 2018-07-12 00:02:11
 tourl: https://www.cyberscoop.com/google-chrome-shifts-browser-architecture-to-defend-spectre-attacks/?category_news=technology
 tags: [Attack]
 ---

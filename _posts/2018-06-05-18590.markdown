@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nervous banks reportedly freeze a billion dollars in accounts owned by Russian oligarch Viktor Vekselberg
-date: 2018-06-05 00:02:1
+date: 2018-06-05 00:02:11
 tourl: https://meduza.io/en/news/2018/06/05/nervous-banks-reportedly-freeze-a-billion-dollars-in-accounts-owned-by-russian-oligarch-viktor-vekselberg
 tags: [Source,Group]
 ---

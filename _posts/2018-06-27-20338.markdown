@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Betting giant BetVictor leaked a list of its own internal systems passwords
-date: 2018-06-27 00:02:1
+date: 2018-06-27 00:02:11
 tourl: https://www.zdnet.com/article/betting-giant-betvictor-left-a-list-of-internal-passwords-online/
 tags: [WhatsApp]
 ---

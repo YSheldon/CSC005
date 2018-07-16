@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IoT domestic abuse: What can we do to stop it? July 11, 2018 - A disturbing new use of technology against loved ones has come to light: Internet of Things (IoT) domestic abuse. What is it? And more importantly, what can we do to fight it?CONTINUE READING
-date: 2018-07-11 00:02:3
+date: 2018-07-11 00:02:13
 tourl: https://blog.malwarebytes.com/cybercrime/2018/07/iot-domestic-abuse-can-stop/
 tags: [Law,Attack]
 ---

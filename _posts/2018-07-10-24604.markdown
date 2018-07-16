@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Adobe Patch Tuesday Is Out With Fixes for Flash Player, Acrobat, Reader, More
-date: 2018-07-10 00:02:2
+date: 2018-07-10 00:02:12
 tourl: https://www.bleepingcomputer.com/news/security/adobe-patch-tuesday-is-out-with-fixes-for-flash-player-acrobat-reader-more/
 tags: [Exploitation]
 ---

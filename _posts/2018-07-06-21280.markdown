@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Forrester Names CrowdStrike a Leader in the 2018 Wave for Endpoint Detection And Response
-date: 2018-07-06 00:02:4
+date: 2018-07-06 00:02:14
 tourl: https://www.crowdstrike.com/blog/crowdstrike-named-a-leader-in-the-2018-forrester-wave-for-endpoint-detection-and-response/
 tags: [Crowdstrike,AWS]
 ---

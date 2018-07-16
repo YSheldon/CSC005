@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cryptocurrency theft malware is now an economy worth millions
-date: 2018-06-07 00:02:1
+date: 2018-06-07 00:02:11
 tourl: https://www.zdnet.com/article/cryptocurrency-theft-malware-is-now-an-economy-worth-millions/
 tags: [Source]
 ---

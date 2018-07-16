@@ -1,7 +1,7 @@
 ---
 layout: post
 title: China braces for Friday opening of US trade war
-date: 2018-07-06 00:02:3
+date: 2018-07-06 00:02:13
 tourl: https://www.zdnet.com/article/china-braces-for-friday-opening-of-us-trade-war/
 tags: [China,Law]
 ---

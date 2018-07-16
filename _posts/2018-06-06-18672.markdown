@@ -1,7 +1,7 @@
 ---
 layout: post
 title: #Infosec18: Dystopic Internet Future Brewing in the East says Martha Lane Fox
-date: 2018-06-06 00:02:1
+date: 2018-06-06 00:02:11
 tourl: https://www.infosecurity-magazine.com:443/news/infosec18-dystopic-internet-future/
 tags: [China]
 ---

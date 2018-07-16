@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GandCrab V4 Released With the New .KRAB Extension for Encrypted Files
-date: 2018-07-04 00:02:2
+date: 2018-07-04 00:02:12
 tourl: https://www.bleepingcomputer.com/news/security/gandcrab-v4-released-with-the-new-krab-extension-for-encrypted-files/
 tags: [Tor,Attack]
 ---

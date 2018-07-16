@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ICO Plans to Slap Ł500K Fine on Facebook
-date: 2018-07-12 00:02:2
+date: 2018-07-12 00:02:12
 tourl: https://www.infosecurity-magazine.com:443/news/ico-plans-to-slap-500k-fine-on/
 tags: [GDPR]
 ---

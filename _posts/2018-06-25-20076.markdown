@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Researchers: Last Years ICOs Had Five Security Vulnerabilities on Average
-date: 2018-06-25 00:02:1
+date: 2018-06-25 00:02:11
 tourl: https://www.bleepingcomputer.com/news/security/researchers-last-year-s-icos-had-five-security-vulnerabilities-on-average/
 tags: [Source]
 ---

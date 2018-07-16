@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CrowdStrike valued at $3 billion with new $200 million infusion
-date: 2018-06-19 00:02:2
+date: 2018-06-19 00:02:12
 tourl: https://www.cyberscoop.com/crowdstrike-3-billion-valuation-200-million-series-e/?category_news=technology
 tags: [Crowdstrike]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yesterday We Received A CEO Fraud Phishing Attack From Our Own Personal Accountants
-date: 2018-06-07 00:02:1
+date: 2018-06-07 00:02:11
 tourl: https://blog.knowbe4.com/yesterday-we-received-a-ceo-fraud-phishing-attack-from-our-own-personal-accountants
 tags: [Attack]
 ---

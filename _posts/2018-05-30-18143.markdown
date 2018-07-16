@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dont Even Think of Complying with the New NIST Cybersecurity Framework!
-date: 2018-05-30 00:02:6
+date: 2018-05-30 00:02:16
 tourl: https://www.crowdstrike.com/blog/dont-even-think-of-complying-with-the-new-nist-cybersecurity-framework/
 tags: [Law,Commission on Enhancing National Cybersecurity,Crowdstrike]
 ---

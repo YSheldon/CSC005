@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Stealth Material Can Hide Objects From Infrared Scans
-date: 2018-07-04 00:02:1
+date: 2018-07-04 00:02:11
 tourl: https://www.bleepingcomputer.com/news/technology/new-stealth-material-can-hide-objects-from-infrared-scans/
 tags: [Trap]
 ---

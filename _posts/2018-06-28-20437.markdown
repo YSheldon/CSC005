@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why cryptocurrency mining malware is the new ransomware
-date: 2018-06-28 00:02:1
+date: 2018-06-28 00:02:11
 tourl: https://www.zdnet.com/article/why-cryptocurrency-mining-malware-is-the-new-ransomware/
 tags: [Attack]
 ---

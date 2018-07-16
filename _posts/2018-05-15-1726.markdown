@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Open-source vulnerabilities plague enterprise codebase systems
-date: 2018-05-15 00:02:2
+date: 2018-05-15 00:02:12
 tourl: https://www.zdnet.comhttps://www.zdnet.com/article/enterprise-codebases-plagued-by-open-source-vulnerabilities/
 tags: [Source,Chaos]
 ---

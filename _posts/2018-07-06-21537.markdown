@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Former NSO employee steals, flogs Pegasus mobile hacking tool for $50 million
-date: 2018-07-06 00:02:5
+date: 2018-07-06 00:02:15
 tourl: https://www.zdnet.com/article/former-nso-employee-steals-flogs-phone-hacking-tools-for-50-million/
 tags: [Group,Source,WhatsApp,Tor,Law]
 ---

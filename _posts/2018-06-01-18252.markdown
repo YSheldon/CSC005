@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ?CBA sent over 650 emails holding data on 10k customers in error
-date: 2018-06-01 00:02:0
+date: 2018-06-01 00:02:10
 tourl: https://www.zdnet.comhttps://www.zdnet.com/article/cba-sent-over-650-emails-holding-data-on-10k-customers-in-error/
 tags: [Group]
 ---

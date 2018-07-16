@@ -1,7 +1,7 @@
 ---
 layout: post
 title: School's Not out for Hackers This Summer
-date: 2018-06-26 00:02:2
+date: 2018-06-26 00:02:12
 tourl: https://www.infosecurity-magazine.com:443/news/schools-not-out-for-summer-at/
 tags: [Group,Hack]
 ---

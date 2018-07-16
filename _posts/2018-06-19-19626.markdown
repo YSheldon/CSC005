@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cyber Security Insurance: Underwriting Is Changing Because Of Billions Of Potential Exposure
-date: 2018-06-19 00:02:0
+date: 2018-06-19 00:02:10
 tourl: https://blog.knowbe4.com/cybersecurity-insurance-underwriting-is-changing-because-of-billions-of-potential-exposure
 tags: [Group]
 ---

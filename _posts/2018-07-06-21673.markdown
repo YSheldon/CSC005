@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Malware Delivers Cryptor or Miner, Trojan's Choice
-date: 2018-07-06 00:02:0
+date: 2018-07-06 00:02:10
 tourl: https://www.infosecurity-magazine.com:443/news/malware-delivers-cryptor-or-miner/
 tags: [Trojan]
 ---

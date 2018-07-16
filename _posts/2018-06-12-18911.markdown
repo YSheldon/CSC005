@@ -1,7 +1,7 @@
 ---
 layout: post
 title: US Arrests 74 BEC Scammers, Including 29 Nigerians
-date: 2018-06-12 00:02:2
+date: 2018-06-12 00:02:12
 tourl: https://www.bleepingcomputer.com/news/security/us-arrests-74-bec-scammers-including-29-nigerians/
 tags: [Law]
 ---

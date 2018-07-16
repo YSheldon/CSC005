@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spark Hot Potato: Passing DataFrames Between Scala Spark and PySpark
-date: 2018-07-13 00:02:5
+date: 2018-07-13 00:02:15
 tourl: https://www.crowdstrike.com/blog/spark-hot-potato-passing-dataframes-between-scala-spark-and-pyspark/
 tags: [Crowdstrike,Source,Exploitation]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: US Treasury Hits Russian Firms with More Sanctions
-date: 2018-06-12 00:02:0
+date: 2018-06-12 00:02:10
 tourl: https://www.infosecurity-magazine.com:443/news/us-treasury-hits-russian-firms/
 tags: [Group]
 ---

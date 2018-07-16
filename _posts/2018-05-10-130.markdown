@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 people arrested for issuing Aadhaar cards illegally in Amroha
-date: 2018-05-10 00:02:2
+date: 2018-05-10 00:02:12
 tourl: https://www.medianama.com/2018/05/223-3-people-arrested-for-issuing-aadhaar-cards-illegally-in-amroha/
 tags: [Biometric]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: With $10 million Series A, Uptycs launches security platform using open source tools
-date: 2018-06-19 00:02:1
+date: 2018-06-19 00:02:11
 tourl: https://www.cyberscoop.com/uptycs-series-a/?category_news=technology
 tags: [Source]
 ---

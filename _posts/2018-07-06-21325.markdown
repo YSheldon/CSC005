@@ -1,7 +1,7 @@
 ---
 layout: post
 title: USB Fans Handed Out at Trump-Kim Summit Deemed Harmless
-date: 2018-07-06 00:02:1
+date: 2018-07-06 00:02:11
 tourl: https://www.bleepingcomputer.com/news/security/usb-fans-handed-out-at-trump-kim-summit-deemed-harmless/
 tags: [China,Group,Trojan]
 ---

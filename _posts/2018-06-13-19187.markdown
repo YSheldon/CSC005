@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kaspersky Halts Europol and NoMoreRansom Project Coop After EU Parliament Vote
-date: 2018-06-13 00:02:2
+date: 2018-06-13 00:02:12
 tourl: https://www.bleepingcomputer.com/news/government/kaspersky-halts-europol-and-nomoreransom-project-coop-after-eu-parliament-vote/
 tags: [Law]
 ---

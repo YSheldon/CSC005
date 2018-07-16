@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft Rolls Out Patches for \
-date: 2018-07-12 00:02:1
+date: 2018-07-12 00:02:11
 tourl: https://www.bleepingcomputer.com/news/security/microsoft-rolls-out-patches-for-lazy-fp-state-restore-bug-affecting-intel-cpus/
 tags: [Hypervisor]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Apple Announces macOS 10.14 Mojave With Dark Mode, Dynamic Desktop, Stacks, More
-date: 2018-06-04 00:02:0
+date: 2018-06-04 00:02:10
 tourl: https://www.bleepingcomputer.com/news/apple/apple-announces-macos-1014-mojave-with-dark-mode-dynamic-desktop-stacks-more/
 tags: [Group]
 ---

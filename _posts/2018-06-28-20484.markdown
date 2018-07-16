@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Brave Browser Adds Support for Private Browsing With Tor Integration
-date: 2018-06-28 00:02:1
+date: 2018-06-28 00:02:11
 tourl: https://www.bleepingcomputer.com/news/software/brave-browser-adds-support-for-private-browsing-with-tor-integration/
 tags: [Tor]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Telecom operators: Are you ready for 5G?
-date: 2018-06-27 00:02:1
+date: 2018-06-27 00:02:11
 tourl: https://blogs.cisco.com/sp/telecom-operators-are-you-ready-for-5g
 tags: [New Service]
 ---

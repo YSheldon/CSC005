@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Russian-linked VPNFilter malware is even worse than originally thought, new research suggests
-date: 2018-06-06 00:02:1
+date: 2018-06-06 00:02:11
 tourl: https://www.cyberscoop.com/russian-linked-vpnfilter-malware-even-worse-originally-thought-new-research-suggests/?category_news=technology
 tags: [Attack]
 ---

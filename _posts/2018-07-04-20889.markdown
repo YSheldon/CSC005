@@ -1,7 +1,7 @@
 ---
 layout: post
 title: This password-stealing malware just added a new way to infect your PC
-date: 2018-07-04 00:02:2
+date: 2018-07-04 00:02:12
 tourl: https://www.zdnet.com/article/this-password-stealing-malware-just-added-a-new-way-to-infect-your-pc/
 tags: [Attack,Smoke Loader,Trojan]
 ---

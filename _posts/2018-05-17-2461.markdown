@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Singtel Group climbs above 700 million mobile customers
-date: 2018-05-17 00:02:1
+date: 2018-05-17 00:02:11
 tourl: https://www.zdnet.comhttps://www.zdnet.com/article/singtel-group-climbs-above-700-million-mobile-customers/
 tags: [Group,China]
 ---

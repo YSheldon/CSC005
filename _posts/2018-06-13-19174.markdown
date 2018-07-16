@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DHS cyber specialist: look for behavior patterns with APTs
-date: 2018-06-13 00:02:6
+date: 2018-06-13 00:02:16
 tourl: https://www.cyberscoop.com/dhs-cyber-specialist-look-for-behavior-patterns-with-apts/?category_news=technology
 tags: [Department of Homeland Security,Group,DHS,Bill]
 ---

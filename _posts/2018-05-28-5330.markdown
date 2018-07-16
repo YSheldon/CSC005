@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Python May Let Security Tools See What Operations the Runtime Is Performing
-date: 2018-05-28 00:02:1
+date: 2018-05-28 00:02:11
 tourl: https://www.bleepingcomputer.com/news/security/python-may-let-security-tools-see-what-operations-the-runtime-is-performing/
 tags: [Scripting]
 ---

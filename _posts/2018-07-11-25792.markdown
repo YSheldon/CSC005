@@ -1,7 +1,7 @@
 ---
 layout: post
 title: L3 Technologies acquires two hacking companies
-date: 2018-07-11 00:02:3
+date: 2018-07-11 00:02:13
 tourl: https://www.cyberscoop.com/l3-acquires-azimuth-and-linchpin/?category_news=technology
 tags: [exploit,Tor]
 ---

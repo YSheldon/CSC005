@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FBI Takes Control of APT28's VPNFilter Botnet
-date: 2018-05-24 00:02:31
+date: 2018-05-24 00:02:41
 tourl: https://www.bleepingcomputer.com/news/security/fbi-takes-control-of-apt28s-vpnfilter-botnet/
 tags: [Attack,Sednit,Fancy Bear,Pawn Storm,Sofacy,STRONTIUM,Tsar Team,Group]
 ---

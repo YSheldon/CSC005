@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New FlexPod Solutions Simplify the Delivery of Cloud Infrastructure and Industry-specific Applications
-date: 2018-06-07 00:02:2
+date: 2018-06-07 00:02:12
 tourl: https://blogs.cisco.com/datacenter/new-flexpod-solutions-simplify-the-delivery-of-cloud-infrastructure-and-industry-specific-applications
 tags: [Epic,Source]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ScreenPad - A Touchscreen that Replaces the Touchpad in the Asus Zenbook Pro
-date: 2018-06-05 00:02:1
+date: 2018-06-05 00:02:11
 tourl: https://www.bleepingcomputer.com/news/hardware/screenpad-a-touchscreen-that-replaces-the-touchpad-in-the-asus-zenbook-pro/
 tags: [CALENDAR]
 ---

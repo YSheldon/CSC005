@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BlackTech threat group steals D-Link certificates to spread backdoor malware
-date: 2018-07-10 00:02:0
+date: 2018-07-10 00:02:10
 tourl: https://www.zdnet.com/article/blacktech-threat-group-steals-d-link-certificates-to-spread-backdoor-malware/
 tags: [Group]
 ---

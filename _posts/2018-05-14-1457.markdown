@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Crypto-Mining Malware Tops Most Wanted List
-date: 2018-05-14 00:02:3
+date: 2018-05-14 00:02:13
 tourl: https://www.infosecurity-magazine.com:443/news/cryptoming-malware-tops-most/
 tags: [Attack,exploit,Group]
 ---

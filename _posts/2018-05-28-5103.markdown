@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Oracle Plans to Drop Java Serialization Support, the Source of Most Security Bugs
-date: 2018-05-28 00:02:0
+date: 2018-05-28 00:02:10
 tourl: https://www.bleepingcomputer.com/news/security/oracle-plans-to-drop-java-serialization-support-the-source-of-most-security-bugs/
 tags: [Group]
 ---

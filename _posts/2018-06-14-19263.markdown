@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Military Colleges Aim to Develop Cyber Programs
-date: 2018-06-14 00:02:0
+date: 2018-06-14 00:02:10
 tourl: https://www.infosecurity-magazine.com:443/news/military-colleges-aim-to-develop/
 tags: [Group]
 ---

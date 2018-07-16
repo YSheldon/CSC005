@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Home Affairs denies Microsoft in breach of Signals Directorate conditions
-date: 2018-05-22 00:02:2
+date: 2018-05-22 00:02:12
 tourl: https://www.zdnet.comhttps://www.zdnet.com/article/canberra-denies-microsoft-in-breach-of-signals-directorate-conditions/
 tags: [Law]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chinese Censorship Bug Caused iPhone Crashes when Receiving Taiwan Flag Emoji
-date: 2018-07-11 00:02:2
+date: 2018-07-11 00:02:12
 tourl: https://www.bleepingcomputer.com/news/security/chinese-censorship-bug-caused-iphone-crashes-when-receiving-taiwan-flag-emoji/
 tags: [China,Source]
 ---

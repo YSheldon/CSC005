@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Four Ukrainians Arrested for Running Six Fake Cryptocurrency Exchanges
-date: 2018-06-21 00:02:0
+date: 2018-06-21 00:02:10
 tourl: https://www.bleepingcomputer.com/news/cryptocurrency/four-ukrainians-arrested-for-running-six-fake-cryptocurrency-exchanges/
 tags: [Group]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Compromised JavaScript Package Caught Stealing npm Credentials
-date: 2018-07-12 00:02:2
+date: 2018-07-12 00:02:12
 tourl: https://www.bleepingcomputer.com/news/security/compromised-javascript-package-caught-stealing-npm-credentials/
 tags: [Hack]
 ---
