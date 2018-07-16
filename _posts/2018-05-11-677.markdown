@@ -1,8 +1,0 @@
----
-layout: post
-title: EE Fix Portal Which Was Secured with 'Admin' Password
-date: 2018-05-11 00:02:1
-tourl: https://www.infosecurity-magazine.com:443/news/ee-portal-admin-password/
-tags: [at]
----
-Cookies enable us to provide the best experience possible and help us understand how visitors use our website. By browsing Infosecurity Magazine, you agree to our use of cookies.According to security researcher and developer ÂA spokesperson later told ZDNet that the company had changed the password and that the service was pulled offline while the company investigates, and that the portal was a tool used by the company's web development team to quality check its code.The spokesperson said: ÂThis development code does not contain any information pertaining to our production infrastructure or production API credentials as these are maintained in separate secure systems and details are changed by a separate team.ÂWe take the security of our customer data extremely seriously and would like to thank the researcher for bringing this issue to our attention. We're conducting a thorough investigation to make sure this does not happen again.ÂLuis Corrons, security evangelist at ÂWe have seen cases before where personal data has been made publically available due to the absence of proper protection,Â he said. ÂA prime example is the case last year in the US where three marketing companies working for the Republican Party published a database online with information on about 198 million registered voters. Anyone could download the full database because there were no security measures in place.Â

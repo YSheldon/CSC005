@@ -1,8 +1,0 @@
----
-layout: post
-title: DOTA 2
-date: 2018-05-10 00:00:20
-tourl: http://t.co/hqAoWapg98
-tags: []
----
-The 7.15 Gameplay Update is now released https://t.co/kZ5kN3OOvT

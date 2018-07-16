@@ -1,8 +1,0 @@
----
-layout: post
-title: Ian Goodfellow
-date: 2018-05-11 00:00:20
-tourl: https://t.co/3ZbcPzj8Zs
-tags: []
----
-RT @dribnet: @artwithMI  https://t.co/oKBaPCoIxl

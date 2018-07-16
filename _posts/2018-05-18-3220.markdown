@@ -1,8 +1,0 @@
----
-layout: post
-title: CyberScoop
-date: 2018-05-18 00:00:20
-tourl: https://t.co/UiSN102kIR
-tags: []
----
-RT @edscoop_news: Carnegie Mellon will become the first U.S. college to offer an undergraduate degree in AI this fall, following careful co

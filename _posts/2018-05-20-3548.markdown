@@ -1,8 +1,0 @@
----
-layout: post
-title: Alex Ionescu
-date: 2018-05-20 00:00:20
-tourl: https://t.co/PPONT3wPXm
-tags: []
----
-One of the things I love about Recon is the emphasis placed on newer speakers and giving them a chance to do a technical presentation to a high caliber audience for their first time. And @evm_sec is awesome. https://t.co/s17TVGAJXa

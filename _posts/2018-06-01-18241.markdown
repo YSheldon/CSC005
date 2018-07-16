@@ -1,8 +1,0 @@
----
-layout: post
-title: Windows 10 Insider Build 17682 Released. Here's whats new
-date: 2018-06-01 00:02:1
-tourl: https://www.bleepingcomputer.com/news/microsoft/windows-10-insider-build-17682-released-heres-whats-new/
-tags: [Page]
----
-Today Microsoft released Windows 10 Insider Preview Build 17682 (Redstone 5) to insiders in the fast and skip ahead rings. This build introduces improvements to Sets, updates to the wireless projection experience, Microsoft Edge improvements, adds RSAT to the optional features, and displays a new post-upgrade screen showing various features that can be setup.As many people did not realize you can use the new tab page, If you are using wireless projection, Windows will now display a control banner similar to the one in Remote Desktop that allows you to manage the wireless projection experience. Using this banner you can disconnect or configure various modes depending on what you are projecting. The new modes are "Gaming", "Video", and "Productivity", which adjusts the latency based on what is being projected.This build includes the Web Authentication API Preview (After an upgrade, you no longer need to download the Remote Server Administration Tools (RSAT) and can instead install it through the "Manage Optional Features" screen.  From there you can install various RSAT components as shown below.After opening the optional features screen for the first time after an upgrade, it will a some time for the features to get fully updated.As the features and privacy options have changed over time, Windows will now display a post-upgrade screen where you can setup various options that you may not have seen or were added after you first installed Windows. To see the entire release notes, you can read the 

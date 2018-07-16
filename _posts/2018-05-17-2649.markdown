@@ -1,8 +1,0 @@
----
-layout: post
-title: RSA
-date: 2018-05-17 00:00:20
-tourl: https://t.co/bABGhyqAQB
-tags: []
----
-#ICYMI: In order to manage digital #risk, organizations first need to start paying attention to the psychology of defense, recommends RSA President @rohit_ghai tells @CRN: https://t.co/gG013GOJh0 #ThursdayThoughts https://t.co/bmImsLwjii

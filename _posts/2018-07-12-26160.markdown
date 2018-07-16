@@ -1,8 +1,0 @@
----
-layout: post
-title: Nicolas Krassas
-date: 2018-07-12 00:00:20
-tourl: http://t.co/nj3EPPRowo
-tags: []
----
-Hacker Exploits 2-Year Old Router Issue To Steal Sensitive US Military Data https://t.co/7HtvoFefaY

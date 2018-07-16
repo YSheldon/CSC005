@@ -1,8 +1,0 @@
----
-layout: post
-title: F5 Networks
-date: 2018-07-14 00:00:20
-tourl: https://t.co/Koj3fUWTNg
-tags: []
----
-The top 3 priorities for #CIOs: https://t.co/joKmWjRhsB via @InformationWeek

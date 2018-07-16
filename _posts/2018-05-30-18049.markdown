@@ -1,8 +1,0 @@
----
-layout: post
-title: Threat Roundup for May 18-25
-date: 2018-05-30 00:02:1
-tourl: https://blogs.cisco.com/security/talos/threat-roundup-0518-0525
-tags: [Net]
----
-tttToday, Talos is publishing a glimpse into the most prevalent threats weve observed between May 18 and May 25. As with previous round-ups, this post isnt meant to be an in-depth analysis. Instead, this post will summarize the threats weve observed by highlighting key behavioral characteristics, indicators of compromise, and discussing how our customers are automatically protected from these threats.As a reminder, the information provided for the following threats in this post is non-exhaustive and current as of the date of publication. Detection and coverage for the following threats is subject to updates, pending additional threat or vulnerability analysis. For the most current information, please refer to your Firepower Management Center, Snort.org, or ClamAV.net.Read more We'd love to hear from you! To earn points and badges for participating in the conversation, join 

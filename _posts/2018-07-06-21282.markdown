@@ -1,8 +1,0 @@
----
-layout: post
-title: Watch Out  Cryptojacking rises 1,180 percent!
-date: 2018-07-06 00:02:1
-tourl: https://blog.knowbe4.com/watch-out-cryptojacking-rises-1180-percent
-tags: [route]
----
-Â Cryptomining is a legitimate means by which to earn cryptocurrency as compensation. It involves the solving of complex computations that help to verify cryptocurrency transactions and add them to the currencyÂs blockchain. Those with an entrepreneurial mindset have calculated the return and invest in cloud-based infrastructure to perform their mining.But why pay for infrastructure when you can just take over an unsuspecting userÂs computer instead? This is exactly what cybercriminals are doing. Some no longer are willing to take the long route of trying to make money by stealing data, which involves a relatively tedious process of establishing a foothold on an endpoint, compromising userÂs credentials, and moving laterally from endpoint to endpoint until valuable data is found to be exfiltrated.Instead, some cybercriminals are going for the easy hit by using malware designed to compromise a system and have it cryptomine on behalf of the cybercriminal.And, unlike ransomware (which may not pay out with each and every infection), cryptojacking essentially always pays out with each successful infection. The more compromised machines means the larger the mining ÂinfrastructureÂ for the cybercriminal.The staggering increase of cryptojacking by 1,189% in The good news is the delivery mechanisms remain the same: drive-by downloads of malware form compromised websites, and phishing attacks. So, keeping your employees focused on being aware of phishing attacks throughTopics:Â Ĺ  KnowBe4, Inc. All rights reserved. | 

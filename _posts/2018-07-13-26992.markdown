@@ -1,8 +1,0 @@
----
-layout: post
-title: Nicolas Krassas
-date: 2018-07-13 00:00:20
-tourl: http://t.co/nj3EPPRowo
-tags: []
----
-Firebase Exploiting Tool - Exploiting Misconfigured Firebase Databases https://t.co/rUB2Fek4LE

@@ -1,8 +1,0 @@
----
-layout: post
-title: Nicolas Krassas
-date: 2018-07-14 00:00:20
-tourl: http://t.co/nj3EPPRowo
-tags: []
----
-ROPGenerator - Tool That Helps You Building ROP Exploits By Finding And Chaining Gadgets Together https://t.co/0VY16Jsz9h

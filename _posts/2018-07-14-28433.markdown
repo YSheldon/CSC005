@@ -1,8 +1,0 @@
----
-layout: post
-title: CyberScoop
-date: 2018-07-14 00:00:20
-tourl: https://t.co/UiSN102kIR
-tags: []
----
-Google Chrome shifts browser architecture to thwart Spectre attacks https://t.co/nQbs96vuiu

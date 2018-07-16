@@ -1,8 +1,0 @@
----
-layout: post
-title: CyberScoop
-date: 2018-05-22 00:00:20
-tourl: https://t.co/UiSN102kIR
-tags: []
----
-UP NEXT at #McAfee2018: The first track breakouts are about to begin. We'll be discussing #FedRamp, automation and threat intelligence &amp; how intelligence is power.

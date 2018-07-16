@@ -1,8 +1,0 @@
----
-layout: post
-title: McAfee Business
-date: 2018-07-13 00:00:20
-tourl: https://t.co/RGOGxTbp7k
-tags: []
----
-On July 31, join Solution Architects from @awscloud and @McAfee as they share advice on how to architect workload #security in a #cloud environment and solutions to extend your enterprise security policy to the cloud. Register now: https://t.co/zE6USzuTOw https://t.co/bfo787Ro0R

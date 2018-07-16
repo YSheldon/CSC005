@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-07-13 00:00:20
-tourl: https://t.co/k9HZz2bu5G
-tags: []
----
-CVE-2016-6551 Intellian Satellite TV antennas t-Series and v-Series, firmware version 1.07, uses non-random default credentials of: ftp/ftp or intellian:12345678. A remote network attacker can gain elevated access to a vulnerable ... https://t.co/F77XQWyVP1

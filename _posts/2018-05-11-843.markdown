@@ -1,8 +1,0 @@
----
-layout: post
-title: Elon Musk
-date: 2018-05-11 00:00:20
-tourl: www.baidu.com
-tags: []
----
-RT @thesheetztweetz: Look at the relief from @elonmusk on the @SpaceX livestream  you can tell how important this first #Block5 mission wa

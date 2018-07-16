@@ -1,8 +1,0 @@
----
-layout: post
-title: Joseph Cox
-date: 2018-05-18 00:00:20
-tourl: www.baidu.com
-tags: []
----
-RT @jason_koebler: Motherboard's first feature-length documentary THE MOST UNKNOWN opens TODAY at The Quad. Tickets here: https://t.co/okwi

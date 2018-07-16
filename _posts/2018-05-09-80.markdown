@@ -1,8 +1,0 @@
----
-layout: post
-title: #Belfast2018: A Look at the New London Cyber Innovation Centre
-date: 2018-05-09 00:02:1
-tourl: https://www.infosecurity-magazine.com:443/news/belfast18-london-cyber-innovation/
-tags: [at]
----
-Cookies enable us to provide the best experience possible and help us understand how visitors use our website. By browsing Infosecurity Magazine, you agree to our use of cookies.At The Centre, which will be hosted and run by Plexal with support from ÂThe mission for the London Cyber Innovation Centre is to build the UKÂs international profile in cybersecurity,Â Cockerton said, and Âto ensure British infosec businesses have clients and investments here in the UK, and also have opportunities to expand their market share in other countries.ÂThe Centre will aim to place its members at the forefront of technology innovation, ensuring SMBs and businesses alike can protect and prepare themselves for the ever-changing threats of the digital age, she added.ÂWe aim to be a combining force within the infosec community,Â Cockerton said, and Âour vision is to provide access points for everyone.ÂThe UK has always had a world-class reputation for invention, she concluded, but now we have Âreputational concerns on our hands as we make our way outside of the EU and define what we want to be as an economy and as a nation. For Plexal and our partners, CSIT and Deloitte, the London Cyber Innovation Centre is an essential initiative to get right.Â

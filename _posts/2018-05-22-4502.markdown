@@ -1,8 +1,0 @@
----
-layout: post
-title: Joseph Cox
-date: 2018-05-22 00:00:20
-tourl: www.baidu.com
-tags: []
----
-RT @jason_koebler: Amazon also altered its website. First advertised putting this technology in body cameras. Now, advertises "finding miss

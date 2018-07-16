@@ -1,8 +1,0 @@
----
-layout: post
-title: Cisco DevNet
-date: 2018-05-18 00:00:20
-tourl: https://t.co/mDiImjXaOX
-tags: []
----
-RT @MPetrinovic: The first DC #DevNetExpress event in Australia completed!! Thanks for all the participation and awesome questions. Until n

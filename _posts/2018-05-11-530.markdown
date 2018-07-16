@@ -1,8 +1,0 @@
----
-layout: post
-title: Elon Musk
-date: 2018-05-11 00:00:20
-tourl: www.baidu.com
-tags: []
----
-RT @SpaceX: Standing down today due to a standard ground system auto abort at T-1 min. Rocket and payload are in good healthteams are work

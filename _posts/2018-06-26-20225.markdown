@@ -1,8 +1,0 @@
----
-layout: post
-title: Files Cannot Be Decrypted? Challenge Accepted. Talos Releases ThanatosDecryptor
-date: 2018-06-26 00:02:11
-tourl: https://blogs.cisco.com/security/talos/thanatosdecryptor
-tags: [Malware]
----
-tttCisco Talos has analyzed Thanatos, a ransomware variant that is being distributed via multiple malware campaigns that have been conducted over the past few months. As a result of our research, we have released a new, free decryption tool to help victims recover from this malware. Multiple versions of Thanatos have been leveraged by attackers, indicating that this is an evolving threat that continues to be actively developed by threat actors with multiple versions having been distributed in the wild. Unlike other ransomware commonly being distributed, Thanatos does not demand ransom payments to be made using a single cryptocurrency like bitcoin. Instead, it has been observed supporting ransom payments in the form of Bitcoin Cash (BCH), Zcash (ZEC), Ethereum (ETH) and others.Additionally, due to issues present within the encryption process leveraged by this ransomware, the malware authors are unable to return the data to the victim, even if he or she pays the ransom. While previous reports seem to indicate this is accidental, specific campaigns appear to demonstrate that in some cases, this is intentional on the part of the distributor. In response to this threat, Talos is releasing We'd love to hear from you! To earn points and badges for participating in the conversation, join 
