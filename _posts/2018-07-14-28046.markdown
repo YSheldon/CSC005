@@ -1,0 +1,12 @@
+---
+layout: post
+title: Nick Carr
+date: 2018-07-14 00:00:20
+tourl: https://t.co/mZbXbe0al0
+tags: []
+---
+If you were curious what Russian hackers look like on the wire when you catch them in October 2016, here is an example.
+
+This was for a Google malicious OAuth app sent to steal VIP full emails bypassing 2-factor via tinyurl.
+
+Underscores importance of network coverage for #APT28! https://t.co/a5GqFFhUlJ

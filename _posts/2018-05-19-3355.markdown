@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Soviet Visuals
-date: 2018-05-19 00:00:21
+date: 2018-05-19 00:00:20
 tourl: https://t.co/YL8SdrzDB0
-tags: [PHOTO]
+tags: []
 ---
 RT @SovietPostcards: Scans from The Teen, Soviet book from 1982. The first photo witnesses young octobrists becoming pioneers.
 @sovietvis

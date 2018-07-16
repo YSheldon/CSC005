@@ -1,0 +1,8 @@
+---
+layout: post
+title: TrendLabs
+date: 2018-07-16 00:00:20
+tourl: http://t.co/MB171H1oL9
+tags: []
+---
+The most notable activity of #ExploitKits so far: roping in recent vulnerabilities to deliver #cryptocurrency-mining malware, and #ransomware, among others. Read more: https://t.co/t8PV0AUK6q https://t.co/lvBjMZYr4x

@@ -1,0 +1,8 @@
+---
+layout: post
+title: CyberScoop
+date: 2018-07-14 00:00:20
+tourl: https://t.co/UiSN102kIR
+tags: []
+---
+As ransomware hobbled Atlanta, banks drilled for next iteration of attacks https://t.co/fcLb3ctagO

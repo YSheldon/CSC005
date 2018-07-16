@@ -1,0 +1,8 @@
+---
+layout: post
+title: Capgemini to buy cybersecurity arm of Leidos
+date: 2018-06-07 00:02:0
+tourl: https://www.cyberscoop.com/capgemini-leidos-acquisition/?category_news=technology
+tags: [Group]
+---
+The cybersecurity division of Leidos is being sold to Capgemini, a French multinational business consultancy, the companies Capgemini says it hopes the acquisition will reinforce its presence in North America and help meet growing customer demand for its portfolio of cybersecurity services and solutions across the region.In a statement, Capgemini CEO Paul Hermelin called Leidos Cyber a pioneer in cybersecurity that defined the market in protecting the industrial control ecosystem for the mission critical infrastructure needs of global enterprises.Reston, Va.-based Leidos provides IT, engineering, science and defense contracting services and is one of the top U.S. federal contractors. However, its cybersecurity arm is commercially focused. Leidos Cyber employs about 500 cybersecurity professionals spread out across North America, according to the press release.Capgemini has a Our decision to transition the Leidos commercial cybersecurity business to Capgemini is the result of our deliberate focus on providing solutions, including cyber, to our core marketsgovernments and highly regulated industries, said Angie Heise, president of Leidos Civil Group. Capgeminis commitment to engaging a broad set of commercial markets makes it an ideal fit for the Leidos Cyber business.The acquisition is subject to antitrust review as well as approval by the U.S. Committee of Foreign Investment in the United States. The companies expect the deal to close by the end of 2018.

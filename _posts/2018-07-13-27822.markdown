@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-13 00:00:20
+tourl: https://t.co/k9HZz2bu5G
+tags: []
+---
+CVE-2016-9498 ManageEngine Applications Manager 12 and 13, allows unserialization of unsafe Java objects. The vulnerability can be exploited by remote user without authentication and it allows to execute remote code compromising ... https://t.co/mTDkUBn1Jb

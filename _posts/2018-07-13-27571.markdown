@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-13 00:00:20
+tourl: https://t.co/k9HZz2bu5G
+tags: []
+---
+CVE-2017-1395 IBM Security Identity Governance and Intelligence Virtual Appliance 5.2 through 5.2.3.2 could allow a remote attacker to obtain sensitive information, caused by the failure to properly enable HTTP Strict Transport ... https://t.co/d3hP6yDNfx

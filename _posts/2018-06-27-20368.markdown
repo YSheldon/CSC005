@@ -1,0 +1,8 @@
+---
+layout: post
+title: Dont Take The Vendors Word For It: The Importance of Third-Party Testing
+date: 2018-06-27 00:02:3
+tourl: https://www.crowdstrike.com/blog/dont-take-the-vendors-word-for-it-the-importance-of-third-party-testing/
+tags: [Crowdstrike,Attack]
+---
+There seems to be consensus in the industry that independent validation of security products is no longer simply a nice to have. In its 2018 Magic Quadrant for Endpoint Protection Platforms, the respected analyst firm Gartner notes, As with previous Magic Quadrants, this years inclusion criteria mandate that vendors must have participated in public, independent testing during 2017. According to Gartner, Its worth noting that many vendors, from traditional to the new wave, are embracing the shift to a more open community. Solutions from vendors without a long-term commitment to engagement and transparency should be approached with   Where should I invest in security if Im starting from scratch? Thats a question CrowdStrike ServicestttttttttttttttttttttWhen it comes to industries at risk from cyber attack, the healthcare industry is rapidly risingtttttttttttttttttttttGartner just released its inaugural Critical Capabilities for Endpoint Protection Platforms (EPP) report, showing CrowdStrikeŽ withtttttttttttttttt

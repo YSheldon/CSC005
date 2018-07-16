@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Malwrologist
-date: 2018-07-09 00:00:23
+date: 2018-07-09 00:00:28
 tourl: https://t.co/DMaAFKt4hs
 tags: [Equation,exploit,PowerShell]
 ---

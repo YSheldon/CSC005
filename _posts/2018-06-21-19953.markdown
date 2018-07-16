@@ -1,0 +1,8 @@
+---
+layout: post
+title: Four Ukrainians Arrested for Running Six Fake Cryptocurrency Exchanges
+date: 2018-06-21 00:02:0
+tourl: https://www.bleepingcomputer.com/news/cryptocurrency/four-ukrainians-arrested-for-running-six-fake-cryptocurrency-exchanges/
+tags: [Group]
+---
+Ukrainian police announced the arrest of four suspects on accusations of running six fake cryptocurrency exchanges. The four men, aged between 20 and 26, were arrested last week in the city of Dnipro.Police said the four had "special knowledge and skills in the field of programming" and "have created their own CMS-system for managing the content of exchange sites."The four created at least six fake cryptocurrency exchange sites on which they stole funds from users. The group kept their reputation intact via online reviews pushing fake positive ratings.Authorities say they've tracked at least six exchanges operated by the four. All domains are expired at the time of writing, but some sites have lived long enough to be indexed by the Wayback Machine portal."The list of sites is not complete," a spokesperson for the Ukrainian National Police said in a statement. Investigators believe the group ran more sites. They are now asking users to file complaints if they've been duped by fake exchanges in the past.Officers raided the suspects' homes during the arrests and seized computers, flash drives, smartphones, and other equipment.Police officers are currently investigating the seized equipment to determine the size of damages incurred to users.Cryptocurrency-related scams and fraud are very popular among Ukrainian crooks. Last year, Ukrainian Police arrested a group who 

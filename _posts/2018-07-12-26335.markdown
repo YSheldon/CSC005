@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Google: Chrome now protects you from Spectre password-stealing attacks
-date: 2018-07-12 00:02:2
+date: 2018-07-12 00:02:1
 tourl: https://www.zdnet.com/article/google-chrome-now-protects-you-from-spectre-password-stealing-attacks/
-tags: [attack,Page]
+tags: [Attack]
 ---
  tGoogle says a new security feature in Chrome should make it harder for malicious websites tot tThe company has now enabled a security feature calledt t"This means even if a Spectre attack were to occur in a malicious web page, data from other websites would generally not be loaded into the same process, and so there would be much less data available to the attacker," said Google software engineer Charlie Reis. t"This significantly reduces the threat posed by Spectre." tThe Spectre attacks, which were made public in January, effectively allow malicious code to read any memory in a process's address space. tThis flaw matters more for browsers because they run JavaScript code from multiple websites, often in the same process, which could allow a website to use such an attack to steal information from other websites. tGoogle said Site Isolation is a large change to Chrome's architecture, limiting each renderer process to documents from a single site. This means all navigations to cross-site documents cause a tab to switch processes. t"Site Isolation is a significant change to Chrome's behavior under the hood, but it generally shouldn't cause visible changes for most users or web developers (beyond a few known issues). It simply offers more protection between websites behind the scenes," Reis said. tHowever, because Site Isolation does cause Chrome to create more renderer processes this means there is a performance impact -- about a 10 to 13 percent total memory overhead in real workloads due to the larger number of processes. tGoogle said Site Isolation has been enabled for 99 percent of users on Windows, Mac, Linux, and Chrome OS in Chrome 67. It has held back one percent to monitor performance. t t t

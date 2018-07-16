@@ -1,0 +1,8 @@
+---
+layout: post
+title: Nicolas Krassas
+date: 2018-07-16 00:00:20
+tourl: http://t.co/nj3EPPRowo
+tags: []
+---
+CSE Malware ZLab  Operation Roman Holiday  Hunting the Russian APT28 https://t.co/3Fk6tIfb5R

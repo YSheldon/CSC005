@@ -1,0 +1,8 @@
+---
+layout: post
+title: Threatpost
+date: 2018-07-13 00:00:20
+tourl: http://t.co/rD9Wvdqf3e
+tags: []
+---
+A critical #vulnerability (CVE-2018-0341) in #Cisco VoIP phones could open the door for attackers to eavesdrop on conversations: https://t.co/i5pYysIsk0
