@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-13 00:00:21
+tourl: https://t.co/k9HZz2bu5G
+tags: [Attack]
+---
+CVE-2018-1000208 MODX Revolution version &lt;=2.6.4 contains a Directory Traversal vulnerability in /core/model/modx/modmanagerrequest.class.php that can result in remove files. This attack appear to be exploitable via web request via ... https://t.co/M4i6LXGZW4

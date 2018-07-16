@@ -1,0 +1,8 @@
+---
+layout: post
+title: Linux Security Labs
+date: 2018-07-15 00:00:21
+tourl: https://t.co/ee1vBPOO91
+tags: [Scripting]
+---
+Tool review: XSS Hunter (Cross-site scripting scanner) by @IAmMandatory #pentesting #xss https://t.co/Y075bPVTAV

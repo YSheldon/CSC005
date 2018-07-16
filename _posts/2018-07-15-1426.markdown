@@ -1,0 +1,12 @@
+---
+layout: post
+title: Cisco DevNet
+date: 2018-07-15 00:00:22
+tourl: https://t.co/mDiImjXaOX
+tags: [Draft]
+---
+Learn about "Draft," a useful tool that enables developers to easily build applications and run them in Kubernetes with no #K8s management experience required. 
+
+You get to focus on your code! https://t.co/UByIZqwFet
+
+ Part 9 of @juliodevops DevOps series.

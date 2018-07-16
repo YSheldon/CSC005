@@ -1,0 +1,12 @@
+---
+layout: post
+title: The Hacker News
+date: 2018-07-13 00:00:24
+tourl: https://t.co/tbidM9ew0f
+tags: [Attack,Telegram,WhatsApp]
+---
+In a "highly targeted" attack, hackers used malicious MDM (Mobile Device Management) solution to remotely install malware apps and spy on 13 #iPhone users in India
+
+https://t.co/v4rGc5kwq8
+
+Attackers add malicious features into legitimate apps like Telegram &amp; WhatsApp. https://t.co/U9BKgJaddJ

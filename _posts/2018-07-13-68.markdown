@@ -1,0 +1,8 @@
+---
+layout: post
+title: Advanced Mobile Malware Campaign in India uses Malicious MDM
+date: 2018-07-13 01:02:11
+tourl: https://blogs.cisco.com/security/talos/advanced-mobile-malware-campaign-in-india-uses-malicious-mdm
+tags: [Source]
+---
+tttCisco Talos has identified a highly targeted campaign against 13 iPhones which appears to be focused on India. The attacker deployed an open-source mobile device management (MDM) system to control enrolled devices. At this time, we dont know how the attacker managed to enroll the targeted devices. Enrollment could be done through physical access to the devices, or most likely by using social engineering to entice a user to register. In social engineering attacks the victim is tricked into clicking accept or giving the attacker physical access to a device. This campaign is of note since the malware goes to great lengths to replace specific mobile apps for data interception. Talos has worked closely with Apple on countering this threat. Apple had already actioned 3 certificates associated with this actor when Talos reached out, and quickly moved to action the two others once Talos tied them to the threat.An MDM is designed to deploy applications on enrolled devices. In this campaign we identified five applications that have been distributed by this system to the 13 targeted devices in India. Two of them appear to test the functionality of the device, one steals SMS message contents, and the remaining two report the location of the device and can exfiltrate various data.We'd love to hear from you! To earn points and badges for participating in the conversation, join 

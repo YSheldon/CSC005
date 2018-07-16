@@ -1,0 +1,10 @@
+---
+layout: post
+title: ESET
+date: 2018-07-13 00:00:22
+tourl: http://t.co/7tmiHMr0C2
+tags: [Telegram]
+---
+#ICYMI @ESET researchers discovered a new malware family of Android Remote Administration Tools abusing Telegram protocols for command and control and exfiltration:
+
+https://t.co/ov3Ggon1O6

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Kevin Beaumont
+date: 2018-07-15 00:00:22
+tourl: https://t.co/mJWyBQgFpy
+tags: [Attack,Chaos]
+---
+If you want to cyber attack most corporate networks, plug in a PC and enable DHCP server. Within a few hours chaos is ensuing. https://t.co/lNlGUelXCW

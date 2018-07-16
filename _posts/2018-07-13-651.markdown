@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-13 00:00:20
+tourl: https://t.co/k9HZz2bu5G
+tags: [Group]
+---
+CVE-2016-9489 In ManageEngine Applications Manager 12 and 13, an authenticated user is able to alter all of their own properties, including own group, i.e. changing their group to one with higher privileges like "ADMIN". A user is ... https://t.co/DXj1FJ6i3A

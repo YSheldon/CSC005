@@ -1,0 +1,10 @@
+---
+layout: post
+title: Hacker Combat
+date: 2018-07-13 00:00:22
+tourl: https://t.co/iut6rbXdAu
+tags: [GDPR]
+---
+Things to Consider When Defending Against #Malware
+https://t.co/qXhRYXFDYc
+#cybersecurity #GDPRcompliance #GDPR #cybercrime #cyberattacks #IoTSecurity #IIoT #cyberthreats #Google #Microsoft #androidapp #Android #VPN #MalwareMustDie #apps #MobileApp #Azure #OS

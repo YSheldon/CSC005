@@ -1,0 +1,8 @@
+---
+layout: post
+title: CyberScoop
+date: 2018-07-14 00:00:21
+tourl: https://t.co/UiSN102kIR
+tags: [Tor]
+---
+Brave browser adds private tabs with Tor for 'enhanced privacy protection' https://t.co/bD64r8C1wD

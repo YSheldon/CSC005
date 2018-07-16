@@ -1,0 +1,11 @@
+---
+layout: post
+title: Malwrologist
+date: 2018-07-16 00:00:23
+tourl: https://t.co/DMaAFKt4hs
+tags: [exploit,PowerShell]
+---
+#malicious #rtf (#exploit) -&gt; #hta (#vbscript -&gt; #powershell) -&gt; #PE
+#rtf https://t.co/uqnzAMo2XN
+#hta /u.teknik.io/5FIj8.hta
+#PE /d10656335.u29.c11.ixinstant.com/blog/sp.exe https://t.co/9brmZ3PDTW
