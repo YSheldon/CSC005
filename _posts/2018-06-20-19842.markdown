@@ -1,0 +1,8 @@
+---
+layout: post
+title: [ALERT] There Is A New Hybrid Cyber Attack On Banks And Credit Unions In The Wild
+date: 2018-06-20 00:02:1
+tourl: https://blog.knowbe4.com/alert-there-is-a-new-hybrid-cyber-attack-on-banks-and-credit-unions-in-the-wild
+tags: [attack]
+---
+The issue he warned me about today is the following. There is a new hybrid attack that starts with a Banking Trojan which gets on the machine by using social engineering to get in, suspected to be email.Â Once the Trojan kicks in, it looks in real time for the word "bank" in the browser and if it sees the end user go to their bank, they redirect the user to a malicious site that looks like that bank and steals their credentials. Up to now this is nothing new.The Trojan starts to slow down the browser, and simulates "technical problems" with the site for a few minutes. Then it comes up with another popup which asks for their name and phone number so that "support can call them back".Next, This is the first time that we hear about this nasty variant on the Let's stay safe out there.Warm regards,Â  Topics:Â Ĺ  KnowBe4, Inc. All rights reserved. | 

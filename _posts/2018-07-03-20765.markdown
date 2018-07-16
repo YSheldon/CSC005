@@ -1,0 +1,8 @@
+---
+layout: post
+title: Theyre Trying to Run Malicious Code (And Youre Letting Them!)
+date: 2018-07-03 00:02:2
+tourl: https://blog.knowbe4.com/theyre-trying-to-run-malicious-code-and-youre-letting-them
+tags: [PowerShell,Mshta]
+---
+The bad guys have an advantage: your endpoints run applications by design! So, if they can leverage known legitimate binaries that are a part of the OS to accomplish malicious tasks, many of your leading anti-virus and endpoint protection solutions are helpless to stop them.This is what eSentire found in their latest This leveraging of executables that are known to the OS is yet another example of a PowerShell particularly provides attackers with a number of capabilities that are Âcriminal-friendlyÂ:In the case of PowerShell and MSHTA, some endpoint detection and response (EDR) solutions do deep analysis of processes and their actions, looking for anomalous behavior. Finding one that can analyze even OS-specific processes will help.In addition, educating users to be more aware of malware, phishing attacks, and how to avoid infection usingTopics:Â Ĺ  KnowBe4, Inc. All rights reserved. | 

@@ -1,0 +1,8 @@
+---
+layout: post
+title: NPM Fails Worldwide With \
+date: 2018-05-29 00:02:0
+tourl: https://www.bleepingcomputer.com/news/technology/npm-fails-worldwide-with-err-418-im-a-teapot-error/
+tags: [Group]
+---
+Users of the NPM JavaScript package manager were greeted by a weird error yesterday evening, as their consoles and applications spewed a message of "ERR! 418 I'm a teapot" whenever they tried to update or install a new JavaScript/Node.js package.JavaScript developers from all over the world received the error, and not just in certain geographical regions.The bug did not affect all users, but only those behind a proxy server. In spite of this, a large number of developers were impacted because most large-scale development firms usually operate behind proxies that regulate and control internal network traffic.The reason for the bug was that some proxy servers where appending a port value to requests destined for the NPM package registry, resulting in HTTP requests that looked like The additional port 443 value confused the NPM registry's servers, which then triggered the 418 error code.The NPM team The "Error 418 I'm a teapot" message is not a standard server error type. This all goes back to an April Fools' prank dating to 1998, when a group of developers jokingly proposed the The In the last two decades, the 1998 prank achieved It's now quite apparent that the team behind the Node Package Manager (NPM) was also a fan of this meme.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Hacker News
-date: 2018-07-06 00:00:22
+date: 2018-07-06 00:00:23
 tourl: https://t.co/tbidM9ew0f
 tags: [File Deletion,exploit]
 ---

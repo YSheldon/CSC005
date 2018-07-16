@@ -1,0 +1,8 @@
+---
+layout: post
+title: Context is the Key to Phishing Success
+date: 2018-07-07 00:02:1
+tourl: https://blog.knowbe4.com/context-is-the-key-to-phishing-success
+tags: [attack]
+---
+Phishing is all about convincing the recipient that the email is valid and, therefore, needs to be read and addressed. As humans, we look at the email and derive its context to determine whether we believe itÂs necessary to open, read, and click through.A number of factors come into play when determining context:Cybercriminals who are phishing (and not spearphishing) use common use cases that will get the most attention Â a package delivery, an invoice, account issues at major online businesses, etc. There are countless scams that apply to the masses Â both personally and professionally Â making it possible for pure context to be what pushes an email over the tipping point of success.According to NIST, there are three parts to the strategy:While technology does have a role, you can see from the list above, users play a far greater role in both proactively stopping a threat, as well as responding to one. So, as you review your current security strategy, and the solutions used to create a defensive layer, consider the human factor Â users are your last line of defense, and may prove to be a better barrier to attack than even the most cutting edge software.Download, print (and laminate) this Â Topics:Â Ĺ  KnowBe4, Inc. All rights reserved. | 

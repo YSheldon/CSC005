@@ -1,0 +1,8 @@
+---
+layout: post
+title: When Ransomware Attacks Triple, You Need to Pay Attention!
+date: 2018-06-26 00:02:1
+tourl: https://blog.knowbe4.com/when-attacks-triple-you-need-to-pay-attention
+tags: [attack]
+---
+WeÂre constantly hearing stats citing the increase in the number of attacks, malware variants, and the cost to organizations. Sometimes it can become a bit numbing. But when we hear about significant jumps in the state of attack, we feel itÂs our responsibility to try to put the news front of mind.The attention-getting stats you need to be aware of are those that are 2018 year to date:Cybercriminals are stepping up their game in response to more More disturbing was the per-customer stats from SonicWall customers:With the potential to bring in hundreds of thousands, to millions of dollars, annually with little more than an opportunistic automated attack, you can bet the cybercriminals are laser-focused on finding new ways to get past your security solutions. And if youÂre one of the few organizations that donÂt have a layered defense in place, along with effective With the potential to be the target of 14 phishing attacks a day, along with the realization of ransomware attacks tripling year over year, it's time to pay attention, get the buy-in of the board and your executive team, begin to plan to elevate the security awareness within your organization, and underpin it with a layered security solution strategy.Â New-schoolÂ PS: Don't like to click on redirected buttons? CutPaste this link in your browser: Topics:Â Ĺ  KnowBe4, Inc. All rights reserved. | 
