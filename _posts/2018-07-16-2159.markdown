@@ -1,0 +1,9 @@
+---
+layout: post
+title: Azeria
+date: 2018-07-16 00:00:22
+tourl: https://t.co/jIUkX6kpWv
+tags: [exploit]
+---
+Last year I attended a Black Hat talk showing that most available exploit mitigations were not enabled on the Amazon Echo. Researchers found, reported, and spread awareness about these issues and it was fixed. 
+https://t.co/cxEvYsstYy

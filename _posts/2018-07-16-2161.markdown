@@ -1,0 +1,9 @@
+---
+layout: post
+title: Azeria
+date: 2018-07-16 00:00:22
+tourl: https://t.co/jIUkX6kpWv
+tags: [exploit]
+---
+IoTs are full of vulns and their exploit mitigations are easy to bypass, or not enabled at all. With an estimated 35 billion IoT devices by the end of this year, we need more researchers focusing on finding and fixing as many security holes as possible.
+https://t.co/swdrGPSiHi
