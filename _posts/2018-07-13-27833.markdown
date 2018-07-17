@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-07-13 00:00:20
-tourl: https://t.co/k9HZz2bu5G
-tags: []
----
-CVE-2016-6544 getgps data in iTrack Easy can be modified without authentication by setting the data using the parametercmd:setothergps. This vulnerability can be exploited to alter the GPS data of a lost device.  https://t.co/MmvNUmuURO

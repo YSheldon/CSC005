@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your 2018 guide to cyber insurance is here
-date: 2018-07-12 00:02:1
+date: 2018-07-12 00:02:11
 tourl: https://www.zdnet.com/article/your-2018-guide-to-cyber-insurance-is-here/
 tags: [Attack]
 ---

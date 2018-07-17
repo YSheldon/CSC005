@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vulnerability Spotlight: Multiple Antenna House Vulnerabilities
-date: 2018-07-10 00:02:2
+date: 2018-07-10 00:02:12
 tourl: https://blogs.cisco.com/security/talos/vulnerability-spotlight-multiple-antenna-house-vulnerabilities
 tags: [Exploitation]
 ---

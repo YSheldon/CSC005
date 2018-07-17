@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft Brings the Fluent Design to Office 365 For a Cleaner & Easier Interface
-date: 2018-06-13 00:02:0
+date: 2018-06-13 00:02:10
 tourl: https://www.bleepingcomputer.com/news/microsoft/microsoft-brings-the-fluent-design-to-office-365-for-a-cleaner-and-easier-interface/
 tags: [Group]
 ---

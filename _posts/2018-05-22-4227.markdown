@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spectre chip security vulnerability strikes again; patches incoming
-date: 2018-05-22 00:02:5
+date: 2018-05-22 00:02:15
 tourl: https://www.zdnet.comhttps://www.zdnet.com/article/spectre-chip-security-vulnerability-strikes-again-patches-incoming/
 tags: [Hypervisor,exploit,Exploitation]
 ---

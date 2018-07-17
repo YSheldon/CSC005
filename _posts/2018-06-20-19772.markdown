@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hacking Forum Ad Peddles New Kardon Loader Malware
-date: 2018-06-20 00:02:3
+date: 2018-06-20 00:02:13
 tourl: https://www.bleepingcomputer.com/news/security/hacking-forum-ad-peddles-new-kardon-loader-malware/
 tags: [Trojan,Smoke Loader,Tor,Rootkit]
 ---

@@ -1,8 +1,0 @@
----
-layout: post
-title: Google
-date: 2018-05-10 00:00:20
-tourl: https://t.co/cHZdP4uOdu
-tags: []
----
-Kick off Day 3 with a #io18 Keynote #tbt ? https://t.co/1al3p27MXT https://t.co/lWAGThxLrA

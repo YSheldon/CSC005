@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Smart home gadgets are open to attack: So time for IoT security laws? No, says Europe
-date: 2018-07-11 00:02:6
+date: 2018-07-11 00:02:16
 tourl: https://www.zdnet.com/article/smart-home-gadgets-are-open-to-attack-so-time-for-iot-security-laws-no-says-europe/
 tags: [Law,Attack,Group,Hack,Brute Force]
 ---

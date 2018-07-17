@@ -1,7 +1,7 @@
 ---
 layout: post
 title: App Masks Hidden Printer Tracking Dots to Keep Whistleblowers Safe
-date: 2018-07-02 00:02:1
+date: 2018-07-02 00:02:11
 tourl: https://www.bleepingcomputer.com/news/security/app-masks-hidden-printer-tracking-dots-to-keep-whistleblowers-safe/
 tags: [Source]
 ---

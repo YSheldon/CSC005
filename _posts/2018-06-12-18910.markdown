@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Claroty raises $60 million to protect industrial networks from 'perfect storm' of cyberthreats
-date: 2018-06-12 00:02:2
+date: 2018-06-12 00:02:12
 tourl: https://www.cyberscoop.com/claroty-60-million-series-b/?category_news=technology
 tags: [CISO]
 ---

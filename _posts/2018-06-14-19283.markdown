@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Forcepoint CEO: Stop focusing on tech and start focusing on people
-date: 2018-06-14 00:02:1
+date: 2018-06-14 00:02:11
 tourl: https://www.cyberscoop.com/matt-moynahan-forcepoint-cybersecurity-leadership-forum/?category_news=technology
 tags: [Source]
 ---

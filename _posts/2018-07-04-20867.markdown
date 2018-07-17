@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thermanator Attack Steals Passwords by Reading Thermal Residue on Keyboards
-date: 2018-07-04 00:02:1
+date: 2018-07-04 00:02:11
 tourl: https://www.bleepingcomputer.com/news/security/thermanator-attack-steals-passwords-by-reading-thermal-residue-on-keyboards/
 tags: [Attack]
 ---

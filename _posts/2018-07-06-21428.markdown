@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Two-Thirds of Second-Hand Memory Cards Contain Data From Previous Owners
-date: 2018-07-06 00:02:1
+date: 2018-07-06 00:02:11
 tourl: https://www.bleepingcomputer.com/news/security/two-thirds-of-second-hand-memory-cards-contain-data-from-previous-owners/
 tags: [Source]
 ---

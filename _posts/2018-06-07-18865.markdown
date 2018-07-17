@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Firmware Vulnerabilities Disclosed in Supermicro Server Products
-date: 2018-06-07 00:02:3
+date: 2018-06-07 00:02:13
 tourl: https://www.bleepingcomputer.com/news/security/firmware-vulnerabilities-disclosed-in-supermicro-server-products/
 tags: [System Firmware,exploit]
 ---

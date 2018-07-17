@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When Ransomware Attacks Triple, You Need to Pay Attention!
-date: 2018-06-26 00:02:1
+date: 2018-06-26 00:02:11
 tourl: https://blog.knowbe4.com/when-attacks-triple-you-need-to-pay-attention
 tags: [Attack]
 ---

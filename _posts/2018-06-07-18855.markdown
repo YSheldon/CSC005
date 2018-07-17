@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Capgemini to buy cybersecurity arm of Leidos
-date: 2018-06-07 00:02:0
+date: 2018-06-07 00:02:10
 tourl: https://www.cyberscoop.com/capgemini-leidos-acquisition/?category_news=technology
 tags: [Group]
 ---

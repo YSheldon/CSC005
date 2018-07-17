@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Valve Patches Security Bug That Existed in Steam Client for the Past Ten Years
-date: 2018-05-31 00:02:2
+date: 2018-05-31 00:02:12
 tourl: https://www.bleepingcomputer.com/news/security/valve-patches-security-bug-that-existed-in-steam-client-for-the-past-ten-years/
 tags: [Exploitation]
 ---

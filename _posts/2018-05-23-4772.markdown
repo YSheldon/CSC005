@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Over a dozen vulnerabilities uncovered in BMW vehicles
-date: 2018-05-23 00:02:3
+date: 2018-05-23 00:02:13
 tourl: https://www.zdnet.comhttps://www.zdnet.com/article/over-a-dozen-vulnerabilities-uncovered-in-bmw-vehicles/
 tags: [exploit,Attack,Group]
 ---

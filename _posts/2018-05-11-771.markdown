@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Symantec shares plunge after board discloses internal investigation
-date: 2018-05-11 00:02:2
+date: 2018-05-11 00:02:12
 tourl: https://www.zdnet.comhttps://www.zdnet.com/article/symantec-shares-plunge-after-board-discloses-internal-investigation/
 tags: [Law]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Mirai Variant Adds Three Exploits
-date: 2018-05-21 00:02:3
+date: 2018-05-21 00:02:13
 tourl: https://www.infosecurity-magazine.com:443/news/new-mirai-variant-adds-three/
 tags: [Brute Force,exploit]
 ---

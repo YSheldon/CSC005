@@ -1,7 +1,7 @@
 ---
 layout: post
 title: [ALERT] There Is A New Hybrid Cyber Attack On Banks And Credit Unions In The Wild
-date: 2018-06-20 00:02:1
+date: 2018-06-20 00:02:11
 tourl: https://blog.knowbe4.com/alert-there-is-a-new-hybrid-cyber-attack-on-banks-and-credit-unions-in-the-wild
 tags: [Attack,Trojan]
 ---

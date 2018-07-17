@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Facebook, Google Manipulate Users to Share Personal Data Despite GDPR
-date: 2018-06-27 00:02:2
+date: 2018-06-27 00:02:12
 tourl: https://www.bleepingcomputer.com/news/technology/facebook-google-manipulate-users-to-share-personal-data-despite-gdpr/
 tags: [GDPR]
 ---

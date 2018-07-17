@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Force companies to list who has accessed customer data: Productivity Commission
-date: 2018-07-04 00:02:4
+date: 2018-07-04 00:02:14
 tourl: https://www.zdnet.com/article/force-companies-to-list-who-has-accessed-customer-data-productivity-commission/
 tags: [GDPR,Law]
 ---

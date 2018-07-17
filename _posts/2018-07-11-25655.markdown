@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-07-11 00:00:20
-tourl: https://t.co/k9HZz2bu5G
-tags: []
----
-CVE-2018-3932 An exploitable stack-based buffer overflow exists in the Microsoft Word document conversion functionality of the Antenna House Office Server Document Converter version V6.1 Pro MR2 for Linux64 (6,1,2018,0312). A ... https://t.co/NKwrcmyzDX

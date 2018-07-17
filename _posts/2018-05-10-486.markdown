@@ -1,8 +1,0 @@
----
-layout: post
-title: Google
-date: 2018-05-10 00:00:20
-tourl: https://t.co/cHZdP4uOdu
-tags: []
----
-...Though we don't play favorites, what made you go ???? ???? ???? at #io18?

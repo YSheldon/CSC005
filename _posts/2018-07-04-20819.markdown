@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4G is vulnerable to same types of attacks as 3G, researchers say
-date: 2018-07-04 00:02:6
+date: 2018-07-04 00:02:16
 tourl: https://www.cyberscoop.com/4g-vulnerable-types-attacks-3g-researchers-say/?category_news=technology
 tags: [Exploitation,exploit,Department of Homeland Security]
 ---

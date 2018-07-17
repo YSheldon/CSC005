@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cybersecurity training still neglected by many employers
-date: 2018-05-21 00:02:2
+date: 2018-05-21 00:02:12
 tourl: https://www.welivesecurity.com/2018/05/21/cybersecurity-training-still-neglected/
 tags: [Law]
 ---

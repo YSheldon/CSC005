@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gaming Companies Remove Analytics App After Massive User Outcry
-date: 2018-06-17 00:02:1
+date: 2018-06-17 00:02:11
 tourl: https://www.bleepingcomputer.com/news/gaming/gaming-companies-remove-analytics-app-after-massive-user-outcry/
 tags: [Source]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wi-Fi security gets a boost as WPA3 standard is launched
-date: 2018-06-26 00:02:0
+date: 2018-06-26 00:02:10
 tourl: https://www.welivesecurity.com/2018/06/26/113523/
 tags: [Group]
 ---

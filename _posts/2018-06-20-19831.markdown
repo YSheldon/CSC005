@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Los Alamos deploys drone defenses
-date: 2018-06-20 00:02:2
+date: 2018-06-20 00:02:12
 tourl: https://defensesystems.com/articles/2018/06/19/los-alamos-drone-mitigation.aspx
 tags: [Law]
 ---

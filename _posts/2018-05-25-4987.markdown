@@ -1,7 +1,7 @@
 ---
 layout: post
 title: One in Three HCOs Hit by Cyber-Attack
-date: 2018-05-25 00:02:5
+date: 2018-05-25 00:02:15
 tourl: https://www.infosecurity-magazine.com:443/news/one-in-three-hcos-hit-by/
 tags: [Attack,GDPR,CISO]
 ---

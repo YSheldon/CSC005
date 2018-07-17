@@ -1,7 +1,7 @@
 ---
 layout: post
 title: #Infosec18: Infosec Pros Must Get Their Hands Dirty with Quantum Computing
-date: 2018-06-05 00:02:6
+date: 2018-06-05 00:02:16
 tourl: https://www.infosecurity-magazine.com:443/news/infosec18-infosec-pros-must/
 tags: [CISO,National Security Agency,NSA]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Security Firm Sued for Failing to Detect Malware That Caused a 2009 Breach
-date: 2018-07-09 00:02:5
+date: 2018-07-09 00:02:15
 tourl: https://www.bleepingcomputer.com/news/security/security-firm-sued-for-failing-to-detect-malware-that-caused-a-2009-breach/
 tags: [Hack,Bill,Attack]
 ---

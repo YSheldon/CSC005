@@ -1,8 +1,0 @@
----
-layout: post
-title: David Gerard
-date: 2018-05-20 00:00:20
-tourl: https://t.co/E240mnk62C
-tags: []
----
-RT @TonyDPerez: Hot Tip For Writers New To The Submission Game: When first reaching out to an acquiring editor, threaten to sue them. https

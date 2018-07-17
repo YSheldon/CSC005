@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Airports Ill-Equipped to Deal with Major Cyber-Attacks
-date: 2018-05-16 00:02:1
+date: 2018-05-16 00:02:11
 tourl: https://www.infosecurity-magazine.com:443/news/airports-illequipped-cyberattacks/
 tags: [Attack,Group]
 ---

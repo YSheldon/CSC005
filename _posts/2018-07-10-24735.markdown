@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Apple fixes iPhone crash bug whenever Taiwan was mentioned
-date: 2018-07-10 00:02:2
+date: 2018-07-10 00:02:12
 tourl: https://www.zdnet.com/article/a-weird-bug-crashed-some-iphones-to-censor-taiwan/
 tags: [China,WhatsApp]
 ---

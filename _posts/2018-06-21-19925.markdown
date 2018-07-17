@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ham-fisted hacker gets jail time for serial DDoS attacks
-date: 2018-06-21 00:02:4
+date: 2018-06-21 00:02:14
 tourl: https://www.welivesecurity.com/2018/06/21/ham-fisted-cybercriminal-gets-jail-time-serial-ddos-attacks/
 tags: [Attack,Source,Law]
 ---

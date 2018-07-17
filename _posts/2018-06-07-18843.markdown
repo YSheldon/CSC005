@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Google Changing the Look of Their Sign-In Screens
-date: 2018-06-07 00:02:1
+date: 2018-06-07 00:02:11
 tourl: https://www.bleepingcomputer.com/news/google/google-changing-the-look-of-their-sign-in-screens/
 tags: [Source]
 ---

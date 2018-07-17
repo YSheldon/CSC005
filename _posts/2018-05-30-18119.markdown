@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vulnerability remediation startup Vulcan Cyber launches with $4 million in seed funding
-date: 2018-05-30 00:02:1
+date: 2018-05-30 00:02:11
 tourl: https://www.cyberscoop.com/vulcan-cyber-vulnerability-remediation-4-million-seed-funding/?category_news=technology
 tags: [Attack]
 ---

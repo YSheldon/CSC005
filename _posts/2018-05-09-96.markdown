@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Losses, Not Breaches, Drive AppSec Investment
-date: 2018-05-09 00:02:1
+date: 2018-05-09 00:02:11
 tourl: https://www.infosecurity-magazine.com:443/news/losses-not-breaches-drive-appsec/
 tags: [Attack]
 ---

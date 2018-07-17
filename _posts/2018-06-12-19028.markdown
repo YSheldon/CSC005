@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spains La Liga app uses fans phones to detect illegal soccer broadcasts
-date: 2018-06-12 00:02:1
+date: 2018-06-12 00:02:11
 tourl: https://www.welivesecurity.com/2018/06/12/spains-la-liga-app-phones-detect-illegal/
 tags: [Source]
 ---

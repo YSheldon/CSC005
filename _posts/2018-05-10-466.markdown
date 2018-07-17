@@ -1,8 +1,0 @@
----
-layout: post
-title: U.S. Commerce Dept.
-date: 2018-05-10 00:00:20
-tourl: https://t.co/uPiAu9MHPC
-tags: []
----
-RT @NOAASatellites: #ItStillAmazesMe that the first satellite was launched into space just a few decades ago, and now we can see the #Earth

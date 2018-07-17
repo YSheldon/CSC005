@@ -1,8 +1,0 @@
----
-layout: post
-title: David Gerard
-date: 2018-07-14 00:00:20
-tourl: https://t.co/E240mnk62C
-tags: []
----
-thread: how @awscloud's terrible user interface (and I use it every day, and it really is rubbish) literally costs users money in "whoops!" unexpected charges https://t.co/J6gLdPjLYX

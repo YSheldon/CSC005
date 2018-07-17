@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NDAA clears House with fourth-estate cuts intact
-date: 2018-05-31 00:02:4
+date: 2018-05-31 00:02:14
 tourl: https://defensesystems.com/articles/2018/05/30/ndaa-passes-house.aspx
 tags: [Bill,DOD]
 ---

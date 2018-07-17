@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NSA Leaker Winner Pleads Guilty
-date: 2018-06-27 00:02:4
+date: 2018-06-27 00:02:14
 tourl: https://www.infosecurity-magazine.com:443/news/nsa-leaker-winner-pleads-guilty/
 tags: [National Security Agency,NSA]
 ---

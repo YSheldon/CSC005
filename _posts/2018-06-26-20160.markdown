@@ -1,8 +1,0 @@
----
-layout: post
-title: Firefox 61 Released for Windows, Mac, and Linux
-date: 2018-06-26 00:02:1
-tourl: https://www.bleepingcomputer.com/news/software/firefox-61-released-for-windows-mac-and-linux/
-tags: [FTP]
----
-Mozilla will release Firefox 61 later today. The new browser version includes new features, bugfixes, security fixes, and modifications to the Firefox UI.On the UI front, the biggest change is that Mozilla moved the menu that appeared in the upper-right corner of new tabs into the Firefox browser settings section.In addition, websites that use an OpenSearch-compatible search engine can now be added to the Firefox browser as a built-in search provider via a special button on the address bar action menu.Mozilla has also made small improvements to the browser's built-in dark theme, has improved bookmark syncing via the Firefox Sync feature, and is now Under the hood, Firefox has also received performance improvements. According to the Firefox 61 changelog, they are:On the security front, Firefox 61 is also the version where Mozilla has disabled access to FTP subresources (As always, Mozilla will release a list of security vulnerabilities that it fixed in Firefox 61 later this week, as the majority of the Firefox userbase updates to the latest version. A developer-related changelog will be published later today, containing JS, CSS, API, and standards-related changes.Firefox 61 is currently available as a manual download from the Mozilla FTP server, and users will be able to apply the update via the browser's built-in updater later today.

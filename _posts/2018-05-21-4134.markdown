@@ -1,8 +1,0 @@
----
-layout: post
-title: MalwareHunterTeam
-date: 2018-05-21 00:00:20
-tourl: https://t.co/5o4Bi68whn
-tags: []
----
-Anyway, I was first going to tweet about IT guys should make sure the cams of machines they manage (at workplaces I mean, of course) are covered or something when they are not needed, but then realized there are still ones who aren't do anything when they go to clean a PC...

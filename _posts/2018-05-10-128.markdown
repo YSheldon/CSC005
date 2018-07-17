@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Constitutional Validity of Aadhaar, Day 37: Is Aadhaar really for the oppressed?
-date: 2018-05-10 00:02:7
+date: 2018-05-10 00:02:17
 tourl: https://www.medianama.com/2018/05/223-constitutional-validity-of-aadhaar-day-37-is-aadhaar-really-for-the-oppressed/
 tags: [Law,Source,Biometric,Bill]
 ---

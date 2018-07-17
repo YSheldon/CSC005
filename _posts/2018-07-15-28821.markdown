@@ -1,8 +1,0 @@
----
-layout: post
-title: ????
-date: 2018-07-15 00:00:20
-tourl: https://t.co/hmbjhXlhn7
-tags: []
----
-Messing with your WiFi/LTE/whatevah SoCs is a matter of a few hundred $, a backpack, a laptop, some cheap SDR equipment, good antennas and patience. Turn off your phone, it's way better to be paranoid than pwned at the airport. https://t.co/itvzxQtYsG

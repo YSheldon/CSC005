@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 14 free online courses about computer security
-date: 2018-05-22 00:02:1
+date: 2018-05-22 00:02:11
 tourl: https://www.welivesecurity.com/2018/05/22/14-free-online-courses-computer-security/
 tags: [Attack]
 ---

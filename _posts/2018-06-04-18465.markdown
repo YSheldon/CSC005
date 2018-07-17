@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Positioning Cybersecurity as the Business-Enabling Department of Yes
-date: 2018-06-04 00:02:2
+date: 2018-06-04 00:02:12
 tourl: https://www.crowdstrike.com/blog/positioning-cybersecurity-as-the-business-enabling-department-of-yes/
 tags: [Crowdstrike]
 ---

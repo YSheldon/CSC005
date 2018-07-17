@@ -1,7 +1,7 @@
 ---
 layout: post
 title: [Heads-up] Employees Sue Company For W-2 Phishing Scam. Federal Court Decides Triple Damages
-date: 2018-06-25 00:02:2
+date: 2018-06-25 00:02:12
 tourl: https://blog.knowbe4.com/heads-up-employees-sue-company-for-w-2-phishing-scam.-federal-court-decides-triple-damages
 tags: [Law]
 ---

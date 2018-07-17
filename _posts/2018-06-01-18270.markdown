@@ -1,7 +1,7 @@
 ---
 layout: post
 title: World Cup scams: how to avoid an own goal
-date: 2018-06-01 00:02:4
+date: 2018-06-01 00:02:14
 tourl: https://www.welivesecurity.com/2018/06/01/world-cup-scams-avoid-goal/
 tags: [Trojan,Law,exploit]
 ---

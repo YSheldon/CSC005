@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Valor Games: Personal Limits are Meant to be Broken
-date: 2018-06-20 00:02:0
+date: 2018-06-20 00:02:10
 tourl: https://blogs.cisco.com/lifeatcisco/the-valor-games-personal-limits-are-meant-to-be-broken
 tags: [Group]
 ---

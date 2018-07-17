@@ -1,8 +1,0 @@
----
-layout: post
-title: Black Hat
-date: 2018-05-15 00:00:20
-tourl: http://t.co/aMEkUhZgUH
-tags: []
----
-RT @CDameffMD: Honored and excited for my first @BlackHatUSA talk with @jradcliffe02 ! Mental Health Hacks: Fighting Burnout, Depression, &amp;

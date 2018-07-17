@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An ACI Case Study in Healthcare to Protect EMR System and Automate Operations
-date: 2018-06-06 00:02:1
+date: 2018-06-06 00:02:11
 tourl: https://blogs.cisco.com/datacenter/an-aci-case-study-in-healthcare-to-protect-emr-system-and-automate-operations
 tags: [Group,Epic]
 ---

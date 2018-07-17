@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GDPR Could Bring Swathes of Spam Due to Whois Redundancy
-date: 2018-05-18 00:02:5
+date: 2018-05-18 00:02:15
 tourl: https://www.infosecurity-magazine.com:443/news/gdpr-spam-whois/
 tags: [GDPR,Law,Attack]
 ---

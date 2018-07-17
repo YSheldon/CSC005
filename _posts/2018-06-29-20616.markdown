@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Week in Ransomware - June 29th 2018 - Slow week!
-date: 2018-06-29 00:02:1
+date: 2018-06-29 00:02:11
 tourl: https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-june-29th-2018-slow-week/
 tags: [Group,Attack]
 ---

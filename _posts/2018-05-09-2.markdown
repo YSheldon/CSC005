@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DDoS Attacks Ebb and Flow After Webstresser Takedown
-date: 2018-05-09 00:02:3
+date: 2018-05-09 00:02:13
 tourl: https://www.infosecurity-magazine.com:443/news/ddos-attacks-ebb-flow-after/
 tags: [Law,Attack]
 ---

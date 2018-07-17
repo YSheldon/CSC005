@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Two Democratic campaigns hit with DDoS attacks in recent months
-date: 2018-07-10 00:02:10
+date: 2018-07-10 00:02:20
 tourl: https://www.cyberscoop.com/ddos-democratic-campaigns-primary-dnc-dccc/?category_news=technology
 tags: [Attack,NSA,Group,Department of Homeland Security,Law,DHS,Source]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Taking Protection to a New Level: CrowdStrike Announces its $1 Million Breach Prevention Warranty
-date: 2018-06-05 00:02:3
+date: 2018-06-05 00:02:13
 tourl: https://www.crowdstrike.com/blog/taking-protection-to-a-new-level-crowdstrike-announces-its-1-million-breach-prevention-warranty/
 tags: [Crowdstrike,Attack]
 ---

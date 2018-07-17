@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft to Offer 12TB Virtual Machines in the Near Future
-date: 2018-06-05 00:02:5
+date: 2018-06-05 00:02:15
 tourl: https://www.bleepingcomputer.com/news/microsoft/microsoft-to-offer-12tb-virtual-machines-in-the-near-future/
 tags: [PLATINUM]
 ---

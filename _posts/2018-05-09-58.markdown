@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Small Firms Up to 20 Times More Likely to be Breached
-date: 2018-05-09 00:02:1
+date: 2018-05-09 00:02:11
 tourl: https://www.infosecurity-magazine.com:443/news/small-firms-up-to-20-times-be/
 tags: [Attack]
 ---

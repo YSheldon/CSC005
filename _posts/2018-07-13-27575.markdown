@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cyrillic Characters Are Favorites for IDN Homograph Attacks
-date: 2018-07-13 00:02:1
+date: 2018-07-13 00:02:11
 tourl: https://www.bleepingcomputer.com/news/security/cyrillic-characters-are-favorites-for-idn-homograph-attacks/
 tags: [Attack]
 ---

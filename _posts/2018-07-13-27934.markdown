@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Electric utilities use red-teaming, AI to prepare for advanced threats
-date: 2018-07-13 00:02:2
+date: 2018-07-13 00:02:12
 tourl: https://www.cyberscoop.com/electric-utilities-use-red-teaming-ai-to-prepare-for-advanced-threats/?category_news=technology
 tags: [Department of Homeland Security]
 ---

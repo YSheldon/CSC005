@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 75% of Malware Uploaded on No-Distribute Scanners Is Unknown to Researchers
-date: 2018-06-18 00:02:4
+date: 2018-06-18 00:02:14
 tourl: https://www.bleepingcomputer.com/news/security/75-percent-of-malware-uploaded-on-no-distribute-scanners-is-unknown-to-researchers/
 tags: [Law,Telegram]
 ---

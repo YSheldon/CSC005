@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-07-13 00:00:20
-tourl: https://t.co/k9HZz2bu5G
-tags: []
----
-CVE-2016-9484 The generated PHP form code does not properly validate user input folder directories, allowing a remote unauthenticated attacker to perform a path traversal and access arbitrary files on the server. The PHP FormMail ... https://t.co/HBbZ51Uqkf

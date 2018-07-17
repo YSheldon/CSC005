@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Google Account Update Makes It Easier to Manage Your Data
-date: 2018-06-21 00:02:0
+date: 2018-06-21 00:02:10
 tourl: https://www.bleepingcomputer.com/news/google/new-google-account-update-makes-it-easier-to-manage-your-data/
 tags: [Group]
 ---

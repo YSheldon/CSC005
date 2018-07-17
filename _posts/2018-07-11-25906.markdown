@@ -1,8 +1,0 @@
----
-layout: post
-title: Extension Created That Adds Chrome Activity to the Windows 10 Timeline
-date: 2018-07-11 00:02:1
-tourl: https://www.bleepingcomputer.com/news/microsoft/extension-created-that-adds-chrome-activity-to-the-windows-10-timeline/
-tags: [Page]
----
-The Windows 10 Timeline feature allows a user to see a historical view of sites that were visited and files that have been opened. Unfortunately, this feature currently only supports sites that you visitedÂ using Microsoft Edge.When UWP app developerÂ This allows these visited sites to appear in the Windows 10 timeline for the user as can be seen below.To use the extension a user will login with their Microsoft account and allow the application to access certain data on the user's Microsoft Graph. This allows the extension to send updates to the Timeline when a user visits web sites using Chrome.As the extension is currently in development and not intended for public use, it uses a redirect URL for the authorization sequence that only connects back to his local machine. Due to this, the extension will not work for anyone else at this time.Â For those who want to take a look at the extension, Maas has made his "Windows Timeline for Chrome" project If you do not want to play with the code, the good news is that Maas has toldÂ BleepingComputerÂ he hopes to release a beta of the extension to the Chrome Web Store soon. He also told us that he plans on adding a filter to the extension so that you can specify sites that will not be sent to the Microsoft Graph and potentially the ability to customize how long you need to view a page before it is sent to the Timeline.

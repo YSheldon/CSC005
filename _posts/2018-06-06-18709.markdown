@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DNA Site MyHeritage Spills Data on 92m Users
-date: 2018-06-06 00:02:4
+date: 2018-06-06 00:02:14
 tourl: https://www.infosecurity-magazine.com:443/news/dna-site-myheritage-spills-data-on/
 tags: [CISO,Exploitation]
 ---

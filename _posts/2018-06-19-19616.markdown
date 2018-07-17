@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cisco Announces Intent to Acquire July Systems
-date: 2018-06-19 00:02:0
+date: 2018-06-19 00:02:10
 tourl: https://blogs.cisco.com/news/cisco-announces-corporate-news-062018
 tags: [Group]
 ---

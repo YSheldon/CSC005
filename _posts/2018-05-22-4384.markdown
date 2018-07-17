@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Spectre variant 4: Our patches cause up to 8% performance hit, warns Intel
-date: 2018-05-22 00:02:1
+date: 2018-05-22 00:02:11
 tourl: https://www.zdnet.comhttps://www.zdnet.com/article/new-spectre-variant-4-our-patches-cause-up-to-8-performance-hit-warns-intel/
 tags: [Attack]
 ---

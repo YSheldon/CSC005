@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Senate to review fusion center plan to deter Russian cyberattacks
-date: 2018-06-21 00:02:9
+date: 2018-06-21 00:02:19
 tourl: https://www.cyberscoop.com/fusion-center-russian-cyberattacks-misinformation-senate-intelligence-committee/?category_news=technology
 tags: [NATO,NSA,Attack,The Office of the Director of National Intelligence,Analyze data collected]
 ---

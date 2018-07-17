@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Edge and fog computing: Key to safer streets? (Part 3)
-date: 2018-06-27 00:02:1
+date: 2018-06-27 00:02:11
 tourl: https://blogs.cisco.com/government/edge-and-fog-computing-key-to-safer-streets-part-3
 tags: [Attack]
 ---

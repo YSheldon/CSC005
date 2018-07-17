@@ -1,7 +1,7 @@
 ---
 layout: post
 title: US Charges 12 Russian Intelligence Officers for Hacking DNC, Running DCLeaks
-date: 2018-07-13 00:02:4
+date: 2018-07-13 00:02:14
 tourl: https://www.bleepingcomputer.com/news/government/us-charges-12-russian-intelligence-officers-for-hacking-dnc-running-dcleaks/
 tags: [Group,X-Agent,X-Tunnel,Hack]
 ---

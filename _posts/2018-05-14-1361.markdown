@@ -1,7 +1,7 @@
 ---
 layout: post
 title: This malware is harvesting saved credentials in Chrome, Firefox browsers
-date: 2018-05-14 00:02:1
+date: 2018-05-14 00:02:11
 tourl: https://www.zdnet.comhttps://www.zdnet.com/article/this-malware-is-harvesting-saved-credentials-in-chrome-firefox-browsers/
 tags: [PowerShell,Trojan]
 ---

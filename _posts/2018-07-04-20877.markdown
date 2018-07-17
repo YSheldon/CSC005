@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hamas Uses Fake Dating Apps to Infiltrate Israeli Military
-date: 2018-07-04 00:02:1
+date: 2018-07-04 00:02:11
 tourl: https://www.infosecurity-magazine.com:443/news/hamas-fake-dating-israeli-military/
 tags: [WhatsApp,Trojan]
 ---

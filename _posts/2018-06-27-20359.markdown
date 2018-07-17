@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Defender Detecting Legitimate Files as Trojan:Win32/Bluteal.B!rfn
-date: 2018-06-27 00:02:0
+date: 2018-06-27 00:02:10
 tourl: https://www.bleepingcomputer.com/news/security/windows-defender-detecting-legitimate-files-as-trojan-win32-blutealbrfn/
 tags: [Trojan]
 ---

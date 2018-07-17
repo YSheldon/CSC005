@@ -1,7 +1,7 @@
 ---
 layout: post
 title: $94K Business Email Compromise Goes Unnoticed, then Unreported
-date: 2018-06-19 00:02:2
+date: 2018-06-19 00:02:12
 tourl: https://blog.knowbe4.com/94k-business-email-compromise-goes-unnoticed-then-unreported
 tags: [Law]
 ---

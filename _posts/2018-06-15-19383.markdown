@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Police Use of Minority Report-Style Pre-Crime Tech Raises Inaccuracy Concerns
-date: 2018-06-15 00:02:2
+date: 2018-06-15 00:02:12
 tourl: https://www.bleepingcomputer.com/news/government/police-use-of-minority-report-style-pre-crime-tech-raises-inaccuracy-concerns/
 tags: [Law]
 ---

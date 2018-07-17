@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft July 2018 Patch Tuesday Fixes 53 Security Bugs Across 15 Products
-date: 2018-07-10 00:02:1
+date: 2018-07-10 00:02:11
 tourl: https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2018-patch-tuesday-fixes-53-security-bugs-across-15-products/
 tags: [PowerShell]
 ---

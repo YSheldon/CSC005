@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Senator wants to know how police can locate any phone in seconds without a warrant
-date: 2018-05-11 00:02:4
+date: 2018-05-11 00:02:14
 tourl: https://www.zdnet.comhttps://www.zdnet.com/article/securus-police-cell-phones-warrantless-tracking/
 tags: [Law,Source,WhatsApp]
 ---

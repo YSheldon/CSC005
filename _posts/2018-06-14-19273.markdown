@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DBGer Ransomware Uses EternalBlue and Mimikats to Spread Across Networks
-date: 2018-06-14 00:02:1
+date: 2018-06-14 00:02:11
 tourl: https://www.bleepingcomputer.com/news/security/dbger-ransomware-uses-eternalblue-and-mimikats-to-spread-across-networks/
 tags: [Mimikatz,Group]
 ---

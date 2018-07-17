@@ -1,7 +1,7 @@
 ---
 layout: post
 title: This new type of DDoS attack takes advantage of an old vulnerability
-date: 2018-05-15 00:02:2
+date: 2018-05-15 00:02:12
 tourl: https://www.zdnet.comhttps://www.zdnet.com/article/this-new-type-of-ddos-attacks-takes-advantage-of-an-old-vulnerability/
 tags: [Attack,Source]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PROPagate Code Injection Technique Detected in the Wild for the First Time
-date: 2018-06-29 00:02:3
+date: 2018-06-29 00:02:13
 tourl: https://www.bleepingcomputer.com/news/security/propagate-code-injection-technique-detected-in-the-wild-for-the-first-time/
 tags: [FIREEYE,exploit]
 ---

@@ -1,8 +1,0 @@
----
-layout: post
-title: User data exposed in Domain Factory hosting security breach
-date: 2018-07-09 00:02:2
-tourl: https://www.zdnet.com/article/user-data-exposed-in-domain-factory-hosting-security-breach/
-tags: [route,FTP]
----
-tGerman hosting provider Domain Factory has experienced a data breach which has exposed customer data.Last week, the Following this statement, Domain Factory pulled its forum and launched an investigation. The company found the claims to be true and says that customer data "was accessed by an outside party without authorization" on 28 January 2018.Customer names, numbers, physical addresses, email addresses, phone numbers, and dates of birth were included in the breach, alongside account passwords, bank names, and account numbers, such as IBAN and BIC.A "data feed" was compromised and while the "access route" has now been secured -- in other words, the vulnerable system has been patched -- the data breach was not discovered until 3 July."We [will] take appropriate measures to prevent a recurrence of such a problem," Domain Factory says. Customers are being urged to However, Domain Factory is not only suggesting that customers change their account credentials, but also MySQL, SSH, FTP, and Live disk passwords as their websites, in theory, may also be compromised due to the data leak.Domain Factory says that data protection authorities have been notified of the breach, and external experts have been brought in to investigate the issue. 

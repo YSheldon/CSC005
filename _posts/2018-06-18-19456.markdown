@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Andy OS Android Emulator Reportedly Installing a GPU Miner
-date: 2018-06-18 00:02:0
+date: 2018-06-18 00:02:10
 tourl: https://www.bleepingcomputer.com/news/security/andy-os-android-emulator-reportedly-installing-a-gpu-miner/
 tags: [Trojan,Group]
 ---

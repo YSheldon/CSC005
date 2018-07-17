@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Collaboration at #CLUS, Day 1: Technology and Optimism
-date: 2018-06-12 00:02:1
+date: 2018-06-12 00:02:11
 tourl: https://blogs.cisco.com/collaboration/clus18-day-1
 tags: [Chaos]
 ---

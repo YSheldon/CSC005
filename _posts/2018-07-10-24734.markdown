@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AT&T Acquires AlienVault, Mimecast Grabs Ataata
-date: 2018-07-10 00:02:1
+date: 2018-07-10 00:02:11
 tourl: https://www.infosecurity-magazine.com:443/news/att-acquires-alienvault-mimecast/
 tags: [Attack]
 ---

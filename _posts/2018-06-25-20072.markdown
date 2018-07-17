@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hezbollah Accounts Suspended on Twitter & Facebook Amid Escalation With Israel
-date: 2018-06-25 00:02:5
+date: 2018-06-25 00:02:15
 tourl: https://www.bleepingcomputer.com/news/government/hezbollah-accounts-suspended-on-twitter-and-facebook-amid-escalation-with-israel/
 tags: [Group,Telegram,Attack,NSA]
 ---

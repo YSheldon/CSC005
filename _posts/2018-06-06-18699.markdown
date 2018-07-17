@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft Agrees to Rename GVFS Project Over Gnome Confusion
-date: 2018-06-06 00:02:1
+date: 2018-06-06 00:02:11
 tourl: https://www.bleepingcomputer.com/news/microsoft/microsoft-agrees-to-rename-gvfs-project-over-gnome-confusion/
 tags: [Source]
 ---

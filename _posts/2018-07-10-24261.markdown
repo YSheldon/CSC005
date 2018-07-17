@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hacker Steals $13.5 Million From Bancor Cryptocurrency Exchange
-date: 2018-07-10 00:02:2
+date: 2018-07-10 00:02:12
 tourl: https://www.bleepingcomputer.com/news/security/hacker-steals-135-million-from-bancor-cryptocurrency-exchange/
 tags: [Hack]
 ---

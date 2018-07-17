@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SC Magazine Names CrowdStrike Falcon a Best Buy with Five Stars Across All Categories
-date: 2018-07-07 00:02:4
+date: 2018-07-07 00:02:14
 tourl: https://www.crowdstrike.com/blog/sc-magazine-names-crowdstrike-falcon-a-best-buy-with-five-stars-across-all-categories/
 tags: [Crowdstrike,Falcon X,Attack]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why bad coding habits die hardand 7 ways to kill them May 23, 2018 - When it comes to poorly-written code, we're quick to blame programmers without thinking about why bad coding habits form in the first place. Here are seven ways to nip that in the bud.CONTINUE READING
-date: 2018-05-30 00:02:2
+date: 2018-05-30 00:02:12
 tourl: https://blog.malwarebytes.com/101/2018/05/bad-code-wont-die-7-ways-kill/
 tags: [Flame,Source]
 ---

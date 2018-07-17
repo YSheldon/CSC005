@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CrowdStrike Honored as Best Enterprise Security Solution in SC Awards Europe
-date: 2018-06-13 00:02:4
+date: 2018-06-13 00:02:14
 tourl: https://www.crowdstrike.com/blog/crowdstrike-honored-as-best-enterprise-security-solution-in-sc-awards-europe/
 tags: [Crowdstrike,CISO]
 ---

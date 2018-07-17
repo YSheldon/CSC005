@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft Purchasing GitHub for 7.5 Billion in Microsoft Stock
-date: 2018-06-04 00:02:1
+date: 2018-06-04 00:02:11
 tourl: https://www.bleepingcomputer.com/news/microsoft/microsoft-purchasing-github-for-75-billion-in-microsoft-stock/
 tags: [Source]
 ---

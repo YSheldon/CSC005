@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Get The Pay What You Want: Certified White Hat Hacker Bundle
-date: 2018-07-09 00:02:2
+date: 2018-07-09 00:02:12
 tourl: https://www.bleepingcomputer.com/offer/deals/get-the-pay-what-you-want-certified-white-hat-hacker-bundle/
 tags: [Hack]
 ---

@@ -1,8 +1,0 @@
----
-layout: post
-title: U.S. Commerce Dept.
-date: 2018-05-10 00:00:20
-tourl: https://t.co/uPiAu9MHPC
-tags: []
----
-"Coming full-circle to Commerce, I am excited to support the NTIS mission because I appreciate the collaborative benefits of data science innovation," says Data Scientist Dr. Joanna Chan. Read more in her blog for #publicservicerecognitionweek #psrw2018  https://t.co/6mXAeSzF3G https://t.co/MiVbfOotsW

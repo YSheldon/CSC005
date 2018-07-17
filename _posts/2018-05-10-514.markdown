@@ -1,8 +1,0 @@
----
-layout: post
-title: Stanford University
-date: 2018-05-10 00:00:20
-tourl: https://t.co/7oJaKddQMt
-tags: []
----
-A company launched by @StanfordGSB alumni aims to bring farms to 500 major metropolitan areas worldwide. https://t.co/Nw4g54vm9Z

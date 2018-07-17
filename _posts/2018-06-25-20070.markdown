@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learn From Your Mistakes: Organizations Simply Arent Ready
-date: 2018-06-25 00:02:1
+date: 2018-06-25 00:02:11
 tourl: https://blog.knowbe4.com/learn-from-your-mistakes-organizations-simply-arent-ready
 tags: [Attack]
 ---

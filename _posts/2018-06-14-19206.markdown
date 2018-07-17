@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft Fixes Faulty Debian Package That Messed With Users' Settings
-date: 2018-06-14 00:02:1
+date: 2018-06-14 00:02:11
 tourl: https://www.bleepingcomputer.com/news/linux/microsoft-fixes-faulty-debian-package-that-messed-with-users-settings/
 tags: [Source]
 ---

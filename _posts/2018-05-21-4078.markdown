@@ -1,8 +1,0 @@
----
-layout: post
-title: Azeria
-date: 2018-05-21 00:00:20
-tourl: https://t.co/jIUkX6kpWv
-tags: []
----
-I see a lot of old school hackers popping up claiming that young people should never start their career in Security and rather spend like a decade bouncing around helpdesk and sysadmin jobs before getting the first infosec job. Srsly? https://t.co/zQz8h0nz9g

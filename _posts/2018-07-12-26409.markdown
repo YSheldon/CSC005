@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Russia: We want volunteers to help us censor the internet
-date: 2018-07-12 00:02:3
+date: 2018-07-12 00:02:13
 tourl: https://www.zdnet.com/article/russia-we-want-volunteers-to-help-us-censor-the-internet/
 tags: [Group,Telegram,Source]
 ---

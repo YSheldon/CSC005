@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Study: 25% of employees use the same password for every account. AUGH!
-date: 2018-06-12 00:02:2
+date: 2018-06-12 00:02:12
 tourl: https://blog.knowbe4.com/new-study-25-of-employees-use-the-same-password-for-every-account
 tags: [Biometric]
 ---

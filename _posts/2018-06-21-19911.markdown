@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Downloading 3rd Party OpenVPN Configs May Be Dangerous. Heres Why.
-date: 2018-06-21 00:02:3
+date: 2018-06-21 00:02:13
 tourl: https://www.bleepingcomputer.com/news/security/downloading-3rd-party-openvpn-configs-may-be-dangerous-here-s-why/
 tags: [Source,Attack,PowerShell]
 ---

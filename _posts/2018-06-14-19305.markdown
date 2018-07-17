@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Decryptor Released for the Everbe Ransomware
-date: 2018-06-14 00:02:1
+date: 2018-06-14 00:02:11
 tourl: https://www.bleepingcomputer.com/news/security/decryptor-released-for-the-everbe-ransomware/
 tags: [Brute Force]
 ---

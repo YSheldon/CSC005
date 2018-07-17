@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Paladin's anti-hacking browser extension looks like snake oil, experts say
-date: 2018-06-13 00:02:5
+date: 2018-06-13 00:02:15
 tourl: https://www.zdnet.com/article/paladin-security-app-snake-oil-security-experts-say/
 tags: [Brute Force,Attack,Regulations,WhatsApp]
 ---

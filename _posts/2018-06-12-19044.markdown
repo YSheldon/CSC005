@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft June 2018 Patch Tuesday Fixes 50 Security Issues
-date: 2018-06-12 00:02:2
+date: 2018-06-12 00:02:12
 tourl: https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2018-patch-tuesday-fixes-50-security-issues/
 tags: [Attack,PowerShell]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Spectre 1.1 and Spectre 1.2 CPU Flaws Disclosed
-date: 2018-07-11 00:02:3
+date: 2018-07-11 00:02:13
 tourl: https://www.bleepingcomputer.com/news/security/new-spectre-11-and-spectre-12-cpu-flaws-disclosed/
 tags: [Attack,exploit]
 ---

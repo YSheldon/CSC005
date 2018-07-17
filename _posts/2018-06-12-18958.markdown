@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ?Macquarie stands up Australian health cloud
-date: 2018-06-12 00:02:3
+date: 2018-06-12 00:02:13
 tourl: https://www.zdnet.com/article/macquarie-stands-up-australian-health-cloud/
 tags: [Group,DHS,Third-party Software]
 ---

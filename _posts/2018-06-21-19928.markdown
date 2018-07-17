@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CrowdStrike Named a Leader in the 2018 Forrester Wave for Endpoint Security Suites
-date: 2018-06-21 00:02:5
+date: 2018-06-21 00:02:15
 tourl: https://www.crowdstrike.com/blog/crowdstrike-named-a-leader-in-the-2018-forrester-wave-for-endpoint-security-suites/
 tags: [Crowdstrike,Epic,exploit]
 ---

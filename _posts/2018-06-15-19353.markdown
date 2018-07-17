@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Evolve your Manufacturing Environment to an Ultimate State
-date: 2018-06-15 00:02:1
+date: 2018-06-15 00:02:11
 tourl: https://blogs.cisco.com/manufacturing/how-to-evolve-your-manufacturing-environment-to-an-ultimate-state
 tags: [Source]
 ---

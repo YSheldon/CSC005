@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Senators want Commerce to help U.S. firms ditch ZTE
-date: 2018-06-27 00:02:1
+date: 2018-06-27 00:02:11
 tourl: https://www.cyberscoop.com/senators-want-commerce-help-u-s-firms-ditch-zte/?category_news=technology
 tags: [China]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cobalt Cybercrime Group Resumes Phishing Attacks
-date: 2018-05-30 00:02:4
+date: 2018-05-30 00:02:14
 tourl: https://blog.knowbe4.com/cobalt-cybercrime-group-resumes-phishing-attacks
 tags: [Group,Trojan,Regulations,Law]
 ---

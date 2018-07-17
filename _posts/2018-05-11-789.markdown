@@ -1,7 +1,7 @@
 ---
 layout: post
 title: White Hat Spoofs 2FA, Sends User to Phishing Page
-date: 2018-05-11 00:02:1
+date: 2018-05-11 00:02:11
 tourl: https://www.infosecurity-magazine.com:443/news/white-hat-spoofs-2fa-sends-user-to/
 tags: [Attack]
 ---

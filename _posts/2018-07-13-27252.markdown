@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Highly Targeted Attack Infects Only 13 iPhones in India
-date: 2018-07-13 00:02:4
+date: 2018-07-13 00:02:14
 tourl: https://www.bleepingcomputer.com/news/security/highly-targeted-attack-infects-only-13-iphones-in-india/
 tags: [Attack,WhatsApp,Telegram]
 ---

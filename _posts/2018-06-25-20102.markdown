@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FireEye denies 'hack back' claims detailed in new book
-date: 2018-06-25 00:02:10
+date: 2018-06-25 00:02:20
 tourl: https://www.cyberscoop.com/fireeye-hack-back-david-sanger-book/?category_news=technology
 tags: [FIREEYE,Hack,Crowdstrike,China,Law,Bill]
 ---

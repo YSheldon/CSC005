@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cyber-Espionage Group Returns With New Attacks After One Year
-date: 2018-07-09 00:02:7
+date: 2018-07-09 00:02:17
 tourl: https://www.bleepingcomputer.com/news/security/cyber-espionage-group-returns-with-new-attacks-after-one-year/
 tags: [Group,Law,Gaza Cybergang]
 ---
