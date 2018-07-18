@@ -1,0 +1,10 @@
+---
+layout: post
+title: InfoSec PLOW
+date: 2018-07-17 00:00:21
+tourl: https://t.co/kZcPKJhvSW
+tags: [Attack]
+---
+Why a bigger security budget won't prevent an attack: Here's a better approach
+https://t.co/VZzd9pnXxj
++1 InfoSecBot

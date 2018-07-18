@@ -1,0 +1,8 @@
+---
+layout: post
+title: Vincent Yiu
+date: 2018-07-16 00:00:21
+tourl: https://t.co/tj7TTh8Vxh
+tags: [0day]
+---
+And with proper network segregation, an 0day may not even be as effective.

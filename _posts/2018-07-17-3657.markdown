@@ -1,0 +1,8 @@
+---
+layout: post
+title: CrowdStrike
+date: 2018-07-17 00:00:24
+tourl: http://t.co/ULWFfruGKw
+tags: [Crowdstrike,AWS]
+---
+CrowdStrike is thrilled to introduce Falcon Discover for @AWS, a new solution that delivers our next- generation IT #cloud hygiene features across AWS workloads, ensuring advanced visibility into AWS EC2 services. Read our newest blog to learn more. https://t.co/qLQaQN79dc

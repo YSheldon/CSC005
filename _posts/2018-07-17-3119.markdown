@@ -1,0 +1,8 @@
+---
+layout: post
+title: Lost Devices on TfL Network Raise Data Breach Risk
+date: 2018-07-17 01:02:12
+tourl: https://www.infosecurity-magazine.com:443/news/lost-devices-on-tfl-network-risks/
+tags: [exploit]
+---
+Cookies enable us to provide the best experience possible and help us understand how visitors use our website. By browsing Infosecurity Magazine, you agree to our use of cookies.Over 26,000 mobile devices and laptops were lost on the Transport for London (TfL) network between April 2017 and April 2018, raising serious questions about threats individual devices pose to company data security, Through a Freedom of Information (FOI) request, the think tank discovered that 26,272 devices were lost and handed into TFL lost property, with Apple devices taking the top spot followed by Samsung and Lenovo. In an independent study by Responding to the research, Robert Coleman, UKI CTO, "Nobody can prevent mobiles and tablets from being misplaced, but companies can ensure that the applications which reside on these devices are only accessible by the correct privileged users so that fraudsters cannot exploit them as a backdoor into the business."Mobile working and the security of data still continue to concern enterprises. In a report by Parliament Street's report recommends that businesses implement an identity verification strategy for every employee, increase training and "scrap trust" as a strategy: "With cyber-attacks rapidly on the rise, a healthy paranoia is a positive force for change within the organization."Ojas Rege, chief strategy officer, 

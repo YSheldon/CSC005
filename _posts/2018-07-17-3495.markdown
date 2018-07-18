@@ -1,0 +1,9 @@
+---
+layout: post
+title: Malwrologist
+date: 2018-07-17 00:00:21
+tourl: https://t.co/DMaAFKt4hs
+tags: [PowerShell]
+---
+Interesting #malicious #doc -&gt; vba macro is triggered when a user zooms  in/out (InkPicture1_Resize). It has a hidden form that contains encoded  #PowerShell. Dls #PE from /nrrgarment.com/zmoperes.ri  or  /oasis-projects.com/zmoperes.ri
+#doc /172.81.132.149/unsubscr_st_600331.doc https://t.co/owD4TXDAx8

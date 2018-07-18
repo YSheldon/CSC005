@@ -1,0 +1,8 @@
+---
+layout: post
+title: UK SMEs: Know Your Enemy. Plan Your Defense
+date: 2018-07-17 01:02:11
+tourl: https://blog.knowbe4.com/uk-smes-know-your-enemy.-plan-your-defense
+tags: [Attack]
+---
+The UK has faced its share of data breaches resulting from cyber attack  companies like FortnumMason and Dixons Carphone have been in recent headlines. According to With So, what should UK SMEs focus on:While this article focuses on UK businesses, the same principles apply to every part of the globe. If you are a small or medium enterprise who considers themselves a novice when it comes to cyber attacks, consider the 4 steps above as a high-level plan to begin walking down a path to a better cyber security posture.Topics: Š KnowBe4, Inc. All rights reserved. | 

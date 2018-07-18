@@ -1,0 +1,8 @@
+---
+layout: post
+title: CrowdStrike
+date: 2018-07-17 00:00:22
+tourl: http://t.co/ULWFfruGKw
+tags: [Crowdstrike]
+---
+CrowdStrike Falcon goes beyond malware with machine learning, integrated threat intelligence, proactive threat hunting, all delivered safely, securely, efficiently and economically via the cloud. Watch more here, and try our free 15- day trial! #NextGenAV https://t.co/ykQt1y8xFt

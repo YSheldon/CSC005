@@ -1,0 +1,8 @@
+---
+layout: post
+title: CyberScoop
+date: 2018-07-17 00:00:23
+tourl: https://t.co/UiSN102kIR
+tags: [CISO,FIREEYE]
+---
+Watch @NYCDoITT CISO Geoff Brown discuss why intelligence-driven security programs are way to go in our latest video, sponsored by @FireEye: https://t.co/B5KNWOKi9y #threatintel #NYC https://t.co/1hPzKdlQ6O

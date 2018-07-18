@@ -1,0 +1,9 @@
+---
+layout: post
+title: Virus Bulletin
+date: 2018-07-16 00:00:21
+tourl: https://t.co/3UVRbwBJWI
+tags: [Attack]
+---
+Many questions remain around the Spectre attack. Leading mobile malware expert Axelle Apvrille answers two of them: are Android phones vulnerable to Spectre-based attacks? How can we detect malware that uses Spectre (and does any exist)?
+https://t.co/xCL9NBSXHW https://t.co/hdUr7Qow1T

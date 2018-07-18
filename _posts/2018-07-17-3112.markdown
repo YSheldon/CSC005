@@ -1,0 +1,8 @@
+---
+layout: post
+title: CrowdStrike
+date: 2018-07-17 00:00:24
+tourl: http://t.co/ULWFfruGKw
+tags: [Crowdstrike,AWS]
+---
+This morning at the #AWSSummit, CrowdStrike announces the availability of Falcon Discover for #AWS. Falcon Discover empowers security teams through enhanced visibility, control, and improved security posture. #GoCrowdStrike #AWSSummitNYC https://t.co/vHj38mazlV https://t.co/TdmXu5tjJj

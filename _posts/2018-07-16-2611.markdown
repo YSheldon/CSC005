@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-16 00:00:22
+tourl: https://t.co/k9HZz2bu5G
+tags: [exploit]
+---
+CVE-2018-10840 Linux kernel is vulnerable to a heap-based buffer overflow in the fs/ext4/xattr.c:ext4_xattr_set_entry() function. An attacker could exploit this by operating on a mounted crafted ext4 image.  https://t.co/yrTL0MD5XO
