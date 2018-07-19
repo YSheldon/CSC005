@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-18 00:00:22
+tourl: https://t.co/k9HZz2bu5G
+tags: [exploit]
+---
+CVE-2018-3062 Vulnerability in the MySQL Server component of Oracle MySQL (subcomponent: Server: Memcached). Supported versions that are affected are 5.6.40 and prior, 5.7.22 and prior and 8.0.11 and prior. Difficult to exploit ... https://t.co/DjXuXoaNRc

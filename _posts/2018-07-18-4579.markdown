@@ -1,0 +1,8 @@
+---
+layout: post
+title: CrowdStrike
+date: 2018-07-18 00:00:22
+tourl: http://t.co/ULWFfruGKw
+tags: [Crowdstrike]
+---
+CrowdStrike is at the forefront of #BigData technology, generating over 100 billion events per day, which are then analyzed and aggregated by our various #cloud components. Learn how our Data Science team processes such a large volume of event data https://t.co/6npqDbpj5z

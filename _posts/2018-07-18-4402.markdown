@@ -1,0 +1,8 @@
+---
+layout: post
+title: F5 Networks
+date: 2018-07-18 00:00:22
+tourl: https://t.co/Koj3fUWTNg
+tags: [GDPR]
+---
+Telefonica #breach leaves data on millions exposed: https://t.co/ZsR8bGVr0R via @SCMagazine #GDPR

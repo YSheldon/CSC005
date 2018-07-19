@@ -1,0 +1,8 @@
+---
+layout: post
+title: CrowdStrike
+date: 2018-07-18 00:00:22
+tourl: http://t.co/ULWFfruGKw
+tags: [Crowdstrike]
+---
+Watch CrowdStrike CEO @George_Kurtz explain why legacy endpoint protection technologies fail, and how CrowdStrike has revolutionized the endpoint space at #falconUNITE17. We cant wait for our second Fal.Con #cybersecurity conference this fall in Miami, FL https://t.co/GihrMdzhYV

@@ -1,0 +1,8 @@
+---
+layout: post
+title: CrowdStrike
+date: 2018-07-18 00:00:22
+tourl: http://t.co/ULWFfruGKw
+tags: [AWS]
+---
+As the only #cloud native, next-generation security solution of its kind, Falcon Discover for @AWS offers streamlined integration not available with other third- party solutions. Read our blog to learn more about the Falcon Discover for AWS solution https://t.co/B3ZjwIQwLp

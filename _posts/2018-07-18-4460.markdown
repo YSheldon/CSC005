@@ -1,0 +1,10 @@
+---
+layout: post
+title: Avast Software
+date: 2018-07-18 00:00:21
+tourl: https://t.co/bAP5udGmK6
+tags: [Attack]
+---
+Spear phishing is just a more targeted approach of phishing, which tailors its attack for its recipients.
+
+To protect yourself against spear phishing and other social engineering, it's best to employ critical thinking ? https://t.co/St4D2vsO7u via @HowStuffWorks @JonStrickland

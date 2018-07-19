@@ -1,0 +1,8 @@
+---
+layout: post
+title: Linux Security Labs
+date: 2018-07-18 00:00:21
+tourl: https://t.co/ee1vBPOO91
+tags: [Scripting]
+---
+Tool review: Damn Small XSS Scanner (cross-site scripting scanner) by @stamparm #pentesting #analysis https://t.co/9wqn54OmrD
