@@ -884,7 +884,7 @@ table tfoot td {
 }
 
 .wrapper {
-  max-width: 1670px;
+  max-width: 1510px;
   position: relative;
 }
 
@@ -1234,11 +1234,6 @@ footer .copyright {
   font-size: 12px;
 }
 
-.post .post-content .post-download {
-  font-size: 12px;
-  float: right;
-}
-
 .post .post-content .post-title {
   margin: 0 0 10px;
   font-size: 30px;
@@ -1436,14 +1431,43 @@ a.newer-posts:hover {
   background-color: #ecf0f1;
 }
 
-.tag-list span a {
+.tag-list {
+  span {
+    a {
+      text-decoration: none;
+      color: $dark-blue;
+      &:hover {
+        text-decoration: underline;
+        opacity: .8;
+      }
+    }
+  }
+}
+
+.tag-list {
+  padding: 1rem;
+  width: 100%;
+}
+
+.tag-list .post-date,
+.post .post-content .post-words {
+  font-size: 12px;
+}
+
+.tag-list .post-title {
+  margin: 0 0 10px;
+  font-size: 30px;
+  font-weight: 400;
+}
+
+.tag-list .post-title a {
+  font-family: 'PT Serif', serif;
   text-decoration: none;
   color: #263959;
 }
 
-.tag-list span a:hover {
-  text-decoration: underline;
-  opacity: .8;
+.tag-list p {
+  margin-top: 0;
 }
 
 /* - - - - - - - - - - Media Styles - - - - - - - - - - */
