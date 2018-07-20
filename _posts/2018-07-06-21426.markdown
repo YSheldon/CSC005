@@ -1,8 +1,0 @@
----
-layout: post
-title: Kevin Beaumont
-date: 2018-07-06 00:00:22
-tourl: https://t.co/mJWyBQgFpy
-tags: [exploit]
----
-For those who missed this tweet, latest Gandcrab has SMB exploit spreader - it works against XP and 2003 too, so first ransomware to actually support legacy systems. Module is called network fucker.

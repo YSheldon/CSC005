@@ -1,9 +1,0 @@
----
-layout: post
-title: BleepingComputer
-date: 2018-07-13 00:00:21
-tourl: https://t.co/pljq5SLdfN
-tags: [Attack]
----
-Highly Targeted Attack Infects Only 13 iPhones in India - by @campuscodi
-https://t.co/jEaFWgfrjV

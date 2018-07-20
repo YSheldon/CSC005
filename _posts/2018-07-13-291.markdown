@@ -1,8 +1,0 @@
----
-layout: post
-title: Juniper Networks
-date: 2018-07-13 00:00:21
-tourl: http://t.co/vgQj0BlEif
-tags: [Source]
----
-In Infrastructure as Code, the elements required to run IT infrastructure are manageable through APIs, standards-based protocols and open-source automation frameworks. https://t.co/V6Z7bZ55JU https://t.co/sTPlonlqHa

@@ -1,8 +1,0 @@
----
-layout: post
-title: Kevin Beaumont
-date: 2018-07-05 00:00:22
-tourl: https://t.co/mJWyBQgFpy
-tags: [exploit]
----
-There's some really interesting stuff in the new GandCrab, sample in thread.  For one thing it appears to network scan, and SMB exploit. https://t.co/NaaFWnylrZ

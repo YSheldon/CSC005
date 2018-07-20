@@ -1,8 +1,0 @@
----
-layout: post
-title: New Report: Mobile Phishing on the Rise
-date: 2018-07-13 00:02:11
-tourl: https://blog.knowbe4.com/new-report-mobile-phishing-on-the-rise
-tags: [Attack]
----
-Cybercriminals are always looking for every possible way to make money off of a compromised device. While, the attack on mobile devices is nothing new, its gaining momentum as a corporate attack vector. With mobile operating systems less sophisticated to detect malicious links, and with users more trusting of the device and their interactions on it, mobile phishing is alive and well.The goals of mobile phishing are to either trick the victim into providing credentials to a corporate application, or to install surveillance software in stealth to harvest data and activity details from the device.A Some of the reasons mobile users are easier victims have a lot to do with the user experience:As part of yourTopics: Š KnowBe4, Inc. All rights reserved. | 

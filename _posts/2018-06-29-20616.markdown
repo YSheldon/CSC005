@@ -1,8 +1,0 @@
----
-layout: post
-title: The Week in Ransomware - June 29th 2018 - Slow week!
-date: 2018-06-29 00:02:11
-tourl: https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-june-29th-2018-slow-week/
-tags: [Group,Attack]
----
-It has been a very slow week for ransomware, which we are always happy about. While ransomware will never go away completely, as time goes on, more people become educated, and better backup strategies are created, we continue to see ransomware slowly diminishing.Unfortunately, there is something always ready to fill a vacuum. According to a new report by Kaspersky Labs, miners have been increasing steadily and have become a favorite for malware developers.Contributors and those who provided new ransomware information and stories this week include: Back in February we wrote about a new ransomware called Thanatos that was encrypting victim's data, but contained flaws that would not allow the authors to decrypt a victims files even if they paid. Thankfully, the Cisco Talos Group was able to find a method to break the encryption routine in order to create a decryptor that allows victims to recover their files for free.Today was the one year anniversary of the NotPetya ransomware attack. In a report by "This year, however, we came across a huge obstacle in continuing this tradition. We have found that ransomware is rapidly vanishing, and that cryptocurrency mining is starting to take its place."Congrats to  

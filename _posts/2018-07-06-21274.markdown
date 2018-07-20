@@ -1,8 +1,0 @@
----
-layout: post
-title: A new Russian mercenary group is reportedly fighting in Syria
-date: 2018-07-06 00:02:10
-tourl: https://meduza.io/en/news/2018/07/05/a-new-russian-mercenary-group-is-reportedly-fighting-in-syria
-tags: [Group]
----
-A new Russian mercenary group is reportedly active in Syria. According to the independent television station 

@@ -1,8 +1,0 @@
----
-layout: post
-title: Windows 10 Insider Build 17686 Released. Here's Whats New!
-date: 2018-06-06 00:02:12
-tourl: https://www.bleepingcomputer.com/news/microsoft/windows-10-insider-build-17686-released-heres-whats-new/
-tags: [CALENDAR,Video Capture]
----
-Today Microsoft released Windows 10 Insider Preview Build 17686 (Redstone 5) to insiders in the fast and skip ahead rings. This build adds local experience, privacy, and Windows Mixed Reality improvements.This build adds a new "Region" settings page that allows you to override various settings related to your default Region settings. For example, you can change the type of calendar you wish to use, which day is the first day of the week, and short date formats.A new "Language" settings page has been added that allows you to download "Local Experience Packs", which add new languages, from the Microsoft Store. When installing multiple languages, you can change the order they are displayed and the first one will be used for the text in navigation, menus, messages, settings, and help topics.You can access this new Language screen by going to If you have blocked access to your microphone in the settings, when you launch an App that wants to use it, Windows will display an alert asking you to review your privacy settings.You can now run Windows Mixed Reality without a monitor hooked up. You will still need a screen when setting up WMR for the first time, but you can configure it to automatically log you in, so you will no longer need it after.This build also includes improvements to video capture in WMR as well as apps now having the ability to use the Camera Capture UI API to capture images of the mixed reality world.

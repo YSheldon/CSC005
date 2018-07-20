@@ -1,8 +1,0 @@
----
-layout: post
-title: #CiscoChampion Radio, S5|Ep.14: NOC Behind the Scenes
-date: 2018-05-30 00:02:10
-tourl: https://blogs.cisco.com/perspectives/ciscochampion-radio-s5ep14-noc
-tags: [Group]
----
-ttt#CiscoChampion Radio is a podcast series by technologists for technologists. In this episode, Cisco Champions Aaron Kirk discuss the NOC at Cisco Live with Joe Clarke.Listen in and provide us feedback, we would love to hear from you!Cisco Champions are an elite group of technical experts who are passionate about IT and enjoy sharing their knowledge, expertise, and thoughts across the social web and with Cisco. The program has been running for over five years and has earned two industry awards as an industry best practice. Learn more about the program at  Tags:We'd love to hear from you! To earn points and badges for participating in the conversation, join 

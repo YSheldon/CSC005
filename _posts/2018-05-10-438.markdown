@@ -1,8 +1,0 @@
----
-layout: post
-title: U.S. Commerce Dept.
-date: 2018-05-10 00:00:22
-tourl: https://t.co/uPiAu9MHPC
-tags: [Law]
----
-RT @FirstNetGov: #PoliceWeek is a time to honor law enforcement personnel who have paid the ultimate sacrifice. Join us over the next week

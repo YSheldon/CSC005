@@ -1,8 +1,0 @@
----
-layout: post
-title: Can Russian hackers be stopped? Here's why it might take 20 years (cover story PDF)
-date: 2018-06-18 00:02:11
-tourl: https://blog.knowbe4.com/can-russian-hackers-be-stopped-heres-why-it-might-take-20-years-cover-story-pdf
-tags: [China]
----
-For this TechRepublic cover story, their Editor in Chief EMEA They are making the the magazine version of the article available as a free PDF for registered TechRepublic and ZDNet members. From the story: "In the spring of 2015, faced with external cyberattacks on the US of increasing frequency and severity, President Obama made a dramatic announcement.The level of hacking and cyber-espionage against the US had created an "unusual and extraordinary threat to the national security, foreign policy, and economy" of the country, said the President, who declared a national emergency to deal with the threat. This executive order allowed the administration to pursue sanctions against those who attacked US critical infrastructure or stole secrets.Since then the national emergency has been extended three times (it must be reconfirmed every year), but the attacks against the US and its allies continue. Indeed, the ongoing state of emergency did little to deter the most spectacular anti-US hacking campaign in recent years: Russia's meddling in the 2016 US presidential election.Russia is not alone in pursuing cyberattacks--which show little sign of stopping--to advance its aims: The US government and its allies have long complained about the behaviour of China, Iran, and North Korea, too.Download the PDF at TechRepublic to read the rest of the story: Topics: Š KnowBe4, Inc. All rights reserved. | 

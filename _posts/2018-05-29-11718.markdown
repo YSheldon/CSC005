@@ -1,8 +1,0 @@
----
-layout: post
-title: No Smiles for Coca-Cola After Data Breach
-date: 2018-05-29 00:02:11
-tourl: https://www.infosecurity-magazine.com:443/news/no-smiles-for-cocacola-after-data/
-tags: [Source]
----
-Cookies enable us to provide the best experience possible and help us understand how visitors use our website. By browsing Infosecurity Magazine, you agree to our use of cookies.The threat of malicious insiders is one that Coca-Cola knows all too well now that it has had to disclose a breach after a former employee was discovered to have stolen a hard drive. According to The company has now notified affected employees with a letter that explains what happened, what information was involved and what the company is doing in response to the breach."Our investigation identified documents containing certain personal information for Coca-Cola employees and other individuals that was contained in the data held by the former employee. We do not have any information to suggest that the misappropriated information was used to commit identity theft," the In an effort to restore confidence, Coca-Cola wrote that it has secured the services of Kroll to provide identity monitoring for one year at no cost, warning those affected by the breach that "it is important that you remain vigilant against possible identity theft by regularly reviewing your account statement and credit report." Insider threats remain the top source of security incidents, according to PwC's While At the end of the 25 May trading session, the stock was worth $42.32. Today, it is trading up from that at $42.66.  

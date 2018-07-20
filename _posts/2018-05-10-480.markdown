@@ -1,8 +1,0 @@
----
-layout: post
-title: Stanford University
-date: 2018-05-10 00:00:20
-tourl: https://t.co/7oJaKddQMt
-tags: [Group]
----
-When undergraduates know how previous students performed in courses, they receive slightly lower grades than they would have if they did not check the data, according to new research from a group of Stanford scholars. https://t.co/0X7pLOXQhJ

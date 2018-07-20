@@ -1,8 +1,0 @@
----
-layout: post
-title: Microsoft Purchasing GitHub for 7.5 Billion in Microsoft Stock
-date: 2018-06-04 00:02:11
-tourl: https://www.bleepingcomputer.com/news/microsoft/microsoft-purchasing-github-for-75-billion-in-microsoft-stock/
-tags: [Source]
----
-Microsoft announced this morning that they are purchasing the source-code repository site GitHub for $7.5 billion USD in Microsoft stock. While rumors have been According to Microsoft is a developer-first company, and by joining forces with GitHub we strengthen our commitment to developer freedom, openness and innovation, said Satya Nadella, CEO of Microsoft. We recognize the community responsibility we take on with this agreement and will do our best work to empower every developer to build, innovate and solve the worlds most pressing challenges.While Microsoft has made great strides towards developing open source software and integrating open-source projects into Windows, many developers are concerned that this acquisition will give To those that have The news of this acquisition has already caused a huge uptick in projects being imported into Gitlab, which offers a similar service to GitHub. It is too soon to tell if this trend will continue now that the acquisition has been officially announced. 

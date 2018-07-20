@@ -1,8 +1,0 @@
----
-layout: post
-title: The Hill
-date: 2018-07-11 00:00:22
-tourl: http://t.co/t414UtTRv4
-tags: [exploit]
----
-Trump: Undocumented immigrants "using children" to exploit judges https://t.co/Ci8C0hUtxn https://t.co/l5quonX0kb

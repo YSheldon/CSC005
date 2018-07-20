@@ -1,8 +1,0 @@
----
-layout: post
-title: CrowdStrike
-date: 2018-07-13 00:00:22
-tourl: http://t.co/ULWFfruGKw
-tags: [Crowdstrike]
----
-Watch this video to learn about CrowdStrikes Falcon Prevent- our #NextGenAV solution.  See how our endpoint protection goes far beyond malware to effectively combat todays threats. Try it for yourself with our 15 day free, full feature, trial! https://t.co/FFHVg5jFYm

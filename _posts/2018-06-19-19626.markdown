@@ -1,8 +1,0 @@
----
-layout: post
-title: Cyber Security Insurance: Underwriting Is Changing Because Of Billions Of Potential Exposure
-date: 2018-06-19 00:02:10
-tourl: https://blog.knowbe4.com/cybersecurity-insurance-underwriting-is-changing-because-of-billions-of-potential-exposure
-tags: [Group]
----
-Cybersecurity insurers, faced with growing demand, are looking for new ways to better measure their The common underwriting practice, Yampolskiy says in an interview with Information Security Media Group, has been for insurers to use "pen-and-paper questionnaires where they would ask various questions about how those companies protect themselves, and then they would blindly trust the answers the companies provided."Now, some insurers are taking a different approach, he says."Insurance companies started discovering as the For example, AXA Insurance is partnering with SecurityScorecard to incorporate a cybersecurity grading system into the insurer's underwriting methodology.Yampolskiy is co-founder and CEO of Security Scorecard. He has led the company since its beginning in 2013. He has a Ph.D. in cryptography from Yale University: Topics: Š KnowBe4, Inc. All rights reserved. | 

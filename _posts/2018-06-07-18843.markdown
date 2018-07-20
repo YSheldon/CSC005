@@ -1,8 +1,0 @@
----
-layout: post
-title: Google Changing the Look of Their Sign-In Screens
-date: 2018-06-07 00:02:11
-tourl: https://www.bleepingcomputer.com/news/google/google-changing-the-look-of-their-sign-in-screens/
-tags: [Source]
----
-Google has announced that they are changing the look of their sign-in screens on June 14th 2018. These changes are purely cosmetic, but as some may be concerned that they are at the wrong site or are being phished, it is important to recognize what is being changed.In 2014, Google released an open source design system called Over time, Google has been updating their applications to utilize this new theme and it is now the The current Google sign-in screen looks like the following.On June 14th, Google's sign-in screen will begin to utilize the Material Design system, which will include "tweaks to the Google logo, an outline around the text field, and center alignment of all items on the screen."  You can see this new sign-in screen below.While they have announced this on the G Suite blog, Google has told BleepingComputer that this change will appear globally on all Google Google sign-in screens and not only for G Suite customers.So if you you see a new look when signing into Google next week, don't freak out and think your being phished.

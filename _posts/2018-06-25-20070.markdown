@@ -1,8 +1,0 @@
----
-layout: post
-title: Learn From Your Mistakes: Organizations Simply Arent Ready
-date: 2018-06-25 00:02:11
-tourl: https://blog.knowbe4.com/learn-from-your-mistakes-organizations-simply-arent-ready
-tags: [Attack]
----
-Even with the increase in threats and actual experienced attacks, executive and IT teams alike feel like theyre simply not ready for the next attack.You are already well-aware that cyber-security is paramount to the success of your organization. Many of you likely fall into the 45% of organizations that have Attacks include the usual suspects  phishing attacks, ransomware, malware intent on establishing a foothold for a data breach attack, and drive-by attacks that compromise websites in order to infect future visitors.With the threat of attack and the risk of compromise to high, tThe answer may be found by looking at a few stats from a An organizations ability to assess risk, then formulate and execute a security plan all revolves around the issue of budget. According to Willis Towers Watson, 73% of boards feel they need to be So, where should you spend it?And that security culture needs to start at the top  getting executive teams and the board to recognize the importance of cyber security is the only way of successfully doing business today. Once the leadership believes in the need for security to permeate every part of the business, budget will be allocated, appropriate staffing will increase, better strategy will be executed, and a security-mindset will spread across the organization  all putting the organization in an elevated state of readiness for the next attack. Š KnowBe4, Inc. All rights reserved. | 

@@ -1,8 +1,0 @@
----
-layout: post
-title: RSA
-date: 2018-07-13 00:00:20
-tourl: https://t.co/bABGhyqAQB
-tags: [Group]
----
-RSA is pleased to be part of the inaugural group working with @MITREcorp on a @MITREattack ATT&amp;CK framework for RSA NetWitness Platform, evaluating effectiveness to detect specific hackers' tactics &amp; techniques. https://t.co/IIxuTnoIxC

@@ -1,8 +1,0 @@
----
-layout: post
-title: Windows Defender Detecting Legitimate Files as Trojan:Win32/Bluteal.B!rfn
-date: 2018-06-27 00:02:10
-tourl: https://www.bleepingcomputer.com/news/security/windows-defender-detecting-legitimate-files-as-trojan-win32-blutealbrfn/
-tags: [Trojan]
----
-Recently there have been a lot of reports of Windows Defender suddenly detecting files as Trojan:Win32/Bluteal.B!rfn. The detected files range from CPU miners, which would make sense, to legitimate Windows files, which do not.For example, one of our visitors Detections for Trojan:Win32/Bluteal.B!rfn appear to have been added to Windows Defender around May 18th, 2018 When searching for similar cases, I found numerous A brief list of programs and files that have been detected as Bluteal include:After reaching out to Microsoft about this, I was told that this detection was a false positive and that is has already been addressed, but was not told what definition update pushed the fix or when it was resolved.According to If you are still seeing this behavior, you should check for new updates for Windows Defender and install them.To check for new updates you can go to 

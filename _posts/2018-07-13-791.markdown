@@ -1,8 +1,0 @@
----
-layout: post
-title: Ukraine claims it blocked VPNFilter attack at chemical plant
-date: 2018-07-13 01:02:11
-tourl: /2018/07/13/ukraine_vpnfilter_attack/
-tags: [Attack]
----
-A Ukrainian intel agency has claimed it stopped a cyber attack against a chlorine plant that was launched using the notorious VPNFilter malware.Ukraine's SBU Security Service said it thwarted an attack on network equipment belonging to the LLC Aulska chlorine plant in Auly, about an hour away from Dnepr City in Dnipropetrovsk, central Ukraine, Interfax Ukraine Kiev's counterintelligence arm was quick to blame Russia for the assault on the plant, which provides chlorine to water treatment and sewage plants throughout Ukraine. According to the company's "Specialists of the cyber security service established minutes after [the incident] that the enterprise's process control system and system for detecting signs of emergencies had deliberately been infected by the VPNFilter computer virus originating from Russia," the The attack was allegedly geared at disrupting the stable operation of the plant, which provides NaClO (sodium hypochlorite, aka liquid chlorine) for water treatment. Elemental chlorine is commercially produced from a high concentration solution of NaCl (sodium chloride - aka common salt) in water through electrolysis.Workers at the chlorine company worked with its telco providers and cyber security experts at the SBU to thwart the purported attack, the agency said. VPNFilter, first The malware is capable of snooping on encrypted web traffic as well as establishing a backdoor on compromised devices.The code of some versions of the malware overlaps with versions of the Western intel agencies as well as Ukraine's SBU have blamed Russia - an more specifically 

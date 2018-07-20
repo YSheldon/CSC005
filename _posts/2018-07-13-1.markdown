@@ -1,8 +1,0 @@
----
-layout: post
-title: TrendLabs
-date: 2018-07-13 00:00:22
-tourl: http://t.co/MB171H1oL9
-tags: [GDPR]
----
-A new #AI tool  evaluates the privacy policies of 14 top tech companies in compliance with #GDPR. Learn more: https://t.co/mIQALdcVWa https://t.co/H0gZQ7f7TQ

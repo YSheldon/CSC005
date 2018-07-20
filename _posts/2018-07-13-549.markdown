@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-07-13 00:00:21
-tourl: https://t.co/k9HZz2bu5G
-tags: [Attack]
----
-CVE-2018-1000206 JFrog Artifactory version since 5.11 contains a Cross ite Request Forgery (CSRF) vulnerability in UI rest endpoints that can result in Classic CSRF attack allowing an attacker to perform actions as logged in user. ... https://t.co/NCUPuZslMf

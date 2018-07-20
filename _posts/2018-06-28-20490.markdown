@@ -1,8 +1,0 @@
----
-layout: post
-title: Homographic Domains Make Phishing Scams Easier
-date: 2018-06-28 00:02:11
-tourl: https://blog.knowbe4.com/homographic-domains-make-phishing-scams-easier
-tags: [Attack]
----
-If you think that last sentence was a mistake, take another look, as you may be the next phishing victim.Cybercriminals are using internationalized domain names (IDN) to register domain names with characters other than Basic Latin. While the purpose of IDNs are to facilitate a multi-lingual Internet, scammers find ways to register and use domains that look very similar to legitimate ones. If the domain looks convincing enough, users fall prey to attacks involving ransomware, malware, and, eventually, data breaches.For every 1 top global brand, threat intelligence vendor So, what can you do to stop these domains?There are a few things you can do to reduce the likelihood that an attack using a homographic domain will be successful:Cybercriminals will continue to look for ways to appear legitimate. This means homographic domains are just one of the latest tactics used in order to fool users into becoming unwitting participants. Now they can! There are more technical details on ourTopics: Š KnowBe4, Inc. All rights reserved. | 
