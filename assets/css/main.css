@@ -1473,7 +1473,7 @@ a.newer-posts:hover {
           box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
 }
 
-.blog-tags .post-content {
+.blog-tags .tag-list {
   padding: 1rem;
   width: 100%;
 }
