@@ -1473,29 +1473,29 @@ a.newer-posts:hover {
           box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
 }
 
-.tag-list .post-content {
+.blog-tags .post-content {
   padding: 1rem;
   width: 100%;
 }
 
-.tag-list .post-content .post-date,
-.tag-list .post-content .post-words {
+.blog-tags .post-content .post-date,
+.blog-tags .post-content .post-words {
   font-size: 12px;
 }
 
-.tag-list .post-content .post-title {
+.blog-tags .post-content .post-title {
   margin: 0 0 10px;
   font-size: 20px;
   font-weight: 400;
 }
 
-.tag-list .post-content .post-title a {
+.blog-tags .post-content .post-title a {
   font-family: 'PT Serif', serif;
   text-decoration: none;
   color: #263959;
 }
 
-.tag-list .post-content p {
+.blog-tags .post-content p {
   margin-top: 0;
 }
 
