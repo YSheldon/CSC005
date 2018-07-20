@@ -1468,28 +1468,6 @@ a.newer-posts:hover {
           box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
 }
 
-.tag-list .post-thumbnail {
-  width: 30%;
-  max-width: 100%;
-  min-height: 11rem;
-  -webkit-background-size: cover;
-          background-size: cover;
-  background-position: 50% 50%;
-}
-
-.tag-list {
-  span {
-    a {
-      text-decoration: none;
-      color: $dark-blue;
-      &:hover {
-        text-decoration: underline;
-        opacity: .8;
-      }
-    }
-  }
-}
-
 .tag-list .post-content {
   padding: 1rem;
   width: 100%;
@@ -1514,29 +1492,6 @@ a.newer-posts:hover {
 
 .tag-list .post-content p {
   margin-top: 0;
-}
-
-a.older-posts, a.newer-posts {
-  font-size: 18px;
-  display: inline-block;
-  color: #515151;
-  -webkit-transition: -webkit-transform .2s;
-  transition: -webkit-transform .2s;
-  -o-transition: transform .2s;
-  transition: transform .2s;
-  transition: transform .2s, -webkit-transform .2s;
-}
-
-a.older-posts:hover {
-  -webkit-transform: translateX(5px);
-      -ms-transform: translateX(5px);
-          transform: translateX(5px);
-}
-
-a.newer-posts:hover {
-  -webkit-transform: translateX(-5px);
-      -ms-transform: translateX(-5px);
-          transform: translateX(-5px);
 }
 
 /* - - - - - - - - - - Media Styles - - - - - - - - - - */
