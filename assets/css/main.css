@@ -1234,6 +1234,11 @@ footer .copyright {
   font-size: 12px;
 }
 
+.post .post-content .post-download {
+  font-size: 12px;
+  float: right;
+}
+
 .post .post-content .post-title {
   margin: 0 0 10px;
   font-size: 30px;
