@@ -1,0 +1,8 @@
+---
+layout: post
+title: Hakin9
+date: 2018-07-19 00:00:21
+tourl: https://t.co/4DC7miAMag
+tags: [Cobalt Strike]
+---
+Bypassing Memory Scanners with Cobalt Strike and Gargoyle https://t.co/AlSCamSKK5 #infosec #hacking #hackers #pentesting #pentest #programming #opensource #cybersecurity #bypassing #programmers

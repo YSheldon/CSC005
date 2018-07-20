@@ -1,0 +1,12 @@
+---
+layout: post
+title: Drunk Binary
+date: 2018-07-19 00:00:25
+tourl: www.baidu.com
+tags: [Gamaredon Group]
+---
+Gamaredon Group/Temp.Armageddon Dropper/Foothold sample
+b624dbbb892487d826d9ea2a3ada9173
+C2: realy[.]ddns[.]net
+
+https://t.co/hRbjvfmunQ

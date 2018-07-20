@@ -1,0 +1,8 @@
+---
+layout: post
+title: Virus Bulletin
+date: 2018-07-19 00:00:21
+tourl: https://t.co/3UVRbwBJWI
+tags: [New Service]
+---
+False positives impact anti-virus vendors, software developers and end-users. In a bid to help mitigate FPs, @virustotal has launched a new service, VirusTotal Monitor https://t.co/U7r8BimnUD https://t.co/66KQiL0wVs

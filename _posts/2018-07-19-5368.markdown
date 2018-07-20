@@ -1,0 +1,8 @@
+---
+layout: post
+title: Nicolas Krassas
+date: 2018-07-19 00:00:21
+tourl: http://t.co/nj3EPPRowo
+tags: [Attack]
+---
+[papers] VLAN Hopping Attack https://t.co/49lTZdjMKK

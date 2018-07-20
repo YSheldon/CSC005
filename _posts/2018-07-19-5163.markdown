@@ -1,0 +1,8 @@
+---
+layout: post
+title: Binni Shah
+date: 2018-07-19 00:00:21
+tourl: https://t.co/LfZIicBDza
+tags: [File Deletion]
+---
+Kernel Mode Rootkits : File Deletion Protection : https://t.co/yEkyMvJFwW

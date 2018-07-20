@@ -1,0 +1,8 @@
+---
+layout: post
+title: 0day Exploit Database
+date: 2018-07-19 00:00:23
+tourl: https://t.co/ifDhCPJfYM
+tags: [exploit,0day]
+---
+#0daytoday #ModxRevolution 2.6.4 - Remote Code Execution Exploit [webapps #exploits #0day #Exploit] https://t.co/EEFyiDichp

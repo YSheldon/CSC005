@@ -1,0 +1,8 @@
+---
+layout: post
+title: Francisco Alonso
+date: 2018-07-19 00:00:21
+tourl: https://t.co/sH602Xbdym
+tags: [Tor]
+---
+@_niklasb Btw does not have widespread adoption because of the security implications like already happened in past with Tor hardened project.

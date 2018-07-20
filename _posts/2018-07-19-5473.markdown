@@ -1,0 +1,8 @@
+---
+layout: post
+title: IBM Can't Contain Itself, Launches Nabla
+date: 2018-07-19 01:02:12
+tourl: https://www.infosecurity-magazine.com:443/news/ibm-cant-contain-itself/
+tags: [Attack,Hypervisor]
+---
+Cookies enable us to provide the best experience possible and help us understand how visitors use our website. By browsing Infosecurity Magazine, you agree to our use of cookies.According to the Nabla website, IBM researchers have "measured exactly how much access to the kernel common applications exhibit with Nabla containers and standard containers by measuring the number of system calls containerized applications make and correspondingly how much kernel functions they access."A containerized application can avoid making a Linux system call if it links to a library OS component that implements the system call functionality. Nabla containers use library OS - aka unikernel - techniques, specifically those from the Solo5 project, to avoid system calls and thereby reduce the attack surface. Nabla containers only use 9 system calls, all others are blocked via a Linux seccomp policy."There has been a fierce debate within the industry regarding whether isolated containers or virtual machines (VMs) are more secure. James Bottomley, IBM research engineer and Linux kernel developer, The researchers then tested Nabla through the metric of performance, and showed that it is "far and away the best containment technology for secure workloads given that it sacrifices the least performance over docker to achieve the containment." The blog also noted that Nabla was two-times more secure than using hypervisor-based containment. There 

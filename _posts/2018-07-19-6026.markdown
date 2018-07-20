@@ -1,0 +1,8 @@
+---
+layout: post
+title: SANS DFIR
+date: 2018-07-19 00:00:20
+tourl: https://t.co/WVAxR23oVQ
+tags: [Group]
+---
+'How to Submit a Threat Profile to MITRE ATT&amp;CK' w/ @wjohnsonsled details what it takes to collect public information security, #threatintel &amp; forensic reports on a security threat group... | #ThreatHuntingSummit in #NewOrleans  9/6 - 13  | Agenda https://t.co/phfHAavmJO    #DFIR https://t.co/jxWK8n3IRZ

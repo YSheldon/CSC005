@@ -1,0 +1,8 @@
+---
+layout: post
+title: Binni Shah
+date: 2018-07-19 00:00:21
+tourl: https://t.co/LfZIicBDza
+tags: [Attack]
+---
+VLAN Hopping Attack : https://t.co/3ELb1hU6tK (pdf)

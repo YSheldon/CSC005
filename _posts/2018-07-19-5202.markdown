@@ -1,0 +1,12 @@
+---
+layout: post
+title: The Hacker News
+date: 2018-07-19 00:00:23
+tourl: https://t.co/tbidM9ew0f
+tags: [Source,exploit]
+---
+Exploiting a Windows 10 PagedPool off-by-one overflow 
+
+https://t.co/uicXwYHaBq
+
+@j00ru has shared full source code of the exploit on GitHub https://t.co/0DV5wXNYeG

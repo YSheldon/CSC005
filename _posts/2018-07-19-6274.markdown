@@ -1,0 +1,8 @@
+---
+layout: post
+title: Brad
+date: 2018-07-19 00:00:21
+tourl: http://t.co/o3Rah323cD
+tags: [Tor]
+---
+2018-07-19 - Checked the same #Trickbot sample again from this morning and got some Tor traffic, but still no or NewBCtestDll64 module.  Booooooo!  - That same #Trickbot .exe sample at: https://t.co/Rx2QzvcNsu https://t.co/BadCEYi959

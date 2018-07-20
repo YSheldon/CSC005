@@ -1,0 +1,8 @@
+---
+layout: post
+title: The CyberWire
+date: 2018-07-19 00:00:35
+tourl: https://t.co/HQuCt1gLbK
+tags: [Sednit,Sofacy,STRONTIUM]
+---
+#CWBriefing: #CSE Cybsec's Z-Lab reports finding #FancyBear (also as #APT28, #Sednit, #PawnStorm, #Sofacy, #Strontium, &amp; #Russia's #GRU) engaged in an #espionage campaign directed against the #Italian Navy. #cybersecurity #infosec https://t.co/TQg6WO3KWt

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Samuel Groß
+date: 2018-07-19 00:00:22
+tourl: https://t.co/ayWtssHkcg
+tags: [Exploitation]
+---
+Happy to announce that I will be teaching my Browser Exploitation Training again at POC in November (https://t.co/Z4YvPwcSgF) and @offensive_con in February (https://t.co/VnhPV5LmHX). Now with a full day of JIT compiler internals and exploitation =)

@@ -1,0 +1,11 @@
+---
+layout: post
+title: FireEye
+date: 2018-07-19 00:00:22
+tourl: http://t.co/aHW53SAv83
+tags: [GDPR]
+---
+#ICYMI: [VIDEO PANEL] Cyber Security in Europe: An Executive Perspective
+
+Watch the recording and hear from our DPO, Richard Weaver on requirements, processes and policies to handle #GDPR:
+https://t.co/Q37gPhg8ly https://t.co/rxZ1xRdPxs

@@ -1,0 +1,11 @@
+---
+layout: post
+title: Joseph Cox
+date: 2018-07-19 00:00:21
+tourl: www.baidu.com
+tags: [China]
+---
+This isn't an iPhone. It's an Android-based knock-off from China.
+
+Obviously we reviewed it and gave it to security researchers to probe. It's loaded with backdoors and malicious apps. 
+https://t.co/4DgRwphmXL https://t.co/qv7zN0IEps
