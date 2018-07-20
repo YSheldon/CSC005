@@ -16,14 +16,11 @@ permalink: /tags/
 <!--  lists all posts corresponding to specific tag...-->
     {% for post in site.tags[this_word] %}{% if post.title != null %}
     <div class="tag-list">
-        <h3 class="post-title"><a href="{{post.tourl}}">{{post.title}}</a></h3>
-        <p>{{ post.content | strip_html | slice:0,90 }}...</p>
-        <span class="post-date">{{post.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
-        {% for tag in post.tags %}
-          <span class="post-words"><a href="{{site.selfurl}}tags/#{{ tag }}">{{ tag }}</a></span>
-          <span>&nbsp;&nbsp;</span>
-        {% endfor %}
+        <span><a href="{{ post.tourl }}">{{ post.title }}</a></span>
+        <small><span>| {{ post.date | date_to_string }}</span></small>
     </div>
     {% endif %}{% endfor %}
   {% endunless %}{% endfor %}
 </section>
+
+{% include pagination.html %}

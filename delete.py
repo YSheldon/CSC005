@@ -3,7 +3,7 @@ import os
 import commands
 
 file_list = os.listdir('/home/website/CSC005/_post')
-num, c_date = commands.getstatusoutput('date -d -7day +%Y-%m-%d')
+num, c_date = commands.getstatusoutput('date -d -6day +%Y-%m-%d')
 print(c_date)
 
 for f in file_list:
@@ -12,5 +12,5 @@ for f in file_list:
     if f_date == c_date:
         print(True)
         f_path = '/home/website/CSC005/_post/' + f
-        shutil.move(f_path, './oldnews')
+        os.remove(f_path)
 
