@@ -1400,6 +1400,7 @@ a.newer-posts:hover {
 }
 
 .blog-tags h2 {
+  font-size: 40px;
   color: #263959;
   margin: 10px 0;
 }
