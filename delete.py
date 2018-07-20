@@ -2,7 +2,7 @@ import shutil
 import os
 import commands
 
-file_list = os.listdir('/home/website/CSC005/_post')
+file_list = os.listdir('/home/website/CSC005/_post/')
 num, c_date = commands.getstatusoutput('date -d -6day +%Y-%m-%d')
 print(c_date)
 
