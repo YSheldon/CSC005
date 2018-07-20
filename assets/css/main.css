@@ -1477,6 +1477,19 @@ a.newer-posts:hover {
   background-position: 50% 50%;
 }
 
+.tag-list {
+  span {
+    a {
+      text-decoration: none;
+      color: $dark-blue;
+      &:hover {
+        text-decoration: underline;
+        opacity: .8;
+      }
+    }
+  }
+}
+
 .tag-list .post-content {
   padding: 1rem;
   width: 100%;
