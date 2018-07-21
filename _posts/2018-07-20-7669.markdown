@@ -1,0 +1,8 @@
+---
+layout: post
+title: Scott Piper
+date: 2018-07-20 00:00:22
+tourl: http://t.co/Akrgmn9RNr
+tags: [AWS]
+---
+A devops friend of mine is looking for a new job. He'll be in Las Vegas for Defcon to meet in person. He's looking to stay in Denver or Chicago. Skilled at setting up AWS with terraform, strong network + security background. DM me to connect.

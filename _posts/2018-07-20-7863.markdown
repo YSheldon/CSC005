@@ -1,0 +1,8 @@
+---
+layout: post
+title: SANS ISC
+date: 2018-07-20 00:00:22
+tourl: http://t.co/iYLQwRRAe1
+tags: [exploit]
+---
+Weblogic Exploit Code Made Public (CVE-2018-2893) https://t.co/Z6b0SgG7yy

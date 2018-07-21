@@ -1,8 +1,0 @@
----
-layout: post
-title: Vincent Yiu
-date: 2018-07-15 00:00:22
-tourl: https://t.co/tj7TTh8Vxh
-tags: [Law]
----
-Multiple VPS. Set up VPN with OpenVPN road warrior and connect through VPN layers, multiple layers, to prevent discovery. However, law enforcement can request access to server / logs, so set up multiple servers in multiple jurisdictions?

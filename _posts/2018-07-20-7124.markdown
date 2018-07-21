@@ -1,0 +1,8 @@
+---
+layout: post
+title: VulDB ????
+date: 2018-07-20 00:00:21
+tourl: https://t.co/VSMdm6a1Og
+tags: [ZLib]
+---
+Wireshark up to 2.6.1 zlib Compression epan/tvbuff_zlib.c Negative Length memory corruption https://t.co/Qdve6b9MXT

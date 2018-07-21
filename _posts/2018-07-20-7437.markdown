@@ -1,0 +1,12 @@
+---
+layout: post
+title: The Hacker News
+date: 2018-07-20 00:00:20
+tourl: https://t.co/tbidM9ew0f
+tags: [Group]
+---
+Singapore's largest healthcare group  SingHealth  suffers a massive data breach
+
+https://t.co/22nEXnQ95a
+
+Hackers stole personal information on 1.5 million patients (a quarter of the country's population) and outpatient dispensed medication data on some 160,000 patients. https://t.co/CKdHAoksNW

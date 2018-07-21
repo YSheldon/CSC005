@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-20 00:00:22
+tourl: https://t.co/k9HZz2bu5G
+tags: [Exploitation]
+---
+CVE-2018-5007 Adobe Flash Player 30.0.0.113 and earlier versions have a Type Confusion vulnerability. Successful exploitation could lead to arbitrary code execution in the context of the current user.  https://t.co/vt3kawiefT

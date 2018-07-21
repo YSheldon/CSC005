@@ -1,0 +1,8 @@
+---
+layout: post
+title: Nicolas Krassas
+date: 2018-07-20 00:00:21
+tourl: http://t.co/nj3EPPRowo
+tags: [Attack]
+---
+GangWang GPS Navigation Attack Leads Unsuspecting Drivers Astray https://t.co/pzLt8GctC4

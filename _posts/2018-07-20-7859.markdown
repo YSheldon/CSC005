@@ -1,0 +1,8 @@
+---
+layout: post
+title: Black Hat
+date: 2018-07-20 00:00:22
+tourl: http://t.co/aMEkUhZgUH
+tags: [Law]
+---
+Details of law and policy changes and their impact on the #InfoSec community will be presented in #BHUSA Community Workshop by Nate Cardozo, Senior Staff Attorney @EFF https://t.co/LW86wxdKYD

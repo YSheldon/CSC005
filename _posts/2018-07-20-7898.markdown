@@ -1,0 +1,8 @@
+---
+layout: post
+title: ZeroFOX
+date: 2018-07-20 00:00:22
+tourl: http://t.co/ZJb7qISeAb
+tags: [CISO]
+---
+How a CISO pumps #socialmedia data into the SOC to "understand motives &amp; threat landscape" https://t.co/PIvfp2QXA6 @helpnetsecurity

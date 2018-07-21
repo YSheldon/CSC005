@@ -1,8 +1,0 @@
----
-layout: post
-title: Black Hat
-date: 2018-07-15 00:00:21
-tourl: http://t.co/aMEkUhZgUH
-tags: [Source]
----
-.@SecuritySynapse presents CyBot - an open source threat intelligence chat bot that can be built in about an hour &amp; for less than $40. Catch a demo and get the build instructions at #BHSUA Arsenal https://t.co/0gEntWBqeC

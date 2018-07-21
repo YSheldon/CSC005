@@ -1,0 +1,8 @@
+---
+layout: post
+title: Threatpost
+date: 2018-07-20 00:00:23
+tourl: http://t.co/rD9Wvdqf3e
+tags: [Hack,Attack]
+---
+A new GPS navigation #hack, called the GangWang attack, leads unsuspecting drivers astray: https://t.co/SA4Ph3msaN

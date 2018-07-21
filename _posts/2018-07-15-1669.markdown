@@ -1,8 +1,0 @@
----
-layout: post
-title: David Gerard
-date: 2018-07-15 00:00:22
-tourl: https://t.co/E240mnk62C
-tags: [Draft]
----
-"Newcomb's Paradox is a dumbass BS problem that Yudkowsky obsesses over because he's a dumbass" &lt;-- another draft sentence I may have to unpack at length

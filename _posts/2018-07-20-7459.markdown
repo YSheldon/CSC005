@@ -1,0 +1,8 @@
+---
+layout: post
+title: Infosecurity Mag
+date: 2018-07-20 00:00:22
+tourl: http://t.co/ioT6nbGu1X
+tags: [CISO]
+---
+CISO's Guide to Compliance https://t.co/XLmJmfk3Y1

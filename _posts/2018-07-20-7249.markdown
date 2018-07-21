@@ -1,0 +1,8 @@
+---
+layout: post
+title: Kevin Beaumont
+date: 2018-07-20 00:00:21
+tourl: https://t.co/mJWyBQgFpy
+tags: [Source]
+---
+That search engine is the source of the story about US voter records btw.  It's still online - I suggest if you have S3 storage buckets, you check your data isn't exposed. https://t.co/FCLk8s1DSC
