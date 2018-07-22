@@ -1,0 +1,9 @@
+---
+layout: post
+title: Nicolas Krassas
+date: 2018-07-21 00:00:21
+tourl: http://t.co/nj3EPPRowo
+tags: [Smoke Loader]
+---
+Dissecting Smoke Loader
+https://t.co/lkLUG1JVE4

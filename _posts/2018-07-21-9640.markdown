@@ -1,0 +1,8 @@
+---
+layout: post
+title: Black Hat
+date: 2018-07-21 00:00:24
+tourl: http://t.co/aMEkUhZgUH
+tags: [AWS,Exploitation]
+---
+Learn the Tactics, Techniques, and Procedures (TTPs) needed to infiltrate and expand access within cloud platforms during @TweekFawkess 2-day Training AWS &amp; Azure Exploitation: Making The Cloud Rain Shells! #BHEU https://t.co/QxKxNr5O0f

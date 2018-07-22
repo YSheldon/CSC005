@@ -1,0 +1,8 @@
+---
+layout: post
+title: Black Hat
+date: 2018-07-21 00:00:22
+tourl: http://t.co/aMEkUhZgUH
+tags: [exploit]
+---
+.@marcograss will explore the baseband of a modern smartphone, discuss its design &amp; security countermeasures, and explain how to find memory corruption bugs and exploit them #BHUSA Briefing https://t.co/6z2lFUyCyo

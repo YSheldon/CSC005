@@ -1,0 +1,8 @@
+---
+layout: post
+title: 0day Exploit Database
+date: 2018-07-21 00:00:23
+tourl: https://t.co/ifDhCPJfYM
+tags: [0day,exploit]
+---
+#0daytoday #Oracle #WebLogic Fusion Middleware 12c (12.2.1.3.0) WebLogic SAML Issues Vulnerability [#0day #Exploit] https://t.co/fsKvsVu5T9

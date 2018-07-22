@@ -1,8 +1,0 @@
----
-layout: post
-title: Another Hacking Scandal? Russians could be behind 'cyber caliphate'
-date: 2018-07-16 01:02:10
-tourl: https://blog.knowbe4.com/another-hacking-scandal-russians-could-be-behind-cyber-caliphate
-tags: [Group]
----
-The US Senate is asking the Justice Department to look into the possibility that an Islamic extremist hacking group was actually the work of the Russian government.Senators Ron Wyden (D-OR) and Cory Gardner (R-CO) have written "If substantiated, the claims about APT28 posing as the Cyber Caliphate could be the first public evidence that influence operations have specifically targeted American military families," the senators write."If left unchecked, such operations would threaten the personal liberty, financial security, mental health, and morale of our military families."Source:Topics: Š KnowBe4, Inc. All rights reserved. | 

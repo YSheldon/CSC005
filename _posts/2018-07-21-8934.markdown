@@ -1,0 +1,8 @@
+---
+layout: post
+title: The CyberWire
+date: 2018-07-21 00:00:22
+tourl: https://t.co/HQuCt1gLbK
+tags: [AWS]
+---
+#CWPodcast: #Amazon works to induce better #AWS configurations. Hear more on the Podcast. #cybersecurity #infosec https://t.co/J81ZaTNUJJ

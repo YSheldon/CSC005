@@ -1,0 +1,8 @@
+---
+layout: post
+title: Securezoo
+date: 2018-07-21 00:00:20
+tourl: https://t.co/Y7LeuLjODq
+tags: [Trojan]
+---
+Emotet malware threat -- "modular banking Trojan that primarily functions as a downloader or dropper of other banking Trojans" https://t.co/bBZJ4sJcW3  #Cybersecurity #malware #network #infosec https://t.co/Vt7dM462FP

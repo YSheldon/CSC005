@@ -1,0 +1,8 @@
+---
+layout: post
+title: Linux Security Labs
+date: 2018-07-21 00:00:21
+tourl: https://t.co/ee1vBPOO91
+tags: [Attack]
+---
+Tool review: gauntlt (attack framework for developers) by @wickett @bwsr_sr @gauntlt #analysis #ruggedization https://t.co/NCRAZybaih

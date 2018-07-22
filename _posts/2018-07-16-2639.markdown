@@ -1,8 +1,0 @@
----
-layout: post
-title: Ransomware Mid-Year Update: Its Worse Than Ever
-date: 2018-07-16 01:02:11
-tourl: https://blog.knowbe4.com/ransomware-mid-year-update-its-worse-than-ever
-tags: [Attack]
----
-Were finally getting a look at how much ransomware attacks have been seen in the wild in the first half of 2018  and the numbers are astounding.SonicWall recently released a mid-year update to their It feels like ransomware is old news - with so many stories in the news, and vendors claiming to have a handle on it, its natural to feel like its no longer a really-real threat. But the truth is The SonicWall report brings to light the reality of just how serious you need to take the threat of ransomware:These days, cybercriminals are business people looking for ways to use their products and services in ways that help them generate the greatest amount of revenue. The numbers above demonstrate the business of ransomware is stepping on the proverbial gas, seeing a bright future for their upcoming revenue targets.This news highlights the importance of ensuring your users are as vigilant as ever. Maintaining a constantly elevated culture of security is necessary to reduce the attack surface within your organization. This is accomplished through frequent and effective new-school  We surveyed businesses across all industries to find out what they're doing to defend themselves. We thoroughly examined who is at risk, what the scope and cost of an attack is, how organizations are protecting themselves from ransomware, and the effectiveness of their endpoint protection. The results might surprise you!                      Topics: Š KnowBe4, Inc. All rights reserved. | 

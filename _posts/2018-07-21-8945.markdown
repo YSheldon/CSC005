@@ -1,0 +1,8 @@
+---
+layout: post
+title: The CyberWire
+date: 2018-07-21 00:00:22
+tourl: https://t.co/HQuCt1gLbK
+tags: [Hack]
+---
+#CWBriefing: A large, 18-thousand-strong #botnet was swiftly assembled by a #malware author who goes by the nom-de-hack #Anarchy. (Probably the same individual also known as #Wicked.) #cybersecurity #infosec https://t.co/MWad1Jdi4L

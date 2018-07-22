@@ -1,0 +1,8 @@
+---
+layout: post
+title: Anomali
+date: 2018-07-21 00:00:20
+tourl: https://t.co/Mm7Oxx7jzr
+tags: [Trojan]
+---
+Emotet creators shift from banking trojan to threat distributor https://t.co/BID0Yw1Isc by @RobertJAAbel via @SCMagazine https://t.co/y6k7GwnEhj

@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-07-16 00:00:21
-tourl: https://t.co/k9HZz2bu5G
-tags: [Source]
----
-CVE-2018-14324 The demo feature in Oracle GlassFish Open Source Edition 5.0 has TCP port 7676 open by default with a password of admin for the admin account. This allows remote attackers to obtain potentially sensitive information, ... https://t.co/ewtxjriEqt

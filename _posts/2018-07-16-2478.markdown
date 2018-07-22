@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-07-16 00:00:22
-tourl: https://t.co/k9HZz2bu5G
-tags: [Scripting,Attack]
----
-CVE-2018-0366 A vulnerability in the web-based management interface of Cisco Web Security Appliance (WSA) could allow an unauthenticated, remote attacker to conduct a reflected cross-site scripting (XSS) attack against a user of ... https://t.co/donnto9eYj
