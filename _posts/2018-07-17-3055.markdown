@@ -1,8 +1,0 @@
----
-layout: post
-title: CrowdStrike
-date: 2018-07-17 00:00:24
-tourl: http://t.co/ULWFfruGKw
-tags: [Crowdstrike,AWS]
----
-The #AWSSummitNYC is officially underway! The team at CrowdStrike is all ready to go and showcasing Falcon Discover for AWS at booth #546 #GoCrowdStrike #AWSSummit https://t.co/dhc30wGMeY

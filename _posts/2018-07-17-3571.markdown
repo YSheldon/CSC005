@@ -1,8 +1,0 @@
----
-layout: post
-title: Verodin raises $21 million Series B round for automated red-teaming
-date: 2018-07-17 01:02:12
-tourl: https://www.cyberscoop.com/verodin-21-million-series-b/?category_news=technology
-tags: [exploit]
----
-Based in McLean, Va., Verodin provides a product called the Security Instrumentation Platform, which continuously tests the security of a customers network by acting as an attacker. The platform simulates ways to exploit vulnerabilities and notes how well the customers email, cloud and network controls worked.This capability enables enterprises to quantifiably validate if their controls are actually protecting their business-critical assets, providing resiliency and keeping them safe, the company said in a press release.Ultimately, the goal is for organizations to determine whether the security services theyre paying for are actually doing their jobs.The funding round was led by TenEleven Ventures and Bessemer Venture Partners with participation from Capital One Growth Ventures, Citi Ventures and Verodins Boards and C-level executives increasingly want evidence that the dollars and effort they spend on cyber defenses are actually working, said TenEleven founder Mark Hatfield, who will now be joining Verodins board. Verodin is leading a revolutionary shift in cybersecurity, delivering organizations the evidence they need to measure, manage and improve their cybersecurity effectiveness.The company said it plans to use the new funding to keep developing its platform and expand sales and hiring.

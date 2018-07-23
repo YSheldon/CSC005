@@ -1,0 +1,8 @@
+---
+layout: post
+title: Linux Security Labs
+date: 2018-07-22 00:00:21
+tourl: https://t.co/ee1vBPOO91
+tags: [Sudo]
+---
+Tool review: django-sudo ('sudo' for Django applications) #django #infosec #tools https://t.co/VFCGIFzYuv

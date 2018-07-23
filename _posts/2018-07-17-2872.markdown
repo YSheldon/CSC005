@@ -1,8 +1,0 @@
----
-layout: post
-title: Threatpost
-date: 2018-07-17 00:00:20
-tourl: http://t.co/rD9Wvdqf3e
-tags: [Trojan]
----
-The DanaBot trojan is now infecting banking victims in a new #phishing scam: https://t.co/BZ7KDTdZxr

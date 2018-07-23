@@ -1,8 +1,0 @@
----
-layout: post
-title: CrowdStrike
-date: 2018-07-17 00:00:22
-tourl: http://t.co/ULWFfruGKw
-tags: [AWS]
----
-Matthew Polly, VP Worldwide Alliances, talks with @theCUBE at #AWSSummit about the #cloud, implementing a better #security strategy and Falcon Discover for @AWS #theCUBE https://t.co/X3OFc5SmYG

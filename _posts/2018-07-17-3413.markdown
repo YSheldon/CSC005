@@ -1,8 +1,0 @@
----
-layout: post
-title: Virus Bulletin
-date: 2018-07-17 00:00:21
-tourl: https://t.co/3UVRbwBJWI
-tags: [PowerShell]
----
-Symantec's @mylaocoon looks at the recent rice of PowerShell based attacks https://t.co/lindkinQw5 https://t.co/dlkGxXBKRC

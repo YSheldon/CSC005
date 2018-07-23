@@ -1,0 +1,8 @@
+---
+layout: post
+title: Binni Shah
+date: 2018-07-22 00:00:22
+tourl: https://t.co/LfZIicBDza
+tags: [Exploitation]
+---
+BeRoot For Windows : a post exploitation tool to check common Windows misconfigurations to find a way to escalate our privilege : https://t.co/FViNPxD8Nb , Privilege Escalation Project - Windows / Linux / Mac : https://t.co/L3zM8WiAqN

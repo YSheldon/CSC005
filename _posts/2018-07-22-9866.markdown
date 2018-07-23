@@ -1,0 +1,8 @@
+---
+layout: post
+title: The CyberWire
+date: 2018-07-22 00:00:20
+tourl: https://t.co/HQuCt1gLbK
+tags: [Trojan]
+---
+#WeekthatWas: Colton Ray Grubbs, 24, of Stanford, Kentucky, has taken a guilty plea to charges of conspiring to market &amp; distribute the #LuminosityLink #RAT, a commodity remote access Trojan sold to criminal #hackers. #cybersecurity #infosec https://t.co/oBbRkvtRII

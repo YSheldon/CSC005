@@ -1,0 +1,8 @@
+---
+layout: post
+title: Black Hat
+date: 2018-07-22 00:00:22
+tourl: http://t.co/aMEkUhZgUH
+tags: [Law]
+---
+Distinguished panel including @AmitElazari &amp; @granick &amp; @josephmenn &amp; @MJZwills will discuss Legal Landmines and how law and policy are rapidly shaping information security. #BHUSA Briefing https://t.co/osojDKisWf

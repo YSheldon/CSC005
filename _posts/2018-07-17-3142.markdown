@@ -1,8 +1,0 @@
----
-layout: post
-title: Kaspersky Lab
-date: 2018-07-17 00:00:20
-tourl: http://t.co/BuTnZTdejc
-tags: [Trojan]
----
-The DanaBot trojan is targeting bank customers in a new #phishing scam https://t.co/USAKyVDkXs
