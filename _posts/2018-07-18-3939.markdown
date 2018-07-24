@@ -1,8 +1,0 @@
----
-layout: post
-title: x0rz
-date: 2018-07-18 00:00:22
-tourl: https://t.co/kXWHpfnvr3
-tags: [exploit]
----
-PS4 5.05 BPF Double Free Kernel Exploit Writeup https://t.co/WChA88mref #FreeBSD #vulnerability cc @qwertyoruiopz

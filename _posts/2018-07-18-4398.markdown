@@ -1,8 +1,0 @@
----
-layout: post
-title: ESET
-date: 2018-07-18 00:00:24
-tourl: http://t.co/7tmiHMr0C2
-tags: [Remote Access Tools]
----
-.@ESET researchers have discovered three remote access tools cybercriminals have used to target Ukrainian government institutions: https://t.co/xueEgYa1Au #research #vermin

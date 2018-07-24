@@ -1,0 +1,10 @@
+---
+layout: post
+title: Avast Software
+date: 2018-07-23 00:00:21
+tourl: https://t.co/bAP5udGmK6
+tags: [Trojan,Attack]
+---
+The Magniber strain of ransomware is back stronger than ever, Ukraine suffers a remote access Trojan (RAT) attack, and LabCorp is hit with possible data breach.
+
+#ICYMI Here's your security news roundup from last week ? https://t.co/Pnnk0NnhWa

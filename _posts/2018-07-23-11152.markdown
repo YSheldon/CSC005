@@ -1,0 +1,15 @@
+---
+layout: post
+title: Binni Shah
+date: 2018-07-23 00:00:21
+tourl: https://t.co/LfZIicBDza
+tags: [Sudo,APT]
+---
+For anybody who still isn't cognizant that we can play mp3's from Command line ,there's a package called "mpg123"(there are many more but I'm more comfy w. this)
+
+Ex: 
+
+sudo apt install mpg123
+mpg123  /home/binnishah/Downloads/nsync_tearingup.mp3
+
+To exit simply press ctrl + c https://t.co/2rmIXqyDka

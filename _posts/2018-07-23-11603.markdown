@@ -1,0 +1,8 @@
+---
+layout: post
+title: DarkReading
+date: 2018-07-23 00:00:21
+tourl: http://t.co/nSh7l5vd4x
+tags: [Attack]
+---
+Two-Thirds of Organizations Hit in Supply-Chain Attacks https://t.co/jCA0BsSbCl #supplychain #attack

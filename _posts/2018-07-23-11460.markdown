@@ -1,0 +1,9 @@
+---
+layout: post
+title: Jacob Soo
+date: 2018-07-23 00:00:21
+tourl: https://t.co/wo1Lc2GvJw
+tags: [0day]
+---
+From A Patched ITW 0day to Remote Code Execution (Part I)  From Patch to New 0day
+https://t.co/yv56vA3OlL

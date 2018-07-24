@@ -1,0 +1,12 @@
+---
+layout: post
+title: The Hacker News
+date: 2018-07-23 00:00:21
+tourl: https://t.co/tbidM9ew0f
+tags: [Source]
+---
+Data Transfer Project (DTP)An Universal Data Import/Export StandardLets Users Securely &amp; Directly Transfer Their Data From One Online Service to Another
+
+https://t.co/jlpbgei1q2
+
+DTP is an Open-Source "Data Portability" Initiative by @Google, @Facebook, @Microsoft, and @Twitter https://t.co/5fmhLUmZGo

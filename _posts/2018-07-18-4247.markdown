@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-07-18 00:00:22
-tourl: https://t.co/k9HZz2bu5G
-tags: [exploit]
----
-CVE-2018-2918 Vulnerability in the Sun ZFS Storage Appliance Kit (AK) component of Oracle Sun Systems Products Suite (subcomponent: API frameworks). The supported version that is affected is Prior to 8.7.18. Difficult to exploit ... https://t.co/atmCMyv1zq

@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-07-18 00:00:22
-tourl: https://t.co/k9HZz2bu5G
-tags: [exploit]
----
-CVE-2018-2972 Vulnerability in the Java SE component of Oracle Java SE (subcomponent: Security). The supported version that is affected is Java SE: 10.0.1. Difficult to exploit vulnerability allows unauthenticated attacker with ... https://t.co/4ljkvqLhBZ

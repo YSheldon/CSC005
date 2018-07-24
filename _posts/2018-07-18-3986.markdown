@@ -1,8 +1,0 @@
----
-layout: post
-title: Virus Bulletin
-date: 2018-07-18 00:00:20
-tourl: https://t.co/3UVRbwBJWI
-tags: [Group]
----
-Cracking Cryakl: how cooperation defeated ransomware group https://t.co/U2tvp4RTDK https://t.co/4VV6Rw0Oa9

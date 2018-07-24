@@ -1,0 +1,12 @@
+---
+layout: post
+title: Drunk Binary
+date: 2018-07-23 00:00:25
+tourl: www.baidu.com
+tags: [Fancy Bear]
+---
+APT28/Fancy Bear Zekapab Implant sample
+
+8c2f9832b38b4c10f3b5b7924379d599
+
+https://t.co/RTBzbChcSS

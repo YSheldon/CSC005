@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-07-18 00:00:22
-tourl: https://t.co/k9HZz2bu5G
-tags: [exploit]
----
-CVE-2018-2941 Vulnerability in the Java SE component of Oracle Java SE (subcomponent: JavaFX). Supported versions that are affected are Java SE: 7u181, 8u172 and 10.0.1. Difficult to exploit vulnerability allows unauthenticated ... https://t.co/yaK85hDlbW

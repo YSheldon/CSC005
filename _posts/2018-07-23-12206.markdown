@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-23 00:00:21
+tourl: https://t.co/k9HZz2bu5G
+tags: [Scripting]
+---
+CVE-2018-1999007 A cross-site scripting vulnerability exists in Jenkins 2.132 and earlier, 2.121.1 and earlier in the Stapler web framework's org/kohsuke/stapler/Stapler?java that allows attackers with the ability to control the ... https://t.co/dayZH6eI6E

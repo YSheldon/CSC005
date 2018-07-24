@@ -1,0 +1,8 @@
+---
+layout: post
+title: Black Hat
+date: 2018-07-23 00:00:21
+tourl: http://t.co/aMEkUhZgUH
+tags: [Attack]
+---
+Use hands-on labs to analyze Windows-based systems and servers, understand the phases of a targeted attack, and find key sources of evidence. #BHUSA Training August 6-7 #IncidentResponse #Forensics https://t.co/eIdCseUY3d

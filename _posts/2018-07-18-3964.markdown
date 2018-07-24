@@ -1,8 +1,0 @@
----
-layout: post
-title: US Vote-Counting Computers Had Flaw, Allowed Hackers Access
-date: 2018-07-18 01:02:11
-tourl: https://www.infosecurity-magazine.com:443/news/us-votecounting-computers-had/
-tags: [Source]
----
-Cookies enable us to provide the best experience possible and help us understand how visitors use our website. By browsing Infosecurity Magazine, you agree to our use of cookies.In the US, vote-counting computers used in government elections contained a security vulnerability which could have been used to affect election results. The systems, which were sold by Election-management systems are not voting terminals - they are in county election offices and contain software that in some counties is used to program all the voting machines used in the county. The systems also tabulate final results from voting machines. This news comes alongside the continuing investigations into suspected Russian meddling in the 2016 US presidential elections. On July 14 2018 deputy attorney general, Rod Rosenstein, announced that 12 individuals had been changed as part of the investigation. During 2006, hackers stole the source code for the pcAnywhere software, which wasn't made public knowledge until 2012 when a hacker posted some of the code online. This forced Alarmingly, pcAnywhere was still being used in 2011 by Venango County, Pennsylvania, and it has not been clear whether the security flaws were patched or if there could have been more vulnerabilities. According to Wyden said hes still waiting for ESS to respond to the outstanding questions he sent the company in March. ESS needs to stop stonewalling and provide a full, honest accounting of equipment that could be vulnerable to remote attacks, he told 

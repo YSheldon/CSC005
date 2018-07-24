@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-07-18 00:00:21
-tourl: https://t.co/k9HZz2bu5G
-tags: [Scripting]
----
-CVE-2018-5232 The EditIssue.jspa resource in Atlassian Jira before version 7.6.7 and from version 7.7.0 before version 7.10.1 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) ... https://t.co/XX86HBLdmY

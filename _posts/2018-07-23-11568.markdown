@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-23 00:00:21
+tourl: https://t.co/k9HZz2bu5G
+tags: [Scripting]
+---
+CVE-2018-1513 IBM Sterling B2B Integrator Standard Edition 5.2.0 through 5.2.6 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended ... https://t.co/tLNJggRIiA

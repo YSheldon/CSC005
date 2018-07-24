@@ -1,0 +1,8 @@
+---
+layout: post
+title: The CyberWire
+date: 2018-07-23 00:00:22
+tourl: https://t.co/HQuCt1gLbK
+tags: [Law]
+---
+#CWBriefing: The @AspenSecurity Forum wrapped up Saturday after clear, direct warnings from senior #US intelligence &amp; law enforcement officials that #Russian #hacking remained a significant threat to the US. #cybersecurity #infosec https://t.co/qt7QCd3iyL

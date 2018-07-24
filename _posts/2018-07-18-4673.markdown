@@ -1,8 +1,0 @@
----
-layout: post
-title: Threatpost
-date: 2018-07-18 00:00:20
-tourl: http://t.co/rD9Wvdqf3e
-tags: [Trojan]
----
-A new #phishing campaign targets potential victims with fake invoices from software company MYOB - but instead contains a #trojan: https://t.co/BZ7KDTdZxr

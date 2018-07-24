@@ -1,0 +1,8 @@
+---
+layout: post
+title: 6DegreesCyber
+date: 2018-07-23 00:00:22
+tourl: www.baidu.com
+tags: [GDPR,Group]
+---
+Does GDPR apply to the Liberty Group South Africa data breach? Find out more in this newsletter round up of all things #cybersecurity in Africa. Know even more with the tag: #CyberInAfrica - the Twitter stream of Africa's cybersecurity #CybersecurityKe @Borderless_i @MokoenaDee https://t.co/c9eFsxUJ49

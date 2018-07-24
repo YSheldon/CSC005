@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-23 00:00:22
+tourl: https://t.co/k9HZz2bu5G
+tags: [Scripting,Attack]
+---
+CVE-2018-1999023 The Battle for Wesnoth Project version 1.7.0 through 1.14.3 contains a Code Injection vulnerability in the Lua scripting engine that can result in code execution outside the sandbox. This attack appear to be ... https://t.co/Ix47Sx6je4
