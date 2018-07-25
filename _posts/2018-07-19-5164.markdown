@@ -1,8 +1,0 @@
----
-layout: post
-title: Binni Shah
-date: 2018-07-19 00:00:21
-tourl: https://t.co/LfZIicBDza
-tags: [Hooking]
----
-User Mode Rootkits : IAT and Inline Hooking : https://t.co/HcTT4j0W6r

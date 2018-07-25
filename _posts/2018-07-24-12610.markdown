@@ -1,0 +1,8 @@
+---
+layout: post
+title: SANS DFIR
+date: 2018-07-24 00:00:22
+tourl: https://t.co/WVAxR23oVQ
+tags: [AWS]
+---
+'Who Done It: Gaining Visibility &amp; Accountability in the Cloud' w/ Ryan Nolette from AWS "explore several use cases, techniques &amp; tools that can be applied to address the risks &amp; challenges of using the public cloud.| #ThreatHuntingSummit 9/6-13  | Agenda https://t.co/phfHAavmJO https://t.co/8fLcfJAwEF

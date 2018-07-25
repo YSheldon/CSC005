@@ -1,8 +1,0 @@
----
-layout: post
-title: Chris Bing
-date: 2018-07-19 00:00:25
-tourl: https://t.co/Z4hF6WaSPI
-tags: [Fancy Bear]
----
-Tom Burt, Corporate Vice President for Customer Security and Trust at Microsoft, said they've seen phishing from APT28/Fancy Bear aimed at 2018 midterm election candidates !

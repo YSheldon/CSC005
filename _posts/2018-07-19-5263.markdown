@@ -1,8 +1,0 @@
----
-layout: post
-title: Binni Shah
-date: 2018-07-19 00:00:21
-tourl: https://t.co/LfZIicBDza
-tags: [Cobalt Strike]
----
-Bypassing Memory Scanners with Cobalt Strike and Gargoyle : https://t.co/EFCUUQKjJf , gargoyle : a memory scanning evasion technique :  https://t.co/gBw5p8baaW  cc @jalospinoso

@@ -1,0 +1,8 @@
+---
+layout: post
+title: The CyberWire
+date: 2018-07-24 00:00:21
+tourl: https://t.co/HQuCt1gLbK
+tags: [FIREEYE]
+---
+#CWBriefing: #SingHealth #breach: Many have praised the govt's response@FireEye pointed out to @BleepinComputer that detection within 8 days is orders of magnitude below the regional norm of 498 days. #cybersecurity #infosec https://t.co/qt7QCd3iyL

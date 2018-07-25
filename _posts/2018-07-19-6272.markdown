@@ -1,8 +1,0 @@
----
-layout: post
-title: James
-date: 2018-07-19 00:00:21
-tourl: www.baidu.com
-tags: [Attack]
----
-@malware_traffic @SohnVonErde @avman1995 @HazMalware @ps66uk @ITISAC @dvk01uk Email is THE attack vector at $dayjob so it gets most of my attention.  If I see port 447 or 449 on the firewall, because I've analyzed what's coming in, I already know it's going to be trickbot and know what to look for.  Can't imagine trying to defend against unknown threats.

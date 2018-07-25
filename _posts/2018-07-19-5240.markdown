@@ -1,8 +1,0 @@
----
-layout: post
-title: x0rz
-date: 2018-07-19 00:00:21
-tourl: https://t.co/kXWHpfnvr3
-tags: [Tor]
----
-Great talk on how Tor users and admins get caught, by @irongeek_adc https://t.co/9fmnqKKFYR (it's from 2015 but still relevant today) #opsec #privacy

@@ -1,8 +1,0 @@
----
-layout: post
-title: Hakin9
-date: 2018-07-19 00:00:22
-tourl: https://t.co/4DC7miAMag
-tags: [exploit]
----
-Exploiting a Windows 10 PagedPool off-by-one overflow (WCTF 2018) https://t.co/OPkcLDRGhp #infosec #hacking #hackers #pentesting #pentest #programming #opensource #cybersecurity #windows10 #WCTF #exploit

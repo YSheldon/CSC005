@@ -1,8 +1,0 @@
----
-layout: post
-title: Joseph Cox
-date: 2018-07-19 00:00:21
-tourl: www.baidu.com
-tags: [WhatsApp]
----
-Secure comms are now democratised; nearly anyone can use WhatsApp or Signal, and they are more than fine for the vast majority of threat models. It's foolish to not embrace that.

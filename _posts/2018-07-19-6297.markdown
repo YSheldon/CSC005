@@ -1,9 +1,0 @@
----
-layout: post
-title: Vitali Kremez
-date: 2018-07-19 00:00:26
-tourl: https://t.co/QF2nOffbMJ
-tags: [Group,Attack,Carbanak]
----
-7-19-2018: "Group-IB is investigating a new daring attack by #MoneyTaker: #hackers try to steal $1M from the bank" | PIR Bank ???? | Initially Sberbank CEO Attributed PIR Breach to #Carbanak | Looking for IOCs????(IV -&gt; compromised router)
-https://t.co/EaOu5bDnHj

@@ -1,8 +1,0 @@
----
-layout: post
-title: Black Hat
-date: 2018-07-19 00:00:22
-tourl: http://t.co/aMEkUhZgUH
-tags: [CISO]
----
-Join fellow CISOs, #BlackHat Review Board Members, and pioneering security experts at the #BHUSA CISO Summit on Tuesday, August 7. Apply to attend by July 31 to participate in a full day of interactive discussion and networking. https://t.co/IEoUMoCelG

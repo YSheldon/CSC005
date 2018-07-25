@@ -1,0 +1,8 @@
+---
+layout: post
+title: Tripwire, Inc.
+date: 2018-07-24 00:00:21
+tourl: http://t.co/1sHmVCRv8W
+tags: [0day]
+---
+How to Spot a Zero-Day Sight-Unseen https://t.co/q3u0iHwcNC via @eeksock #dataprotection #0day

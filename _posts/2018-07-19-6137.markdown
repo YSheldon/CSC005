@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-07-19 00:00:21
-tourl: https://t.co/k9HZz2bu5G
-tags: [Attack]
----
-CVE-2018-14420 MetInfo 6.0.0 allows a CSRF attack to add a user account via a doaddsave action to admin/index.php, as demonstrated by an admin/index.php?anyid=47&amp;n=admin&amp;c=admin_admin&amp;a=doaddsave URI.  https://t.co/0I1a14Vv6T

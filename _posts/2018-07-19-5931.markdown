@@ -1,8 +1,0 @@
----
-layout: post
-title: ICANN
-date: 2018-07-19 00:00:22
-tourl: http://t.co/BIgJw0ClQk
-tags: [Draft]
----
-Join the Registration Directory Service Review (RDS-WHOIS2) Review Team for its 26-27 July face-to-face meeting where the team will review recent work of its subgroups and work to reach consensus on findings and recommendations for its draft report. #ICANN https://t.co/dAwsKvREkK

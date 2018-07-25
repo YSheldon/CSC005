@@ -1,0 +1,8 @@
+---
+layout: post
+title: The CyberWire
+date: 2018-07-24 00:00:21
+tourl: https://t.co/HQuCt1gLbK
+tags: [Attack]
+---
+#CWPodcast: On the Podcast, hear that warnings of #Russian prep for an attack on #powergrids become more pointed. #cybersecurity #infosec https://t.co/N5lQXma3pD

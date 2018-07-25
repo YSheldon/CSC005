@@ -1,0 +1,8 @@
+---
+layout: post
+title: Catalin Cimpanu
+date: 2018-07-24 00:00:21
+tourl: https://t.co/9lGQt24Ew6
+tags: [Web Shell]
+---
+PHP web shell created with emojis https://t.co/LU1mCYBQg7 https://t.co/pC7zqbtkR7

@@ -1,8 +1,0 @@
----
-layout: post
-title: Chris Bing
-date: 2018-07-19 00:00:21
-tourl: https://t.co/Z4hF6WaSPI
-tags: [Attack]
----
-LabCorp attack highlights persistent ransomware threat to health sector https://t.co/ZM52rqpjFg

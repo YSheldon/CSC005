@@ -1,0 +1,8 @@
+---
+layout: post
+title: AlienVault
+date: 2018-07-24 00:00:21
+tourl: http://t.co/7mZeFsDsoi
+tags: [Attack]
+---
+Update your systems! Oracle WebLogic servers are currently under attack by hackers trying to take over installations that have not been patched for a critical (9.8/10) vulnerability: https://t.co/YT9eSrKAWH @campuscodi @BleepinComputer https://t.co/TryMuj66OU

@@ -1,8 +1,0 @@
----
-layout: post
-title: SC Media
-date: 2018-07-19 00:00:21
-tourl: https://t.co/BYI1kkbds1
-tags: [Attack]
----
-Ukraine accuses Russia of VPNFilter attack targeting chlorine distillation station https://t.co/9jRpogkyHJ

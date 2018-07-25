@@ -1,8 +1,0 @@
----
-layout: post
-title: Roger Smith
-date: 2018-07-19 00:00:21
-tourl: https://t.co/Zn275afqZ2
-tags: [Attack]
----
-#outsourcing What to look for if you are under cyber attack #CFO https://t.co/3kidnvUsZz
