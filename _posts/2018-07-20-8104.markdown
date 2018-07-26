@@ -1,8 +1,0 @@
----
-layout: post
-title: CrowdStrike
-date: 2018-07-20 00:00:21
-tourl: http://t.co/ULWFfruGKw
-tags: [Attack]
----
-When an attack is in progress, you have one minute to detect it, 10 minutes to understand it, and an hour to contain it to effectively beat the adversary. Join our experts to discuss how #EDR technology can help you get ahead https://t.co/6O0Uu6zJ6c

@@ -1,8 +1,0 @@
----
-layout: post
-title: The CyberWire
-date: 2018-07-20 00:00:25
-tourl: https://t.co/HQuCt1gLbK
-tags: [Reaper]
----
-#WeekThatWas: Manuals covering #US military systems including MQ-9 Reaper drone have been found for sale in the #darkweb. @RecordedFuture says asking price was only $200, but slack sales have knocked it down to $150. #cybersecurity #infosec https://t.co/EaA2dZAQCU

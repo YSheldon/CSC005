@@ -1,8 +1,0 @@
----
-layout: post
-title: CrowdStrike
-date: 2018-07-20 00:00:22
-tourl: http://t.co/ULWFfruGKw
-tags: [Crowdstrike]
----
-Join us for the second annual CrowdStrike Cybersecurity Conference, #FalConPOWERUP this September in Miami, Fl! We are bringing together the best and brightest security professionals and industry experts from around the world. Learn more here: https://t.co/027skMvCau https://t.co/TZxJVuISWL

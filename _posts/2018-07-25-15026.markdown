@@ -1,0 +1,9 @@
+---
+layout: post
+title: HackRead.com
+date: 2018-07-25 00:00:21
+tourl: https://t.co/n5DKssLSIP
+tags: [Attack]
+---
+If you have used these "trusted" #Google sites recently, you may have been exposed to #Malware attack.
+https://t.co/dKoh7ORQDo

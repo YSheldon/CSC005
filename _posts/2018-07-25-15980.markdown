@@ -1,0 +1,8 @@
+---
+layout: post
+title: CrowdStrike
+date: 2018-07-25 00:00:23
+tourl: http://t.co/ULWFfruGKw
+tags: [Crowdstrike,Falcon X]
+---
+CrowdStrike is heading to Las Vegas this August! We will be at this year's @BlackHatEvents, highlighting our Falcon X solution, leading workshops, and hosting next-gen demos. Read our blog for more information #GoCrowdStrike https://t.co/m68DSDWj61

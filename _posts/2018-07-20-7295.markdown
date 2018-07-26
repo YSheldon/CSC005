@@ -1,8 +1,0 @@
----
-layout: post
-title: The CyberWire
-date: 2018-07-20 00:00:21
-tourl: https://t.co/HQuCt1gLbK
-tags: [Xagent]
----
-#CWBriefing: The #Russian intelligence service is said to have installed an updated version of its familiar #XAgent #malware in #Italian naval systems. The campaign is being called #RomanHoliday. #cybersecurity #infosec https://t.co/TQg6WO3KWt

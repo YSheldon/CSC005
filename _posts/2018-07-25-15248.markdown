@@ -1,0 +1,10 @@
+---
+layout: post
+title: Kaspersky Lab
+date: 2018-07-25 00:00:21
+tourl: http://t.co/BuTnZTdejc
+tags: [Attack]
+---
+We've just released our DDoS Q2 report, but what do you think the longest DDoS attack of the previous quarter was? 
+
+P.S - you can find the answer here: https://t.co/NQ4LoysTlM

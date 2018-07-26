@@ -1,0 +1,8 @@
+---
+layout: post
+title: James
+date: 2018-07-25 00:00:21
+tourl: www.baidu.com
+tags: [Scheduled Task]
+---
+@pollo290987 I did not see the scheduled task method of persistence with this sample.  cc @VK_Intel

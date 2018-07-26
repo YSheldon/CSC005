@@ -1,0 +1,8 @@
+---
+layout: post
+title: Webroot
+date: 2018-07-25 00:00:22
+tourl: https://t.co/w2vh9vAQuP
+tags: [CISO]
+---
+Sage advice around incident response from Webroot #CISO @ghayslip: https://t.co/Tqa9WGblue

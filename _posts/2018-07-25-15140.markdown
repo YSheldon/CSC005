@@ -1,0 +1,8 @@
+---
+layout: post
+title: Threatpost
+date: 2018-07-25 00:00:20
+tourl: http://t.co/rD9Wvdqf3e
+tags: [Trojan]
+---
+The tricky Emotet #malware first emerged targeting banking credentials - but lately researchers have spotted the trojan changing its tactics and its targets: https://t.co/Yvj0bs3fJ3

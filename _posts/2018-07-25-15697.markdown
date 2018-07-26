@@ -1,0 +1,8 @@
+---
+layout: post
+title: Cisco Security
+date: 2018-07-25 00:00:21
+tourl: http://t.co/OgCOugsnMe
+tags: [Attack]
+---
+Dont let an attack sideline your business. 5 things you can do to prevent and fight ransomware attacks (15, if you click to the full checklist): https://t.co/G5RSdH0Z5x https://t.co/gKzPkBAOPp

@@ -1,8 +1,0 @@
----
-layout: post
-title: ICANN
-date: 2018-07-20 00:00:22
-tourl: http://t.co/BIgJw0ClQk
-tags: [GDPR]
----
-#ICANN Request to Preserve WHOIS Data Referred to German Appeal Court #GDPR: https://t.co/q9nq7EO10w https://t.co/09qt4L1SRU

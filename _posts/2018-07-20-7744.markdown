@@ -1,8 +1,0 @@
----
-layout: post
-title: Nikita Shvetsov
-date: 2018-07-20 00:00:20
-tourl: www.baidu.com
-tags: [Trojan]
----
-Another reminder that criminals are OS-agnostic  check out our research on the Calisto Trojan for #MacOS that stayed in the shadows for 2 years https://t.co/rDVXZKHDgh

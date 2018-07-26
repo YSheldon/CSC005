@@ -1,0 +1,8 @@
+---
+layout: post
+title: Menlo Security
+date: 2018-07-25 00:00:21
+tourl: https://t.co/KGGTO8JfLs
+tags: [Attack]
+---
+.@SunspireHealth is offering individuals credit &amp; identity monitoring services after employee emails were compromised by #phishing; while the size of the attack is not yet public, the incident will soon be posted on @HHSOCR's #data breach site @HDMmagazine https://t.co/AWYT6qZtAO https://t.co/IeLBonpCQM

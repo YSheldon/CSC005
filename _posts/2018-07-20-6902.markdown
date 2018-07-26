@@ -1,8 +1,0 @@
----
-layout: post
-title: Cyber Security News
-date: 2018-07-20 00:00:21
-tourl: https://t.co/U9KYaU2Lgx
-tags: [China]
----
-China's Huawei poses security risks to UK broadband and phone networks, British spies warn https://t.co/qdgpkjrtDH

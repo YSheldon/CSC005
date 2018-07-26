@@ -1,8 +1,0 @@
----
-layout: post
-title: SANS Institute
-date: 2018-07-20 00:00:22
-tourl: http://t.co/AJ81JwpA9v
-tags: [Exploitation]
----
-#SANSSanFrancisco Summer 2018 Keynote: "An Interactive Look at Software Exploitation &amp; Today's Threat Landscape" by industry expert @Steph3nSims. View details: https://t.co/GHIeFwYZGF https://t.co/9leQuJjfPS

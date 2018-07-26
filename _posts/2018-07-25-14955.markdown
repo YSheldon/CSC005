@@ -1,0 +1,8 @@
+---
+layout: post
+title: CYJAX
+date: 2018-07-25 00:00:20
+tourl: https://t.co/FzXphkn5Kb
+tags: [Trojan]
+---
+New surge in #banking trojan activity. Latest threat - new Kronos variant. But Emotet recently repackaged as a threat delivery service. Which way is the wind blowing in financial threat environment? #CyberSecurity

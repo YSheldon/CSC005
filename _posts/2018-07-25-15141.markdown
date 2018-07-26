@@ -1,0 +1,8 @@
+---
+layout: post
+title: Hakin9
+date: 2018-07-25 00:00:20
+tourl: https://t.co/4DC7miAMag
+tags: [Trojan]
+---
+New Version of the Kronos Banking Trojan Discovered https://t.co/hj47OpIp3g #infosec #hacking #hackers #pentesting #pentest #programming #opensource #cybersecurity #Kronos #trojan #Banking #malware #cyberattack #cyber

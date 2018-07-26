@@ -1,0 +1,8 @@
+---
+layout: post
+title: Black Hat
+date: 2018-07-25 00:00:21
+tourl: http://t.co/aMEkUhZgUH
+tags: [Source]
+---
+.@Paterva will teach you how to use Maltego to its fullest potential in their #BHUSA Training Open Source Intelligence with Maltego https://t.co/0XerpLTVgP

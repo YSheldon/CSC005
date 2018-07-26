@@ -1,8 +1,0 @@
----
-layout: post
-title: Virus Bulletin
-date: 2018-07-20 00:00:22
-tourl: https://t.co/3UVRbwBJWI
-tags: [Group,Hack]
----
-The notorious "MoneyTaker" hacker group has stolen roughly $1 million from a Russian bank after breaching its network via an outdated router. BleepingComputer tells how the hack unfolded. https://t.co/6s2qvsEIhM https://t.co/oEP2wHyWMo

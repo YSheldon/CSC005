@@ -1,8 +1,0 @@
----
-layout: post
-title: CrowdStrike
-date: 2018-07-20 00:00:23
-tourl: http://t.co/ULWFfruGKw
-tags: [Crowdstrike,Falcon X]
----
-CrowdStrikes Falcon X was named one of the hottest #cybersecurity products of 2018 by @CRN. Our solution combines malware sandboxing, malware search and threat intelligence into an integrated offering that can perform threat analysis in seconds! Read more https://t.co/U6MNQtOyLy

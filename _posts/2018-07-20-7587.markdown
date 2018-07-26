@@ -1,8 +1,0 @@
----
-layout: post
-title: Kaspersky Lab
-date: 2018-07-20 00:00:21
-tourl: http://t.co/BuTnZTdejc
-tags: [Attack]
----
-GangWang GPS navigation attack could actually lead unsuspecting users astray. https://t.co/Udr14sUANi

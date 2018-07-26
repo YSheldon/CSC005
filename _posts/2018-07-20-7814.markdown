@@ -1,8 +1,0 @@
----
-layout: post
-title: Securelist
-date: 2018-07-20 00:00:20
-tourl: http://t.co/TCBqx6Tt0H
-tags: [Trojan]
----
-Calisto Trojan for macOS - the first member of the Proton malware family? https://t.co/FyD23w4MsX

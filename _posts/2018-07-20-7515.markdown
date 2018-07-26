@@ -1,8 +1,0 @@
----
-layout: post
-title: Scott Piper
-date: 2018-07-20 00:00:22
-tourl: http://t.co/Akrgmn9RNr
-tags: [AWS]
----
-Congrats MSFT on growing your cloud business 53% over the past year! If I expand my consulting beyond AWS it'll be to Azure. https://t.co/mW7fENM7Ow

@@ -1,8 +1,0 @@
----
-layout: post
-title: Tenable
-date: 2018-07-20 00:00:21
-tourl: https://t.co/0ma7jefe49
-tags: [Attack]
----
-.@ayoran weighs in how the DNC could have prevented this type of attack. https://t.co/CIGFb66b7H

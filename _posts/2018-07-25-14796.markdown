@@ -1,0 +1,8 @@
+---
+layout: post
+title: Roger Smith
+date: 2018-07-25 00:00:21
+tourl: https://t.co/Zn275afqZ2
+tags: [Attack]
+---
+#infosec #cybercrime "Why the #IOT DDOS attack was significant!" https://t.co/p8YkBUkkno by @smesecurity on @LinkedIn

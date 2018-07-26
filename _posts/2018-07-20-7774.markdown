@@ -1,8 +1,0 @@
----
-layout: post
-title: Nicolas Krassas
-date: 2018-07-20 00:00:20
-tourl: http://t.co/nj3EPPRowo
-tags: [Group]
----
-MoneyTaker hacking group stole 1 million US dollars from Russian PIR Bank https://t.co/SmDtUhW9ww

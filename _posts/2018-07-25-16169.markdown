@@ -1,0 +1,8 @@
+---
+layout: post
+title: AlienVault
+date: 2018-07-25 00:00:22
+tourl: http://t.co/7mZeFsDsoi
+tags: [Department of Homeland Security]
+---
+US Department of Homeland Security issues #security warning to businesses as hackers step up attacks against vulnerable enterprise resource planning (ERP) systems. @dannyjpalmer explains: https://t.co/wHrvHz7u5j @ZDNet https://t.co/US2fkKdr0K

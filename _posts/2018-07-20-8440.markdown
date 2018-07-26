@@ -1,8 +1,0 @@
----
-layout: post
-title: The CyberWire
-date: 2018-07-20 00:00:22
-tourl: https://t.co/HQuCt1gLbK
-tags: [AWS]
----
-#CWBriefing: User #misconfigurations continue to produce #databreaches. #Amazon is experimenting with 2 tools it hopes will impel #AWS users toward more secure choices. #cybersecurity #infosec https://t.co/MWad1Jdi4L

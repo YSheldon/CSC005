@@ -1,8 +1,0 @@
----
-layout: post
-title: Sen. Maria Cantwell
-date: 2018-07-20 00:00:22
-tourl: https://t.co/5P50HzPLoB
-tags: [Bill]
----
-I've joined @ChrisVanHollen, @SenRubioPress &amp; others to sponsor bipartisan #election security legislation. Our bill would establish reporting requirements, prohibit actions by foreign governments, require specific sanctions on Russia &amp; harden our defenses against future attacks.

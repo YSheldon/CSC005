@@ -1,0 +1,8 @@
+---
+layout: post
+title: SC Media
+date: 2018-07-25 00:00:21
+tourl: https://t.co/BYI1kkbds1
+tags: [Crimson]
+---
+New concerns over user data sharing leads Facebook to suspend analytics firm Crimson Hexagon https://t.co/aGwrQiQKy0

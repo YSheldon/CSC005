@@ -1,0 +1,8 @@
+---
+layout: post
+title: Advanced Mobile Malware Campaign in India uses Malicious MDM  Part 2
+date: 2018-07-25 01:02:12
+tourl: https://blogs.cisco.com/security/talos/advanced-mobile-malware-campaign-in-india-uses-malicious-mdm-part-2
+tags: [Attack,WhatsApp]
+---
+tttSince our With this additional information, we have been able to build a profile of how the MDM was working, as explained in the previous post, while also allowing us to identify new infrastructure. We feel that it is critical that users are aware of this attack method, as well-funded actors will continue to utilize MDMs to carry out their campaigns. To be infected by this kind of malware, a user needs to enroll their device, which means they should be on the lookout at all times to avoid accidental enrollment.In the new MDM we discovered, the actor changed some of their infrastructure in an attempt to improve the MDMs security posture. We also found additional compromised devices, which were again located in India, with one even using the same phone number linking the MDM platforms, and one located in Qatar. We believe this newer version was used from January to March 2018. Similar to the previous MDM, we were able to identify the IPA files the attacker was using to compromise iOS devices. Additionally, we discovered that malicious apps such as WhatsApp had new malicious methods tacked onto them.During this ongoing analysis, we also looked into other potential indicators that would point us toward the actor. We discovered this We'd love to hear from you! To earn points and badges for participating in the conversation, join 

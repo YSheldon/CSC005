@@ -1,0 +1,8 @@
+---
+layout: post
+title: Demisto
+date: 2018-07-25 00:00:21
+tourl: https://t.co/XPRqviKWpH
+tags: [Source]
+---
+[#Blog] Read how you can leverage the multi-source threat intelligence capabilities of @RiskIQ PassiveTotal with the #SOAR features of Demisto or check our our joint demo at RiskIQ's booth #558 at #BHUSA! https://t.co/fYCJPKfcXt #DFIR #Infosec

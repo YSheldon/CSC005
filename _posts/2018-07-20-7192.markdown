@@ -1,8 +1,0 @@
----
-layout: post
-title: The CyberWire
-date: 2018-07-20 00:00:24
-tourl: https://t.co/HQuCt1gLbK
-tags: [Remote Access Tools]
----
-#CWBriefing: @ESET researchers are analyzing 3 remote access tools used in ongoing campaigns against targetsmostly government agenciesin #Ukraine. The tools are called #Quasar, #Sobaken, &amp; Vermin. #RAT #cybersecurity #infosec https://t.co/TQg6WO3KWt
