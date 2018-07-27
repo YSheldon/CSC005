@@ -1,0 +1,8 @@
+---
+layout: post
+title: Threatpost
+date: 2018-07-26 00:00:20
+tourl: http://t.co/rD9Wvdqf3e
+tags: [Trojan]
+---
+Researchers @Proofpoint believe that the Kronos #trojan has been not only retooled, but may also have been rebranded as Osiris: https://t.co/QnKSLFAXYJ

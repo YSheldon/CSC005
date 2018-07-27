@@ -1,8 +1,0 @@
----
-layout: post
-title: b33f
-date: 2018-07-21 00:00:21
-tourl: http://t.co/0C8dV0haCL
-tags: [FIREEYE]
----
-@ItsReallyNick @r3vsh3ll @FireEye What can I say, classic b33f typo attribution ????

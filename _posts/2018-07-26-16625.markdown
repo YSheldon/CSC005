@@ -1,0 +1,8 @@
+---
+layout: post
+title: The CyberWire
+date: 2018-07-26 00:00:20
+tourl: https://t.co/HQuCt1gLbK
+tags: [Trojan]
+---
+#CWBriefing: Several familiar criminal tools are resurfacing in updated form. @Sophos is seeing a new version of the #RedAlert banking Trojan (#RedAlter2.0). #cybersecurity #infosec https://t.co/d46JVSlHsS

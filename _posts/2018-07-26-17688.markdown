@@ -1,0 +1,8 @@
+---
+layout: post
+title: Think Your Organization Cant Get Infested with RATs? Think Again.
+date: 2018-07-26 01:02:11
+tourl: https://blog.knowbe4.com/think-your-organization-cant-get-infested-with-rats-think-again
+tags: [Attack]
+---
+The recent arrest of 21-year old software developer Colton Grubbs brings light to just how easy it is for wanna-be cybercriminals to get their hands on some pretty powerful malware tools.Colton Grubbs is the creator of the tools What makes Grubbs arrest so eye-opening is that the plea agreement outlines just how easy it was for would-be hackers to obtain and use this very advanced turnkey tool. The tool was sold on numerous websites for prices as low as $40, and was sold While the sale of the tool has been shutdown, this malware toolkit-in-a-box still lives in the hands of its buyers, enabling them to perform expert-level attacks.Check out this Whether Luminosity is delivered via USB drive (which is demonstrated in Kevins video), weblink, or email attachment, the number one way of ensuring Luminosity (and other RAT tools like it) never infiltrate your organization is to elevate the employees mindfulness around potential threats, methods of attack, and their role as the potential victim throughTopics: Š KnowBe4, Inc. All rights reserved. | 

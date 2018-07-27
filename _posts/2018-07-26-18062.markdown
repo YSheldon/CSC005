@@ -1,0 +1,8 @@
+---
+layout: post
+title: 0day Exploit Database
+date: 2018-07-26 00:00:23
+tourl: https://t.co/ifDhCPJfYM
+tags: [exploit,0day]
+---
+#0daytoday #CoreFTP 2.0 #FTP - #XRMD Denial of Service #PoC Exploit [dos #exploits #0day #Exploit] https://t.co/sPYhoFQUQp

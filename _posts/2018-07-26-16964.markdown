@@ -1,0 +1,8 @@
+---
+layout: post
+title: 6DegreesCyber
+date: 2018-07-26 00:00:22
+tourl: www.baidu.com
+tags: [GDPR]
+---
+Interesting research on impact of the #GDPR on website owners -- blocking EU users? #CybersecurityKe #CyberInAfrica https://t.co/3o0SJZkiGS

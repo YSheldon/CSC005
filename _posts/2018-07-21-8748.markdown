@@ -1,8 +1,0 @@
----
-layout: post
-title: Nicolas Krassas
-date: 2018-07-21 00:00:21
-tourl: http://t.co/nj3EPPRowo
-tags: [Attack]
----
-Hackers attack Russian bank to steal $1m using an outdated router https://t.co/BoGhZak8pI

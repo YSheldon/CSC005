@@ -1,0 +1,8 @@
+---
+layout: post
+title: Ed
+date: 2018-07-26 00:00:22
+tourl: https://t.co/bQdvwxLNPn
+tags: [Hack]
+---
+Here is my little project for @Hacker0x01's Summer 2018 Hack Day: https://t.co/1K1sUJUcsS. :) https://t.co/S2OtUOesyl

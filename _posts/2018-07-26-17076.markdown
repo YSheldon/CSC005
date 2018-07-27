@@ -1,0 +1,8 @@
+---
+layout: post
+title: Threatpost
+date: 2018-07-26 00:00:21
+tourl: http://t.co/rD9Wvdqf3e
+tags: [Attack]
+---
+A regional Virginia bank has lost $2.4 million in a cyber-heist, following a successful #phishing attack that compromised its internal networks: https://t.co/rZwoXpUpKl

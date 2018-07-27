@@ -1,8 +1,0 @@
----
-layout: post
-title: SC Media
-date: 2018-07-21 00:00:20
-tourl: https://t.co/BYI1kkbds1
-tags: [Trojan]
----
-Emotet creators shift from banking trojan to threat distributor https://t.co/mfTmayG6Ed

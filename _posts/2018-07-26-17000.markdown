@@ -1,0 +1,10 @@
+---
+layout: post
+title: Security Affairs
+date: 2018-07-26 00:00:20
+tourl: http://t.co/V3OIFUqNCm
+tags: [Trojan]
+---
+#Kronos #Banking #Trojan resurrection, new campaigns spotted in the wild
+https://t.co/51dbyVFAME
+#securityaffairs #hacking #malware

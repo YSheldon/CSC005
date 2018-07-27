@@ -1,0 +1,8 @@
+---
+layout: post
+title: Anomali
+date: 2018-07-26 00:00:20
+tourl: https://t.co/Mm7Oxx7jzr
+tags: [Group]
+---
+Trend Micro and IssueMakersLab researchers have produced a report detailing new reconnaissance tactics that they attribute to the threat group Andariel Group. https://t.co/kxjNRtZ7j5

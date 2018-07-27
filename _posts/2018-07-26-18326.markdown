@@ -1,0 +1,8 @@
+---
+layout: post
+title: WIRED
+date: 2018-07-26 00:00:20
+tourl: https://t.co/KT14PZrouQ
+tags: [Trojan]
+---
+This $299 smart soundbar is a Trojan horse for Amazons popular voice assistant. https://t.co/tAuq7yF2yt

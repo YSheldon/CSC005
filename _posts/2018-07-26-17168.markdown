@@ -1,0 +1,8 @@
+---
+layout: post
+title: yaworsk
+date: 2018-07-26 00:00:22
+tourl: http://t.co/0jrTJ06Kl0
+tags: [Hack]
+---
+I've taken a break from bounties the last couple weeks, except for looking at 1 or 2 programs on h1 which are fun to work with, both intellectually and bc of the team running them. In the last 2-3 weeks, I've sat down once to hack. Reflecting on why, I realized it hadn't  2/n

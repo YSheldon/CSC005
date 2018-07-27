@@ -1,0 +1,8 @@
+---
+layout: post
+title: McAfee
+date: 2018-07-26 00:00:22
+tourl: https://t.co/pbvCCj2l3O
+tags: [AWS]
+---
+Is your company on the fast track for #AWS cloud innovation? Your security may be at risk. Tune in to our webinar on July 31st with @awscloud to hear how your company can keep up with best practices for #security in AWS. https://t.co/twdAZ72kvY https://t.co/FYJqoU0lqn

@@ -1,8 +1,0 @@
----
-layout: post
-title: Sean Metcalf
-date: 2018-07-21 00:00:21
-tourl: https://t.co/HdryAh5tUQ
-tags: [FIREEYE]
----
-@FuzzySec @FireEye @ItsReallyNick Great! Congrats!

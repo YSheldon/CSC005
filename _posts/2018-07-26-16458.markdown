@@ -1,0 +1,8 @@
+---
+layout: post
+title: CrowdStrike
+date: 2018-07-26 00:00:23
+tourl: http://t.co/ULWFfruGKw
+tags: [Crowdstrike,Falcon X]
+---
+CrowdStrike Falcon X  immediately shares indicators of compromise with other security tools like firewalls, gateways and security orchestration tools via APIs. It's considered one of the hottest #security products of 2018 via @CRN  https://t.co/DrN2CLNGH4

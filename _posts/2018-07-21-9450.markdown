@@ -1,8 +1,0 @@
----
-layout: post
-title: The CyberWire
-date: 2018-07-21 00:00:35
-tourl: https://t.co/HQuCt1gLbK
-tags: [Sednit,Sofacy,STRONTIUM]
----
-#WeekthatWas: #FancyBear's #Romanholiday: #CSE Cybsec's Z-Lab found #FancyBear (aka #APT28, #Sednit, #PawnStorm, #Sofacy, #Strontium, &amp; #Russia's #GRU) probing the #Italian Navy. @SCMagazine #cybersecurity #infosec https://t.co/oBbRkvLt7i

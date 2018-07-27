@@ -1,0 +1,8 @@
+---
+layout: post
+title: BitSight
+date: 2018-07-26 00:00:22
+tourl: http://t.co/J7LgGQuadK
+tags: [CISO]
+---
+#CISO's and other #security leaders need to effectively pitch the Board in order to get buy-in on #cybersecurity initiatives. Communicating the urgency of projects, purchases, and partnerships requires excellent cybersecurity visualization strategies. https://t.co/8J4zrDjsLa

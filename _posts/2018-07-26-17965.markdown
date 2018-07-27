@@ -1,0 +1,8 @@
+---
+layout: post
+title: Naked Security
+date: 2018-07-26 00:00:21
+tourl: http://t.co/xOLRCy9nPS
+tags: [Browser Extensions]
+---
+More apps and browser extensions caught spying on users. https://t.co/QNeNby5Ekm

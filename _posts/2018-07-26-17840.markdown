@@ -1,0 +1,8 @@
+---
+layout: post
+title: CrowdStrike
+date: 2018-07-26 00:00:22
+tourl: http://t.co/ULWFfruGKw
+tags: [Crowdstrike]
+---
+Its interesting to see that everyone thinks its an issue but nobody is acting on it, CrowdStrike's @MichaelSentonas on the threat of software supply chain attacks via @cso https://t.co/Oba1IIBjSE https://t.co/HRv6IdHxgF

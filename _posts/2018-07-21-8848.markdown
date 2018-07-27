@@ -1,8 +1,0 @@
----
-layout: post
-title: banty
-date: 2018-07-21 00:00:23
-tourl: www.baidu.com
-tags: [0day,Exploitation]
----
-As some who lives and breathes  0day technicals I hesitate to recommend anything from media on the topic but The Perfect Weapon by @SangerNYT  is the best summary of how computer exploitation has affected the world the past ~15-20 years. I can not recommend enough.
