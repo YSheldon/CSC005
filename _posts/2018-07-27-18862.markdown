@@ -1,0 +1,8 @@
+---
+layout: post
+title: Kevin Beaumont
+date: 2018-07-27 00:00:22
+tourl: https://t.co/mJWyBQgFpy
+tags: [exploit]
+---
+For the record, if you were ever actually be able to exploit it in real world (big if) it gives 15 bits of information per hour. Theres 8000000000 bits in 1gb. So only 60822 years to extract 1gb of RAM.

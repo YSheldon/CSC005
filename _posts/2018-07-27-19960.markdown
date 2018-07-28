@@ -1,0 +1,8 @@
+---
+layout: post
+title: Why Dont Your Employees Care About Cyber Security?
+date: 2018-07-27 01:02:11
+tourl: https://blog.knowbe4.com/why-dont-your-employees-care-about-cybersecurity
+tags: [Attack]
+---
+Whether you realize or not, your employees are a critical part of your layered defense against phishing attacks, malware, ransomware, and more. So why arent they concerned?In just about every news story you read today about another phishing attack, malware infection, ransomware attack, or data breach, theres a part of the story thats either covered or implied  And with attacks having devastating results, like the It all comes down to one reason: Im going to abbreviate the While theres much more you can do to create a more formal security awareness program, the steps above provide the basics necessary to create a security culture.Topics: Š KnowBe4, Inc. All rights reserved. | 

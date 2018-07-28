@@ -1,0 +1,8 @@
+---
+layout: post
+title: AlienVault
+date: 2018-07-27 00:00:21
+tourl: http://t.co/7mZeFsDsoi
+tags: [Attack]
+---
+New #NetSpectre attack can steal CPU secrets via network connections &amp; does not require the attacker to host code on targeted machines. Here's how it works: https://t.co/b4TNjgoEbY @campuscodi @BleepinComputer https://t.co/bVb35cbeyb

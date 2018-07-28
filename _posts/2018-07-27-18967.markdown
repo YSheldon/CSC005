@@ -1,0 +1,8 @@
+---
+layout: post
+title: Virus Bulletin
+date: 2018-07-27 00:00:21
+tourl: https://t.co/3UVRbwBJWI
+tags: [Attack]
+---
+A regional Virginia bank has lost $2.4 million following a phishing attack that compromised the banks internal networks. The bank is now suing its insurance carrier for failing to cover the full extent of the damage. @threatpost reports: https://t.co/rvhbg8j1Sy

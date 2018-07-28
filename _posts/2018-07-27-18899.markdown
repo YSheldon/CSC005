@@ -1,0 +1,8 @@
+---
+layout: post
+title: Sen. Ron Wyden: Adobe Flash is doomed, why is Uncle Sam still using it?
+date: 2018-07-27 01:02:14
+tourl: /2018/07/26/ron_wyden_adobe_flash/
+tags: [NSA,DHS]
+---
+It's bug-ridden, eternally insecure, and on death row  yet Adobe Flash persists on too many US government webpages.Now Senator Ron Wyden (D-OR) wants to hear the sound of this deity-forsaken plugin torn from .gov websites, dragged behind a shed, and a single final gunshot.Regular In a letter [He has the NSA, DHS and NIST in his sights because those three government organizations carry the majority of cybersecurity guidance to the rest of Uncle Sam's agencies. Wyden wants government officials to stop creating new Flash content within 60 days, and also asks that:Wyden noted that US-CERT has warned about the risks of using Flash since 2010  making it a latecomer: the earliest Flash fsckup we can find in When the plugin falls out of support, Wyden wrote, cybersecurity risks will only be compounded.We couldn't agree more. Stop using Adobe Flash. Ž

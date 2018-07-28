@@ -1,0 +1,8 @@
+---
+layout: post
+title: AlienVault
+date: 2018-07-27 00:00:21
+tourl: http://t.co/7mZeFsDsoi
+tags: [Epic]
+---
+Check it out - @lilyhnewman takes a deep dive into #Equifax's #security overhaul, looking at what's changed in the year since its epic #databreach: https://t.co/ThW4ePRL0w @WIRED https://t.co/OcHyfayYYs

@@ -1,0 +1,9 @@
+---
+layout: post
+title: Malwrologist
+date: 2018-07-27 00:00:21
+tourl: https://t.co/DMaAFKt4hs
+tags: [PowerShell]
+---
+#malicios #xlsx -&gt; #dde (using internetExplorer.Application #ComObject &amp; its #Navigate2 func) -&gt; #base64 #powershell -&gt; dls #XOR|ed #powershell, after decoding we get #PE (low detection ratio, 2/66 AVs in @virustotal), Payloads are hosted on @awscloud 
+https://t.co/18yTcJ5Sr5 https://t.co/xU66VsE6Do

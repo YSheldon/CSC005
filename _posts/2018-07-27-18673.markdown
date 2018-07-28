@@ -1,0 +1,10 @@
+---
+layout: post
+title: FireEye
+date: 2018-07-27 00:00:21
+tourl: http://t.co/aHW53SAv83
+tags: [FIREEYE]
+---
+REPORT | IDC Names FireEye a Leader in Asia Pacific Threat Lifecycle Services
+
+Download an excerpt from the report by @IDC for a complete overview of key requirements for threat lifecycle services and a detailed overview of our intel-led capabilities: https://t.co/1dx1jHGnEx

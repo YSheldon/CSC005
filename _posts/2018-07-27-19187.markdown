@@ -1,0 +1,8 @@
+---
+layout: post
+title: SecurityWeek
+date: 2018-07-27 00:00:21
+tourl: https://t.co/nPBX8e3TNP
+tags: [Attack]
+---
+Microsoft Uncovers Multi-Tier Supply Chain Attack https://t.co/i7gFs09rVo

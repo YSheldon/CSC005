@@ -1,0 +1,8 @@
+---
+layout: post
+title: 0day Exploit Database
+date: 2018-07-27 00:00:24
+tourl: https://t.co/ifDhCPJfYM
+tags: [Scripting,0day,exploit]
+---
+#0daytoday #WordPress #Gwolle Guestbook 2.5.3 Cross Site Scripting Vulnerability [#0day #Exploit] https://t.co/r62KJk24NB

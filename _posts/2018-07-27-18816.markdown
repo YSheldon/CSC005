@@ -1,0 +1,13 @@
+---
+layout: post
+title: Giuseppe `N3mes1s`
+date: 2018-07-27 00:00:21
+tourl: http://t.co/OFXriiis
+tags: [Forfiles]
+---
+#Lolbins Forfiles.exe used ITW for execution. Trying to avoid detection as well using wmi process creation.  cc: @Oddvarmoe  #T1202
+xls: https://t.co/JaN58XNRmc
+
+dropped: https://t.co/F0bhOUkjMZ
+
+info: https://t.co/u3LQ5GKMzX https://t.co/fKTUYVa6xC https://t.co/NwAJ7J5zQI

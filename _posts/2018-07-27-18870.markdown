@@ -1,0 +1,8 @@
+---
+layout: post
+title: Binni Shah
+date: 2018-07-27 00:00:21
+tourl: https://t.co/LfZIicBDza
+tags: [Attack]
+---
+dr0wned  Cyber-Physical Attack with Additive Manufacturing : Attacks with 3D printers : https://t.co/yENvlauhUc (pdf) https://t.co/I4JU7rLLbo

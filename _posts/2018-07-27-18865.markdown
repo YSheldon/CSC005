@@ -1,0 +1,10 @@
+---
+layout: post
+title: The Hacker News
+date: 2018-07-27 00:00:21
+tourl: https://t.co/tbidM9ew0f
+tags: [Attack]
+---
+Researchers discover first remote #Spectre attack, dubbed "NetSpectre," that could allow attackers to steal sensitive data over the network
+
+https://t.co/qb1LQBPOBQ https://t.co/SUelebdSHs

@@ -1,8 +1,0 @@
----
-layout: post
-title: Black Hat
-date: 2018-07-22 00:00:22
-tourl: http://t.co/aMEkUhZgUH
-tags: [exploit]
----
-Jordan Rabet, Sr. Security Software Engineer at Microsoft provides an insiders perspective on discovering CVE-2017-0075, developing relevant &amp; novel techniques to exploit it, and finally contributing learnings to Hyper-V hardening efforts. #BHUSA Briefing https://t.co/Aely8JFN0c

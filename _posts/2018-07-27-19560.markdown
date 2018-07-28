@@ -1,0 +1,8 @@
+---
+layout: post
+title: 0day Exploit Database
+date: 2018-07-27 00:00:23
+tourl: https://t.co/ifDhCPJfYM
+tags: [0day,exploit]
+---
+#0daytoday #Tracto #ERC20 Integer Overflow Vulnerability CVE-2018-14063 [dos #exploits #Vulnerability #0day #Exploit] https://t.co/MQKkkmyI8N
