@@ -1,8 +1,0 @@
----
-layout: post
-title: CrowdStrike
-date: 2018-07-23 00:00:22
-tourl: http://t.co/ULWFfruGKw
-tags: [Crowdstrike]
----
-New report from CrowdStrike shows organizations increasingly have to deal with cyberattacks targeting the software supply chain and in many cases they are not adequately prepared to respond to such incidents via @SecurityWeek https://t.co/kik2TEqfor

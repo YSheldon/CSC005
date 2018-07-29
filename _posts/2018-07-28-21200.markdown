@@ -1,0 +1,10 @@
+---
+layout: post
+title: Security Affairs
+date: 2018-07-28 00:00:22
+tourl: http://t.co/V3OIFUqNCm
+tags: [exploit]
+---
+The Death botnet grows targeting #AVTech devices with a 2-years old exploit
+https://t.co/AoMpcPS32c
+#securityaffairs #hacking #IoT

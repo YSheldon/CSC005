@@ -1,0 +1,11 @@
+---
+layout: post
+title: Malwrologist
+date: 2018-07-28 00:00:21
+tourl: https://t.co/DMaAFKt4hs
+tags: [PowerShell]
+---
+#cryptocoin #miner on @Bitbucket 
+/bitbucket.org/dazlle/logos/downloads/svchost.exe
+/bitbucket.org/dazlle/logos/downloads/TASK.ps1
+#bat -&gt; dls #PE &amp; #powershell (ps install the #PE as a windows service) https://t.co/bx6K8SuVYX

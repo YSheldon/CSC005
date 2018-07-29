@@ -1,8 +1,0 @@
----
-layout: post
-title: James Forshaw
-date: 2018-07-23 00:00:21
-tourl: https://t.co/sa2Sbjk8wB
-tags: [Attack]
----
-The @BSidesLV 2018 schedule is up (https://t.co/OeM3f6RsTV). My workshop is on the first day (7th) at 8am. Hope people like learning Windows Attack Surface Analysis at such an early hour. I'll be fine as I'll still be on GMT ????

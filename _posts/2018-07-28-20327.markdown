@@ -1,0 +1,8 @@
+---
+layout: post
+title: The CyberWire
+date: 2018-07-28 00:00:20
+tourl: https://t.co/HQuCt1gLbK
+tags: [Group]
+---
+#CWBriefing: @Cisco's @TalosSecurity group has found 20 vulnerabilities in #Samsung #SmartThings Hub controllers. #IoT #cybersecurity #infosec https://t.co/a8k3WlNmnJ

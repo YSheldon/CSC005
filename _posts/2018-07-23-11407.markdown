@@ -1,8 +1,0 @@
----
-layout: post
-title: NuHarbor Security
-date: 2018-07-23 00:00:21
-tourl: https://t.co/HgnUUovsZg
-tags: [WhatsApp]
----
-WhatsApp limits message forwarding in response to lynchings  Naked Security https://t.co/czgMyZT7GJ #cybersecurity #infosec

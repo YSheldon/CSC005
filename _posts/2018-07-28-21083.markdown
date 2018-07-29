@@ -1,0 +1,8 @@
+---
+layout: post
+title: Security Response
+date: 2018-07-28 00:00:20
+tourl: http://t.co/Srj37yV6aw
+tags: [Group]
+---
+. #Leafminer espionage group makes use of available tools, research, and work of other threat actors, targets orgs in the Middle East https://t.co/6mRP7elDVJ #research #infosec https://t.co/9lt9JEwVyy

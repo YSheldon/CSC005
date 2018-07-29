@@ -1,8 +1,0 @@
----
-layout: post
-title: Naked Security
-date: 2018-07-23 00:00:21
-tourl: http://t.co/xOLRCy9nPS
-tags: [WhatsApp]
----
-WhatsApp limits message forwarding in response to multiple lynchings. https://t.co/vi5DXt57Or

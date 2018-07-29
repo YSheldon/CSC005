@@ -1,8 +1,0 @@
----
-layout: post
-title: Alex Bazhaniuk
-date: 2018-07-23 00:00:21
-tourl: www.baidu.com
-tags: [Attack]
----
-From our latest research this attack may even be possible without opening a case: https://t.co/fExAKKPGPF using the vulnerability from this Intel advisory: https://t.co/0ZSUye7hJJ https://t.co/PkhaMRe2tf

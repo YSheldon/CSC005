@@ -1,0 +1,8 @@
+---
+layout: post
+title: SC Media
+date: 2018-07-28 00:00:20
+tourl: https://t.co/BYI1kkbds1
+tags: [Trojan]
+---
+New and improved: Researchers discover Parasite HTTP RAT and upgraded Kronos banking trojan https://t.co/WajkUZQR78

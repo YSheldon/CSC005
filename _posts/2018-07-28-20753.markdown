@@ -1,0 +1,8 @@
+---
+layout: post
+title: Dave Kennedy (ReL1K)
+date: 2018-07-28 00:00:21
+tourl: https://t.co/hxN6rpfbDf
+tags: [PowerShell]
+---
+Also note that this change evades the "meterpreter" detection rule which is a secondary detection added based on a first starting byte CLD/0xFC. So both PowerShell evasion and Meterpreter.

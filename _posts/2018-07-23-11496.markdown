@@ -1,8 +1,0 @@
----
-layout: post
-title: CrowdStrike
-date: 2018-07-23 00:00:22
-tourl: http://t.co/ULWFfruGKw
-tags: [Crowdstrike]
----
-CrowdStrike releases survey revealing supply chain attacks are on the rise, costing global organizations over $1million on average. 71% of respondents believe their organization does not always hold third-party suppliers to same #security standards. https://t.co/gzWuK1r8sJ https://t.co/ajGM764H5W
