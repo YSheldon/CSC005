@@ -1,8 +1,0 @@
----
-layout: post
-title: 0day Exploit Database
-date: 2018-07-24 00:00:23
-tourl: https://t.co/ifDhCPJfYM
-tags: [0day,exploit]
----
-#0daytoday #Nagios #NagiosCore 4.4.1 - Denial of Service Vulnerability [dos #exploits #Vulnerability #0day #Exploit] https://t.co/bGNXWbOVNS

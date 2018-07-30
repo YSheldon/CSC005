@@ -1,8 +1,0 @@
----
-layout: post
-title: CrowdStrike
-date: 2018-07-24 00:00:23
-tourl: http://t.co/ULWFfruGKw
-tags: [Crowdstrike,Attack]
----
-CrowdStrikes new survey reveals that 80% of respondents believe over the next three years, software supply chain attacks could pose one of their biggest cyber threats, and almost 90% of the respondents believe they are at risk for an attack. Learn more: https://t.co/OL1xf236pg

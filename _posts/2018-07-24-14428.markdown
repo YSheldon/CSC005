@@ -1,8 +1,0 @@
----
-layout: post
-title: Rob??? Graham ????
-date: 2018-07-24 00:00:21
-tourl: http://t.co/9cYcfxcC7y
-tags: [Attack]
----
-In other words, the instinctive reaction to power grid threats is to replace a diverse system proof against a single cyber attack with one that vulnerable to a single point of failure. That's where government policy is pushing us.

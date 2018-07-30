@@ -1,8 +1,0 @@
----
-layout: post
-title: Rob??? Graham ????
-date: 2018-07-24 00:00:22
-tourl: http://t.co/9cYcfxcC7y
-tags: [Hack]
----
-Easiest way to hack the power grid is to hack the business networks and pull down all their disaster planning documents, then cause those disasters, which often don't involve direct attacks against generation or distribution.

@@ -1,0 +1,9 @@
+---
+layout: post
+title: beVX Conference
+date: 2018-07-29 00:00:22
+tourl: https://t.co/F2qZZbrte0
+tags: [exploit]
+---
+Announcing our 11th talk at our conference Sheng-Hao Ma / @aaaddress1 on "Playing Malware Injection with Exploit thoughts
+" - https://t.co/I3XMWw7MaS - the talk will show how to bypass malicious code injection protection mechanism, as well as do a live demo https://t.co/8BsUeJonTb

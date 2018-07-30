@@ -1,8 +1,0 @@
----
-layout: post
-title: F-Secure
-date: 2018-07-24 00:00:21
-tourl: https://t.co/fsJY27uDKB
-tags: [Attack]
----
-When there's money involved, cyber criminals will be there: credential stuffing attack used in Fortnite https://t.co/XzQYNe5BIE #fortnite #whatthecyber #cybercrime #credentialstuffing https://t.co/Bi8um7WBML

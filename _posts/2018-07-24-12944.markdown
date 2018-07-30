@@ -1,8 +1,0 @@
----
-layout: post
-title: The CyberWire
-date: 2018-07-24 00:00:22
-tourl: https://t.co/HQuCt1gLbK
-tags: [National Institute of Standards and Technology]
----
-#WeekthatWas: The US National Institute of Standards and Technology (NIST) announced that, as of August 1st, it will withdraw 11 SP 800 series publications as outdated. @usNISTgov #cybersecurity #infosec https://t.co/oBbRkvLt7i

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Anomali
+date: 2018-07-29 00:00:20
+tourl: https://t.co/Mm7Oxx7jzr
+tags: [APT]
+---
+.@symantec Discovers New and Inexperienced Iranian #APT https://t.co/RkEMW9ezDG by @BleepinComputer

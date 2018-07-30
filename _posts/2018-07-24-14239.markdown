@@ -1,8 +1,0 @@
----
-layout: post
-title: Is it Shark Week at your Organization?
-date: 2018-07-24 01:02:11
-tourl: https://blog.knowbe4.com/is-it-shark-week-at-your-organization
-tags: [Attack]
----
-With But every single day, organizations put themselves in proximity to cyber-attackers  literally a click away. And the likelihood of a cybercriminal having your organization for lunch is MUCH higher than the possibility that youll one day be eaten by a shark. In essence, I found three similarities between getting up close and personal with a shark, and your organization doing the same with phishing attacks, malware, and resulting data breach, data ransom, or cryptomining scenarios:So, as you watch the Shark Week shows this week, consider the predators that daily attack your organization. By leveraging the three recommendations above, you will be able to safely swim in the cyber-water (as it were) without fear of having a chunk of your organization's endpoints and data taken out of you.   Topics: Š KnowBe4, Inc. All rights reserved. | 

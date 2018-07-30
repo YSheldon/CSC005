@@ -1,8 +1,0 @@
----
-layout: post
-title: The Hill
-date: 2018-07-24 00:00:22
-tourl: http://t.co/t414UtTRv4
-tags: [Exploitation]
----
-Trump officials rejected benefits of public land protections in favor of energy exploitation in internal documents https://t.co/ezXmKTFH7Q https://t.co/tmxUitSjzo

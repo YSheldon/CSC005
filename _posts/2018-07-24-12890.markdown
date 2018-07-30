@@ -1,8 +1,0 @@
----
-layout: post
-title: Catalin Cimpanu
-date: 2018-07-24 00:00:21
-tourl: https://t.co/9lGQt24Ew6
-tags: [Attack]
----
-Researchers Detail New CPU Side-Channel Attack Named SpectreRSB https://t.co/Au9YgKfUxa #CPU #hardware #Spectre https://t.co/871RpXIJ55

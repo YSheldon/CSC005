@@ -1,0 +1,8 @@
+---
+layout: post
+title: Attributor
+date: 2018-07-29 00:00:21
+tourl: www.baidu.com
+tags: [Source]
+---
+#Malware source codes are mostly leaked either by malware authors due to some disputes with co-authors, other personal issues and sometimes by unhappy buyers. This being said #HUMINT is quite important in #cyber #intelligence when we are trying to profile our #adversaries.

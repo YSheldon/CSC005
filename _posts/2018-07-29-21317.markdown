@@ -1,0 +1,8 @@
+---
+layout: post
+title: The CyberWire
+date: 2018-07-29 00:00:24
+tourl: https://t.co/HQuCt1gLbK
+tags: [National Security Agency,NSA]
+---
+#WeekthatWas: US National Security Agency received a starchy report from its Inspector General, which found agency's analysts performed searches under #NSA's Foreign Intelligence Surveillance Act Authority that were noncompliant. #cybersecurity #infosec https://t.co/BixWcwCCdN

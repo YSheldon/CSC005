@@ -1,0 +1,8 @@
+---
+layout: post
+title: Black Hat
+date: 2018-07-29 00:00:22
+tourl: http://t.co/aMEkUhZgUH
+tags: [exploit]
+---
+Few seats remaining in Advanced ARM Iot Exploit Laboratory - Register now to claim your spot in this highly anticipated #BHUSA Training from @therealsaumi https://t.co/chYqNlnzdb
