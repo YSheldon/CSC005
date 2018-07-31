@@ -1,8 +1,0 @@
----
-layout: post
-title: CrowdStrike
-date: 2018-07-25 00:00:22
-tourl: http://t.co/ULWFfruGKw
-tags: [Crowdstrike]
----
-Weak cybersecurity is not only harmful to your IT infrastructure - it's also bad for your bottom line. Protect your supply chain with CrowdStrike and avoid destructive, expensive breaches: https://t.co/wrG0m061Fu https://t.co/rzMrEPQJtd

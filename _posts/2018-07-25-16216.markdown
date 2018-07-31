@@ -1,8 +1,0 @@
----
-layout: post
-title: Intel AI
-date: 2018-07-25 00:00:21
-tourl: https://t.co/FHrQDbiz00
-tags: [China]
----
-#AI and drones have joined the fight against erosion on the Great Wall of China. See how #IntelAI creates 3D models of the wall to detect structural flaws and calculate exactly how many bricks are needed to repair it: https://t.co/SOlk8qtwPG https://t.co/chWHKbFuzE

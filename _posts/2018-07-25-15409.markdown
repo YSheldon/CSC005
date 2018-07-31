@@ -1,8 +1,0 @@
----
-layout: post
-title: AlienVault
-date: 2018-07-25 00:00:22
-tourl: http://t.co/7mZeFsDsoi
-tags: [CISO]
----
-Are you doing cloud vendor risk assessments wrong? In today's blog, @alienvault CISO @celmod shares helpful tips &amp; best practices for assessing the #security posture of a potential cloud vendor partner. Check it out: https://t.co/ssU7O8gqQv https://t.co/llZUMT3kI3

@@ -1,0 +1,8 @@
+---
+layout: post
+title: VulDB ????
+date: 2018-07-31 00:00:21
+tourl: https://t.co/VSMdm6a1Og
+tags: [0day]
+---
+[Stats] The average 0day price for recent vulnerabilities is $10k-$25k at the moment. https://t.co/7gM2uhG7ca

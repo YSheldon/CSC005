@@ -1,8 +1,0 @@
----
-layout: post
-title: The CyberWire
-date: 2018-07-25 00:00:22
-tourl: https://t.co/HQuCt1gLbK
-tags: [exploit]
----
-#CWBriefing: #Bluetooth Secure Connections Pairing &amp; Secure Simple Pairing #vulnerability: You'd need to be within #wireless range to exploit the vulnerability, but that's possible for a war driver or even an #evilmaid. #cybersecurity #infosec https://t.co/ieCVxf0yHf

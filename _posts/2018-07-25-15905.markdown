@@ -1,8 +1,0 @@
----
-layout: post
-title: Black Hat
-date: 2018-07-25 00:00:21
-tourl: http://t.co/aMEkUhZgUH
-tags: [Source]
----
-The #BlackHat Europe 2018 Arsenal Call for Tools is open! Submit today for the chance to present your open-source project during #BHEU in London, December 5-6 https://t.co/wNwu6d2HzV https://t.co/52Jz6GmN6x

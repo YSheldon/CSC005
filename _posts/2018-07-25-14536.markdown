@@ -1,8 +1,0 @@
----
-layout: post
-title: The CyberWire
-date: 2018-07-25 00:00:20
-tourl: https://t.co/HQuCt1gLbK
-tags: [APT]
----
-Going to Black Hat? Stop by &amp; see Sponsor @XMCyber_ at Innovation City, booth IC2233, &amp; experience the first fully automated #APT simulation platform to Simulate, validate &amp; remediate every #hackers path to organizational critical assets. Learn more https://t.co/pAfUt6rBDO https://t.co/qUEYL2YDU0

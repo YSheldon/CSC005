@@ -1,8 +1,0 @@
----
-layout: post
-title: CrowdStrike
-date: 2018-07-25 00:00:22
-tourl: http://t.co/ULWFfruGKw
-tags: [Crowdstrike]
----
-The CrowdStrike Foundation announces its four #nextgen scholarship recipients for the 2018  2019 academic year https://t.co/RhhqKfBvRu https://t.co/SXbkR1C1h0

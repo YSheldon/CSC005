@@ -1,9 +1,0 @@
----
-layout: post
-title: Virus Bulletin
-date: 2018-07-25 00:00:20
-tourl: https://t.co/3UVRbwBJWI
-tags: [Trojan]
----
-The Kronos banking trojan appears to have re-surfaced, with a new name (Osiris) and three new campaigns to date. @proofpoint's @threatinsight researchers share the details of the three campaigns as well as a fourth that looks to be a work in progress. 
-https://t.co/87GSIu5mzO

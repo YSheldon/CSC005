@@ -1,8 +1,0 @@
----
-layout: post
-title: CyberScoop
-date: 2018-07-25 00:00:20
-tourl: https://t.co/UiSN102kIR
-tags: [Group]
----
-'Leafminer' hacking group hitting wide array of Middle Eastern targets  https://t.co/H3on6xzA0T by @gregotto https://t.co/ww0E2NbsaX

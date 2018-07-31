@@ -1,8 +1,0 @@
----
-layout: post
-title: Security Response
-date: 2018-07-25 00:00:20
-tourl: http://t.co/Srj37yV6aw
-tags: [APT]
----
-Symantec uncovers #Leafminer APT targeting government orgs, businesses in the Middle East since 2017 https://t.co/6mRP7elDVJ https://t.co/6sUXpQ7ykB

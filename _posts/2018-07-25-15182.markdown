@@ -1,8 +1,0 @@
----
-layout: post
-title: Digital Shadows
-date: 2018-07-25 00:00:21
-tourl: http://t.co/xLsTXDpFlT
-tags: [Attack]
----
-New Report Reveals Evidence That ERP Applications are Under Attack by Cybercriminals, Hacktivists and Nation-state Actors | Read here from Digital Shadows and @onapsis : https://t.co/b5yRjZTiHb https://t.co/2M33K9v2nM

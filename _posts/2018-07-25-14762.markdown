@@ -1,8 +1,0 @@
----
-layout: post
-title: Vincent Yiu
-date: 2018-07-25 00:00:21
-tourl: https://t.co/tj7TTh8Vxh
-tags: [China]
----
-Interesting find, China Mobile intercepts vpn.*.com for certain domains located in the US and responds with its own IP...
