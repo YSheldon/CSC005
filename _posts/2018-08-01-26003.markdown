@@ -1,0 +1,8 @@
+---
+layout: post
+title: Scott Piper
+date: 2018-08-01 00:00:22
+tourl: http://t.co/Akrgmn9RNr
+tags: [AWS]
+---
+This is pretty cool from the perspective that Systems Manager doesn't have to be used on EC2's so it can ensure you have an audit trail of commands delivered to a non-AWS managed system. https://t.co/4OQUav1jR2

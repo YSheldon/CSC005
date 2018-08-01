@@ -1,8 +1,0 @@
----
-layout: post
-title: Threatpost
-date: 2018-07-26 00:00:21
-tourl: http://t.co/rD9Wvdqf3e
-tags: [Trojan,Attack]
----
-The Emotet trojan is now expanding its capabilities to act as a distributor of threats for other attack groups: https://t.co/Yvj0bs3fJ3

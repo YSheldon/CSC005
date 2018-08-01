@@ -1,8 +1,0 @@
----
-layout: post
-title: Black Hat
-date: 2018-07-26 00:00:21
-tourl: http://t.co/aMEkUhZgUH
-tags: [Attack]
----
-Discover new external attack techniques to gain stealthy internal network access, compromise database servers, reverse engineer .NET apps to identify 0-days &amp; whole lot more in #BHUSA Training Dark Side Ops 2 - Adversary Simulation with @SilentBreakSec https://t.co/B95WYG9YY2

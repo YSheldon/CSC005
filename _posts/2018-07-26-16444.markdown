@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-07-26 00:00:21
-tourl: https://t.co/k9HZz2bu5G
-tags: [Scripting,Group]
----
-CVE-2018-14493 Cross-site scripting (XSS) vulnerability in the Groups Page in Open-Audit Community 2.2.6 allows remote attackers to inject arbitrary web script or HTML via the group name.  https://t.co/wHvrGvucab

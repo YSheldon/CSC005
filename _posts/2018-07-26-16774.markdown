@@ -1,8 +1,0 @@
----
-layout: post
-title: Roger Smith
-date: 2018-07-26 00:00:21
-tourl: https://t.co/Zn275afqZ2
-tags: [Attack]
----
-#MSP What to look for if you are under cyber attack #SMB https://t.co/3kidnvUsZz

@@ -1,8 +1,0 @@
----
-layout: post
-title: Stefan Esser
-date: 2018-07-26 00:00:22
-tourl: https://t.co/2UU3zpeRUH
-tags: [Exploitation]
----
-I realized that the hotel serves Red Bull in the training room for our iOS Kernel Exploitation Training - i was not aware people still consume that stuff https://t.co/aNSW7DgYLc

@@ -1,8 +1,0 @@
----
-layout: post
-title: Anonymous
-date: 2018-07-26 00:00:22
-tourl: www.baidu.com
-tags: [Bill]
----
-The US House of Representatives has approved the 2019 National Defense Authorization Act (NDAA), allocating $716 billion to the US military. Here are some of the massive bills more interesting provisions. https://t.co/BlU7bbfprx

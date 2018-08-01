@@ -1,8 +1,0 @@
----
-layout: post
-title: BitSight
-date: 2018-07-26 00:00:22
-tourl: http://t.co/J7LgGQuadK
-tags: [GDPR]
----
-Find out why third-party #riskmanagement is needed to achieve and maintain #GDPR compliance. https://t.co/9nezKvstg6 #TPRM #VRM

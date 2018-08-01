@@ -1,8 +1,0 @@
----
-layout: post
-title: Eugene Kaspersky
-date: 2018-07-26 00:00:21
-tourl: http://t.co/vprBFgKl3n
-tags: [PowerShell]
----
-Our new research shows #crypto-currency mining is now a targeted threat to the business community. A new malware is a mining multitool, a symbiosis of #PowerShell and #EternalBlue for cryptocurrency mining ? https://t.co/tdCnDrkIol https://t.co/4xJez3d3lr

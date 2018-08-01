@@ -1,8 +1,0 @@
----
-layout: post
-title: Alex Ionescu
-date: 2018-07-26 00:00:20
-tourl: https://t.co/PPONT3wPXm
-tags: [APT]
----
-By that measure every APT in the last ten years uses something I first documented :P #JustTrolling https://t.co/YmqAYsdIlM

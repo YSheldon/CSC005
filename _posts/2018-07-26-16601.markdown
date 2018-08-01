@@ -1,8 +1,0 @@
----
-layout: post
-title: Hakin9
-date: 2018-07-26 00:00:21
-tourl: https://t.co/4DC7miAMag
-tags: [Source]
----
-FOCA  Extract information from metadata in Open Source Intelligence online course https://t.co/Yksgc5qvQm #infosec #hacking #hackers #pentesting #pentest #programming #opensource #cybersecurity #maltego #shodan #socialmedia  #metadata #wireless https://t.co/FYMHh6gXIe

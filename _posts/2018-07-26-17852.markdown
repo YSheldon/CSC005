@@ -1,8 +1,0 @@
----
-layout: post
-title: Security Affairs
-date: 2018-07-26 00:00:21
-tourl: http://t.co/V3OIFUqNCm
-tags: [Attack]
----
-Ransomware attack disrupted some systems of the shipping giant COSCO in the US  https://t.co/jx9gZuzgPF

@@ -1,9 +1,0 @@
----
-layout: post
-title: BleepingComputer
-date: 2018-07-26 00:00:21
-tourl: https://t.co/pljq5SLdfN
-tags: [Attack]
----
-Microsoft Discovers Supply Chain Attack at Unnamed Maker of PDF Software - by @campuscodi
-https://t.co/exNwBzvAXQ
