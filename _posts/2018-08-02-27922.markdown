@@ -1,0 +1,8 @@
+---
+layout: post
+title: The CyberWire
+date: 2018-08-02 00:00:21
+tourl: https://t.co/HQuCt1gLbK
+tags: [Attack]
+---
+#WeekthatWas: #Cosco attack: The industry press has drawn comparisons to #Maersk's experience with #NotPetya in 2017, but Cosco appears to be weathering storm better than Maersk did. @seatrade #cybersecurity #infosec https://t.co/BixWcwCCdN

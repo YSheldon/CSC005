@@ -1,9 +1,0 @@
----
-layout: post
-title: BleepingComputer
-date: 2018-07-27 00:00:21
-tourl: https://t.co/pljq5SLdfN
-tags: [Attack]
----
-New NetSpectre Attack Can Steal CPU Secrets via Network Connections - by @campuscodi
-https://t.co/wNH99Bk5Jb

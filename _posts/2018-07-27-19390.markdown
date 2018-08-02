@@ -1,8 +1,0 @@
----
-layout: post
-title: WIRED
-date: 2018-07-27 00:00:20
-tourl: https://t.co/KT14PZrouQ
-tags: [Group]
----
-A bipartisan group has introduced legislation that would devote $65 million to studying technology's impact on kids. https://t.co/GpRHJ5HMyo

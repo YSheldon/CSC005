@@ -1,8 +1,0 @@
----
-layout: post
-title: Nicolas Krassas
-date: 2018-07-27 00:00:21
-tourl: http://t.co/nj3EPPRowo
-tags: [Attack]
----
-New Spectre Attack Enables Secrets To Be Leaked Over A Network https://t.co/rYyQ0JDDLv

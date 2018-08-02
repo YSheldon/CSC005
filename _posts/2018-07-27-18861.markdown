@@ -1,8 +1,0 @@
----
-layout: post
-title: Binni Shah
-date: 2018-07-27 00:00:21
-tourl: https://t.co/LfZIicBDza
-tags: [Attack]
----
-Evilginx 2 - Next Generation of Phishing 2FA Tokens : https://t.co/eL9uBKMt74 ,evilginx2 : Standalone MITM attack framework used for phishing login credentials along with session cookies, alowing to bypass 2-factor authentication : https://t.co/g5kiJtcpub https://t.co/OxRjmhP9v9

@@ -1,8 +1,0 @@
----
-layout: post
-title: F5 Networks
-date: 2018-07-27 00:00:21
-tourl: https://t.co/Koj3fUWTNg
-tags: [Source]
----
-Open source spotlight: F5 infrastructure as code and multi-cloud manageability by @lmacvittie: https://t.co/SkYKQzzhtm via @networks_asia

@@ -1,8 +1,0 @@
----
-layout: post
-title: David Gerard
-date: 2018-07-27 00:00:22
-tourl: https://t.co/E240mnk62C
-tags: [GDPR]
----
-Microsoft/QML post on how to do GDPR on a blockchain, all solutions hypothetical https://t.co/P68CCcX3XG links me saying "don't do this"

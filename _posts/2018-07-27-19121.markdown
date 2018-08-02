@@ -1,8 +1,0 @@
----
-layout: post
-title: Security Response
-date: 2018-07-27 00:00:21
-tourl: http://t.co/Srj37yV6aw
-tags: [PowerShell]
----
-#FridayFact - Malicious #PowerShell attacks increased by 661 percent from the last half of 2017 to the first half of 2018, according to @Symantec research. Read more: https://t.co/o7syVfLuwe https://t.co/6uwdMOShQZ

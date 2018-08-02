@@ -1,9 +1,0 @@
----
-layout: post
-title: Heimdal Security
-date: 2018-07-27 00:00:22
-tourl: https://t.co/MAGmtFp8Sf
-tags: [GDPR]
----
-The effects of #GDPR: One million #Facebook users lost, 19 percent drop in shares value. 
-https://t.co/OqK8oUd1ws

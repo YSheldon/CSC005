@@ -1,8 +1,0 @@
----
-layout: post
-title: Black Hat
-date: 2018-07-27 00:00:21
-tourl: http://t.co/aMEkUhZgUH
-tags: [Source]
----
-Dont miss the latest open-source tools being demod at #BlackHat Arsenal August 8 &amp; 9. View the Arsenal lineup, select by track, date and time + read presenter bios. All #BHUSA pass types are welcome. https://t.co/R4CszmkqL1

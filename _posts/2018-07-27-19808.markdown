@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-07-27 00:00:21
-tourl: https://t.co/k9HZz2bu5G
-tags: [TLS]
----
-CVE-2017-2629 curl before 7.53.0 has an incorrect TLS Certificate Status Request extension feature that asks for a fresh proof of the server's certificate's validity in the code that checks for a test success or failure. It ends up ... https://t.co/RC0JBM6PXv

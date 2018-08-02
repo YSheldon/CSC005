@@ -1,8 +1,0 @@
----
-layout: post
-title: RSA
-date: 2018-07-27 00:00:21
-tourl: https://t.co/bABGhyqAQB
-tags: [Attack]
----
-.@Zulfikar_Ramzan explains how a small #Cybersecurity incident can end up costing a business big money due to secondary costs of recovering from the attack. #RSAC https://t.co/vsODuISBfG

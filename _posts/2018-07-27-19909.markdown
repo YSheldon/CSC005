@@ -1,8 +1,0 @@
----
-layout: post
-title: Digital Shadows
-date: 2018-07-27 00:00:23
-tourl: http://t.co/xLsTXDpFlT
-tags: [exploit,Attack]
----
-ERP applications such as Oracle and SAP's are open to exploit and under attack, according to a new report referenced in a US-CERT warning: https://t.co/fDm70dQ6tH @DarkReading

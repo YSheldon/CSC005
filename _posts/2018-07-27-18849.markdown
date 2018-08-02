@@ -1,8 +1,0 @@
----
-layout: post
-title: 0day Exploit Database
-date: 2018-07-27 00:00:23
-tourl: https://t.co/ifDhCPJfYM
-tags: [exploit,0day]
----
-#0daytoday #FTPShell Client 5.22 Remote Buffer Overflow Exploit [remote #exploits #0day #Exploit] https://t.co/RdZbZl7Luy

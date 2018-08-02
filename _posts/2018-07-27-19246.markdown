@@ -1,8 +1,0 @@
----
-layout: post
-title: Infosecurity Mag
-date: 2018-07-27 00:00:22
-tourl: http://t.co/ioT6nbGu1X
-tags: [CISO]
----
-At our upcoming EMEA Infosecurity Online Summit -11th Sept - @InfosecurityMag will sit down with @paulwattsUK CISO of @Dominos_UK to discuss the biggest challenges facing CISOs in 2018 &amp; Paul's personal journey into #infosec #IMOS18 https://t.co/NZpol44vHd
