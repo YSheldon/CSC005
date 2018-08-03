@@ -1,0 +1,8 @@
+---
+layout: post
+title: 0day Exploit Database
+date: 2018-08-03 00:00:23
+tourl: https://t.co/ifDhCPJfYM
+tags: [exploit,0day]
+---
+#0daytoday #ASUS #DSL #N12E C1 1.1.2.3_345 - #RCE Remote Command Execution Exploit [webapps #exploits #0day #Exploit] https://t.co/1qocHRO4W6

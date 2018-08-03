@@ -1,8 +1,0 @@
----
-layout: post
-title: Threatpost
-date: 2018-07-28 00:00:21
-tourl: http://t.co/rD9Wvdqf3e
-tags: [Attack]
----
-COSCOs American operations hit with crippling #ransomware attack: https://t.co/Bd0zoMEHdB

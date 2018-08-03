@@ -1,8 +1,0 @@
----
-layout: post
-title: Nicolas Krassas
-date: 2018-07-28 00:00:21
-tourl: http://t.co/nj3EPPRowo
-tags: [Attack]
----
-Microsoft revealed details of a supply chain attack at unnamed Maker of PDF Editor https://t.co/SEAUehs87m

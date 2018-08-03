@@ -1,8 +1,0 @@
----
-layout: post
-title: AlienVault
-date: 2018-07-28 00:00:22
-tourl: http://t.co/7mZeFsDsoi
-tags: [GDPR]
----
-What's the buzz in the #infosec world? Get @J4vv4D take on the things he "hearted" this week - Google's #security keys, the dangers of SIM swaps, breaking the supply chain, the impact of GDPR &amp; more: https://t.co/NnyLSQfnR5 https://t.co/OEsijNvBWW

@@ -1,8 +1,0 @@
----
-layout: post
-title: Anomali
-date: 2018-07-28 00:00:21
-tourl: https://t.co/Mm7Oxx7jzr
-tags: [Group,Attack]
----
-The financially-motivated threat group MoneyTaker has been found to have launched an attack on the Russian bank PIR Bank, according to Group-IB researchers. https://t.co/nurR6jcpP6

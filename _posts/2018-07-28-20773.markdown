@@ -1,8 +1,0 @@
----
-layout: post
-title: Catalin Cimpanu
-date: 2018-07-28 00:00:23
-tourl: https://t.co/9lGQt24Ew6
-tags: [exploit,Bootkit]
----
-New Underminer Exploit Kit Discovered Pushing Bootkits and CoinMiners https://t.co/RutcjFgGEl #exploitkit #coinminer #bootkit https://t.co/M5Y6o9TTEW

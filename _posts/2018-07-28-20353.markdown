@@ -1,8 +1,0 @@
----
-layout: post
-title: Threatpost
-date: 2018-07-28 00:00:21
-tourl: http://t.co/rD9Wvdqf3e
-tags: [Attack]
----
-A successful #phishing attack compromised the National Bank of Blacksburg's internal networks: https://t.co/rZwoXqc0BT

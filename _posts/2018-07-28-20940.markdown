@@ -1,8 +1,0 @@
----
-layout: post
-title: Threatpost
-date: 2018-07-28 00:00:22
-tourl: http://t.co/rD9Wvdqf3e
-tags: [Hack]
----
-After researchers found a security glitch that let them hack into an #IoT camera, the manufacturer of the camera has fixed the issue: https://t.co/EQX0hn5ML5
