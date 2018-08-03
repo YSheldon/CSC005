@@ -1,0 +1,8 @@
+---
+layout: post
+title: Google: We'll warn you if government hackers are attacking your company email
+date: 2018-08-02 01:02:11
+tourl: https://www.zdnet.com/article/google-well-warn-you-if-government-hackers-are-attacking-your-company-email/
+tags: [Attack]
+---
+Google is adding a feature to alert organisations running its G Suite office package if it believes one of their user accounts is being targeted by If an organisation's G Suite admin turns the feature on (it's off by default), he or she will receive an email alert if Google believes a government-backed attacker has attempted to access a user's account or computer via phishing, malware, or another method. "It does not necessarily mean that the account has been compromised or that there was a widespread attack on an organization," Once warned, admins can choose to share information about the alert with others, warn the user, or add more security to the user account.Spam email has been around for decades, but remains a Since 2012 Google has been sending warnings directly to users if it believes their Google accounts are being targeted by These alerts can be triggered if a user has received emails containing harmful attachments, links to malicious software downloads, or links to fake websites that are designed to steal passwords or other personal information. Google said that attackers have been known to send damaging PDF files, Office documents, or RAR files. "An extremely small fraction of users will ever see one of these warnings", said Google.

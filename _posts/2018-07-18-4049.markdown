@@ -1,0 +1,8 @@
+---
+layout: post
+title: Millions of Health Records at Risk Following LabCorp Suspected Breach
+date: 2018-07-18 01:02:11
+tourl: https://www.infosecurity-magazine.com:443/news/millions-of-health-records-at-risk/
+tags: [Attack]
+---
+Cookies enable us to provide the best experience possible and help us understand how visitors use our website. By browsing Infosecurity Magazine, you agree to our use of cookies.LabCorp provides diagnostic, drug development and technology-enabled solutions for more than 115 million patients per year, according to its website. It typically processes tests on more than 2.5 million patient specimens per week and supports clinical trial activity in around 100 countries. It has over 1900 patient service centers in the US. The filling itself does not go into detail as to which systems might have been affected, but concerns over patient data are justified. In August 2017, the NHS suffered a data breach where 1.2 million patient names were hacked, and another breach which resulted in 655,000 patient records from three hacked healthcare providers being sold. According to "We take it for granted that doctors and medical professionals will have complete access to our health profiles and background... however the very nature of this access, and the vast amount of information held within the healthcare industry, make it a prime and profitable target for criminals," wrote Suzanne Widup, senior analyst, Verizon Security, While it has not been confirmed by LabCorp who is behind the suspected attack, Verizon's 

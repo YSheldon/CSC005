@@ -1,0 +1,8 @@
+---
+layout: post
+title: WhatsApp now supports group calls
+date: 2018-07-31 01:02:11
+tourl: https://venturebeat.com/2018/07/31/whatsapp-rolls-out-group-calls-for-up-to-4-people/
+tags: [WhatsApp,Group]
+---
+Above: WhatsApp: AndroidWhatsApp is finally rolling out group video and voice calls to its 1.5 billion users around the world. The news was Above: WhatsApp: Group Video CallFacebook first introduced group audio calls to its own Messenger app But while some of its rivals Group calls will certainly be a welcomed by WhatsApps global users, and if nothing else the company will be glad to focus on its core product features Meanwhile, Apple is also 

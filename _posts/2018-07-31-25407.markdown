@@ -1,0 +1,8 @@
+---
+layout: post
+title: Multiple Cobalt Personality Disorder
+date: 2018-07-31 01:02:11
+tourl: https://blogs.cisco.com/security/talos/multiple-cobalt-personality-disorder
+tags: [Attack,Group]
+---
+tttDespite the notion that modern cybersecurity protocols have stopped email-based attacks, email continues to be one of the primary attack vectors for malicious actors  both for widespread and targeted operations.Recently, Cisco Talos has observed numerous email-based attacks that are spreading malware to users at both a large and small scale. In this blog post, we analyze several of those campaigns and their tactics, techniques and procedures (TTPs). These campaigns were all observed between mid-May and early July of this year, and can likely be attributed to one, or possibly two, groups. The attacks have become more sophisticated, and have evolved to evade detection on a continual basis.Other researchers have attributed these attacks to a group known as the Cobalt Gang, which has continued its activities even after the arrest of its alleged leader in Spain this year.We'd love to hear from you! To earn points and badges for participating in the conversation, join 

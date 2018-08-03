@@ -1,0 +1,8 @@
+---
+layout: post
+title: NetSpectre attack can exploit CPUs to leak information remotely, researchers say
+date: 2018-07-30 01:02:11
+tourl: https://www.cyberscoop.com/netspectre-spectre-variant-remote-hack/?category_news=technology
+tags: [Attack]
+---
+Researchers now say its possible to use the infamous Spectre vulnerability in a way that does not require direct access to a victims device.Researchers from the Graz University of Technology in Austria write in a The attacker only sends a series of crafted requests to the victim and measures the response time to leak a secret value from the victims memory, the researchers explain.The big development with NetSpectre is that it doesnt have those limitations.Remote ASLR break with even simpler gadgets than any previous  Daniel Gruss (@lavados) The finding does come with a slight sigh of relief: The speed of data exfiltration made possible by the NetSpectre attack is really slow. In general, an attacker would only be able to leak data at 15 bits per hour from a victim. A variation of NetSpectre thats specific to some Intel CPUs could crank the speed up to 60 bits per hour  still a snails pace. The slow speeds make the attack not so feasible for attackers who might want to seriously use it.But the researchers say that demonstrating NetSpectre as a theoretical attack is significant.NetSpectre marks a paradigm shift for Spectre attacks, from local attacks to remote attacks, the researchers write. With our NetSpectre attacks, a much wider range and larger number of devices are exposed to Spectre attacks. Spectre attacks now must also be considered on devices which do not run any potentially attacker-controlled code at all.

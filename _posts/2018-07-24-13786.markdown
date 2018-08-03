@@ -1,0 +1,8 @@
+---
+layout: post
+title: Emerging Vendors 2018: Cloud Computing Companies To Watch
+date: 2018-07-24 01:02:12
+tourl: https://www.crn.com/slide-shows/cloud/300106881/emerging-vendors-2018-cloud-computing-companies-to-watch.htm
+tags: [AWS]
+---
+Worldwide spending for public cloud services and infrastructure is forecast to increase more than 23 percent this year to reach $160 billion, well on the way to a forecast of $277 billion in 2021, according to market researcher IDC.Industry behemoths like Microsoft, AWS, Google and Salesforce.com certainly account for a significant portion of that. But the cloud computing market remains very dynamic with lots of room for startups with innovative products and services  and for the solution providers who partner with them.As part of  

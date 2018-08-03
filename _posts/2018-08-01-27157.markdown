@@ -1,0 +1,8 @@
+---
+layout: post
+title: Spam Remains the Criminals' Favorite Online Tool
+date: 2018-08-01 01:02:11
+tourl: https://blog.knowbe4.com/spam-remains-the-criminals-favorite-online-tool
+tags: [Attack]
+---
+Researchers at F-Secure gave Silicon Republic a run-down of what they've seen so far in 2018. "Of the spam samples weve seen over spring of 2018, 46pc are dating scams, 23pc are emails with malicious attachments and 31pc contain links to malicious websites." They also see that spammers are more successful if they can spoof an email account: people are more likely to click a link or open an attachment if they think the email came from someone they know.Having a typo-free, idiomatic, and grammatically correct message, especially in the subject line, also increases the likelihood that the victim will take the phishbait. And while urgency works, directly urgent appeals like "act now!" are less likely to succeed than will a call to action whose urgency is implied.So spam isn't going anywhere. It is, after all, a form of Silicon Republic has the story: Did you know that 91% of successful data breaches started with a spear-phishing attack?Cyber-attacks are rapidly getting more sophisticated. We help you train your employees to better manage the urgent IT security problems of PS: Don't like to click on redirected buttons? CutPaste this link in your browser: Topics: Š KnowBe4, Inc. All rights reserved. | 

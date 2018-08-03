@@ -1,0 +1,8 @@
+---
+layout: post
+title: DHSs NCCIC operations moved temporarily after storms in Virginia
+date: 2018-08-02 01:02:14
+tourl: https://www.fedscoop.com/dhss-nccic-operations-moved-vulnerability-scanning-temporarily-storms-virginia/
+tags: [Department of Homeland Security,DHS]
+---
+Several key Department of Homeland Security cybersecurity services were disrupted last week after the Northern Virginia building theyre housed in lost power during bad storms.The outage July 26 also took down two other programs under NCCICs National Cybersecurity Assessments and Technical Services (NCATS) program  Cyber Hygiene vulnerability scans and the Phishing Campaign Assessment  offline, and they remain down.The Cyber Hygiene program remotely detects known vulnerabilities on internet-facing services. The Phishing Campaign Assessment program is part of a remote penetration testing service. Both programs are used by hundreds of customers across the country. Thirty-four states have received vulnerability scans through the Cyber Hygiene program, DHS Assistant Secretary for Cybersecurity and Communications Jeanette Manfra told CyberScoop that the disruption to Cyber Hygiene is temporary, and that election systems will be the first to resume service once the program comes back online. Officials expect scans to resume Aug. 6.Read more about the disruption on 

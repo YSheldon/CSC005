@@ -1,0 +1,8 @@
+---
+layout: post
+title: SANS: \
+date: 2018-07-18 01:02:13
+tourl: https://blog.knowbe4.com/sans-less-than-half-of-cyberattacks-detected-via-antivirus
+tags: [exploit,Attack]
+---
+We have been saying here for a while that The SANS 2018 Survey on Endpoint Protection and Response polled 277 IT professionals on endpoint security concerns and practices. In this year's survey, 42% of respondents reported endpoint exploits, down from 53% in 2017. However, the number of those who didn't know they had been breached jumped from 10% in 2017 to 20% in 2018.Traditional tools are no longer sufficient to detect cyberattacks, the data shows: Antivirus systems only detected endpoint compromise 47% of the time; other attacks were caught through automated SIEM alerts (32%) and endpoint detection and response platforms (26%).Most endpoint attacks are intended to exploit users. More than 50% of respondents reported Web drive-by incidents, 53% pointed to social engineering and phishing attacks, and half cited ransomware. Credential theft was used in 40% of compromises reported, researchers state.The majority (84%) of endpoint breaches involve more than one device, experts report. Desktops and laptops are still the It's clear as daylight that you need to step your users through new-school Did you know that 91% of successful data breaches started with a spear phishing attack?Cyber-attacks are rapidly getting more sophisticated. We help you train your employees to better manage the urgent IT security problems of PS: Don't like to click on redirected buttons? CutPaste this link in your browser: Topics: Š KnowBe4, Inc. All rights reserved. | 

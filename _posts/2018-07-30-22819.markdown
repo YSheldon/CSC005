@@ -1,0 +1,8 @@
+---
+layout: post
+title: UK CNP Fraud Drops as Banks Fight Back
+date: 2018-07-30 01:02:12
+tourl: https://www.infosecurity-magazine.com:443/news/uk-cnp-fraud-drops-as-banks-fight/
+tags: [Exploitation]
+---
+Cookies enable us to provide the best experience possible and help us understand how visitors use our website. By browsing Infosecurity Magazine, you agree to our use of cookies.UK Card Not Present (CNP) fraud losses have fallen for the first time since 2011, despite rising levels in many European countries, according to new stats from The fraud prevention firms latest interactive map is built on data from Euromonitor International and UK Finance.It revealed that the UK saw the biggest reduction in net fraud losses of 8%, although the average across Europe rose by 2% (30m).A FICO spokesperson confirmed to As well as fraud migration, we are also seeing an evolution of fraudulent exploitation using cyber-enabled crimes, said fraud consulting director, Toby Carlin. The total size of the cyber-enabled threats will come to the fore as PSD2 reporting comes into play across Europe, but early indications from the UK show that cyber-enabled digital fraud is set to overtake plastic fraud by 2020.Despite the growing online threat, the UK is now the first market to have significantly reduced CNP fraud losses in several years. This should serve as an example to other regions that investment in the right technologies can reap rewards, but also as a warning that scammers may be on the lookout for geographies where less is being spent, said the firm.This is a significant turning point in the global fight against CNP, with hundreds of millions of euros worth of fraudulent migration imminent, A 
