@@ -1,0 +1,8 @@
+---
+layout: post
+title: NuHarbor Security
+date: 2018-08-03 00:00:21
+tourl: https://t.co/HgnUUovsZg
+tags: [MikroTik]
+---
+MikroTik routers enslaved in massive Coinhive cryptojacking campaign | ZDNet https://t.co/O939Lg1ngu #cybersecurity #infosec

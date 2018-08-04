@@ -1,0 +1,11 @@
+---
+layout: post
+title: Security Affairs
+date: 2018-08-03 00:00:22
+tourl: http://t.co/V3OIFUqNCm
+tags: [Hack]
+---
+@drupalsecurity @drupalplanet @drupal_org 
+CVE-2018-14773 #Symfony Flaw expose #Drupal websites to hack
+https://t.co/VTzAhIAnsp
+#securityaffairs #hacking

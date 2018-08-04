@@ -1,0 +1,8 @@
+---
+layout: post
+title: The Hacker News
+date: 2018-08-03 00:00:22
+tourl: https://t.co/tbidM9ew0f
+tags: [exploit]
+---
+Telewreck  A Burp extension to detect and exploit versions of Telerik Web UI vulnerable to CVE-2017-9248 https://t.co/gUKTCDIPOL https://t.co/khKpdNqSQP

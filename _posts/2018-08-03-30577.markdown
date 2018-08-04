@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-08-03 00:00:21
+tourl: https://t.co/k9HZz2bu5G
+tags: [Scripting]
+---
+CVE-2018-6590 CA API Developer Portal 4.x, prior to v4.2.5.3 and v4.2.7.1, has an unspecified reflected cross-site scripting vulnerability.  https://t.co/drw1WKV7xN

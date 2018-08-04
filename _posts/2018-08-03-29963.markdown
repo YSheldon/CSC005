@@ -1,0 +1,8 @@
+---
+layout: post
+title: 44CON
+date: 2018-08-03 00:00:22
+tourl: http://t.co/dlbSf1777O
+tags: [Exploitation]
+---
+Become an IoT exploiting ROPstar with @therealsaumil's ARM IoT exploitation course from 10th-12th September https://t.co/mGcRzoEyBu

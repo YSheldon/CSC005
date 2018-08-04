@@ -1,0 +1,15 @@
+---
+layout: post
+title: avman
+date: 2018-08-03 00:00:21
+tourl: www.baidu.com
+tags: [NETWIRE]
+---
+#NetWire #RAT
+wiglelamberfo[.]com/file/jon001.exe
+https://t.co/X8U8nNpXeg
+
+c2:
+.kinectkit.servehttp.com:8123;
+
+unpacked: https://t.co/BfDMRHiRuz https://t.co/FJkWxe0Q1c

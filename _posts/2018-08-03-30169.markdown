@@ -1,0 +1,8 @@
+---
+layout: post
+title: Attributor
+date: 2018-08-03 00:00:20
+tourl: www.baidu.com
+tags: [Trojan]
+---
+@illegalFawn @malwrhunterteam @MalwareHunterBR @JAMESWT_MHT which banking trojan ?

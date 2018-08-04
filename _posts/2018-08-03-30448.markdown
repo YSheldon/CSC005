@@ -1,0 +1,8 @@
+---
+layout: post
+title: TrendLabs
+date: 2018-08-03 00:00:22
+tourl: http://t.co/MB171H1oL9
+tags: [GDPR]
+---
+How can #DevOps, complemented with multilayered security solutions, align with the #GDPRs mandate of #DataProtection by design? https://t.co/wjmfprAaX0 https://t.co/nOMAAdOa8A

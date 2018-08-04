@@ -1,0 +1,8 @@
+---
+layout: post
+title: Ulf Frisk
+date: 2018-08-03 00:00:21
+tourl: https://t.co/ppYZJ7HO4p
+tags: [Attack]
+---
+Huge congratz @nxsolle and Pasi to the BlueHat accept! I'm super excited to see your awesome BitLocker attack once again, this time in public, both at SEC-T and BlueHat!

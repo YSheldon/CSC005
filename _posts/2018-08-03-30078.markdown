@@ -1,0 +1,8 @@
+---
+layout: post
+title: Pedram Amini
+date: 2018-08-03 00:00:21
+tourl: https://t.co/SincsJTLMr
+tags: [Source]
+---
+My earliest inspirations were the works of the https://t.co/duvW5q4Jqx and @L0phtHeavyInd crews... I carried around printed dsniff source code and must have re-read @dildog  https://t.co/VX70GWT6SP "The Tao of Windows Buffer Overflow" over 50 times.

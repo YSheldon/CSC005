@@ -1,0 +1,8 @@
+---
+layout: post
+title: The CyberWire
+date: 2018-08-03 00:00:22
+tourl: https://t.co/HQuCt1gLbK
+tags: [DHS]
+---
+#billingtoncyber Chertoff (to a question): With respect to infrastructure, the Government can only protect it with the cooperation of the private sector that owns it. Speaks positively of results of this week's DHS summit in New York.

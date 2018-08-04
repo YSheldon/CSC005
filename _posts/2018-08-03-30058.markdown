@@ -1,0 +1,11 @@
+---
+layout: post
+title: Malwrologist
+date: 2018-08-03 00:00:21
+tourl: https://t.co/DMaAFKt4hs
+tags: [PowerShell]
+---
+#hta (#vbscript) contains encoded #vbscript. The code stores #base64 encoded #PE (#MSIL #NET) in a registry (HKCU\Software\Values), creates a task that runs #powershell. The #powershell reads the registry value &amp; execs it.
+
+#hta https://t.co/1qKR8Q2Ev1
+#PE https://t.co/ecojRPSLGT https://t.co/D9oA78H8Fr

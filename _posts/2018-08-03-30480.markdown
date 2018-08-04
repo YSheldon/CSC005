@@ -1,0 +1,8 @@
+---
+layout: post
+title: Menlo Security
+date: 2018-08-03 00:00:21
+tourl: https://t.co/KGGTO8JfLs
+tags: [Attack]
+---
+A new survey has found that 79% of #ransomware attack victims say #phishing emails are to blame; now these threats are getting more sophisticated &amp; spreading beyond corporate targets thanks to #spearphishing &amp; #whaling @juliet_tech @BizTechMagazine - https://t.co/1dHnbFZx3f https://t.co/IGCzxHn0Yu

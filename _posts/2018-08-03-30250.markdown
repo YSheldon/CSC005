@@ -1,0 +1,8 @@
+---
+layout: post
+title: 0day Exploit Database
+date: 2018-08-03 00:00:23
+tourl: https://t.co/ifDhCPJfYM
+tags: [0day,exploit]
+---
+#0daytoday #Linux/x86 - Reverse TCP (::FFFF:192.168.1.5:4444/TCP) #Shell (/bin/sh) + Null-Free + IPv6 #Shellcode (86 bytes) [#0day #Exploit] https://t.co/1bsbijq2wS

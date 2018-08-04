@@ -1,0 +1,8 @@
+---
+layout: post
+title: VulDB ????
+date: 2018-08-03 00:00:22
+tourl: https://t.co/VSMdm6a1Og
+tags: [MikroTik,Routeros]
+---
+MikroTik RouterOS up to 6.42 Winbox Request privilege escalation https://t.co/yzr7kRGuoc
