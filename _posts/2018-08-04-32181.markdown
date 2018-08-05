@@ -1,0 +1,9 @@
+---
+layout: post
+title: Nicolas Krassas
+date: 2018-08-04 00:00:21
+tourl: http://t.co/nj3EPPRowo
+tags: [Hypervisor]
+---
+VivienneVMM - a stealthy debugging framework implemented via an Intel VT-x hypervisor
+https://t.co/FlqzkvI5dx

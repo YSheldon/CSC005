@@ -1,0 +1,9 @@
+---
+layout: post
+title: F-Secure
+date: 2018-08-04 00:00:21
+tourl: https://t.co/fsJY27uDKB
+tags: [Attack]
+---
+Spam-based malicious attacks are up because other attack vectors are going away.
+https://t.co/bbja5PdPWl https://t.co/IdlloSEqAQ

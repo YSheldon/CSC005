@@ -1,0 +1,8 @@
+---
+layout: post
+title: The CyberWire
+date: 2018-08-04 00:00:21
+tourl: https://t.co/HQuCt1gLbK
+tags: [Attack]
+---
+#CWBriefing: Two attacks on municipal systems are drawing attention. The smaller is the attack #Matanuska-Susitna Borough sustained last week in #Alaska.  #cybersecurity #infosec https://t.co/DGAckOsfdi

@@ -1,0 +1,8 @@
+---
+layout: post
+title: The CyberWire
+date: 2018-08-04 00:00:21
+tourl: https://t.co/HQuCt1gLbK
+tags: [Source]
+---
+#WeekthatWas: #Reddit announced that between June 14 &amp; 18 an attacker compromised a few employee accounts &amp; gained access to backup data, source code and logs. #cybersecurity #infosec https://t.co/zydOhPEJUM
