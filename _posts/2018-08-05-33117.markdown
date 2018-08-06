@@ -1,0 +1,8 @@
+---
+layout: post
+title: The Hacker News
+date: 2018-08-05 00:00:21
+tourl: https://t.co/tbidM9ew0f
+tags: [Source]
+---
+So far we don't have reports on any #vulnerability in the company's website that could have allowed attackers to steal data. The company is probably investigating the issue to identify the source of #dataleaks.

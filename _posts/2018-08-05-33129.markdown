@@ -1,0 +1,8 @@
+---
+layout: post
+title: Charlie Miller
+date: 2018-08-05 00:00:24
+tourl: www.baidu.com
+tags: [Exploitation,Hack]
+---
+1.  Remote exploitation of an unaltered passenger vehicle (2015) (with @nudehaberdasher).  The Jeep hack.  Made @a_greenberg cry.  Cost FCA a bunch of money.

@@ -1,0 +1,8 @@
+---
+layout: post
+title: 44CON
+date: 2018-08-05 00:00:22
+tourl: http://t.co/dlbSf1777O
+tags: [Hack]
+---
+Hack webviews, client side databases and keychains with @MDSecLabs' Mobile Hacker's Handbook: Live Edition, 11th - 12th September https://t.co/n5k69Wn31r

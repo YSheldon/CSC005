@@ -1,0 +1,8 @@
+---
+layout: post
+title: Linux Security Labs
+date: 2018-08-05 00:00:21
+tourl: https://t.co/ee1vBPOO91
+tags: [Attack]
+---
+Tool review: Pyersinia (network attack and testing tool) #analysis #pentesting https://t.co/PVAyoDvU39

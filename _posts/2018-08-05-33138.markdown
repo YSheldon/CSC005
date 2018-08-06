@@ -1,0 +1,8 @@
+---
+layout: post
+title: Charlie Miller
+date: 2018-08-05 00:00:23
+tourl: www.baidu.com
+tags: [Attack,Hack]
+---
+10. A survey of remote automotive attack surfaces (2014) (with @nudehaberdasher). Looked at architecture of 7 different cars and talked about which would be easier/harder to hack.  Turns out Jeep was top of the list.
