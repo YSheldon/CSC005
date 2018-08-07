@@ -54,7 +54,7 @@ layout: main
 {% assign pday={{post.date|date:'%d'}} %}{% assign pyday={{pday|abs}}%}
   {% if pyday == syday %}
 
-{% assign sclass={{post.date|date:'%h'}} %}
+{% assign sclass={{post.date|date:'%H'}} %}
   {% if sclass == 12 %}
 
 <article class="post">
