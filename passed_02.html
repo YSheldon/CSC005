@@ -50,7 +50,7 @@ permalink: /passed/02/
     {% if pyday == syday %}
 
   {% assign sclass={{post.date|date:'%H'}} %}{% assign syhour={{sclass|abs}}%}
-    {% if sclass == 11 %}
+    {% if syhour == 11 %}
   <article class="post">         
 
     {% if post.img %}
