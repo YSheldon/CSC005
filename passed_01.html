@@ -49,8 +49,8 @@ permalink: /passed/01/
   {% assign pday={{post.date|date:'%d'}} %}{% assign pyday={{pday|abs}}%}
     {% if pyday == syday %}
 
-  {% assign sclass={{post.date|date:'%h'}} %}
-    {% if sclass == 13 %}
+  {% assign sclass={{post.date|date:'%H'}} %}{% assign syhour={{sclass|abs}}%}
+    {% if syhour == 13 %}
 
   <article class="post">         
 
