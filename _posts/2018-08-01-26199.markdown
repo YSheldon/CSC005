@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Agencies should adopt behavioral analytics tools to fortify their security, expert says
-date: 2018-08-01 13:02:16
+date: 2018-08-01 12:02:16
 tourl: https://www.fedscoop.com/agencies-adopt-behavioral-analytics-tools-fortify-security-expert-says/
 tags: [Attack,Equation]
 ---

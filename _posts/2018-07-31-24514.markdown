@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BitPaymer Ransomware Infection Forces Alaskan Town to Use Typewriters for a Week
-date: 2018-07-31 13:02:15
+date: 2018-07-31 12:02:15
 tourl: https://www.bleepingcomputer.com/news/security/bitpaymer-ransomware-infection-forces-alaskan-town-to-use-typewriters-for-a-week/
 tags: [Attack,Data Encrypted,Trojan]
 ---
