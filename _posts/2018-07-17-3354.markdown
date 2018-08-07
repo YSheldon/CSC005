@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You Can Now Install Chrome Extensions in Opera Directly
-date: 2018-07-17 01:02:11
+date: 2018-07-17 13:02:11
 tourl: https://www.bleepingcomputer.com/news/software/you-can-now-install-chrome-extensions-in-opera-directly/
 tags: [Source]
 ---

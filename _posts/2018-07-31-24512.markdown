@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Font of pwnage: Crims poison well with crypto-jacking code, trickles into PDF editor app
-date: 2018-07-31 01:02:13
+date: 2018-07-31 13:02:13
 tourl: /2018/07/27/pdf_editor_supply_chain/
 tags: [Hack,Attack]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Google User Content CDN Used for Malware Hosting
-date: 2018-07-20 01:02:11
+date: 2018-07-20 13:02:11
 tourl: https://www.bleepingcomputer.com/news/security/google-user-content-cdn-used-for-malware-hosting/
 tags: [Web Shell]
 ---

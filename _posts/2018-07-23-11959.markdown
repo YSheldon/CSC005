@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Major sites still largely lax on prompting users towards safer password choices, study finds
-date: 2018-07-23 01:02:11
+date: 2018-07-23 13:02:11
 tourl: https://www.welivesecurity.com/2018/07/23/major-sites-lax-safer-password/
 tags: [Source]
 ---

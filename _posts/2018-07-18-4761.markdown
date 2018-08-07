@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Google brings free MLCC Study Jam Series to India
-date: 2018-07-18 01:02:11
+date: 2018-07-18 13:02:11
 tourl: https://www.techworm.net/2018/07/google-free-machine-learning-crash-course-mlcc-study-jam-series-india.html
 tags: [Source]
 ---

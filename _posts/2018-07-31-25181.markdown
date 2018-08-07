@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shipping Firm Avoids Customer Data Dump in Last Year's Hack & Ransom Incident
-date: 2018-07-31 01:02:14
+date: 2018-07-31 11:02:14
 tourl: https://www.bleepingcomputer.com/news/security/shipping-firm-avoids-customer-data-dump-in-last-years-hack-and-ransom-incident/
 tags: [Hack,Law]
 ---

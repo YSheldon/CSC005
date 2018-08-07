@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ukraine blocks VPNFilter attack against core country water system
-date: 2018-07-13 01:02:21
+date: 2018-07-13 12:02:21
 tourl: https://www.zdnet.com/article/ukraine-blocks-vpnfilter-attack-against-core-country-water-system/
 tags: [Sofacy,Fancy Bear,Group,Attack]
 ---

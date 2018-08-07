@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Equifax CISO Jamil Farshchi's three-act, 'shared fate' security plan
-date: 2018-07-13 01:02:14
+date: 2018-07-13 11:02:14
 tourl: https://www.cyberscoop.com/jamil-farshchi-equifax-ciso-apache-struts/?category_news=technology
 tags: [CISO,Hack,Group]
 ---

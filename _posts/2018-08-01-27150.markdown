@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DHS Launches Cyber-Risk Management Center
-date: 2018-08-01 01:02:20
+date: 2018-08-01 11:02:20
 tourl: https://www.infosecurity-magazine.com:443/news/dhs-announced-cyberrisk-management/
 tags: [Department of Homeland Security,DHS,Cyber Command,National Security Agency,Bill]
 ---

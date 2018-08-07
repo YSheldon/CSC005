@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Passwords for Tens of Thousands of Dahua Devices Cached in IoT Search Engine
-date: 2018-07-15 01:02:14
+date: 2018-07-15 11:02:14
 tourl: https://www.bleepingcomputer.com/news/security/passwords-for-tens-of-thousands-of-dahua-devices-cached-in-iot-search-engine/
 tags: [Exploitation,exploit]
 ---

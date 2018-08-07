@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SingHealth Scammers Try to Cash in on Major Breach
-date: 2018-07-23 01:02:11
+date: 2018-07-23 13:02:11
 tourl: https://www.infosecurity-magazine.com:443/news/singhealth-scammers-try-cash-major/
 tags: [Attack]
 ---

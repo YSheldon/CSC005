@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Congress demands more openness from DOD on cloud
-date: 2018-07-25 01:02:14
+date: 2018-07-25 11:02:14
 tourl: https://defensesystems.com/articles/2018/07/24/ndaa-conference-report-cloud.aspx
 tags: [Bill,DOD]
 ---

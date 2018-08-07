@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Millions of Health Records at Risk Following LabCorp Suspected Breach
-date: 2018-07-18 01:02:11
+date: 2018-07-18 13:02:11
 tourl: https://www.infosecurity-magazine.com:443/news/millions-of-health-records-at-risk/
 tags: [Attack]
 ---

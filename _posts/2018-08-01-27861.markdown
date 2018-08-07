@@ -1,7 +1,7 @@
 ---
 layout: post
 title: User data and private messages exposed in Reddit breach
-date: 2018-08-01 01:02:16
+date: 2018-08-01 13:02:16
 tourl: https://www.cyberscoop.com/user-data-private-messages-exposed-reddit-breach/?category_news=technology
 tags: [Source,Attack,Law,National Institute of Standards and Technology]
 ---

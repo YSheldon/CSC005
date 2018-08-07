@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Two-Fifths of IT Leaders regard IoT Security as Afterthought
-date: 2018-07-27 01:02:12
+date: 2018-07-27 11:02:12
 tourl: https://www.infosecurity-magazine.com:443/news/twofifths-of-it-leaders-regard-iot/
 tags: [GDPR]
 ---

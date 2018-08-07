@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Defense Innovation Board proposes new metrics for assessing DOD software development
-date: 2018-07-13 01:02:13
+date: 2018-07-13 13:02:13
 tourl: https://www.fedscoop.com/defense-innovation-board-software-development-metrics/
 tags: [DOD,Source]
 ---

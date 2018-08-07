@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Russian Hacking Campaign Targeted US Utilities
-date: 2018-07-24 01:02:14
+date: 2018-07-24 11:02:14
 tourl: https://www.infosecurity-magazine.com:443/news/russian-hacking-campaign-on-us/
 tags: [Group,Department of Homeland Security,DHS]
 ---

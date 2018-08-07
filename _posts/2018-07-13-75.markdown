@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting The Most Out of Your Free Trial of Next-Gen Antivirus
-date: 2018-07-13 01:02:13
+date: 2018-07-13 13:02:13
 tourl: https://www.crowdstrike.com/blog/getting-the-most-out-of-your-free-trial-of-next-gen-antivirus/
 tags: [Group,Crowdstrike,Attack]
 ---

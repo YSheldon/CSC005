@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Alexa alternatives have a secret weapon: Privacy
-date: 2018-07-14 01:02:15
+date: 2018-07-14 13:02:15
 tourl: https://venturebeat.com/2018/07/14/alexa-alternatives-have-a-secret-weapon-privacy/
 tags: [WhatsApp,Telegram,CALENDAR,Source]
 ---

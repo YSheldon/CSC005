@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DHSs NCCIC operations moved temporarily after storms in Virginia
-date: 2018-08-02 01:02:14
+date: 2018-08-02 11:02:14
 tourl: https://www.fedscoop.com/dhss-nccic-operations-moved-vulnerability-scanning-temporarily-storms-virginia/
 tags: [Department of Homeland Security,DHS]
 ---

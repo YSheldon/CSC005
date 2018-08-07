@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FS-ISAC, Singapore to collaborate on cybersecurity initiatives
-date: 2018-07-18 01:02:12
+date: 2018-07-18 11:02:12
 tourl: https://www.zdnet.com/article/fs-isac-singapore-to-collaborate-on-cybersecurity-initiatives/
 tags: [Bill]
 ---

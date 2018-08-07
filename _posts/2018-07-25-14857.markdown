@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Advanced Mobile Malware Campaign in India uses Malicious MDM  Part 2
-date: 2018-07-25 01:02:12
+date: 2018-07-25 13:02:12
 tourl: https://blogs.cisco.com/security/talos/advanced-mobile-malware-campaign-in-india-uses-malicious-mdm-part-2
 tags: [Attack,WhatsApp]
 ---

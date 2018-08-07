@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reddit Breached After SMS 2FA Fail
-date: 2018-08-02 01:02:14
+date: 2018-08-02 13:02:14
 tourl: https://www.infosecurity-magazine.com:443/news/reddit-breached-after-sms-2fa-fail/
 tags: [Attack,Source,GDPR]
 ---

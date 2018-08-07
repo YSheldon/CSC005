@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft wants the government to regulate use of facial recognition technology
-date: 2018-07-19 01:02:13
+date: 2018-07-19 13:02:13
 tourl: https://www.techworm.net/2018/07/microsoft-government-regulate-use-facial-recognition-technology.html
 tags: [Regulations,CALENDAR]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Intel Xeon workhorses boot evil maids out of the hotel: USB-based spying thwarted by fix
-date: 2018-07-26 01:02:14
+date: 2018-07-26 13:02:14
 tourl: /2018/07/25/intel_xeon_usb_debugging/
 tags: [Attack,Rootkit,Exploitation]
 ---

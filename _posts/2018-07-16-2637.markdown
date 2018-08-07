@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Russian hackers struck Clinton server hours after Trump called for emails
-date: 2018-07-16 01:02:12
+date: 2018-07-16 11:02:12
 tourl: https://www.cyberscoop.com/dnc-hack-donald-trump-hillary-clinton-emails/?category_news=technology
 tags: [Hack,Group]
 ---

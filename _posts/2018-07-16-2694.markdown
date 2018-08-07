@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Inside DIUxs push into Texas
-date: 2018-07-16 01:02:12
+date: 2018-07-16 11:02:12
 tourl: https://www.fedscoop.com/inside-diux-defense-innovation-unit-experimental-austin-texas/
 tags: [DOD]
 ---

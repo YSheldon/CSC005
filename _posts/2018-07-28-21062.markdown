@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mozilla Is Working on a Chrome-Like \
-date: 2018-07-28 01:02:11
+date: 2018-07-28 13:02:11
 tourl: https://www.bleepingcomputer.com/news/software/mozilla-is-working-on-a-chrome-like-site-isolation-feature-for-firefox/
 tags: [Graphical User Interface]
 ---

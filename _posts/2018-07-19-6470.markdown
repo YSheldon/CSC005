@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft Says It Blocked Attempts at Hacking Midterm Campaigns
-date: 2018-07-19 01:02:11
+date: 2018-07-19 13:02:11
 tourl: https://www.bleepingcomputer.com/news/government/microsoft-says-it-blocked-attempts-at-hacking-midterm-campaigns/
 tags: [Attack]
 ---

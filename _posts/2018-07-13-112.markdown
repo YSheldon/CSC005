@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lawmakers, tech vendors fight over election cybersecurity efforts
-date: 2018-07-13 01:02:16
+date: 2018-07-13 11:02:16
 tourl: https://www.cyberscoop.com/election-cybersecurity-elections-systems-software-dominion-voting/?category_news=technology
 tags: [Department of Homeland Security,DHS,Group,NSA]
 ---

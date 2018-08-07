@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bad guys use Google's Golang to cross-compile multi-platform malware
-date: 2018-07-14 01:02:11
+date: 2018-07-14 13:02:11
 tourl: https://blog.knowbe4.com/bad-guys-use-googles-golang-to-cross-compile-multi-platform-malware
 tags: [Source]
 ---

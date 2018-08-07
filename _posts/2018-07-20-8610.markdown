@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visit CrowdStrike at Black Hat 2018
-date: 2018-07-20 01:02:13
+date: 2018-07-20 13:02:13
 tourl: https://www.crowdstrike.com/blog/visit-crowdstrike-at-black-hat-2018/
 tags: [Crowdstrike,Attack]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Facebook, Google, Microsoft, and Twitter launch the Data Transfer Project
-date: 2018-07-20 01:02:11
+date: 2018-07-20 13:02:11
 tourl: https://venturebeat.com/2018/07/20/facebook-google-microsoft-and-twitter-launch-the-data-transfer-project/
 tags: [Source]
 ---

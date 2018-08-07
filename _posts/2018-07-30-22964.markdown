@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Hybrid Cloud Makes Sense for Developers
-date: 2018-07-30 01:02:11
+date: 2018-07-30 13:02:11
 tourl: https://blogs.cisco.com/cloud/hybrid-cloud-makes-sense
 tags: [Source]
 ---

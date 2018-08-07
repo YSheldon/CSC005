@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Massive Malvertising Campaign Discovered Attempting 40,000 Infections per Week
-date: 2018-07-30 01:02:12
+date: 2018-07-30 11:02:12
 tourl: https://www.bleepingcomputer.com/news/security/massive-malvertising-campaign-discovered-attempting-40-000-infections-per-week/
 tags: [exploit,Group]
 ---

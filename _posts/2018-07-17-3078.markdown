@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CrowdStrike Falcon Discover for AWS: Visibility That Ensures Security in The Cloud
-date: 2018-07-17 01:02:14
+date: 2018-07-17 11:02:14
 tourl: https://www.crowdstrike.com/blog/crowdstrike-falcon-discover-for-aws-visibility-that-ensures-security-in-the-cloud/
 tags: [Crowdstrike,AWS]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Researchers Detail New CPU Side-Channel Attack Named SpectreRSB
-date: 2018-07-23 01:02:11
+date: 2018-07-23 13:02:11
 tourl: https://www.bleepingcomputer.com/news/security/researchers-detail-new-cpu-side-channel-attack-named-spectrersb/
 tags: [Attack]
 ---

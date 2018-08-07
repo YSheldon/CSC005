@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Huawei half-year revenue climbs to $48 billion
-date: 2018-08-01 01:02:13
+date: 2018-08-01 13:02:13
 tourl: https://www.zdnet.com/article/huawei-half-year-revenue-climbs-to-48-billion/
 tags: [Regulations,Source]
 ---

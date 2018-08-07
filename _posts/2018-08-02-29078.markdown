@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reddit reveals breach as attacker circumvents staffs 2FA
-date: 2018-08-02 01:02:14
+date: 2018-08-02 13:02:14
 tourl: https://www.welivesecurity.com/2018/08/02/reddit-reveals-breach-staffs-2fa/
 tags: [Hack,Attack,Source]
 ---

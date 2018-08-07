@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pentagon Creates 'Do Not Buy' List of Chinese and Russian Software Providers
-date: 2018-07-30 01:02:14
+date: 2018-07-30 13:02:14
 tourl: https://www.bleepingcomputer.com/news/government/pentagon-creates-do-not-buy-list-of-chinese-and-russian-software-providers/
 tags: [DOD,Source,China]
 ---

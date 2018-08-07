@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SDxCentral's Weekly Roundup  July 13, 2018 The U.S. Justice Department appeals the AT&T-Time Warner merger; Tintri...
-date: 2018-07-16 01:02:14
+date: 2018-07-16 13:02:14
 tourl: https://www.sdxcentral.com/articles/news/sdxcentrals-weekly-roundup-july-13-2018/2018/07/
 tags: [China,Source,AWS]
 ---

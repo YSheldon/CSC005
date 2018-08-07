@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Russia Fends Off 25 Million Cyber-Attacks During World Cup
-date: 2018-07-16 01:02:13
+date: 2018-07-16 13:02:13
 tourl: https://www.infosecurity-magazine.com:443/news/russia-fends-off-25-million-world/
 tags: [Law,Attack]
 ---

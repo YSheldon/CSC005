@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Funny Google Chromebook Ad Mocks Windows and macOS Operating Systems
-date: 2018-07-31 01:02:11
+date: 2018-07-31 13:02:11
 tourl: https://www.bleepingcomputer.com/news/google/funny-google-chromebook-ad-mocks-windows-and-macos-operating-systems/
 tags: [Attack]
 ---

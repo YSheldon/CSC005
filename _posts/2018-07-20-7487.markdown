@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MoneyTaker Grabs $1m from PIR Bank
-date: 2018-07-20 01:02:14
+date: 2018-07-20 13:02:14
 tourl: https://www.infosecurity-magazine.com:443/news/moneytaker-grabs-1m-usd-from-pir/
 tags: [Group,AWS,Attack,Source]
 ---

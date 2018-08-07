@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CableLabs Snaps Kubernetes Into Its NFV, SDN Platform Stack The SNAPS-Kubernetes platform helps to deliver virtual network functions...
-date: 2018-07-25 01:02:11
+date: 2018-07-25 13:02:11
 tourl: https://www.sdxcentral.com/articles/news/cablelabs-snaps-kubernetes-into-its-nfv-sdn-platform-stack/2018/07/
 tags: [Source]
 ---

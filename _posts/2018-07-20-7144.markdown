@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ?Local SME Salsa Digital awarded GovCMS contract
-date: 2018-07-20 01:02:11
+date: 2018-07-20 13:02:11
 tourl: https://www.zdnet.com/article/local-sme-salsa-digital-awarded-govcms-contract/
 tags: [Source]
 ---

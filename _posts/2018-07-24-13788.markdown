@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bluetooth bug could expose devices to snoopers
-date: 2018-07-24 01:02:11
+date: 2018-07-24 13:02:11
 tourl: https://www.welivesecurity.com/2018/07/24/bluetooth-bug-expose-devices/
 tags: [Group,Attack]
 ---

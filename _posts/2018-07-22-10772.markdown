@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Unknown Dev Brings LibreOffice to Windows 10 via the Microsoft Store
-date: 2018-07-22 01:02:11
+date: 2018-07-22 13:02:11
 tourl: https://www.bleepingcomputer.com/news/microsoft/unknown-dev-brings-libreoffice-to-windows-10-via-the-microsoft-store/
 tags: [Source]
 ---

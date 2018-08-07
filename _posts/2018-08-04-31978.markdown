@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MikroTik routers grab their pickaxes, descend into the crypto mines
-date: 2018-08-04 01:02:15
+date: 2018-08-04 13:02:15
 tourl: /2018/08/03/mikrotik_routers_cryptocurrency/
 tags: [MikroTik,exploit,Attack,Source]
 ---

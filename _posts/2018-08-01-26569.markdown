@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fortnite Mobile for Android might not be available on the Google Play Store
-date: 2018-08-01 01:02:11
+date: 2018-08-01 13:02:11
 tourl: https://www.techworm.net/2018/07/fortnite-mobile-for-android-might-not-be-available-on-the-google-play-store.html
 tags: [Epic]
 ---

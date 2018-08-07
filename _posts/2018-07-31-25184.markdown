@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You Cant Afford a Data Breach  And Theyre Only Getting More Expensive
-date: 2018-07-31 01:02:11
+date: 2018-07-31 13:02:11
 tourl: https://blog.knowbe4.com/you-cant-afford-a-data-breach-and-theyre-only-getting-more-expensive
 tags: [Attack]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Medicare hits My Health Record opt-out while Health complains about Parl Library
-date: 2018-07-26 01:02:12
+date: 2018-07-26 11:02:12
 tourl: https://www.zdnet.com/article/australians-cannot-opt-out-of-my-health-record-today-because-medicare-is-down/
 tags: [Law]
 ---

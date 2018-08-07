@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ransomware Mid-Year Update: Its Worse Than Ever
-date: 2018-07-16 01:02:11
+date: 2018-07-16 13:02:11
 tourl: https://blog.knowbe4.com/ransomware-mid-year-update-its-worse-than-ever
 tags: [Attack]
 ---

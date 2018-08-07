@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Extensions, Android and iOS Apps Caught Collecting Browsing Data
-date: 2018-07-25 01:02:14
+date: 2018-07-25 11:02:14
 tourl: https://www.bleepingcomputer.com/news/security/chrome-extensions-android-and-ios-apps-caught-collecting-browsing-data/
 tags: [GDPR,Law]
 ---

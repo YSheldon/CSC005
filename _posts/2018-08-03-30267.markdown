@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DEF CON plans to show US election hacking is so easy kids can do it
-date: 2018-08-03 01:02:20
+date: 2018-08-03 11:02:20
 tourl: /2018/08/02/defcon_election_hacking/
 tags: [Hack,exploit,Chaos,Bill,Attack,DHS]
 ---

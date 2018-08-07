@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tech giants, civil liberties coalition urges Congress to pass email privacy law
-date: 2018-07-17 01:02:15
+date: 2018-07-17 11:02:15
 tourl: https://www.zdnet.com/article/tech-giants-civil-liberties-coalition-urges-congress-to-pass-email-privacy-law/
 tags: [Bill,Law,WhatsApp]
 ---

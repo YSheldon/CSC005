@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Droppers Is How Android Malware Keeps Sneaking Into the Play Store
-date: 2018-07-20 01:02:11
+date: 2018-07-20 13:02:11
 tourl: https://www.bleepingcomputer.com/news/security/droppers-is-how-android-malware-keeps-sneaking-into-the-play-store/
 tags: [Trojan,Source]
 ---

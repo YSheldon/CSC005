@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Half a Billion IoT Devices Vulnerable to DNS Rebinding Attacks
-date: 2018-07-20 01:02:11
+date: 2018-07-20 13:02:11
 tourl: https://www.bleepingcomputer.com/news/security/half-a-billion-iot-devices-vulnerable-to-dns-rebinding-attacks/
 tags: [Attack]
 ---

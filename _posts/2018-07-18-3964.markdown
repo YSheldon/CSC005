@@ -1,7 +1,7 @@
 ---
 layout: post
 title: US Vote-Counting Computers Had Flaw, Allowed Hackers Access
-date: 2018-07-18 01:02:11
+date: 2018-07-18 13:02:11
 tourl: https://www.infosecurity-magazine.com:443/news/us-votecounting-computers-had/
 tags: [Source]
 ---

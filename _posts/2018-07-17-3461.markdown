@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Revealed in detail: World powers stuff spyware kit, how-to guides in dodgy nations' pockets
-date: 2018-07-17 01:02:16
+date: 2018-07-17 11:02:16
 tourl: /2018/07/16/states_fund_foreign_surveillance/
 tags: [NSA,Biometric,Law,Group]
 ---

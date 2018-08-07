@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wyden asks federal agencies to ditch Adobe Flash
-date: 2018-07-26 01:02:22
+date: 2018-07-26 11:02:22
 tourl: https://www.cyberscoop.com/ron-wyden-adobe-flash-letter/?category_news=technology
 tags: [Department of Homeland Security,National Security Agency,National Institute of Standards and Technology,DHS,NSA,exploit]
 ---

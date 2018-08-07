@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pentagon wants to move its Acropolis to the cloud to fight cyber-adversaries
-date: 2018-07-19 01:02:12
+date: 2018-07-19 11:02:12
 tourl: https://www.fedscoop.com/pentagon-wants-move-acropolis-cloud-fight-cyber-adversaries/
 tags: [DOD]
 ---

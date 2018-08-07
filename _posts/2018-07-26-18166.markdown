@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Emotet Phishing Epidemic: Infections Costing Orgs Up to $1 Million Per Incident
-date: 2018-07-26 01:02:10
+date: 2018-07-26 13:02:10
 tourl: https://blog.knowbe4.com/emotet-epidemic-infections-costing-orgs-up-to-1-million-per-incident
 tags: [Trojan]
 ---

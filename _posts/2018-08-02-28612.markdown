@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nuisance Call Firm Hit with Ł100K ICO Fine
-date: 2018-08-02 01:02:12
+date: 2018-08-02 11:02:12
 tourl: https://www.infosecurity-magazine.com:443/news/nuisance-call-firm-hit-with-100k/
 tags: [Regulations]
 ---

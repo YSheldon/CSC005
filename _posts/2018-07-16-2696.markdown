@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft Notepad For Windows Gets Its First Major Update In Years
-date: 2018-07-16 01:02:11
+date: 2018-07-16 13:02:11
 tourl: https://www.techworm.net/2018/07/microsoft-notepad-app-windows-update.html
 tags: [BACKSPACE]
 ---

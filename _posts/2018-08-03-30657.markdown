@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GandCrab Ransomware Author Bitter After Security Vendor Releases Vaccine App
-date: 2018-08-03 01:02:13
+date: 2018-08-03 13:02:13
 tourl: https://www.bleepingcomputer.com/news/security/gandcrab-ransomware-author-bitter-after-security-vendor-releases-vaccine-app/
 tags: [exploit,Attack]
 ---

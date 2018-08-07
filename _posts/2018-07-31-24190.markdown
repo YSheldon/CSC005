@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ?Nokia Scores $3.5B 5G Contract With T-Mobile The announcement comes just days after Nokia CEO Rajeev Suri admitted...
-date: 2018-07-31 01:02:10
+date: 2018-07-31 13:02:10
 tourl: https://www.sdxcentral.com/articles/news/%e2%80%8cnokia-scores-3-5b-5g-contract-with-t-mobile/2018/07/
 tags: [Group]
 ---

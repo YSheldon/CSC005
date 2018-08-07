@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Did you know: Lawyers can certify web domain ownership? Well, not no more they ain't
-date: 2018-08-03 01:02:11
+date: 2018-08-03 13:02:11
 tourl: /2018/08/02/lawyers_domain_ownership/
 tags: [TLS]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quantum computing supremacy would be a digital nuclear bomb, Rep. McCaul says
-date: 2018-07-19 01:02:11
+date: 2018-07-19 13:02:11
 tourl: https://www.fedscoop.com/quantum-computing-mike-mccaul-digital-nuclear-bomb/
 tags: [China]
 ---

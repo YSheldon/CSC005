@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3D printing guns at home: Does new technology change America's gun control debate?
-date: 2018-07-31 01:02:15
+date: 2018-07-31 11:02:15
 tourl: https://www.zdnet.com/article/3d-printing-guns-at-home-does-new-technology-change-americas-gun-control-debate/
 tags: [Law,Attack,Hack]
 ---

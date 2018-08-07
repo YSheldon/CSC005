@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducing: Malwarebytes Browser Extension July 26, 2018 - Malwarebytes Browser Extensions (BETA) are available in the official web stores for Chrome and Firefox. Read what they can do for you, and try one out, if you haven't already.CONTINUE READING
-date: 2018-07-26 01:02:11
+date: 2018-07-26 13:02:11
 tourl: https://blog.malwarebytes.com/malwarebytes-news/betas/2018/07/introducing-malwarebytes-browser-extension/
 tags: [Browser Extensions]
 ---

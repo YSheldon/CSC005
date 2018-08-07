@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cisco and Her Spark: Building Bright Minds of the Future
-date: 2018-08-02 01:02:10
+date: 2018-08-02 13:02:10
 tourl: https://blogs.cisco.com/security/cisco-and-her-spark-building-bright-minds-of-the-future
 tags: [Group]
 ---

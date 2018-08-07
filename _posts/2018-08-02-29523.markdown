@@ -1,7 +1,7 @@
 ---
 layout: post
 title: UK.gov ploughs cash into creaky police technology
-date: 2018-08-02 01:02:14
+date: 2018-08-02 11:02:14
 tourl: /2018/08/02/ukgov_ploughs_cash_into_creaky_police_tech/
 tags: [Law,Exploitation]
 ---

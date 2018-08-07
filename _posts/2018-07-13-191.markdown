@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Packaging and Palletizing Collaborative Robots: Frequently Asked Questions Addressed
-date: 2018-07-13 01:02:11
+date: 2018-07-13 13:02:11
 tourl: https://www.techworm.net/2018/07/packaging-palletizing-collaborative-robots-use-manufacturing-plants.html
 tags: [Source]
 ---

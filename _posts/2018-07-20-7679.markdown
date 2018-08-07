@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Venmo refuses to say why transactions are public by default
-date: 2018-07-20 01:02:11
+date: 2018-07-20 13:02:11
 tourl: https://www.zdnet.com/article/venmo-refuses-to-say-why-transactions-are-public-by-default/
 tags: [WhatsApp]
 ---

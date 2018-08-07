@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Samsam Ransomware infected thousands of LabCorp systems via brute force RDP
-date: 2018-07-20 01:02:11
+date: 2018-07-20 13:02:11
 tourl: https://blog.knowbe4.com/samsam-ransomware-infected-thousands-of-labcorp-systems-via-brute-force-rdp
 tags: [Attack]
 ---

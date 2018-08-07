@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Australians almost immune from ransomware, topping lists for data safety
-date: 2018-08-01 01:02:11
+date: 2018-08-01 13:02:11
 tourl: /2018/07/30/oz_orgs_good_at_fending_off_ransomware_health_tops_breach_league_table/
 tags: [Attack]
 ---

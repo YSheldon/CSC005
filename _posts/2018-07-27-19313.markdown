@@ -1,7 +1,7 @@
 ---
 layout: post
 title: This new cryptomining malware targets business PCs and servers
-date: 2018-07-27 01:02:15
+date: 2018-07-27 13:02:15
 tourl: https://www.zdnet.com/article/this-new-cryptomining-malware-targets-business-pcs-and-servers/
 tags: [PowerShell,Windows Management Instrumentation,Mimikatz,exploit]
 ---

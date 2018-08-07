@@ -1,7 +1,7 @@
 ---
 layout: post
 title: In the opaque world of government hacking, private firms grapple with allegiances
-date: 2018-07-24 01:02:29
+date: 2018-07-24 11:02:29
 tourl: https://www.cyberscoop.com/cybersecurity-research-reports-kaspersky-symantec-microsoft-us-government/?category_news=technology
 tags: [Source,Crowdstrike,FIREEYE,Exploitation,Regin,NSA,APT,Law,Group,Attack,Equation,National Security Agency]
 ---

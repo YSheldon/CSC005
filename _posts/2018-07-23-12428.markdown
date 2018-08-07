@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pentagons Joint AI Center is established, but theres much more to...
-date: 2018-07-23 01:02:12
+date: 2018-07-23 11:02:12
 tourl: https://www.fedscoop.com/dod-joint-ai-center-established/
 tags: [DOD,Group]
 ---

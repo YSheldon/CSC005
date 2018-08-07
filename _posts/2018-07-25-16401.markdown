@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Security keys have been good to Google, so now it's promoting one of its own
-date: 2018-07-25 01:02:11
+date: 2018-07-25 13:02:11
 tourl: https://www.cyberscoop.com/google-titan-security-key-2fa-anti-phishing/?category_news=technology
 tags: [Attack]
 ---

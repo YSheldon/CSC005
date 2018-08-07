@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Malvertising Campaign Delivers Millions of Bad Ads
-date: 2018-07-30 01:02:11
+date: 2018-07-30 13:02:11
 tourl: https://www.infosecurity-magazine.com:443/news/malvertising-campaign-delivers/
 tags: [Trojan,Attack]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Utilities will have stricter cybersecurity reporting requirements under new ruling
-date: 2018-07-19 01:02:12
+date: 2018-07-19 11:02:12
 tourl: https://www.cyberscoop.com/ferc-ruling-stricter-reporting-requirements-electric-utilities/?category_news=technology
 tags: [Department of Homeland Security]
 ---

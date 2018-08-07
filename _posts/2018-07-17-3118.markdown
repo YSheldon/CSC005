@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kremlin hacking crew went on a 'Roman Holiday'  researchers
-date: 2018-07-17 01:02:21
+date: 2018-07-17 13:02:21
 tourl: /2018/07/16/apt28_italian_job/
 tags: [Group,Fancy Bear,X-Agent,Hack,NATO,China,SPLM]
 ---

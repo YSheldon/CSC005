@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sad Nav: How a cheap GPS spoofer gizmo can tell drivers to get lost
-date: 2018-07-17 01:02:12
+date: 2018-07-17 13:02:12
 tourl: /2018/07/16/researchers_hack_gps/
 tags: [China,Group,Attack]
 ---

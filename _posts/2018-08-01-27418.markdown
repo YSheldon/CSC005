@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reddit Announces Security Breach After Hackers Bypassed Staff's 2FA
-date: 2018-08-01 01:02:14
+date: 2018-08-01 13:02:14
 tourl: https://www.bleepingcomputer.com/news/security/reddit-announces-security-breach-after-hackers-bypassed-staffs-2fa/
 tags: [Hack,Source,Attack]
 ---

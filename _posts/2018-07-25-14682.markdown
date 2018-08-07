@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Big bad Bluetooth blunder bug battered  check for security fixes
-date: 2018-07-25 01:02:11
+date: 2018-07-25 13:02:11
 tourl: /2018/07/24/bluetooth_cryptography_bug/
 tags: [Group,Attack]
 ---

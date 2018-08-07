@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows 10 Cumulative Updates KB4340917, KB4338817 and KB4338827 Released
-date: 2018-07-24 01:02:11
+date: 2018-07-24 13:02:11
 tourl: https://www.bleepingcomputer.com/news/microsoft/windows-10-cumulative-updates-kb4340917-kb4338817-and-kb4338827-released/
 tags: [Group,PowerShell]
 ---

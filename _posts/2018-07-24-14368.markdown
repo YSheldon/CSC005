@@ -1,7 +1,7 @@
 ---
 layout: post
 title: After Intel Spin-Out, Wind River Systems Makes Layoffs
-date: 2018-07-24 01:02:12
+date: 2018-07-24 13:02:12
 tourl: https://www.crn.com/news/internet-of-things/300106911/after-intel-spin-out-wind-river-systems-to-begin-layoffs.htm
 tags: [China,Group,Source]
 ---

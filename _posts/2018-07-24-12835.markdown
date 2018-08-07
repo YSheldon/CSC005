@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft Throws Down Cloud Revenue Challenge for AWS, Google The computing giant touted cloud as driving its latest revenue surge,...
-date: 2018-07-24 01:02:12
+date: 2018-07-24 11:02:12
 tourl: https://www.sdxcentral.com/articles/news/microsoft-throws-down-cloud-revenue-challenge-for-aws-google/2018/07/
 tags: [Group,AWS]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hope for Hutchins, Navy sinks contractor, there's another Russian hacking scandal, and more
-date: 2018-07-16 01:02:10
+date: 2018-07-16 13:02:10
 tourl: /2018/07/14/security_roundup_july_13/
 tags: [Group]
 ---

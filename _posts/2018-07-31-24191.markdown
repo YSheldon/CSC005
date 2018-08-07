@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Private health providers called out in quarterly Australian data breach report
-date: 2018-07-31 01:02:15
+date: 2018-07-31 13:02:15
 tourl: https://www.zdnet.com/article/private-health-providers-called-out-in-quarterly-australian-data-breach-report/
 tags: [Brute Force,Law,Attack,FIREEYE]
 ---

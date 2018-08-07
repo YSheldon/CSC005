@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FBI boss: We went to the Moon, so why can't we have crypto backdoors?  and more this week
-date: 2018-07-31 01:02:16
+date: 2018-07-31 13:02:16
 tourl: /2018/07/28/security_roundup/
 tags: [Tor,FIREEYE,Attack,Source,Exploitation]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Trend Micros ZDI Bug Bounty Goes Server Side
-date: 2018-07-25 01:02:11
+date: 2018-07-25 13:02:11
 tourl: https://www.infosecurity-magazine.com:443/news/trend-micros-zdi-bug-bounty-goes/
 tags: [Source]
 ---

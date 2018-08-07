@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JEDI saga opens a new chapter
-date: 2018-07-26 01:02:13
+date: 2018-07-26 13:02:13
 tourl: https://defensesystems.com/articles/2018/07/24/insights-wisinger-jedi-implications.aspx
 tags: [Source,Group,DOD]
 ---

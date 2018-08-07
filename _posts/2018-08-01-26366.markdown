@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mozilla warns it plans to distrust all Symantec-chained certs in October
-date: 2018-08-01 01:02:12
+date: 2018-08-01 13:02:12
 tourl: https://www.zdnet.com/article/mozilla-warns-it-plans-to-distrust-all-symantec-chained-certs-in-october/
 tags: [TLS,Source]
 ---

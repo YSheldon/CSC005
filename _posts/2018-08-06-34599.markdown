@@ -1,0 +1,8 @@
+---
+layout: post
+title: Why Doesnt Cyber Insurance Have Phishing Prevention Discounts?
+date: 2018-08-06 13:02:11
+tourl: https://blog.knowbe4.com/why-doesnt-cyber-insurance-have-phishing-prevention-discounts
+tags: [Attack]
+---
+Nearly every insurance company offers discounts based on conditions that demonstrate youre less a risk. Their actuary-type folks internally have done the math and figured out ways that lower the risk of the insurance company paying out. And so, they offer discounts to encourage you to be insured under optimal conditions. For example, having an alarm in your home makes it less likely youll be a victim of a break-in. Showing your student driver has over a certain GPA makes them less likely to be in an accident.So, shouldnt insurers offering cyber insurance have discounts around phishing prevention? After all, most cyber insurance revolves around the insured (that is, your organization) being a potential victim of a data breach. And, if you can demonstrate that you have taken additional measures to lower the risk of attack, it makes sense that those measures should warrant a discount.Why focus on phishing specifically? If you follow industry data, you already know a majority of cyber-attacks start with phishing  depending on whose data youre looking at, its as high as 91% of attacks.So, the answer to the serious question of why arent their discounts? is likely We did some research of our own earlier this year in our   In both attack scenarios, the use of So, I ask you, with a 37% decrease in the likelihood of 91% of all cyber-attacks ever being successful  shouldnt organizations with I think so.Topics: Š KnowBe4, Inc. All rights reserved. | 

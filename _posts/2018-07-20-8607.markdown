@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Saudi Arabia bans video games following suicide of two children
-date: 2018-07-20 01:02:13
+date: 2018-07-20 13:02:13
 tourl: https://www.techworm.net/2018/07/saudi-arabia-bans-video-games-suicide-two-children.html
 tags: [China,Regulations]
 ---

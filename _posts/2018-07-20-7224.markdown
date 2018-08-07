@@ -1,7 +1,7 @@
 ---
 layout: post
 title: UK Gov Launches Consultation to Speed-Up Cybersecurity Strategy
-date: 2018-07-20 01:02:14
+date: 2018-07-20 11:02:14
 tourl: https://www.infosecurity-magazine.com:443/news/uk-gov-launches-consultation-for/
 tags: [Law,Draft]
 ---

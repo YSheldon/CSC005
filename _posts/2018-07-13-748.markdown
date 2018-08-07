@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Check Point: Cryptominers Oust Ransomware as Most Prominent Malware Check Points mid-year report on cyber attack trends found that in 2018...
-date: 2018-07-13 01:02:11
+date: 2018-07-13 13:02:11
 tourl: https://www.sdxcentral.com/articles/news/check-point-cryptominers-oust-ransomware/2018/07/
 tags: [Attack,Trojan,Group]
 ---

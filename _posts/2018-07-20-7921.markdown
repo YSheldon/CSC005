@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Commercial Kubernetes Services: Theres an App for That The Google Cloud Platform Marketplace updates its previously launched...
-date: 2018-07-20 01:02:11
+date: 2018-07-20 13:02:11
 tourl: https://www.sdxcentral.com/articles/news/commercial-kubernetes-services-theres-an-app-for-that/2018/07/
 tags: [Source]
 ---

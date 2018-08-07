@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shock Land Rover Discovery: Sellers could meddle with connected cars if not unbound
-date: 2018-07-31 01:02:11
+date: 2018-07-31 13:02:11
 tourl: /2018/07/27/jaguar_land_rover_connected_car_privacy/
 tags: [Rover]
 ---

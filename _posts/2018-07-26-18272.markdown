@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft Office Vulnerabilities Used to Distribute FELIXROOT Backdoor in Recent Campaign
-date: 2018-07-26 01:02:20
+date: 2018-07-26 13:02:20
 tourl: /blog/threat-research/2018/07/microsoft-office-vulnerabilities-used-to-distribute-felixroot-backdoor.html
 tags: [FIREEYE,Equation,Rundll32,Exploitation,Windows Management Instrumentation]
 ---

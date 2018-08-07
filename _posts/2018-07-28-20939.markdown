@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NDAA calls for cyber warfare strategy
-date: 2018-07-28 01:02:12
+date: 2018-07-28 11:02:12
 tourl: https://defensesystems.com/articles/2018/07/27/cyber-doctrine-sasse-ndaa.aspx
 tags: [Bill]
 ---

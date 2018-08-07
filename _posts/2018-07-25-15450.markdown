@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ERP security warning as hackers step up attacks on systems
-date: 2018-07-25 01:02:13
+date: 2018-07-25 13:02:13
 tourl: https://www.zdnet.com/article/erp-security-warning-as-hackers-step-up-attacks-on-systems/
 tags: [Department of Homeland Security,Attack,Trojan]
 ---

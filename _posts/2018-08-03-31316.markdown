@@ -1,0 +1,8 @@
+---
+layout: post
+title: Phishing Continues to be on the Rise in 2018!
+date: 2018-08-03 13:02:11
+tourl: https://blog.knowbe4.com/phishing-continues-to-be-on-the-rise-in-2018
+tags: [Attack,Group]
+---
+It should come as no surprise that the most successful attack tactic is being used more in 2018. APWGs latest report shows us the trends and what to expect for the remainder of 2018.The Anti-Phishing Working Group (APWG) analyzes phishing attack data from industry partners, and reports on its findings quarterly. Their latest, released on July 31st, covers the While APWGs reports are probably a quarter behind in their timeliness, the data found remains valuable to demonstrate the trends we should continue to see throughout all of 2018.All three of these trends add up to one thing  the bad guys are working on looking more and more legitimate. While the really poorly-written HTML emails attempting to Just as the cybercriminals are stepping up their game, your organization needs to as well. Users are going to be faced with determining the legitimacy of email requests, links, and attachments on their own. So, it critical to empower the user withTopics: Š KnowBe4, Inc. All rights reserved. | 

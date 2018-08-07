@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Emerging Vendors 2018: Cloud Computing Companies To Watch
-date: 2018-07-24 01:02:12
+date: 2018-07-24 11:02:12
 tourl: https://www.crn.com/slide-shows/cloud/300106881/emerging-vendors-2018-cloud-computing-companies-to-watch.htm
 tags: [AWS]
 ---

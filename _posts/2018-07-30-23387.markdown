@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DOD to Move All Websites to HTTPS by the End of the Year
-date: 2018-07-30 01:02:14
+date: 2018-07-30 11:02:14
 tourl: https://www.bleepingcomputer.com/news/government/dod-to-move-all-websites-to-https-by-the-end-of-the-year/
 tags: [DOD,Department of Homeland Security]
 ---

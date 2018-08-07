@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft announces open-source Quantum Katas project on GitHub to teach Q# programming
-date: 2018-07-27 01:02:11
+date: 2018-07-27 13:02:11
 tourl: https://www.techworm.net/2018/07/microsoft-announces-open-source-quantum-katas-project-github-teach-quantum-programming-quantum-computing-q-programming.html
 tags: [Source]
 ---

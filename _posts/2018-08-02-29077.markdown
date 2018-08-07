@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Google: We'll warn you if government hackers are attacking your company email
-date: 2018-08-02 01:02:11
+date: 2018-08-02 13:02:11
 tourl: https://www.zdnet.com/article/google-well-warn-you-if-government-hackers-are-attacking-your-company-email/
 tags: [Attack]
 ---

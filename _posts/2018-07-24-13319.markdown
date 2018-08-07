@@ -1,7 +1,7 @@
 ---
 layout: post
 title: If at first you, er, make things worse, you're probably Microsoft: Bug patch needed patching
-date: 2018-07-24 01:02:15
+date: 2018-07-24 11:02:15
 tourl: /2018/07/23/qihoo_360_microsoft_patches/
 tags: [Exploitation,Scripting,exploit]
 ---

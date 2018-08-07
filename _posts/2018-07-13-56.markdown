@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows Malware Carries Valid Digital Signatures
-date: 2018-07-13 01:02:11
+date: 2018-07-13 13:02:11
 tourl: https://www.infosecurity-magazine.com:443/news/windows-malware-carries-valid/
 tags: [Code Signing]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ericsson Rebounds in Q2 as 5G Momentum Grows The Swedish firm reported an operating profit of $23 million. Its the...
-date: 2018-07-19 01:02:10
+date: 2018-07-19 13:02:10
 tourl: https://www.sdxcentral.com/articles/news/ericsson-rebounds-in-2q-as-5g-momentum-grows/2018/07/
 tags: [Group]
 ---

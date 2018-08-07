@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Facebook reveals new covert efforts to sway 2018 midterm elections
-date: 2018-07-31 01:02:14
+date: 2018-07-31 11:02:14
 tourl: https://www.zdnet.com/article/facebook-reveals-new-covert-efforts-to-sway-2018-midterm-elections/
 tags: [Group,exploit,Law]
 ---

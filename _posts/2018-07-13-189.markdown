@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pi-top: modular PCs that teach you how to code
-date: 2018-07-13 01:02:11
+date: 2018-07-13 13:02:11
 tourl: https://venturebeat.com/2018/07/13/pi-top-raises-16-million-for-modular-pcs-that-teach-you-how-to-code/
 tags: [China]
 ---

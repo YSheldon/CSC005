@@ -1,7 +1,7 @@
 ---
 layout: post
 title: No big deal... Kremlin hackers 'jumped air-gapped networks' to pwn US power utilities
-date: 2018-07-25 01:02:23
+date: 2018-07-25 12:02:23
 tourl: /2018/07/24/russia_us_energy_grid_hackers/
 tags: [Department of Homeland Security,Dragonfly,Energetic Bear,Attack]
 ---

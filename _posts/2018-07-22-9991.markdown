@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pilot project aims to speed clearance process
-date: 2018-07-22 01:02:12
+date: 2018-07-22 11:02:12
 tourl: https://defensesystems.com/articles/2018/07/20/nbib-clearance-pilot.aspx
 tags: [DOD]
 ---

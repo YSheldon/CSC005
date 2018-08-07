@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Surface Go review: Wonderful weight, superb software, poor performance
-date: 2018-08-02 01:02:11
+date: 2018-08-02 13:02:11
 tourl: https://venturebeat.com/2018/08/02/surface-go-review-wonderful-weight-superb-software-poor-performance/
 tags: [FLIPSIDE]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WhatsApp now supports group calls
-date: 2018-07-31 01:02:11
+date: 2018-07-31 13:02:11
 tourl: https://venturebeat.com/2018/07/31/whatsapp-rolls-out-group-calls-for-up-to-4-people/
 tags: [WhatsApp,Group]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Crypto gripes, election security, and mandatory cybersec school: Uncle Sam's cyber task force emits todo list for govt
-date: 2018-07-23 01:02:15
+date: 2018-07-23 11:02:15
 tourl: /2018/07/20/us_government_cybersecurity/
 tags: [Department of Homeland Security,National Security Council,Tor]
 ---

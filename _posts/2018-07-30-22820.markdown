@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Final Data Protection bill junked RTI dilution, introduced localisation: Report
-date: 2018-07-30 01:02:14
+date: 2018-07-30 11:02:14
 tourl: https://www.medianama.com/2018/07/223-data-protection-bill-junked-rti-localisation/
 tags: [Bill,Draft]
 ---

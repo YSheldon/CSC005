@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Insecure web still too prevalent: Boffins unveil HSTS wall of shame
-date: 2018-07-25 01:02:12
+date: 2018-07-25 13:02:12
 tourl: /2018/07/24/insecure_web_hsts_https/
 tags: [TLS,China]
 ---

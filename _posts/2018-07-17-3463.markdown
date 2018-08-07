@@ -1,7 +1,7 @@
 ---
 layout: post
 title: UK SMEs: Know Your Enemy. Plan Your Defense
-date: 2018-07-17 01:02:11
+date: 2018-07-17 13:02:11
 tourl: https://blog.knowbe4.com/uk-smes-know-your-enemy.-plan-your-defense
 tags: [Attack]
 ---

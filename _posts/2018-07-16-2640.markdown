@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thousands of Mega logins dumped online, exposing user files
-date: 2018-07-16 01:02:11
+date: 2018-07-16 13:02:11
 tourl: https://www.zdnet.com/article/thousands-of-mega-logins-dumped-online-exposing-user-files/
 tags: [WhatsApp]
 ---

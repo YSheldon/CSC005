@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vaccine Available for GandCrab Ransomware v4.1.2
-date: 2018-07-19 01:02:11
+date: 2018-07-19 13:02:11
 tourl: https://www.bleepingcomputer.com/news/security/vaccine-available-for-gandcrab-ransomware-v412/
 tags: [Source]
 ---

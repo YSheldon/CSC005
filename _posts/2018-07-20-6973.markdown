@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Health Record opt-outs will not sink system: Turnbull
-date: 2018-07-20 01:02:12
+date: 2018-07-20 11:02:12
 tourl: https://www.zdnet.com/article/my-health-record-opt-outs-will-not-sink-system-turnbull/
 tags: [Law]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CIO Dana Deasy sets plan to secure DOD websites
-date: 2018-07-25 01:02:15
+date: 2018-07-25 11:02:15
 tourl: https://www.fedscoop.com/cio-dana-deasy-sets-plan-secure-dod-websites/
 tags: [CALENDAR,DOD,Cyber Command]
 ---

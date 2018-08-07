@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Former U.S. officials call for transparency in cybersecurity of 2020 census
-date: 2018-07-17 01:02:12
+date: 2018-07-17 11:02:12
 tourl: https://www.fedscoop.com/2020-census-u-s-officials-cybersecurity-standards/
 tags: [White House Cybersecurity Coordinator,Group]
 ---

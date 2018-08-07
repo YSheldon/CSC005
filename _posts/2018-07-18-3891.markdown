@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Russia's national vulnerability database is a bit like the Soviet Union  sparse and slow
-date: 2018-07-18 01:02:14
+date: 2018-07-18 13:02:14
 tourl: /2018/07/17/russia_vuln_database/
 tags: [Bill,China,Source,APT]
 ---

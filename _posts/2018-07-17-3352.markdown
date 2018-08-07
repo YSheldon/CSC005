@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Evolving Government: Moving beyond passwords for seamless identity verification
-date: 2018-07-17 01:02:17
+date: 2018-07-17 11:02:17
 tourl: https://www.fedscoop.com/evolving-government-moving-beyond-passwords-seamless-identity-verification/
 tags: [Commission on Enhancing National Cybersecurity,National Institute of Standards and Technology,Source,Bill]
 ---

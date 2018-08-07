@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OneDrive app for Android updated with fingerprint authentication
-date: 2018-07-31 01:02:12
+date: 2018-07-31 11:02:12
 tourl: https://www.welivesecurity.com/2018/07/31/onedrive-android-fingerprint-authentication/
 tags: [Biometric]
 ---

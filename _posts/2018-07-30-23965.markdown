@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NetSpectre attack can exploit CPUs to leak information remotely, researchers say
-date: 2018-07-30 01:02:11
+date: 2018-07-30 13:02:11
 tourl: https://www.cyberscoop.com/netspectre-spectre-variant-remote-hack/?category_news=technology
 tags: [Attack]
 ---

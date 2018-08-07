@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Adobe on internal systems security hole: Panic not. It isn't critical
-date: 2018-07-20 01:02:12
+date: 2018-07-20 13:02:12
 tourl: /2018/07/19/adobe_internal_systems_bug/
 tags: [Scripting,Attack]
 ---

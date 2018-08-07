@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft Edge's XSS Filter Appears to Be Broken
-date: 2018-07-21 01:02:11
+date: 2018-07-21 13:02:11
 tourl: https://www.bleepingcomputer.com/news/security/microsoft-edges-xss-filter-appears-to-be-broken/
 tags: [Scripting]
 ---

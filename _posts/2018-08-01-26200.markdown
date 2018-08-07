@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Apple CEO Cook: iPhone Demand 'Strong,' But Mac And iPad Falter
-date: 2018-08-01 01:02:11
+date: 2018-08-01 13:02:11
 tourl: https://www.crn.com/news/mobility/300107351/apple-ceo-cook-iphone-demand-strong-but-mac-and-ipad-falter.htm
 tags: [Group,China]
 ---

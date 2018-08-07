@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2FA? We've heard of it: White hats weirded out by lack of account security in enterprise
-date: 2018-07-26 01:02:11
+date: 2018-07-26 13:02:11
 tourl: /2018/07/25/companies_fail_to_secure_employee_accounts/
 tags: [Attack]
 ---

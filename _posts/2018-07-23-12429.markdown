@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tech Heavyweights Create Open Source Project to Transfer Data Google, Facebook, Twitter, and Microsoft are behind the initiative. So...
-date: 2018-07-23 01:02:14
+date: 2018-07-23 11:02:14
 tourl: https://www.sdxcentral.com/articles/news/tech-heavyweights-create-open-source-project-to-transfer-data/2018/07/
 tags: [Regulations,GDPR,Group]
 ---

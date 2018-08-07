@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Facebook Removes 32 Accounts Suspected of New Political Influence Campaign
-date: 2018-07-31 01:02:14
+date: 2018-07-31 11:02:14
 tourl: https://www.bleepingcomputer.com/news/technology/facebook-removes-32-accounts-suspected-of-new-political-influence-campaign/
 tags: [Law,Atlantic Council]
 ---

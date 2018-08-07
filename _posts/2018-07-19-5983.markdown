@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Banking malware finds new life spreading data-stealing trojan
-date: 2018-07-19 01:02:11
+date: 2018-07-19 13:02:11
 tourl: https://www.zdnet.com/article/banking-malware-finds-new-life-spreading-data-stealing-trojan/
 tags: [Group,Trojan,Brute Force]
 ---

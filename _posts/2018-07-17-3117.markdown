@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DDoS Mitigation for Modern Peering
-date: 2018-07-17 01:02:12
+date: 2018-07-17 13:02:12
 tourl: https://blogs.cisco.com/sp/ddos-mitigation-for-modern-peering
 tags: [Source,Attack]
 ---

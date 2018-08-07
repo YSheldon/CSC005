@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mega medical tester pester: It smacked a big one, that malware scam, if indeed it was SamSam
-date: 2018-07-25 01:02:13
+date: 2018-07-25 13:02:13
 tourl: /2018/07/24/labcorp_samsam_ransomware_attack/
 tags: [Attack,Law]
 ---

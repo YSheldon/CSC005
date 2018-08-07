@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to (slowly) steal secrets over the network from chip security holes: NetSpectre summoned
-date: 2018-07-28 01:02:15
+date: 2018-07-28 11:02:15
 tourl: /2018/07/26/netspectre_network_leak/
 tags: [exploit,Exploitation,Attack]
 ---

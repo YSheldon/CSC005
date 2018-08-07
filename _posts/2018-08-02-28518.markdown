@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Review of How Digital Currency Technology Operates
-date: 2018-08-02 01:02:10
+date: 2018-08-02 13:02:10
 tourl: https://www.techworm.net/2018/08/review-how-digital-currency-technology-operates.html
 tags: [Group]
 ---

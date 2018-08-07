@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spam Remains the Criminals' Favorite Online Tool
-date: 2018-08-01 01:02:11
+date: 2018-08-01 13:02:11
 tourl: https://blog.knowbe4.com/spam-remains-the-criminals-favorite-online-tool
 tags: [Attack]
 ---

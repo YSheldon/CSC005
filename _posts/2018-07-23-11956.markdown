@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Apple users are returning their new MacBook Pros due to heating issues
-date: 2018-07-23 01:02:11
+date: 2018-07-23 13:02:11
 tourl: https://www.techworm.net/2018/07/apple-users-returning-new-macbook-pro-heating-issues.html
 tags: [Source]
 ---

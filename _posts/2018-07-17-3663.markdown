@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Trump wants to work with Russia on infosec. Security experts: lol no
-date: 2018-07-17 01:02:13
+date: 2018-07-17 13:02:13
 tourl: /2018/07/17/us_russia_cooperation_non_starter/
 tags: [Group,National Security Agency,Attack]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Russian Indictment: They Used Criminal Tradecraft like Spearphishing To Hack The Democratic Party
-date: 2018-07-15 01:02:15
+date: 2018-07-15 13:02:15
 tourl: https://blog.knowbe4.com/russian-indictment-they-used-criminal-tradecraft-like-spearphishing-to-hack-the-democratic-party
 tags: [X-Agent,X-Tunnel,Group,Hack,Attack]
 ---

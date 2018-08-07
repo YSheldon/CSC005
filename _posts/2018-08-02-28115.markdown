@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Senate passes 2019 NDAA
-date: 2018-08-02 01:02:14
+date: 2018-08-02 11:02:14
 tourl: https://defensesystems.com/articles/2018/08/01/ndaa-senate-williams.aspx
 tags: [Bill,Law]
 ---

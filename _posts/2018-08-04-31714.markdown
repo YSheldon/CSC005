@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARM Spells Out Its New IoT Platform  Pelion The company says the Pelion IoT Platform definitely complements our...
-date: 2018-08-04 01:02:11
+date: 2018-08-04 13:02:11
 tourl: https://www.sdxcentral.com/articles/news/arm-spells-out-its-new-iot-platform-pelion/2018/08/
 tags: [Source]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: UK Consumers Prefer Security to Convenience
-date: 2018-07-31 01:02:12
+date: 2018-07-31 11:02:12
 tourl: https://www.infosecurity-magazine.com:443/news/uk-consumers-prefer-security-to/
 tags: [GDPR]
 ---

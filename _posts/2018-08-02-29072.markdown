@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jury Convicts Anonymous Hacker Who DDoSed Children's Hospital, Later Got Lost at Sea
-date: 2018-08-02 01:02:13
+date: 2018-08-02 13:02:13
 tourl: https://www.bleepingcomputer.com/news/security/jury-convicts-anonymous-hacker-who-ddosed-childrens-hospital-later-got-lost-at-sea/
 tags: [Law,Attack]
 ---

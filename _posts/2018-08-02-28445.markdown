@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unhackable' Bitfi crypto-currency wallet maker will be shocked to find fingernails exist
-date: 2018-08-02 01:02:15
+date: 2018-08-02 11:02:15
 tourl: /2018/08/01/unhackable_bitfi_wallet/
 tags: [Hack,Attack,exploit]
 ---

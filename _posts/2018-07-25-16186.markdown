@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Want a $200k TIP? ZDI sticks bounties on bugs in big-name server code
-date: 2018-07-25 01:02:13
+date: 2018-07-25 13:02:13
 tourl: /2018/07/25/zdi_server_bounty_rewards/
 tags: [Source,exploit]
 ---

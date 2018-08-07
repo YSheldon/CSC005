@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pentagon 'do not buy' list says ??? to Russia, ?? to Chinese code
-date: 2018-08-01 01:02:13
+date: 2018-08-01 13:02:13
 tourl: /2018/07/30/pentagon_russia_china_software_ban/
 tags: [China,Source,Attack]
 ---

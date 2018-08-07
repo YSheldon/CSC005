@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CrowdStrike Foundation Supports Next Generation of Talent in Cybersecurity
-date: 2018-07-31 01:02:12
+date: 2018-07-31 11:02:12
 tourl: https://www.crowdstrike.com/blog/crowdstrike-foundation-supports-next-generation-of-talent-in-cybersecurity/
 tags: [Crowdstrike]
 ---

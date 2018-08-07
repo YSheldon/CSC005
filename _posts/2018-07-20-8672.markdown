@@ -1,7 +1,7 @@
 ---
 layout: post
 title: UK's Huawei handler dials back support for Chinese giant's kit in critical infrastructure
-date: 2018-07-20 01:02:12
+date: 2018-07-20 13:02:12
 tourl: /2018/07/20/huawei_security_appraisal/
 tags: [Source,Attack]
 ---

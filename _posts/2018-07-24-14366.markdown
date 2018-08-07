@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Amazon unwaveringly committed to government customers despite employee protests,...
-date: 2018-07-24 01:02:12
+date: 2018-07-24 11:02:12
 tourl: https://www.fedscoop.com/amazon-support-government-customers-teresa-carlson/
 tags: [Law,Group]
 ---

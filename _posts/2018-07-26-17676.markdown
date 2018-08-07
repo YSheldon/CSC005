@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Amazon's Rekognition misidentified 28 members of Congress as criminals
-date: 2018-07-26 01:02:13
+date: 2018-07-26 13:02:13
 tourl: https://venturebeat.com/2018/07/26/amazons-rekognition-misidentified-28-members-of-congress-as-criminals/
 tags: [Source,Law]
 ---

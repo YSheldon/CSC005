@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On the Hunt for FIN7: Pursuing an Enigmatic and Evasive Global Criminal Operation
-date: 2018-08-01 01:02:17
+date: 2018-08-01 13:02:17
 tourl: /blog/threat-research/2018/08/fin7-pursuing-an-enigmatic-and-evasive-global-criminal-operation.html
 tags: [Group,FIREEYE,Attack,Source,Law,Scripting,Mshta]
 ---

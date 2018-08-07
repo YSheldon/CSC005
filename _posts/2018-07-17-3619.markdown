@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Training Conundrum: Open Source Moves Faster Than Curriculum There is more interest in training than there is good quality training...
-date: 2018-07-17 01:02:11
+date: 2018-07-17 13:02:11
 tourl: https://www.sdxcentral.com/articles/news/training-conundrum-open-source-moves-faster-than-curriculum/2018/07/
 tags: [Source,Group]
 ---

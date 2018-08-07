@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Can We Ever Truly Stop Ransomware?
-date: 2018-07-18 01:02:11
+date: 2018-07-18 13:02:11
 tourl: https://blog.knowbe4.com/can-we-ever-truly-stop-ransomware
 tags: [Attack]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Phishing Catches 1.4 Million Patients' Records
-date: 2018-08-01 01:02:13
+date: 2018-08-01 13:02:13
 tourl: https://blog.knowbe4.com/phishing-catches-1.4-million-patients-records
 tags: [Law,Attack]
 ---

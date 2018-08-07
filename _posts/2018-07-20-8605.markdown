@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gov Actually Episode 26: How the government buys things (And why it does it the way it does)
-date: 2018-07-20 01:02:14
+date: 2018-07-20 11:02:14
 tourl: https://www.fedscoop.com/gov-actually-episode-26-government-buys-things-way/
 tags: [Law,Regulations]
 ---

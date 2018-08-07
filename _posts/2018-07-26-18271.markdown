@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AWS Beats Expectations In Q2 With 49% Revenue Surge
-date: 2018-07-26 01:02:12
+date: 2018-07-26 11:02:12
 tourl: https://www.crn.com/news/cloud/300107136/aws-beats-expectations-in-q2-with-49-revenue-surge.htm
 tags: [AWS]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Canadian startup HYAS raises $6.2 million for threat attribution platform
-date: 2018-08-04 01:02:12
+date: 2018-08-04 11:02:12
 tourl: https://www.cyberscoop.com/hyas-series-a/?category_news=technology
 tags: [Law]
 ---

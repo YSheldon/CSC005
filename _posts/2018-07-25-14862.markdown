@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ambiguity over access to My Health Record needs to end: AMA president
-date: 2018-07-25 01:02:14
+date: 2018-07-25 11:02:14
 tourl: https://www.zdnet.com/article/ambiguity-over-access-to-my-health-record-needs-to-be-put-to-bed-ama-president/
 tags: [Law,Bill]
 ---

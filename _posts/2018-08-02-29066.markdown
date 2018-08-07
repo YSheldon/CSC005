@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Drink this potion, Linux kernel, and tomorrow you'll wake up with a WireGuard VPN driver
-date: 2018-08-02 01:02:11
+date: 2018-08-02 13:02:11
 tourl: /2018/08/02/linux_kernel_wireguard/
 tags: [Source]
 ---

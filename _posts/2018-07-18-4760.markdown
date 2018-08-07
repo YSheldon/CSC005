@@ -1,7 +1,7 @@
 ---
 layout: post
 title: White Box OS Startup Arrcus Takes On Cisco, Arista, and Juniper CEO Devesh Garg says the companys operating system isnt limited by...
-date: 2018-07-18 01:02:10
+date: 2018-07-18 13:02:10
 tourl: https://www.sdxcentral.com/articles/news/white-box-os-startup-arrcus-takes-on-cisco-arista-and-juniper/2018/07/
 tags: [Group]
 ---

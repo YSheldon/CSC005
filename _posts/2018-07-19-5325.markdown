@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gov Slow to Address Urgent CNI Security Needs
-date: 2018-07-19 01:02:11
+date: 2018-07-19 13:02:11
 tourl: https://www.infosecurity-magazine.com:443/news/gov-not-addressing-cni-security/
 tags: [Attack]
 ---

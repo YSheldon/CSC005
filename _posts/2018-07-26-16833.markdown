@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows 10 Insider Build 17723 (Redstone 5) & Build 18204 (Redstone 6) Released. Here's Whats New!
-date: 2018-07-26 01:02:10
+date: 2018-07-26 13:02:10
 tourl: https://www.bleepingcomputer.com/news/microsoft/windows-10-insider-build-17723-redstone-5-and-build-18204-redstone-6-released-heres-whats-new/
 tags: [Group]
 ---

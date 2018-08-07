@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HP Announces First-Ever Bug Bounty Program For Printer Security
-date: 2018-07-31 01:02:11
+date: 2018-07-31 13:02:11
 tourl: https://www.crn.com/news/security/300107246/hp-announces-first-ever-bug-bounty-program-for-printer-security.htm
 tags: [Attack]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Please forgive me, I can't stop robbing you: SamSam ransomware earns handlers $5.9m
-date: 2018-08-01 01:02:12
+date: 2018-08-01 13:02:12
 tourl: /2018/07/31/samsam_enterprise_ransomware_scam_research/
 tags: [Attack,Source]
 ---

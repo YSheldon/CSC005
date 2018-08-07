@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kontron Acquires Inocybe, Will Compete Against Lumina Networks Inocybes SDN controller will run on Kontron white-box hardware. And...
-date: 2018-08-02 01:02:11
+date: 2018-08-02 13:02:11
 tourl: https://www.sdxcentral.com/articles/news/kontron-acquires-inocybe-will-compete-against-lumina-networks/2018/08/
 tags: [Source,Group]
 ---

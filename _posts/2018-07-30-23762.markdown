@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Senator proposes Google, Facebook outline what your data is worth to their platforms
-date: 2018-07-30 01:02:12
+date: 2018-07-30 11:02:12
 tourl: https://www.zdnet.com/article/senator-proposes-google-facebook-outline-what-your-data-is-worth-to-their-platforms/
 tags: [GDPR]
 ---

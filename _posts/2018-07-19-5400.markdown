@@ -1,7 +1,7 @@
 ---
 layout: post
 title: British Airways cancelled flights at Heathrow after IT system issue
-date: 2018-07-19 01:02:11
+date: 2018-07-19 13:02:11
 tourl: https://www.welivesecurity.com/2018/07/19/british-airways-cancelled-flights-heathrow-system-issue/
 tags: [Source]
 ---

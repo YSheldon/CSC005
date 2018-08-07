@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mozilla to Remove Support for Built-In Feed Reader From Firefox
-date: 2018-07-26 01:02:12
+date: 2018-07-26 11:02:12
 tourl: https://www.bleepingcomputer.com/news/software/mozilla-to-remove-support-for-built-in-feed-reader-from-firefox/
 tags: [Draft]
 ---

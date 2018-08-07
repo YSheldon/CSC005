@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ?KT, LG Uplus propose quantum key standard to ITU
-date: 2018-07-30 01:02:12
+date: 2018-07-30 11:02:12
 tourl: https://www.zdnet.com/article/kt-lg-uplus-propose-quantum-key-standard-to-itu/
 tags: [Draft,Group]
 ---

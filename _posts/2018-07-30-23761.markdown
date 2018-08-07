@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Snail-Mail Phishing with a CD as Bait
-date: 2018-07-30 01:02:11
+date: 2018-07-30 13:02:11
 tourl: https://blog.knowbe4.com/snail-mail-phishing-with-a-cd-as-bait
 tags: [Attack]
 ---

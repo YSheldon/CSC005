@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AllCloud Puts Money, Actions Behind North American Push The Israeli-based company is focused on helping mid-sized businesses...
-date: 2018-07-26 01:02:12
+date: 2018-07-26 11:02:12
 tourl: https://www.sdxcentral.com/articles/news/allcloud-puts-money-actions-behind-north-american-push/2018/07/
 tags: [AWS]
 ---

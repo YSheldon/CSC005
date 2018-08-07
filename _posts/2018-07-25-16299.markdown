@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Google Cloud CEO: Enterprise Table Stakes and Cutting Edge At the annual Google Next conference the company launched an integrated...
-date: 2018-07-25 01:02:11
+date: 2018-07-25 13:02:11
 tourl: https://www.sdxcentral.com/articles/news/google-cloud-ceo-enterprise-table-stakes-and-cutting-edge/2018/07/
 tags: [Source]
 ---

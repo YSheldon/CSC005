@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Think Your Organization Cant Get Infested with RATs? Think Again.
-date: 2018-07-26 01:02:11
+date: 2018-07-26 13:02:11
 tourl: https://blog.knowbe4.com/think-your-organization-cant-get-infested-with-rats-think-again
 tags: [Attack]
 ---

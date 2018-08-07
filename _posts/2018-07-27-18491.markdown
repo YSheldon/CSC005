@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hey you smart, well-paid devs. Stop clicking on those phishing links and bringing in malware muck on your shoes
-date: 2018-07-27 01:02:14
+date: 2018-07-27 13:02:14
 tourl: /2018/07/25/developers_malware_vectors/
 tags: [Attack,Group,Hack,China]
 ---

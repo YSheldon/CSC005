@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Two-factor auth totally locks down Office 365? You may want to check all your services...
-date: 2018-07-16 01:02:11
+date: 2018-07-16 13:02:11
 tourl: /2018/07/13/2fa_o365_bypass_attacks/
 tags: [CALENDAR]
 ---

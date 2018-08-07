@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lawmakers ask Google, Facebook not to work with Vietnamese government on new data laws
-date: 2018-07-18 01:02:12
+date: 2018-07-18 11:02:12
 tourl: https://www.cyberscoop.com/vietnam-google-facebook-government-surveillance/?category_news=technology
 tags: [Group,Law]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AWS Cloud Dominance Bolstered With Robust Q2 Synergy Research Group said AWS is in a league of its own compared...
-date: 2018-07-30 01:02:12
+date: 2018-07-30 11:02:12
 tourl: https://www.sdxcentral.com/articles/news/aws-cloud-dominance-bolstered-with-robust-q2/2018/07/
 tags: [AWS,Group]
 ---

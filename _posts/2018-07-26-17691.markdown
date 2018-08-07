@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome now flags HTTP sites as not secure
-date: 2018-07-26 01:02:11
+date: 2018-07-26 13:02:11
 tourl: https://www.welivesecurity.com/2018/07/26/chrome-68-flags-http-sites-not-secure/
 tags: [Source]
 ---

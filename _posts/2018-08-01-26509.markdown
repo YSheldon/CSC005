@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Over 600K Shoppers Affected by E-commerce Security Incident
-date: 2018-08-01 01:02:11
+date: 2018-08-01 13:02:11
 tourl: https://www.infosecurity-magazine.com:443/news/over-600k-shoppers-affected-by/
 tags: [Brute Force]
 ---

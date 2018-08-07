@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ransomware Infection Cripples Shipping Giant COSCO's American Network
-date: 2018-07-26 01:02:11
+date: 2018-07-26 13:02:11
 tourl: https://www.bleepingcomputer.com/news/security/ransomware-infection-cripples-shipping-giant-coscos-american-network/
 tags: [China]
 ---

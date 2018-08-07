@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Indian iPhone users might face deactivation of services due to TRAIs new rules
-date: 2018-07-24 01:02:12
+date: 2018-07-24 11:02:12
 tourl: https://www.techworm.net/2018/07/indian-iphone-users-face-deactivation-services-due-to-trais-new-rules.html
 tags: [Regulations]
 ---

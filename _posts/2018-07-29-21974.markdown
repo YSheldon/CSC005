@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft releases first test build of Windows 10 19H1 for Insiders
-date: 2018-07-29 01:02:11
+date: 2018-07-29 13:02:11
 tourl: https://www.techworm.net/2018/07/microsoft-releases-first-test-build-of-windows-10-19h1-insiders.html
 tags: [Source]
 ---

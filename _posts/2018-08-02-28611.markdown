@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Zealand school on naughty step after ransomware failure
-date: 2018-08-02 01:02:11
+date: 2018-08-02 13:02:11
 tourl: /2018/08/02/new_zealand_school_hit_by_ransomware_scum/
 tags: [Attack]
 ---

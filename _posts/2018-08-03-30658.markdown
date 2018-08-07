@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IoT security warning: Your hacked devices are being used for cyber crime says FBI
-date: 2018-08-03 01:02:11
+date: 2018-08-03 13:02:11
 tourl: https://www.zdnet.com/article/iot-security-warning-your-hacked-devices-are-being-used-for-cyber-crime-says-fbi/
 tags: [Attack]
 ---

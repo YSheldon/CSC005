@@ -1,7 +1,7 @@
 ---
 layout: post
 title: G Suite Can Now Alert You of Government-Backed Attacks
-date: 2018-08-02 01:02:14
+date: 2018-08-02 13:02:14
 tourl: https://www.bleepingcomputer.com/news/security/g-suite-can-now-alert-you-of-government-backed-attacks/
 tags: [Group,Hack,Attack,APT,New Service]
 ---

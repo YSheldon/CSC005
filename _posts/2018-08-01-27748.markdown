@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WhatsApp launches Facebook chat ads and Business API for automated messaging with customers
-date: 2018-08-01 01:02:11
+date: 2018-08-01 13:02:11
 tourl: https://venturebeat.com/2018/08/01/whatsapp-launches-facebook-chat-ads-and-business-api-for-automated-messaging-with-customers/
 tags: [WhatsApp]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Justice Dept. indicts 12 Russian spies over 2016 DNC hack
-date: 2018-07-13 01:02:14
+date: 2018-07-13 13:02:14
 tourl: https://www.zdnet.com/article/justice-dept-indicts-democratic-national-committee-hackers/
 tags: [Attack,Hack,WhatsApp]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Just Five File Types Make Up 85% of All Spam Malicious Attachments
-date: 2018-08-01 01:02:14
+date: 2018-08-01 11:02:14
 tourl: https://www.bleepingcomputer.com/news/security/just-five-file-types-make-up-85-percent-of-all-spam-malicious-attachments/
 tags: [Hack,exploit]
 ---

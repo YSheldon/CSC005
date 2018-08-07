@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hackers Hiding Web Shell Logins in Fake HTTP Error Pages
-date: 2018-07-24 01:02:12
+date: 2018-07-24 13:02:12
 tourl: https://www.bleepingcomputer.com/news/security/hackers-hiding-web-shell-logins-in-fake-http-error-pages/
 tags: [Web Shell,Source]
 ---

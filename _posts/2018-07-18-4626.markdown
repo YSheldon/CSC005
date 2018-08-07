@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Robocall Firm Exposes Hundreds of Thousands of US Voters' Records
-date: 2018-07-18 01:02:12
+date: 2018-07-18 11:02:12
 tourl: https://www.bleepingcomputer.com/news/security/robocall-firm-exposes-hundreds-of-thousands-of-us-voters-records/
 tags: [AWS]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fake Websites for Keepass, 7Zip, Audacity, Others Found Pushing Adware
-date: 2018-07-27 01:02:10
+date: 2018-07-27 13:02:10
 tourl: https://www.bleepingcomputer.com/news/security/fake-websites-for-keepass-7zip-audacity-others-found-pushing-adware/
 tags: [Group]
 ---

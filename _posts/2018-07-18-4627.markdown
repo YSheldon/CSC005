@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SANS: \
-date: 2018-07-18 01:02:13
+date: 2018-07-18 13:02:13
 tourl: https://blog.knowbe4.com/sans-less-than-half-of-cyberattacks-detected-via-antivirus
 tags: [exploit,Attack]
 ---

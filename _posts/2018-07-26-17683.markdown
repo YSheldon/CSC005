@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Agari: Most agencies on track for DMARC deadline
-date: 2018-07-26 01:02:15
+date: 2018-07-26 11:02:15
 tourl: https://www.cyberscoop.com/dmarc-deadlne-federal-government-agari/?category_news=technology
 tags: [Source,Department of Homeland Security,DHS,Group]
 ---

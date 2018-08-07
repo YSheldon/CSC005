@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Domain fronting has a dwindling future
-date: 2018-07-24 01:02:13
+date: 2018-07-24 13:02:13
 tourl: https://www.cyberscoop.com/domain-fronting-future-amazon-google-microsoft-cloudflare-tor-signal/?category_news=technology
 tags: [China,Domain Fronting,Tor,Group]
 ---

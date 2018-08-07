@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IoT Security Flaw Leaves 496 Million Devices Vulnerable At Businesses: Report
-date: 2018-07-20 01:02:14
+date: 2018-07-20 13:02:14
 tourl: https://www.crn.com/news/internet-of-things/300106806/iot-security-flaw-leaves-496-million-devices-vulnerable-at-businesses-report.htm
 tags: [exploit,Attack,Source]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SingHealth sends text messages to patients affected by data breach
-date: 2018-07-21 01:02:10
+date: 2018-07-21 13:02:10
 tourl: https://www.zdnet.com/article/singhealth-sends-text-messages-to-patients-affected-by-data-breach/
 tags: [Group]
 ---
