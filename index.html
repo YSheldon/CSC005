@@ -54,8 +54,8 @@ layout: main
 {% assign pday={{post.date|date:'%d'}} %}{% assign pyday={{pday|abs}}%}
   {% if pyday == syday %}
 
-{% assign sclass={{post.date|date:'%H'}} %}
-  {% if sclass == 12 %}
+{% assign sclass={{post.date|date:'%H'}} %}{% assign syhour={{sclass|abs}}%}
+  {% if syhour == 12 %}
 
 <article class="post">
   {% if post.img %}
