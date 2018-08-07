@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WSJ: \
-date: 2018-07-24 13:02:25
+date: 2018-07-24 12:02:25
 tourl: https://blog.knowbe4.com/wsj-russian-hackers-reach-u.s.-utility-control-rooms
 tags: [Group,Dragonfly,Energetic Bear,Department of Homeland Security,DHS,Attack]
 ---

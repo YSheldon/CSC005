@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On the eve of a 6-month pilot, Drive.ai details its self-driving car plans
-date: 2018-07-30 13:02:18
+date: 2018-07-30 12:02:18
 tourl: https://venturebeat.com/2018/07/30/on-the-eve-of-a-6-month-pilot-drive-ai-details-its-self-driving-car-plans/
 tags: [Law,Group,PLATINUM,WINDSHIELD]
 ---

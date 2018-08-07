@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Senator Bill Nelson
-date: 2018-07-23 03:00:20
+date: 2018-07-23 02:00:20
 tourl: https://t.co/YUpBDdt7Jt
 tags: [FIN]
 ---

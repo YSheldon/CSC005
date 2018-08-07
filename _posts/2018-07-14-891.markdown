@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nick Carr
-date: 2018-07-14 03:00:20
+date: 2018-07-14 02:00:20
 tourl: https://t.co/mZbXbe0al0
 tags: [APT]
 ---

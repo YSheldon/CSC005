@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Digitally interactive stamps, coming soon to a post office near you?
-date: 2018-08-03 13:02:10
+date: 2018-08-03 12:02:10
 tourl: https://www.fedscoop.com/millennials-technology-us-postal-service/
 tags: [Group]
 ---

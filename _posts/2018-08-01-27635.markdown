@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DOJ arrests three Ukrainian nationals from Fin7 cybercrime group
-date: 2018-08-01 13:02:17
+date: 2018-08-01 12:02:17
 tourl: https://www.zdnet.com/article/doj-arrests-indicts-three-ukrainian-nationals-from-fin7-cybercrime-group/
 tags: [Group,Carbanak,Hack]
 ---

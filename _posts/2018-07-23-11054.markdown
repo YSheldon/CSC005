@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Labor wants Canberra to extend My Health Record opt-out window
-date: 2018-07-23 13:02:10
+date: 2018-07-23 12:02:10
 tourl: https://www.zdnet.com/article/labor-wants-canberra-to-extend-my-health-record-opt-out-window/
 tags: [Group]
 ---

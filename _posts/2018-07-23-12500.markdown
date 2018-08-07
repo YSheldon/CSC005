@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Securezoo
-date: 2018-07-23 03:00:20
+date: 2018-07-23 02:00:20
 tourl: https://t.co/Y7LeuLjODq
 tags: [Trojan]
 ---

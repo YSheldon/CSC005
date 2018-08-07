@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Facebook introduces transparency features for political ads in Brazil
-date: 2018-07-25 13:02:10
+date: 2018-07-25 12:02:10
 tourl: https://www.zdnet.com/article/facebook-introduces-transparency-features-for-political-ads-in-brazil/
 tags: [Group]
 ---

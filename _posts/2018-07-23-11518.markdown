@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Foreign Secretaries Illegally Handed GCHQ Data Request Powers
-date: 2018-07-23 13:02:10
+date: 2018-07-23 12:02:10
 tourl: https://www.infosecurity-magazine.com:443/news/foreign-secretaries-gchq-data/
 tags: [Group]
 ---

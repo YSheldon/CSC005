@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PayPal tells deceased woman that her death violated its rules
-date: 2018-07-15 13:02:10
+date: 2018-07-15 12:02:10
 tourl: https://www.techworm.net/2018/07/ppaypal-informed-deceased-woman.html
 tags: [Group]
 ---

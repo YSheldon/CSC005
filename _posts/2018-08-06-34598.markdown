@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Method Simplifies Cracking WPA/WPA2 Passwords on 802.11 Networks
-date: 2018-08-06 13:02:10
+date: 2018-08-06 12:02:10
 tourl: https://www.bleepingcomputer.com/news/security/new-method-simplifies-cracking-wpa-wpa2-passwords-on-80211-networks/
 tags: [Group]
 ---

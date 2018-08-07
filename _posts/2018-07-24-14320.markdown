@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Senator Joe Manchin
-date: 2018-07-24 03:00:20
+date: 2018-07-24 02:00:20
 tourl: http://t.co/KZ8ptSeHhI
 tags: [Group]
 ---

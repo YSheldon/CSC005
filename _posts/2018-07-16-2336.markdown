@@ -1,7 +1,7 @@
 ---
 layout: post
 title: From National Security to Cybersecurity
-date: 2018-07-16 13:02:10
+date: 2018-07-16 12:02:10
 tourl: https://www.infosecurity-magazine.com:443/news/from-national-security-to/
 tags: [Group]
 ---

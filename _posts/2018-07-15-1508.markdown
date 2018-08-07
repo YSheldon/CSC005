@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Avast Software
-date: 2018-07-15 03:00:20
+date: 2018-07-15 02:00:20
 tourl: https://t.co/bAP5udGmK6
 tags: [Trojan]
 ---

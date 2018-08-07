@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Scumbag confesses in court: LuminosityLink creepware was my baby
-date: 2018-07-18 13:02:10
+date: 2018-07-18 12:02:10
 tourl: /2018/07/17/luminositylink_creepware_developer_guilty/
 tags: [Group]
 ---
