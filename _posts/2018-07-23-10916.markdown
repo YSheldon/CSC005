@@ -1,8 +1,0 @@
----
-layout: post
-title: The Uninitialized Pointer Guru ????
-date: 2018-07-23 03:00:21
-tourl: https://t.co/GhXZqPerpH
-tags: [Keychain]
----
-These gpgtools fools now default to save gpg passphrase to keychain... seriously, what are these idiots thinking? That should never be default to save anywhere!

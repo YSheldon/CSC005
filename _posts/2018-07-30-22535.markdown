@@ -1,8 +1,0 @@
----
-layout: post
-title: TrendLabs
-date: 2018-07-30 03:00:21
-tourl: http://t.co/MB171H1oL9
-tags: [Attack]
----
-Aside from an existing security flaw in a device, what are the other elements of an #IoT attack? https://t.co/A2UDeAK14K https://t.co/HySaKgqNPn

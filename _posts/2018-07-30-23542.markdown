@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-07-30 03:00:21
-tourl: https://t.co/k9HZz2bu5G
-tags: [Scripting]
----
-CVE-2018-3773 There is a stored Cross-Site Scripting vulnerability in Open Graph meta properties read by the `metascrape` npm module &lt;= 3.9.2.  https://t.co/aqDhGV3tIo

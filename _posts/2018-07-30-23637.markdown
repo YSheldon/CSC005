@@ -1,8 +1,0 @@
----
-layout: post
-title: Kaspersky Lab
-date: 2018-07-30 03:00:21
-tourl: http://t.co/BuTnZTdejc
-tags: [Attack]
----
-Shipping giant, COSCO's American operation was hit with a 'crippling' #ransomware attack https://t.co/Gx3j2is4rP

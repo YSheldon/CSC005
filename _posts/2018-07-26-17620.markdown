@@ -1,8 +1,0 @@
----
-layout: post
-title: John McCain
-date: 2018-07-26 01:00:22
-tourl: www.baidu.com
-tags: [Bill]
----
-Great to hear the House has passed the #FY19NDAA, critical legislation supporting our troops. I commend @MacTXPress &amp; @RepAdamSmith for their leadership in advancing this important bill for our service members &amp; the nation. Look forward to the Senate passing this bill soon!

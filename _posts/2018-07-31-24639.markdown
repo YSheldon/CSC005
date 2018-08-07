@@ -1,9 +1,0 @@
----
-layout: post
-title: Hacker Combat
-date: 2018-07-31 01:00:22
-tourl: https://t.co/iut6rbXdAu
-tags: [GDPR]
----
-4 Actions that Firms need to do at the wake of a #databreach https://t.co/qOsRF0y8DE
-#databreaches #DataProtection #GDPR #CyberSecurity #Businesses #tipsandtricks #technology #hacking #Breach #cybercrime #infosecurity #IoTSecurity

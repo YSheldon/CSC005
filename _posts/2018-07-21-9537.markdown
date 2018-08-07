@@ -1,8 +1,0 @@
----
-layout: post
-title: Palo Alto Networks
-date: 2018-07-21 02:00:20
-tourl: http://t.co/Cn7zCFVx8y
-tags: [Group]
----
-#ICYMI Palo Alto Networks Recommended in @NSSLabs 2018 NGFW Group Test https://t.co/uYNfxxwnjp

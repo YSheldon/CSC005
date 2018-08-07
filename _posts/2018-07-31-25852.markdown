@@ -1,8 +1,0 @@
----
-layout: post
-title: CrowdStrike
-date: 2018-07-31 01:00:22
-tourl: http://t.co/ULWFfruGKw
-tags: [Crowdstrike]
----
-CrowdStrike will be at Black Hat USA in full force next week! Check out our new products, get your adversary t-shirt, attend our speaking sessions and much more! #GoCrowdStrike #BHUSA https://t.co/fGR73tDHgo

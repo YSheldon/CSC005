@@ -1,8 +1,0 @@
----
-layout: post
-title: The CyberWire
-date: 2018-07-26 02:00:20
-tourl: https://t.co/HQuCt1gLbK
-tags: [Trojan]
----
-#CWBriefing: Several familiar criminal tools are resurfacing in updated form. @Proofpoint reports that #Kronos is back. It's another banking #Trojan, (first observed in 2014), &amp; made its reappearance with attacks in Germany. #cybersecurity #infosec https://t.co/d46JVSlHsS

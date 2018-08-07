@@ -1,8 +1,0 @@
----
-layout: post
-title: Ron Wyden
-date: 2018-07-27 01:00:22
-tourl: https://t.co/PeDrcHcuFw
-tags: [Law]
----
-NEW - @SenBooker, @SenMarkey and I are seeking details from 39 federal law-enforcement agencies about their use facial recognition technology, and what policies, if any, theyve put in place to prevent abuse and misuse. https://t.co/RmEk8QApUV

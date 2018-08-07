@@ -1,8 +1,0 @@
----
-layout: post
-title: Cyber Security News
-date: 2018-07-27 01:00:22
-tourl: https://t.co/U9KYaU2Lgx
-tags: [GDPR]
----
-5 Lessons Learned on Data Breach Management after 2 Months of GDPR: Friday Is Calling https://t.co/pYt8vmxTYa

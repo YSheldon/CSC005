@@ -1,8 +1,0 @@
----
-layout: post
-title: SophosLabs
-date: 2018-07-31 03:00:21
-tourl: https://t.co/M8X527FmDj
-tags: [Source]
----
-We would love this! Our reverse engineers could go home early. Hey #malware authors, publish your source code! https://t.co/U5TU97gaFR

@@ -1,8 +1,0 @@
----
-layout: post
-title: 0day Exploit Database
-date: 2018-07-31 03:00:23
-tourl: https://t.co/ifDhCPJfYM
-tags: [exploit,0day]
----
-#0daytoday #Vtiger CRM 6.3.0 Authenticated Logo Upload Remote Command Execution Exploit [#0day #Exploit] https://t.co/3NeTaRAE67

@@ -1,8 +1,0 @@
----
-layout: post
-title: Threatpost
-date: 2018-07-27 03:00:21
-tourl: http://t.co/rD9Wvdqf3e
-tags: [Browser Extensions]
----
-Researchers @sucurilabs said the incident underscores how pervasive a threat vector browser extensions can be if used by bad actors:  https://t.co/nXqodCiX0n

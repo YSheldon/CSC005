@@ -1,8 +1,0 @@
----
-layout: post
-title: Google brings free MLCC Study Jam Series to India
-date: 2018-07-18 13:02:11
-tourl: https://www.techworm.net/2018/07/google-free-machine-learning-crash-course-mlcc-study-jam-series-india.html
-tags: [Source]
----
-In May 2018, Google and National Institution for Transforming India (NITI) Aayog had jointly signed a Statement of Intent (SoI) with an objective of developing growth in Indias Artificial Intelligence (AI) and Machine Learning (ML) ecosystem through a variety of initiatives across the country.Now, almost two months later, Google has brought the Chetan Krishnaswamy, Director of Public Policy at Google India, in a He further added, MLCC covers numerous machine learning fundamentals, from basic concepts such as loss function and gradient descent, then building through more advanced theories like classification models and neural networks.MLCC is Googles flagship machine learning course, initially created for Google engineers and was taken up by more than 18,000 Googlers. The tech giant will train Indian developers in the field of ML with the same course as part of the program. Recently, the course was made available to the public with a view towards Since this is a free course, MLCC is intended for those who wish to learn about ML from a practical, applied perspective that will enable them to understand TensorFlow and incorporate best practices into their everyday projects. Further, this course is also suitable for developers with basic machine learning knowledge, who are eager to gain experience in ML and TensorFlow.For more details regarding the free course, Source: Google

@@ -1,8 +1,0 @@
----
-layout: post
-title: Telefonica Spain Exposed the Personal Details of Millions of Customers
-date: 2018-07-17 11:02:12
-tourl: https://www.bleepingcomputer.com/news/security/telefonica-spain-exposed-the-personal-details-of-millions-of-customers/
-tags: [GDPR]
----
-The breach came to light after a Movistar user reported it to FACUA, a Spanish non-profit specialized in consumer rights protections.FACUA says that the user discovered that anyone with a Movistar account could view other users' personal data.This was possible because of the improper way Telefonica designed the Movistar online customer portal.FACUA says that the page for viewing Movistar invoices embedded the invoice alpha-numerical ID inside the online account URL.Any user modifying this ID could then access other users' account data. This is a big issue, as such vulnerabilities can be used for mass harvesting of user data.FACUA says it notified Telefonica of the issue on Sunday and the company addressed the problem on Monday. FACUA announced the breach in a press conference on Monday, 11:00, local time.A FACUA spokesperson says the agency filed a complaint against Telefonica Spain and Telefonica Mobile with the Spanish Agency for Data Protection (AEPD), the national agency in charge of enforcing the new GDPR data protection rules.Under the new GDPR rules, Telefonica may face a fine between 10 million and 20 million or a fine that's the equivalent of 2% to 4% of its annual turnover.

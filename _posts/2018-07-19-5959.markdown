@@ -1,8 +1,0 @@
----
-layout: post
-title: CrowdStrike
-date: 2018-07-19 01:00:22
-tourl: http://t.co/ULWFfruGKw
-tags: [Crowdstrike]
----
-Parkway School's Director of Technology and Innovation Jason Rooks explains why "reaching out to CrowdStrike ended up being our saving grace." Learn more about how the Parkway School District stoped a Qakbot Malware outbreak with CrowdStrike Services. https://t.co/8MQO0vUqfv

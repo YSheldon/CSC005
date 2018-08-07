@@ -1,8 +1,0 @@
----
-layout: post
-title: Naked Security
-date: 2018-08-01 03:00:21
-tourl: http://t.co/xOLRCy9nPS
-tags: [Attack]
----
-Staff dust off their typewriters after malware attack https://t.co/qR87DX7Ti8

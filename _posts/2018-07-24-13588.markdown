@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-07-24 03:00:21
-tourl: https://t.co/k9HZz2bu5G
-tags: [Attack]
----
-CVE-2017-3182 On the iOS platform, the ThreatMetrix SDK versions prior to 3.2 fail to validate SSL certificates provided by HTTPS connections, which may allow an attacker to perform a man-in-the-middle (MITM) attack. ThreatMetrix ... https://t.co/OaKKHBnCIM

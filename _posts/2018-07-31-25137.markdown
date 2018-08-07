@@ -1,8 +1,0 @@
----
-layout: post
-title: Cyber Security News
-date: 2018-07-31 01:00:22
-tourl: https://t.co/U9KYaU2Lgx
-tags: [GDPR]
----
-Beyond GDPR - new data protection act and subsidiary laws https://t.co/OyzTSKXsDV

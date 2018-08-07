@@ -1,8 +1,0 @@
----
-layout: post
-title: 0day Exploit Database
-date: 2018-07-30 03:00:23
-tourl: https://t.co/ifDhCPJfYM
-tags: [0day,exploit]
----
-#0daytoday #Microsoft #Wireless Display Adapter 2 Command Injection / Broken Access Control Vulnera [#0day #Exploit] https://t.co/WYgPXPGAWx

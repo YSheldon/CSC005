@@ -1,8 +1,0 @@
----
-layout: post
-title: Securezoo
-date: 2018-07-23 02:00:20
-tourl: https://t.co/Y7LeuLjODq
-tags: [Trojan]
----
-Emotet malware threat - "a polymorphic banking Trojan that can evade typical signature-based detection"  https://t.co/bBZJ4sJcW3 #Emotet #banking #malware #cybersecurity

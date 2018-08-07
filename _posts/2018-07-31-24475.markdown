@@ -1,8 +1,0 @@
----
-layout: post
-title: kevin
-date: 2018-07-31 03:00:21
-tourl: https://t.co/mJWyBQgFpy
-tags: [Attack]
----
-Lots of important details emerging from @MatSuBorough attack. It was Bitpaymer ransomware, it has hit multiple US gov systems recently, its implanted in advance then set to encrypt on a Friday (which means they are over week in). 650 systems being rebuilt https://t.co/eNWx81HgmM

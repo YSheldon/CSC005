@@ -1,8 +1,0 @@
----
-layout: post
-title: Recorded Future
-date: 2018-07-19 01:00:22
-tourl: http://t.co/a4ptBv2g71
-tags: [Exploitation]
----
-The inclusion of #threatintelligence is crucial for understanding risks posed to organizations, such as the real-world exploitation landscape and the impact of adversary activity: https://t.co/XjuWHLv7aL #InfoSec https://t.co/ZMvV7e5ZaE

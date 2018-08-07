@@ -1,9 +1,0 @@
----
-layout: post
-title: SANS DFIR
-date: 2018-07-27 03:00:21
-tourl: https://t.co/WVAxR23oVQ
-tags: [Attack]
----
-Office 365 has made online applications easier for businesses. It has also created a significant attack vector that attackers have exploited for years.  @mbromileyDFIR speaks about Business Email Compromise &amp; Office 365. I's time to turn the tables. 
-https://t.co/AlOb1Xilxw #DFIR

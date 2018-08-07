@@ -1,8 +1,0 @@
----
-layout: post
-title: Cisco
-date: 2018-07-23 01:00:22
-tourl: http://t.co/PPRgd85due
-tags: [Bill]
----
-Beers with @TalosSecurity podcast is basically like Bill Nye, but with #cybersecurity and beer. ???????? Take a look behind the scenes of their slightly unfiltered podcast: https://t.co/GBtWjPx0TV https://t.co/txRFDA39TJ

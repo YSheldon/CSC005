@@ -1,8 +1,0 @@
----
-layout: post
-title: The 10 Top Open-Source Tools Of 2018 (So Far)
-date: 2018-07-26 13:02:11
-tourl: https://www.crn.com/slide-shows/applications-os/300106956/the-10-top-open-source-tools-of-2018-so-far.htm
-tags: [Source]
----
-A revolution in open-source software has drastically shifted the IT landscape over the past few years.Once the realm of hobbyists, most of the world's name-brand software companies and an ever-expanding number of innovative startups are now leading open-source contributors. Such vendors have recognized the wisdom in uniting to deliver powerful enterprise tools that fast-track adoption of cloud with greater interoperability, reduced costs, and accelerated development schedules.The open-source world encompasses many licensing models for governing collaborative development and release of new technologies. Some of the most notable projects are still maintained by individual vendorsothers fall under the auspices of foundations established to shepherd their development.With companies like Microsoft, once a bastion of proprietary technology, having done about-faces toward supporting open source, it's clear these communities, and their solutions, will play integral roles in the enterprise in years to come.

@@ -1,8 +1,0 @@
----
-layout: post
-title: dragosr
-date: 2018-07-24 03:00:21
-tourl: http://t.co/dD9Xkml3F6
-tags: [System Firmware]
----
-New module for CHIPSEC to check CPU USB debug features and host Direct Connection Interface(DCI), which can be used to modify system firmware with physical access. https://t.co/gAJTpvQdrf

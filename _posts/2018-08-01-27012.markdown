@@ -1,8 +1,0 @@
----
-layout: post
-title: McAfee
-date: 2018-08-01 03:00:21
-tourl: https://t.co/pbvCCj2l3O
-tags: [Attack]
----
-What tools are most commonly used to detect an initial vector of attack? Well give you a hint, #antivirus is number 1. Check out our latest #endpoint SANS survey to see what other tools lead the pack. https://t.co/mpJLPPvAaW https://t.co/QaMBxwQMZA

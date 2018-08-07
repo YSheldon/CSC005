@@ -1,8 +1,0 @@
----
-layout: post
-title: CrowdStrike
-date: 2018-07-25 01:00:22
-tourl: http://t.co/ULWFfruGKw
-tags: [Crowdstrike]
----
-CrowdStrike is the only #NextGenAV solution that offers a free trial. Watch this short video to learn more about how we differ from your legacy AV solution, and why you should switch to CrowdStrike to serve all of your #endpointprotection needs. https://t.co/221GyNOPrS

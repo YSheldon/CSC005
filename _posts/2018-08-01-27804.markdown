@@ -1,8 +1,0 @@
----
-layout: post
-title: CrowdStrike
-date: 2018-08-01 02:00:25
-tourl: http://t.co/ULWFfruGKw
-tags: [Carbanak,Group]
----
-Our latest blog offers technical details that untangle the web of the shadowy #cyber adversary #Carbanak Group https://t.co/iCeJmawC0S https://t.co/qOB6tfLMgc

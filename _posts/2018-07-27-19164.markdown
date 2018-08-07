@@ -1,9 +1,0 @@
----
-layout: post
-title: Heimdal Security
-date: 2018-07-27 03:00:21
-tourl: https://t.co/MAGmtFp8Sf
-tags: [Attack]
----
-How #ransomware can disrupt operations: the attack disabled both local email and phone services, forcing the firm's staff to use Twitter and free Yahoo email addresses to handle support queries during the outage.
-https://t.co/J094L6rNY3

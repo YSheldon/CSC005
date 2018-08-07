@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-07-27 01:00:22
-tourl: https://t.co/k9HZz2bu5G
-tags: [exploit]
----
-CVE-2017-2622 An accessibility flaw was found in the OpenStack Workflow (mistral) service where a service log directory was improperly made world readable. A malicious system user could exploit this flaw to access sensitive ... https://t.co/WDPgDpM9Hw

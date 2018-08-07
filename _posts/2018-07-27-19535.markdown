@@ -1,8 +1,0 @@
----
-layout: post
-title: 0day Exploit Database
-date: 2018-07-27 03:00:23
-tourl: https://t.co/ifDhCPJfYM
-tags: [exploit,0day]
----
-#0daytoday #WordPress #Responsive #Thumbnail Slider Plugin - Arbitrary File Upload Exploit [#0day #Exploit] https://t.co/rpjsLdOFzG

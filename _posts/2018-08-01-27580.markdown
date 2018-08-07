@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-08-01 03:00:22
-tourl: https://t.co/k9HZz2bu5G
-tags: [Scripting,Attack]
----
-CVE-2018-0408 A vulnerability in the web-based management interface of Cisco Small Business 300 Series (Sx300) Managed Switches could allow an authenticated, remote attacker to conduct a reflected cross-site scripting (XSS) attack ... https://t.co/GKA89fPSlm

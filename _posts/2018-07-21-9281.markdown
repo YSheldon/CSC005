@@ -1,8 +1,0 @@
----
-layout: post
-title: Security Response
-date: 2018-07-21 03:00:21
-tourl: http://t.co/Srj37yV6aw
-tags: [PowerShell]
----
-The number of computers where #PowerShell commands were executed doubled from Q1 to Q2 2018, Symantec research has found https://t.co/o7syVg35nM https://t.co/ffO59KDi3n

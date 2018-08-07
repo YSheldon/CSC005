@@ -1,8 +1,0 @@
----
-layout: post
-title: CrowdStrike
-date: 2018-07-31 01:00:22
-tourl: http://t.co/ULWFfruGKw
-tags: [Crowdstrike]
----
-CrowdStrike Board of Director member Joe Sexton discusses the organization's global success, third party validation, and growing customer base via @LinkedIn https://t.co/CxvrvtSJUC

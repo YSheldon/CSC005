@@ -1,8 +1,0 @@
----
-layout: post
-title: Cyber Security News
-date: 2018-07-30 01:00:22
-tourl: https://t.co/U9KYaU2Lgx
-tags: [GDPR]
----
-Democrats have reportedly drawn up plans to slap big tech firms with privacy laws similar to GDPR ... https://t.co/pWX6FG2zBc

@@ -1,9 +1,0 @@
----
-layout: post
-title: F-Secure
-date: 2018-07-31 03:00:21
-tourl: https://t.co/fsJY27uDKB
-tags: [Attack]
----
-Spam is becoming an increasingly successful attack vector, with click rates rising from 13.4% in the second half of 2017 to 14.2% in 2018, says Adam Sheehan, Behavioral Science Lead at @mwrinfosecurity makers of @mwrphishd. 
-https://t.co/Xdv9XPEzxJ https://t.co/pKY1osdRkO

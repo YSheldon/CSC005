@@ -1,8 +1,0 @@
----
-layout: post
-title: Joseph Cox
-date: 2018-08-01 02:00:20
-tourl: www.baidu.com
-tags: [Group]
----
-New: Amnesty International finds hackers used powerful malware from Israeli vendor NSO Group to target a researcher from the human rights group. Also uncover domains suggesting much wider use of NSO around the world https://t.co/YnjoLZEN0c

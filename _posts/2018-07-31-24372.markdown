@@ -1,8 +1,0 @@
----
-layout: post
-title: TrendLabs
-date: 2018-07-31 03:00:21
-tourl: http://t.co/MB171H1oL9
-tags: [PowerShell]
----
-Researchers found a new fileless malware targeting corporate systems and workstations: #PowerGhost. It utilizes Powershell and #EternalBlue for propagation and infection. More details: https://t.co/nuSoTVkyGJ

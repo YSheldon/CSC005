@@ -1,8 +1,0 @@
----
-layout: post
-title: Nicolas Krassas
-date: 2018-07-24 03:00:21
-tourl: http://t.co/nj3EPPRowo
-tags: [0day]
----
-From A Patched ITW 0day to Remote Code Execution (Part I)  From Patch to New 0day https://t.co/lguwz7PRJU

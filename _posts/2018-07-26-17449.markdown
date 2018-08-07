@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-07-26 03:00:21
-tourl: https://t.co/k9HZz2bu5G
-tags: [Attack]
----
-CVE-2018-10900 Network Manager VPNC plugin (aka networkmanager-vpnc) before version 1.2.6 is vulnerable to a privilege escalation attack. A new line character can be used to inject a Password helper parameter into the configuration ... https://t.co/0WFSBZIT7A

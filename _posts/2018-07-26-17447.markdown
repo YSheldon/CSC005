@@ -1,8 +1,0 @@
----
-layout: post
-title: Infosecurity Mag
-date: 2018-07-26 03:00:21
-tourl: http://t.co/ioT6nbGu1X
-tags: [Attack]
----
-Top Ten Ways Atlanta's Ransomware Attack Affected Cybersecurity https://t.co/VQSw3uDY1S

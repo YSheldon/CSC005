@@ -1,8 +1,0 @@
----
-layout: post
-title: SANS ISC
-date: 2018-07-30 03:00:21
-tourl: http://t.co/iYLQwRRAe1
-tags: [Attack]
----
-Sextortion BTC Earnings; Adware Laced Downloads; PDF Editor Supply Chain Attack #podcast #security #daily https://t.co/jgxwqGu8PO

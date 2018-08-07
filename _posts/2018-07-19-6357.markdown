@@ -1,8 +1,0 @@
----
-layout: post
-title: Roger Smith
-date: 2018-07-19 03:00:21
-tourl: https://t.co/Zn275afqZ2
-tags: [Attack]
----
-#security How mature is your organisation against cyber attack? Try these 7 questions!  #productivity https://t.co/ogV96bwU59

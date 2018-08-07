@@ -1,8 +1,0 @@
----
-layout: post
-title: CrowdStrike
-date: 2018-08-01 01:00:22
-tourl: http://t.co/ULWFfruGKw
-tags: [Crowdstrike]
----
-For the second annual CrowdStrike #cybersecurity conference: #FalConPOWERUP - we are bringing together the best and brightest cybersecurity professionals and industry experts from around the world. Learn more here: https://t.co/EYcH6KEfdz https://t.co/0DhiyyBxuF

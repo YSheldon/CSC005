@@ -1,8 +1,0 @@
----
-layout: post
-title: RSA
-date: 2018-07-28 01:00:22
-tourl: https://t.co/bABGhyqAQB
-tags: [GDPR]
----
-Two months later, why does #GDPR still need to be a "rallying cry" for organizations to improve their continuous #riskmanagement, #security &amp; #compliance strategies? @SteveSchlarman explains here: https://t.co/MaW5ZJ3G9F https://t.co/cMLkupYOxY

@@ -1,8 +1,0 @@
----
-layout: post
-title: Tanmay Ganacharya
-date: 2018-07-26 03:00:21
-tourl: www.baidu.com
-tags: [Attack]
----
-The app vendors systems were unaffected. The compromise was traceable to a second software vendor that hosted additional packages used by the app during installation. This turned out be an interesting and unique case of an attack involving the supply chain of the supply chain https://t.co/V5wAipOg43

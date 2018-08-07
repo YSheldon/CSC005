@@ -1,8 +1,0 @@
----
-layout: post
-title: BitSight
-date: 2018-08-01 01:00:22
-tourl: http://t.co/J7LgGQuadK
-tags: [CISO]
----
-#VendorRiskManagement is not a one-time project, but most #CISO's dont have the budget for very frequent assessments. Heres a better solution:  https://t.co/BVvRV1S0NK #VRM https://t.co/Zimnjy6j2d

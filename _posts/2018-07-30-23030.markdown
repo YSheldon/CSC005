@@ -1,8 +1,0 @@
----
-layout: post
-title: x0rz
-date: 2018-07-30 03:00:21
-tourl: https://t.co/kXWHpfnvr3
-tags: [Source]
----
-Analysis of network behavior of #Pegasus/#Buhtrap from source code leak https://t.co/ZmnVYBHDe2 #malware https://t.co/S4VNfSv8mt

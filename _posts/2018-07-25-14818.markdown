@@ -1,9 +1,0 @@
----
-layout: post
-title: Heimdal Security
-date: 2018-07-25 03:00:21
-tourl: https://t.co/MAGmtFp8Sf
-tags: [Attack]
----
-Yet another #spectre attack is now in the headlines.
-https://t.co/pE70oN1sfX

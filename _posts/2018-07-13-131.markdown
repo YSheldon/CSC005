@@ -1,8 +1,0 @@
----
-layout: post
-title: David Gerard
-date: 2018-07-13 02:00:20
-tourl: https://t.co/E240mnk62C
-tags: [Group]
----
-The JPEG Group is working on a standardised framework for Media Blockchain. One of their example use cases is KodakOne.

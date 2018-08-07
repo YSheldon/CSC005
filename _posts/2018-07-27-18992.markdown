@@ -1,8 +1,0 @@
----
-layout: post
-title: TrendLabs
-date: 2018-07-27 03:00:22
-tourl: http://t.co/MB171H1oL9
-tags: [Bootkit,Attack]
----
-New #ExploitKit #Underminer surfaces, delivers a bootkit and cryptocurrency-mining malware named Hidden Mellifera. Its attack chains, detailed: https://t.co/d5MmAKQDgu https://t.co/3uXKV6ILxo

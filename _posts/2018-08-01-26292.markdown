@@ -1,8 +1,0 @@
----
-layout: post
-title: Linux Security Labs
-date: 2018-08-01 01:00:22
-tourl: https://t.co/ee1vBPOO91
-tags: [AWS]
----
-Tool review: Zeus (AWS auditing and hardening tool) by @_denizparlak #audit #infosec #tools https://t.co/NPf2F4oZGQ

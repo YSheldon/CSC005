@@ -1,8 +1,0 @@
----
-layout: post
-title: CyberScoop
-date: 2018-08-01 01:00:22
-tourl: https://t.co/UiSN102kIR
-tags: [DHS]
----
-DHS's vulnerability scanning programs are offline after D.C.-area office loses power https://t.co/yKM30U9n8Z https://t.co/yWut17Gr6s

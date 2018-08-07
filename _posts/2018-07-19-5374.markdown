@@ -1,8 +1,0 @@
----
-layout: post
-title: Nicolas Krassas
-date: 2018-07-19 01:00:22
-tourl: http://t.co/nj3EPPRowo
-tags: [AWS]
----
-Expert discovered RoboCent AWS S3 bucket containing US voters records exposed online https://t.co/Z05b50mjqu

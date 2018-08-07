@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-07-26 03:00:21
-tourl: https://t.co/k9HZz2bu5G
-tags: [Httpclient]
----
-CVE-2017-2589 It was discovered that the hawtio servlet 1.4 uses a single HttpClient instance to proxy requests with a persistent cookie store (cookies are stored locally and are not passed between the client and the end URL) which ... https://t.co/NMa5Qabekv

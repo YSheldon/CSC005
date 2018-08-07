@@ -1,8 +1,0 @@
----
-layout: post
-title: Joseph Cox
-date: 2018-07-17 03:00:21
-tourl: www.baidu.com
-tags: [Domain Fronting]
----
-Wyden writes to Amazon and Alphabet/Google to bring up domain fronting. Both companies scraped the service, which helps with censorship-circumvention https://t.co/VXybePK09u https://t.co/fxfAk22Fp9

@@ -1,8 +1,0 @@
----
-layout: post
-title: AlienVault
-date: 2018-07-24 03:00:21
-tourl: http://t.co/7mZeFsDsoi
-tags: [Attack]
----
-Newly discovered Bluetooth vulnerability allows snooping of traffic between paired devices. Here's how the MITM attack works: https://t.co/6wtTjfDMFI @ZeljkaZorz @helpnetsecurity #IoT #security https://t.co/HwGm0pkEvS

@@ -1,8 +1,0 @@
----
-layout: post
-title: SpaceNews
-date: 2018-08-01 01:00:24
-tourl: http://t.co/S2kBnZqzt1
-tags: [Bill,Regulations]
----
-The Senate Commerce Committee approved a bill Wednesday that would streamline commercial launch and remote sensing regulations but also includes language conflicting with a House bill. https://t.co/j5nAlXSxd2 https://t.co/fkhsFRjqvs

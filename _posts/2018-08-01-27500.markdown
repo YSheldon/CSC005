@@ -1,8 +1,0 @@
----
-layout: post
-title: CrowdStrike
-date: 2018-08-01 01:00:22
-tourl: http://t.co/ULWFfruGKw
-tags: [Crowdstrike]
----
-The CrowdStrike Foundation announced four recipients of its first NextGen Scholarship awards for the 2018-2019 academic school year. The scholarship recipients were chosen from numerous outstanding applicants who are studying #cybersecurity and/or #AI. https://t.co/mNw7wRUIO5 https://t.co/A6Xu5IG9gN

@@ -1,8 +1,0 @@
----
-layout: post
-title: The CyberWire
-date: 2018-07-28 03:00:21
-tourl: https://t.co/HQuCt1gLbK
-tags: [China]
----
-#CWBriefing: In the cases of #China &amp; #Iran, recent activity has tended toward #cyberespionage of an #industrial kind. #Chinese operators work to gain commercial advantage. @NCSCgov #cybersecurity #infosec https://t.co/a8k3WlNmnJ

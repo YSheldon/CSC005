@@ -1,8 +1,0 @@
----
-layout: post
-title: VulDB ????
-date: 2018-07-29 03:00:21
-tourl: https://t.co/VSMdm6a1Og
-tags: [TLS]
----
-ARM mbed TLS up to 2.1.13/2.7.4/2.11.x CBC Side-Channel weak encryption https://t.co/mCTB44l7IV

@@ -1,8 +1,0 @@
----
-layout: post
-title: Jann Horn
-date: 2018-07-26 03:00:21
-tourl: www.baidu.com
-tags: [TLS]
----
-@halvarflake at least you can still talk HTTP/0.9 over your fancy shiny new TLS connection :D

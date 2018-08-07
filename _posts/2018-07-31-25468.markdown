@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-07-31 02:00:20
-tourl: https://t.co/k9HZz2bu5G
-tags: [Group]
----
-CVE-2016-8657 It was discovered that EAP packages in certain versions of Red Hat Enterprise Linux use incorrect permissions for /etc/sysconfig/jbossas configuration files. The file is writable to jboss group (root:jboss, 664). On ... https://t.co/D8M3FvcdR9

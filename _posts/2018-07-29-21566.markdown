@@ -1,9 +1,0 @@
----
-layout: post
-title: HackRead.com
-date: 2018-07-29 03:00:21
-tourl: https://t.co/n5DKssLSIP
-tags: [Attack]
----
-Using #Bluetooth ? Watch out; your device may be vulnerable to man-in-the-middle attack.
-https://t.co/l2Fphv8Dtx

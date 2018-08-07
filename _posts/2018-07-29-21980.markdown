@@ -1,8 +1,0 @@
----
-layout: post
-title: The Hill
-date: 2018-07-29 03:00:21
-tourl: http://t.co/t414UtTRv4
-tags: [Attack]
----
-Dem senator says her office was target of "widespread" phishing attack https://t.co/TvrUVAQOHg https://t.co/2X8MsrunWy

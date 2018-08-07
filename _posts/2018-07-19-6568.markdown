@@ -1,8 +1,0 @@
----
-layout: post
-title: Cyber Security News
-date: 2018-07-19 01:00:22
-tourl: https://t.co/U9KYaU2Lgx
-tags: [Law]
----
-Cyber criminals stole GBP 11 mln from law firm customers in 2017 - NSCS https://t.co/9USYl3JPdp

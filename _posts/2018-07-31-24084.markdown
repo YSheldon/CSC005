@@ -1,8 +1,0 @@
----
-layout: post
-title: Securezoo
-date: 2018-07-31 03:00:21
-tourl: https://t.co/Y7LeuLjODq
-tags: [Attack]
----
-Researchers discover a generic remote Spectre variant 1 attack dubbed "NetSpectre" that can be carried out over the network #ICYMI  https://t.co/LM7wcjV0Ti #infosec #cybersecurity

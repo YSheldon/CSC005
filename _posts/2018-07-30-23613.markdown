@@ -1,8 +1,0 @@
----
-layout: post
-title: CyberScoop
-date: 2018-07-30 01:00:22
-tourl: https://t.co/UiSN102kIR
-tags: [Telegram]
----
-Telegram traffic from around the world took a detour through Iran https://t.co/iWMoGxgudx by @HowellONeill https://t.co/g5Q9SwyetF

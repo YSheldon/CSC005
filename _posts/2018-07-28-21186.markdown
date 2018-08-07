@@ -1,8 +1,0 @@
----
-layout: post
-title: ToolsWatch
-date: 2018-07-28 03:00:21
-tourl: https://t.co/Z0SQqOWn1H
-tags: [Source]
----
-Recon Village @ #DEFCON 2018 (Hackathon): ToolsWatch likes open source tools https://t.co/W5FBwvFAhT #ToolsWatch

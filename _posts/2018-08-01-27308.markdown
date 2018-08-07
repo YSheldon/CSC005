@@ -1,8 +1,0 @@
----
-layout: post
-title: The CyberWire
-date: 2018-08-01 03:00:22
-tourl: https://t.co/HQuCt1gLbK
-tags: [Group,CozyBear,Attack]
----
-#CWBriefing: #Sandworm group, less famous but familiar relative of #CozyBear &amp; #FancyBear, is working against #Spiez Laboratory, #Swiss facility performing #forensic work on #Novichok attack against a former #GRU officer in #UK. #cybersecurity #infosec https://t.co/SgAlfNq3uU

@@ -1,8 +1,0 @@
----
-layout: post
-title: Threatpost
-date: 2018-07-30 03:00:21
-tourl: http://t.co/rD9Wvdqf3e
-tags: [Attack]
----
-Following a successful #phishing attack, a bank lost $2.4 million in a cyber-heist: https://t.co/rZwoXqc0BT

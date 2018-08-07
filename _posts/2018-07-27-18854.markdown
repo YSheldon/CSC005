@@ -1,8 +1,0 @@
----
-layout: post
-title: Roger Smith
-date: 2018-07-27 03:00:21
-tourl: https://t.co/Zn275afqZ2
-tags: [Attack]
----
-#MSP This is a Phishing attack! #productivity https://t.co/8q8quBNJPC

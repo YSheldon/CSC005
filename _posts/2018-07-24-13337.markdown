@@ -1,8 +1,0 @@
----
-layout: post
-title: CyberScoop
-date: 2018-07-24 03:00:21
-tourl: https://t.co/UiSN102kIR
-tags: [FIREEYE]
----
-Acting @CommerceGov CIO Rod Turk explains how knowing your network is paramount to using #threatintel inside your organization. Watch the video sponsored by @FireEye: https://t.co/rJp16SmX90 https://t.co/ZuA45xUO76

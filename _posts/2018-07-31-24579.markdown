@@ -1,8 +1,0 @@
----
-layout: post
-title: OneDrive app for Android updated with fingerprint authentication
-date: 2018-07-31 11:02:12
-tourl: https://www.welivesecurity.com/2018/07/31/onedrive-android-fingerprint-authentication/
-tags: [Biometric]
----
-With this update, Microsoft is bringing a feature for Android users that has been available on iOS devices for quite a while nowtttttttttttttttAndroid users can now use their fingerprints as digital keys to their OneDrive cloud storage after Microsoft has added support for fingerprint authentication to its OneDrive app for AndroidThe new feature is available with the apps version 5.14, which is currently live in the To enable this method of biometric authentication, you need to navigate to the Passcode section of the Settings menu and make sure that the checkbox next to Use fingerprint to authenticate is clicked.Obviously, your Android-powered device needs to have a fingerprint sensor on board in the first place. However, this has been becoming less of a problem recently, as fingerprint sensors are no longer the domain of only flagship devices  so much so that, according to Prior to this update, Android users could protect their data on OneDrive via a PIN code. While iOS users have been able to use TouchID for the OneDrive app Broadly speaking, compared to PIN codes or swipe patterns, biometric methods of smartphone authentication arent prone to By no means does that mean that fingerprint authentication is impossible to subvert, however. As 

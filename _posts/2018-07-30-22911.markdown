@@ -1,8 +1,0 @@
----
-layout: post
-title: SpaceNews
-date: 2018-07-30 03:00:21
-tourl: http://t.co/S2kBnZqzt1
-tags: [China]
----
-FIRST UP | Outcome unclear following stealth startup's Kodiak test launch: China lofts pair of Beidou navigation satellites; TESS enters service - https://t.co/3rUQWVXs73 https://t.co/cwoMO0KPlQ

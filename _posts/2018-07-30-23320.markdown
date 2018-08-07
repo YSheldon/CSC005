@@ -1,8 +1,0 @@
----
-layout: post
-title: Security Response
-date: 2018-07-30 03:00:21
-tourl: http://t.co/Srj37yV6aw
-tags: [China]
----
-From China with malware: U.S. state and local government agencies warned of malware infested CDs arriving via snail mail https://t.co/5xjlS7Ozny

@@ -1,8 +1,0 @@
----
-layout: post
-title: Fortinet
-date: 2018-07-23 03:00:21
-tourl: http://t.co/QGsCLLACry
-tags: [Attack]
----
-We've expanded our #cloud offerings on @GCPcloud to help customers extend protection across the entire attack surface of their #hybridcloud environments. https://t.co/T9qS0RLxPr #GoogleNext18 https://t.co/Zh12tzWa54

@@ -1,9 +1,0 @@
----
-layout: post
-title: BleepingComputer
-date: 2018-07-31 01:00:22
-tourl: https://t.co/pljq5SLdfN
-tags: [Hack]
----
-The "Un-hackable" Bitfi may not be so hack-proof.
-https://t.co/FZzZjniSJE

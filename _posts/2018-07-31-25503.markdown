@@ -1,9 +1,0 @@
----
-layout: post
-title: NASA JPL
-date: 2018-07-31 03:00:22
-tourl: http://t.co/gcM9d1YLUB
-tags: [Source,Rover]
----
-The Open Source Rover Project ??
-Want to build your own low-cost rover model? Construct a mini robot inspired by @MarsCuriosity with our plans and off-the-shelf parts: https://t.co/qraedH6dHa https://t.co/XGyAVtNs00

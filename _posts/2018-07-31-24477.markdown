@@ -1,8 +1,0 @@
----
-layout: post
-title: Catalin Cimpanu
-date: 2018-07-31 03:00:21
-tourl: https://t.co/9lGQt24Ew6
-tags: [Source]
----
-An ESET report claimed BitPaymer might be the work of the Necurs/Dridex creators, although a source told me investigators are looking into connections to another malware strain. Source tells me they're wasting their time, as the Dridex lead is more obvious https://t.co/9IgnQWswpJ

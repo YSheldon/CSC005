@@ -1,8 +1,0 @@
----
-layout: post
-title: 0day Exploit Database
-date: 2018-07-24 03:00:23
-tourl: https://t.co/ifDhCPJfYM
-tags: [0day,exploit]
----
-#0daytoday #Linux/x86 - Bind (4444/TCP) #Shell (/bin/sh) + IPv6 #Shellcode (100 bytes) [#0day #Exploit] https://t.co/rGueMm2zf4

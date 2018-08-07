@@ -1,8 +1,0 @@
----
-layout: post
-title: Daniel Cuthbert
-date: 2018-07-24 03:00:21
-tourl: https://t.co/56D5DZ92wB
-tags: [APT,China]
----
-Security doesn't have to mean super expensive consultancy costs or million dollar boxes to prevent APT/0hday/China. It does take some creativity and a desire to make stuff better. Great article by Brian on how Google is trying new things https://t.co/OdpMdsyfRL

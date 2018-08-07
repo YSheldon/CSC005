@@ -1,8 +1,0 @@
----
-layout: post
-title: J-Michael Roberts
-date: 2018-07-30 03:00:21
-tourl: http://t.co/PEKg2Vf7MH
-tags: [Attack]
----
-Chinese 'hackers' try to attack state governments by mailing CDs https://t.co/O0V8FxrAvU via @engadget

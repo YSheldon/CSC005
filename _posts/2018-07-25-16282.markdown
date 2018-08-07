@@ -1,8 +1,0 @@
----
-layout: post
-title: Menlo Security
-date: 2018-07-25 03:00:21
-tourl: https://t.co/KGGTO8JfLs
-tags: [Attack]
----
-71% of threat actor groups primarily use #phishing to attack, while #ransomware &amp; #malware follow close behind; @CraigEMcDonald says this kind of attack, along with #brandjacking &amp; CEO #fraud uses email as their primary vector @AusCERT @peterdinham @ITwire https://t.co/zKo8z6dSUg https://t.co/WupN7L9EPD

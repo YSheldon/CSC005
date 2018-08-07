@@ -1,8 +1,0 @@
----
-layout: post
-title: CyberScoop
-date: 2018-07-14 01:00:22
-tourl: https://t.co/UiSN102kIR
-tags: [Law]
----
-White House floats law to shore up agencies digital supply chain https://t.co/fAo1me4Qnl https://t.co/3N3luoJ8Q8

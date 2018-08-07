@@ -1,8 +1,0 @@
----
-layout: post
-title: 0day Exploit Database
-date: 2018-07-30 03:00:23
-tourl: https://t.co/ifDhCPJfYM
-tags: [exploit,0day]
----
-#0daytoday #ipPulse 1.92 - IP Address/HostName-Comment Denial of Service #PoC Exploit [#0day #Exploit] https://t.co/vo3CldniOg

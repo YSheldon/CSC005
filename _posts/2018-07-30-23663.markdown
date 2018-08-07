@@ -1,8 +1,0 @@
----
-layout: post
-title: The Mafia Project
-date: 2018-07-30 03:00:21
-tourl: https://t.co/25p5UwyQ50
-tags: [Attack]
----
-An innocent man wouldn't need to attack an investigation that would prove his innocence.....

@@ -1,8 +1,0 @@
----
-layout: post
-title: Metasploit Project
-date: 2018-07-23 03:00:21
-tourl: http://t.co/Y7tDS1MHez
-tags: [Source]
----
-The fourth Open Source Security Meetup (OSSM) in Las Vegas is August 9. This time it's open to allno tickets, no formal presentations. Interested? Tell us about your open source security project here: https://t.co/gWJ4UFqGEZ

@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-07-23 03:00:21
-tourl: https://t.co/k9HZz2bu5G
-tags: [Scripting]
----
-CVE-2018-1999016 Pydio version 8.2.0 and earlier contains a Cross Site Scripting (XSS) vulnerability in ./core/vendor/meenie/javascript-packer/example-inline.php line 48; ... https://t.co/PmPBP9k8Jo

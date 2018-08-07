@@ -1,8 +1,0 @@
----
-layout: post
-title: The Hacker News
-date: 2018-08-01 01:00:22
-tourl: https://t.co/tbidM9ew0f
-tags: [AWS]
----
-CloudGoat  Vulnerable-by-Design AWS Environment for penetration testers and security professionals https://t.co/mEcnuaLOPD via @RhinoSecurity

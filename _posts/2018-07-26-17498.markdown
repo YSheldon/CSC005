@@ -1,8 +1,0 @@
----
-layout: post
-title: Craig Williams
-date: 2018-07-26 03:00:23
-tourl: https://t.co/cqA2FFgngT
-tags: [exploit,Attack]
----
-Talos found 20 vulnerabilities in the Samsung SmartThings Hub. These vulnerabilities vary in the level of access required by an attacker to exploit them but together they can be combined into a significant attack on the device https://t.co/pYLzeozz9J

@@ -1,8 +1,0 @@
----
-layout: post
-title: BitSight
-date: 2018-07-25 01:00:22
-tourl: http://t.co/J7LgGQuadK
-tags: [CISO]
----
-#CISO's, making a presentation to the Board? Tip #1: When its time to make your case, leave the raw #data at home. Find out why: https://t.co/BTuROwbtfd https://t.co/yUl7zGqhi3

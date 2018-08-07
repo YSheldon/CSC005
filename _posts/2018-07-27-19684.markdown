@@ -1,8 +1,0 @@
----
-layout: post
-title: Cygilant
-date: 2018-07-27 03:00:21
-tourl: https://t.co/780K1rtOuu
-tags: [Attack]
----
-Remote #Spectre Attack Allows Data Theft Over Network https://t.co/yxqAEwlv57 https://t.co/S6Oi5YSh7R

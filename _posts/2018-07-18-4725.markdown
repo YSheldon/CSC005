@@ -1,8 +1,0 @@
----
-layout: post
-title: Brad
-date: 2018-07-18 03:00:21
-tourl: http://t.co/o3Rah323cD
-tags: [Tor]
----
-2018-07-18 - Quick post: #Trickbot infection with Tor traffic and new module, NewBCtestDll64 (different module name on a 32-bit Windows host) - #malspam example, #pcap of infection traffic, and associated #malware samples at: https://t.co/blB1HXhQZb - client to DC infection, too! https://t.co/sPc4gucJDe

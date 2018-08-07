@@ -1,9 +1,0 @@
----
-layout: post
-title: Heimdal Security
-date: 2018-07-24 03:00:21
-tourl: https://t.co/MAGmtFp8Sf
-tags: [Attack]
----
-This #bluetooth attack could allow an unauthenticated, remote attacker in physical proximity of targeted devices to intercept, monitor or manipulate the traffic they exchange.
-https://t.co/QFaV6lTGcW

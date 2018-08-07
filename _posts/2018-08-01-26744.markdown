@@ -1,8 +1,0 @@
----
-layout: post
-title: Core Security
-date: 2018-08-01 03:00:21
-tourl: http://t.co/C64audKgev
-tags: [Attack]
----
-Latest survey reveals organizations are slower and more vulnerable to attack due to the significant gap in how they approach cybersecurity and identity. Click to read the full results: https://t.co/MUFbUWehJd @SecureAuth @CoreSecurity #IdentitySecurityAutomation https://t.co/HRlDxALAVV

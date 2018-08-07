@@ -1,8 +1,0 @@
----
-layout: post
-title: CrowdStrike
-date: 2018-07-30 01:00:22
-tourl: http://t.co/ULWFfruGKw
-tags: [Crowdstrike]
----
-We are less than one week away from #BHUSA. During the conference, make sure you come by #GoCrowdStrike booth 520! We will be giving out customized adversary t-shirts, posters, and every 15 minutes we are demoing CrowdStrike Falcon in action. https://t.co/jc8eriG5zn

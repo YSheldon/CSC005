@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-07-26 03:00:21
-tourl: https://t.co/k9HZz2bu5G
-tags: [Scripting]
----
-CVE-2018-0618 Cross-site scripting vulnerability in Mailman 2.1.26 and earlier allows remote authenticated attackers to inject arbitrary web script or HTML via unspecified vectors.  https://t.co/EcsDuO24Da

@@ -1,8 +1,0 @@
----
-layout: post
-title: Michael Gillespie
-date: 2018-07-25 03:00:21
-tourl: https://t.co/5o4Bi6q78V
-tags: [Aurora]
----
-Anyone infected with Animus, Aurora, or Desu #Ransomware (extensions ".animus", ".Aurora", or ".desu"), please contact me. Help is on the way soon. ????

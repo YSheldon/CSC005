@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-07-23 03:00:21
-tourl: https://t.co/k9HZz2bu5G
-tags: [Scripting]
----
-CVE-2018-1999008 October CMS version prior to build 437 contains a Cross Site Scripting (XSS) vulnerability in the Media module and create folder functionality that can result in an Authenticated user with media module permission ... https://t.co/MnGA0A9EPE

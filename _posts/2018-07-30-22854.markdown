@@ -1,8 +1,0 @@
----
-layout: post
-title: SecurityWeek
-date: 2018-07-30 03:00:21
-tourl: https://t.co/nPBX8e3TNP
-tags: [Attack]
----
-Remote Spectre Attack Allows Data Theft Over Network https://t.co/5ckRr19GUo

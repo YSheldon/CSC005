@@ -1,8 +1,0 @@
----
-layout: post
-title: Security Response
-date: 2018-07-26 01:00:22
-tourl: http://t.co/Srj37yV6aw
-tags: [GDPR]
----
-Data breach reports in the UK quadruple post GDPR https://t.co/PmMpp55zsl

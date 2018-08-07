@@ -1,8 +1,0 @@
----
-layout: post
-title: McAfee Labs
-date: 2018-07-27 03:00:21
-tourl: https://t.co/WeHybHp2wV
-tags: [PowerShell]
----
-Following the massive surge in PowerShell Malware in 2017, attacks using this software decreased significantly. https://t.co/SArORbqVcn https://t.co/XBIu1cuZRY

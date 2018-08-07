@@ -1,8 +1,0 @@
----
-layout: post
-title: Black Hat
-date: 2018-07-17 03:00:21
-tourl: http://t.co/aMEkUhZgUH
-tags: [Attack]
----
-.@SherriDavidoff will present a free #BlackHat Webcast Cryptojacking Meets IoT that will take you through a cryptojacking attack and discusses how criminals use stolen information from your databases. https://t.co/fTBAkY8VP0

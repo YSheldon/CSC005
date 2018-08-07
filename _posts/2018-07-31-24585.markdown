@@ -1,8 +1,0 @@
----
-layout: post
-title: Naked Security
-date: 2018-07-31 01:00:22
-tourl: http://t.co/xOLRCy9nPS
-tags: [NSA]
----
-NSA hasnt closed security windows Snowden climbed through https://t.co/k1HVyHPvk2

@@ -1,8 +1,0 @@
----
-layout: post
-title: Infosecurity Mag
-date: 2018-08-01 03:00:21
-tourl: http://t.co/ioT6nbGu1X
-tags: [Attack]
----
-Phishing Attack Strikes UnityPoint Health https://t.co/CzL3ERh74f https://t.co/vJh1Qzgw58

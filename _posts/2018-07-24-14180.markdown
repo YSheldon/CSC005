@@ -1,8 +1,0 @@
----
-layout: post
-title: Hakin9
-date: 2018-07-24 03:00:21
-tourl: https://t.co/4DC7miAMag
-tags: [PowerShell]
----
-Microsoft PowerShell now available on Linux as an Ubuntu snap @zdnet https://t.co/FKaLgJTKIU #infosec #hacking #hackers #pentesting #pentest #programming #opensource #cybersecurity #Powershell #Microsoft #Ubuntu

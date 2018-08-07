@@ -1,8 +1,0 @@
----
-layout: post
-title: Digital Shadows
-date: 2018-07-29 03:00:21
-tourl: http://t.co/xLsTXDpFlT
-tags: [Attack]
----
-ERP Applications Coming Under Increasing Attack @eWEEKNews @TechJournalist https://t.co/XXKc4ru8GT

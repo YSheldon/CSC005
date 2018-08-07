@@ -1,8 +1,0 @@
----
-layout: post
-title: BitSight
-date: 2018-07-30 01:00:22
-tourl: http://t.co/J7LgGQuadK
-tags: [CISO]
----
-When #security leaders take over #cybersecurity programs, they have to prioritize certain tasks above others. Where should you start? Which tasks are most important? Weve put together some expert tips for #CISO's and other security pros. https://t.co/hczNQgphnC https://t.co/kKac1jwY9Z

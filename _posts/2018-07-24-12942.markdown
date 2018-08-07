@@ -1,9 +1,0 @@
----
-layout: post
-title: Enno Rey
-date: 2018-07-24 03:00:21
-tourl: http://t.co/zTbyQ0PeO1
-tags: [PowerShell]
----
-In which @SadProcessor discusses his seemingly controversial recent tweet on #keepass and, ŕ l'occasion, shares some PowerShell tricks via @Insinuator:
-https://t.co/GCObGR2lCL

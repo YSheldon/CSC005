@@ -1,8 +1,0 @@
----
-layout: post
-title: SANS ISC
-date: 2018-07-24 03:00:21
-tourl: http://t.co/iYLQwRRAe1
-tags: [0day]
----
-More Spectre; IE 0Day Patch Patched; HTTP Insecure; DNS Rebinding Again; #podcast #security #daily https://t.co/pMq5xV2K3g

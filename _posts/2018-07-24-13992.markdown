@@ -1,8 +1,0 @@
----
-layout: post
-title: CrowdStrike
-date: 2018-07-24 03:00:23
-tourl: http://t.co/ULWFfruGKw
-tags: [Attack,Crowdstrike]
----
-Its survival of the fastest and you need to think about how quickly you can detect, investigate and remediate an attack" - CrowdStrike's @MichaelSentonas offers expertise on the growing risk of supply chain attacks to @Australiannews4 https://t.co/rnkGlOoHQz

@@ -1,8 +1,0 @@
----
-layout: post
-title: Tripwire, Inc.
-date: 2018-07-28 03:00:21
-tourl: http://t.co/1sHmVCRv8W
-tags: [Attack]
----
-Shipping Company Struck by Ransomware Attack https://t.co/uNRjqI9uyw via @DMBisson #communication #network

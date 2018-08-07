@@ -1,8 +1,0 @@
----
-layout: post
-title: Securelist
-date: 2018-07-31 03:00:21
-tourl: http://t.co/TCBqx6Tt0H
-tags: [PowerShell]
----
-As #ransomware continues its decline, cryptomining looks to fill the void. Meet PowerGhost, a symbiosis of #PowerShell and #EternalBlue https://t.co/2qY2MecJhl

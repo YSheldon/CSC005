@@ -1,8 +1,0 @@
----
-layout: post
-title: Webroot
-date: 2018-08-01 03:00:21
-tourl: https://t.co/w2vh9vAQuP
-tags: [Attack]
----
-#Cryptojacking has surpassed ransomware as the top cyber threat in 2018. Learn about this innovative attack vector and defensive practices with Sr. Threat Research Analyst @TylerM_Webroot at #BHUSA Booth 436. Find out more at https://t.co/gpW8j7UjD5. https://t.co/SatVXU2Obc

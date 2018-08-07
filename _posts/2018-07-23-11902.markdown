@@ -1,8 +1,0 @@
----
-layout: post
-title: Hakin9
-date: 2018-07-23 01:00:22
-tourl: https://t.co/4DC7miAMag
-tags: [exploit]
----
-1-day exploit development for Cisco IOS https://t.co/YbAF120ZuX #infosec #hacking #hackers #pentesting #pentest #programming #opensource #cybersecurity #Cisco #iOS #1dayexploit #exploit

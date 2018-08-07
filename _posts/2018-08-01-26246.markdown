@@ -1,8 +1,0 @@
----
-layout: post
-title: Spaceflight Now
-date: 2018-08-01 03:00:21
-tourl: http://t.co/bwQfSeZCPB
-tags: [China]
----
-A Chinese Earth-imaging satellite rode a Long March 4B booster into orbit Tuesday, tying the record for the highest number of space launches China has achieved in a single year at 22. https://t.co/E2baNsP6rF https://t.co/ONCtnHqHr1

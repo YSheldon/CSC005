@@ -1,8 +1,0 @@
----
-layout: post
-title: Anomali
-date: 2018-07-19 03:00:21
-tourl: https://t.co/Mm7Oxx7jzr
-tags: [Brute Force]
----
-Samsam infected thousands of LabCorp systems via brute force RDP https://t.co/hhnLyR2ocd by @csoonline https://t.co/BwYqwpsdlg

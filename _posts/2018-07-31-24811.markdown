@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-07-31 01:00:22
-tourl: https://t.co/k9HZz2bu5G
-tags: [exploit]
----
-CVE-2018-7957 Huawei smartphones with software Victoria-AL00 8.0.0.336a(C00) have an information leakage vulnerability. Because an interface does not verify authorization correctly, attackers can exploit an application with the ... https://t.co/OhywN5B3vD

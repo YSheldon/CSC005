@@ -1,8 +1,0 @@
----
-layout: post
-title: Funny Google Chromebook Ad Mocks Windows and macOS Operating Systems
-date: 2018-07-31 13:02:11
-tourl: https://www.bleepingcomputer.com/news/google/funny-google-chromebook-ad-mocks-windows-and-macos-operating-systems/
-tags: [Attack]
----
-In a mocking and hilarious Chromebook ad, Google takes aim at the various issues Windows and macOS users encounter while using these operating systems. With a resounding score, the Chromebook ad shows an increasing display of errors, problems, and crashes that users may frequently encounter while using macOS and Windows and then switches to the enjoyment people have when using a Chromebook.The advertisement is titled "If you want a laptop you can count on. You Chromebook." and is a heads on attack showing the error messages and problems that Chome OS's competitors have become well known for.While this video is clearly meant to mock Google's competitors, that does not mean that Chrome OS doesn't have its problems as well. For example, one of the more common errors that Chromebook user's may run into is when they try to boot up their Chromebook and are shown an error message stating "Chrome OS is missing or damaged" as shown below. While no operating system is perfect and fans of one love nothing more than to belittle other OS users, no one can deny that this video is funny.

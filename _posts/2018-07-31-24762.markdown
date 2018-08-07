@@ -1,8 +1,0 @@
----
-layout: post
-title: Trend Micro
-date: 2018-07-31 01:00:24
-tourl: http://t.co/f67vqZFY1d
-tags: [Law,GDPR]
----
-Japans personal data protection law on reciprocal adequacy is recognized as equivalent to EUs #GDPR. How it affects trade and data privacy. Report: https://t.co/GYAGeHlxZM https://t.co/1EUBgUnJyK

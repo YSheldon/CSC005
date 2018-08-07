@@ -1,8 +1,0 @@
----
-layout: post
-title: Dixons Carphone: Yeah, so, about that hack we said hit 1.2m records? Multiply that by 8.3
-date: 2018-08-01 11:02:12
-tourl: /2018/07/31/dixons_carphone_breach_10m_records/
-tags: [Hack]
----
-Dixons Carphone today admitted that the data breach it discovered last month affected nine times as many people as first believed.The retailer 'fessed up to the hack in June this year, saying that it had involved 5.9 million payment cards and 1.2 million personal data records.However, in a statement The firm said that it now had evidence that "some of this data may have left our systems", but that the records don't contain payment card or bank account details. "There is no evidence that any fraud has resulted," it added.The biz  which owns Carphone Warehouse and Currys PC World  has now nearly completed a full investigation of the unauthorised access that it said took place in 2017.As a result, Dixons Carphone said it was contacting all of its customers "as a precaution" to apologise and advise them on how to reduce the risk of fraud."We have taken action to close off this access and have no evidence it is continuing," it said."We continue to make improvements and investments at pace to our security environment through enhanced controls, monitoring and testing."The incident is being investigated by the Information Commissioner's Office, which earlier this year The admission of further impact comes at a bad time for Dixons Carphone, which last month reported a In today's statement CEO Alex Baldock, who only started in April, said: "We're disappointed in having fallen short here, and very sorry for any distress we've caused our customers. I want to assure them that we remain fully committed to making their personal data safe with us." Ž

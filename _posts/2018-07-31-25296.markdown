@@ -1,8 +1,0 @@
----
-layout: post
-title: CrowdStrike
-date: 2018-07-31 03:00:23
-tourl: http://t.co/ULWFfruGKw
-tags: [Attack,Crowdstrike]
----
-You have antivirus. Can it stop all modern attack types and keep your business going? Easily answer that question by comparing your current solution alongside CrowdStrike Falcon Prevent, the award winning and easy to deploy #NextGenAV solution. Learn more https://t.co/D3WVi1RgX1

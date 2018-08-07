@@ -1,8 +1,0 @@
----
-layout: post
-title: Black Hat
-date: 2018-07-19 01:00:22
-tourl: http://t.co/aMEkUhZgUH
-tags: [Law]
----
-Nate Cordozo of @EFF will host #BlackHat Community Workshop 5 Things Security Researchers Need to Know About Computer Crime Law on Wednesday, August 8 at 13:00. Open to all #BHUSA Pass holders. https://t.co/B04C9k00oW

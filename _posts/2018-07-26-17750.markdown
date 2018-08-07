@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-07-26 03:00:21
-tourl: https://t.co/k9HZz2bu5G
-tags: [Scripting]
----
-CVE-2018-0614 Cross-site scripting vulnerability in NEC Platforms Calsos CSDX and CSDJ series products (CSDX 1.37210411 and earlier, CSDX(P) 4.37210411 and earlier, CSDX(D) 3.37210411 and earlier, CSDX(S) 2.37210411 and earlier, ... https://t.co/cX2q5TTykQ

@@ -1,8 +1,0 @@
----
-layout: post
-title: ak1t4 z3n ????????
-date: 2018-07-25 03:00:21
-tourl: https://t.co/3BMAuELFMm
-tags: [Attack]
----
-#bugbountytip: When you are re-testing a fixed IDOR, try again with the same requests/params but this time add an HPP attack. Most of the time you got a New Bypass which means a New Bounty $$$ #happyhacking #infosec #bugbounty

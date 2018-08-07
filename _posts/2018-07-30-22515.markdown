@@ -1,8 +1,0 @@
----
-layout: post
-title: Digital Shadows
-date: 2018-07-30 01:00:22
-tourl: http://t.co/xLsTXDpFlT
-tags: [exploit]
----
-New research from Digital Shadows and @onapsis reveals that attackers are making use of known vulnerabilities to exploit business-critical applications: https://t.co/b5yRjZBHiB https://t.co/3fatnJD3Fs

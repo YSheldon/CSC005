@@ -1,8 +1,0 @@
----
-layout: post
-title: Cyber Security Place
-date: 2018-07-19 01:00:22
-tourl: https://t.co/SPWu7YJR54
-tags: [exploit]
----
-How hackers exploit critical infrastructure https://t.co/Qs5QM9omUl via @cybersecuritypl #CyberSecurityStrategy #CyberSecurityTips #Hackers #InfrastructureSecurity #ITSecurity #Malware #NetworkSecurity #TechnologyPredictions #CyberSecurity #Infosec #TheCyberSecurityPlace #TCSP

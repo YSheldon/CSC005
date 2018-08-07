@@ -1,8 +1,0 @@
----
-layout: post
-title: Drupal Security
-date: 2018-07-25 03:00:21
-tourl: http://t.co/nB161u7zN6
-tags: [Scripting]
----
-Select (or other) - Moderately critical - Cross Site Scripting - SA-CONTRIB-2018-054 https://t.co/aKnC7V5xYH

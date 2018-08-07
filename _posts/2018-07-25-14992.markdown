@@ -1,8 +1,0 @@
----
-layout: post
-title: Kaspersky Lab
-date: 2018-07-25 02:00:20
-tourl: http://t.co/BuTnZTdejc
-tags: [Trojan]
----
-The #Kronos banking trojan has resurfaced after years of silence. https://t.co/nUsGfr1eui

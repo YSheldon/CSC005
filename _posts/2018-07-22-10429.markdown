@@ -1,9 +1,0 @@
----
-layout: post
-title: Jacob Soo
-date: 2018-07-22 01:00:22
-tourl: https://t.co/wo1Lc2GvJw
-tags: [exploit]
----
-I was tweaking my codes and i found a new malicious InPage document. It's still alive. :D and found another related exploit file on the same domain.
-https://t.co/0NDWcFbyl0

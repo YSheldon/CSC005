@@ -1,9 +1,0 @@
----
-layout: post
-title: BleepingComputer
-date: 2018-07-30 01:00:22
-tourl: https://t.co/pljq5SLdfN
-tags: [DOD]
----
-DOD to Move All Websites to HTTPS by the End of the Year - by @campuscodi
-https://t.co/I68UP6sML1

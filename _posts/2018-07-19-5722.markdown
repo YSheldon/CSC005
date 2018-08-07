@@ -1,8 +1,0 @@
----
-layout: post
-title: DarkReading
-date: 2018-07-19 03:00:21
-tourl: http://t.co/nSh7l5vd4x
-tags: [Attack]
----
-Number of Retailers Impacted by Breaches Doubles by @ErickaChick https://t.co/zkSFBbR2l8 #retail #attack #breach

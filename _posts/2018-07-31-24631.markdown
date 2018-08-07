@@ -1,8 +1,0 @@
----
-layout: post
-title: Marco Rubio
-date: 2018-07-31 03:00:21
-tourl: https://t.co/xm4vZLmGV0
-tags: [China]
----
-While ?@Google? decided not to work with ?@DeptofDefense? on #ProjectMaven they have no problem working with a university in #China that provides much of the technology used by the Chinese military.  https://t.co/mAWxhyAXpz

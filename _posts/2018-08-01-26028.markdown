@@ -1,8 +1,0 @@
----
-layout: post
-title: Fortinet
-date: 2018-08-01 01:00:22
-tourl: http://t.co/QGsCLLACry
-tags: [CISO]
----
-Get our #CISO, @pquade_ciso's thoughts on the future of #cyberattacks on #criticalinfrastructure and nation-states in his recent interview with @BlackHatEvents before #BHUSA. https://t.co/eYzbWXhwk9 https://t.co/xe837V1VJ7

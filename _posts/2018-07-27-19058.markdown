@@ -1,8 +1,0 @@
----
-layout: post
-title: Microsoft announces open-source Quantum Katas project on GitHub to teach Q# programming
-date: 2018-07-27 13:02:11
-tourl: https://www.techworm.net/2018/07/microsoft-announces-open-source-quantum-katas-project-github-teach-quantum-programming-quantum-computing-q-programming.html
-tags: [Source]
----
-Quantum computer is touted as the next big leap in technology. Microsoft has been working on to build a robust ecosystem for quantum computing for quite some time now.Recently, the software giant announced the release ofQuantum Katas is a series of self-paced tutorials aimed at teaching you elements of quantum computing and Q# programming at the same time. It is a series of programming exercises that provide immediate feedback as you progress.Each kata offers a sequence of tasks on a certain quantum computing topic, progressing from simple to challenging, Currently, there are only four katas covering basic quantum computing gates, superposition, measurements, and the Deutsch-Jozsa algorithm, which are mentioned below.To get started with the Quantum Katas, you are required to install the Quantum Development Kit that is available for Windows 10, macOS, and for Linux. For more information about the Quantum Katas project, you can go to GihHub repository by Source: 

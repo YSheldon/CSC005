@@ -1,8 +1,0 @@
----
-layout: post
-title: The CyberWire
-date: 2018-07-21 03:00:21
-tourl: https://t.co/HQuCt1gLbK
-tags: [China]
----
-#CWBriefing: #Finland #cyberattack during #Russo-American summit: This time the #espionage attempts seem to have come largely from #China. The #Singapore meetings had attracted more #Russian attention. #cybersecurity #infosec https://t.co/MWad1Jdi4L

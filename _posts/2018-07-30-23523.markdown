@@ -1,8 +1,0 @@
----
-layout: post
-title: CrowdStrike
-date: 2018-07-30 01:00:22
-tourl: http://t.co/ULWFfruGKw
-tags: [Crowdstrike]
----
-. @InformationAge reports that supply chain attacks are the next big risk for organizations, CrowdStrike's survey of IT professionals reveals. https://t.co/afKbpbYSz4

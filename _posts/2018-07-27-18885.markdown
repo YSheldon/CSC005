@@ -1,8 +1,0 @@
----
-layout: post
-title: Binni Shah
-date: 2018-07-27 03:00:21
-tourl: https://t.co/LfZIicBDza
-tags: [Pass the Hash]
----
-Pass the Hash with Kerberos : https://t.co/A8xplacHBG  cc @mubix

@@ -1,8 +1,0 @@
----
-layout: post
-title: the grugq
-date: 2018-07-27 03:00:21
-tourl: https://t.co/NOc43q5Iqq
-tags: [Attack]
----
-This seems like a very effective asymmetric attack against security forces. Simply announce a bounty and then they get removed from duty. https://t.co/fO9k2VKpF0

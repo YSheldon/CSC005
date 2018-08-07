@@ -1,8 +1,0 @@
----
-layout: post
-title: Black Hat
-date: 2018-07-23 03:00:21
-tourl: http://t.co/aMEkUhZgUH
-tags: [Source]
----
-Deploy multiple interactive decoys (HTTP Servers, SQL, SMB, FTP, SSH, client side  NBNS) strategically across a network on different VLAN's with #BHUSA Arsenal tool DejaVu: An Open Source Deception Framework by @bhdresh &amp; @hramados https://t.co/0oi7UcRxkq

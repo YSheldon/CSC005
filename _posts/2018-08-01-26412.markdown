@@ -1,8 +1,0 @@
----
-layout: post
-title: Joseph Cox
-date: 2018-08-01 02:00:20
-tourl: www.baidu.com
-tags: [Group]
----
-Citizen Lab corroborated Amnesty's findings that hackers used NSO Group malware to target Amnesty researcher. The phishing/malware delivery infrastructure was connected to other previously ID'd NSO domains. Amnesty also found ~600 potentially NSO domains https://t.co/YnjoLZEN0c https://t.co/s1muobmDDo

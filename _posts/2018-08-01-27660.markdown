@@ -1,8 +1,0 @@
----
-layout: post
-title: The CyberWire
-date: 2018-08-01 03:00:21
-tourl: https://t.co/HQuCt1gLbK
-tags: [Source]
----
-#CWPodcast: On the Podcast, we share that #Reddit announced that between June 14 &amp; 18, an attacker compromised a few employee accounts &amp; gained access to backup data, source code and logs. #cybersecurity #infosec https://t.co/CbSpuP5SAy

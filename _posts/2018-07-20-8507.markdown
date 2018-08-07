@@ -1,8 +1,0 @@
----
-layout: post
-title: Microsoft Trying to Fix the Windows 10 App Gap Ahead of Andromeda
-date: 2018-07-20 12:02:10
-tourl: https://www.bleepingcomputer.com/news/microsoft/microsoft-trying-to-fix-the-windows-10-app-gap-ahead-of-andromeda/
-tags: [Group]
----
-Microsoft last year seemingly abandoned its mobile platform because of a massive app gap and the lack of developer interest in creating apps to fill it. Joe Belfiore, the Corporate Vice President in the Operating Systems Group at Microsoft, Microsoft clearly doesn't want to make the same mistake twice and launch the highly-anticipated Andromeda without a powerful app ecosystem to support it.The app gap has been a constant problem for Windows Store, at least in the minds of consumers. The good news is that Microsoft is working hard to find a way to overcome the issue and fix app gap problem. One part of the solution will be "I'm told there are other ideas that the company is also considering to help improve the app situation on Andromeda, but I'm still digging for information on that," It's unlikely that Android apps will be allowed to run on Windows, although it was a possibility with Windows 10 Mobile. Microsoft is also working on Windows Core OS (a modular version of Windows 10) which will make it easy for developers to write their apps once, and have it available across the devices. Although it may take more than a year to close the app gap, its good to know Microsoft is working on it.Thankfully, Microsoft has time to come up with a soluation as the 

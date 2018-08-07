@@ -1,8 +1,0 @@
----
-layout: post
-title: Vincent Yiu
-date: 2018-08-01 03:00:21
-tourl: https://t.co/tj7TTh8Vxh
-tags: [Attack]
----
-Thought: When you consider the attack avenues that allow you to break into the correct position within a network to attack a resource. A that point you can assume you have X privileges. With X privileges you can already achieve the objective. What's the point in exploits?

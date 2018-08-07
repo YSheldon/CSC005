@@ -1,8 +1,0 @@
----
-layout: post
-title: Farsight Security
-date: 2018-07-30 01:00:22
-tourl: https://t.co/nCDvVNlFxj
-tags: [DOD]
----
-Defense Department will Implement Anti-Spoofing Email Protections, CIO Says &lt;- DoD task order to mandate DMARC to be released 8/17  https://t.co/jdLnybgdGS by @Joseph_Marks_

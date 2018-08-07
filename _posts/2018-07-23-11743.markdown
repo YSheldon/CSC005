@@ -1,9 +1,0 @@
----
-layout: post
-title: Heimdal Security
-date: 2018-07-23 03:00:21
-tourl: https://t.co/MAGmtFp8Sf
-tags: [WhatsApp]
----
-This article reveals the dangers of social media as a vehicle for fake news. Should WhatsApp be held responsible, like it seems to be happening in India? 
-https://t.co/QxJJC7eMGr

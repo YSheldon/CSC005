@@ -1,8 +1,0 @@
----
-layout: post
-title: SecurityWeek
-date: 2018-07-20 03:00:21
-tourl: https://t.co/nPBX8e3TNP
-tags: [Attack]
----
-Ransomware Attack Hits Health Firm LabCorp https://t.co/6XeW6LZVwy

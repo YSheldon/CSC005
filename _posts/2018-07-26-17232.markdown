@@ -1,8 +1,0 @@
----
-layout: post
-title: Monitoring _CYOPS
-date: 2018-07-26 03:00:21
-tourl: www.baidu.com
-tags: [Attack]
----
-Attack inception: Compromised supply chain within a supply chain poses new risks https://t.co/d0SRzkxqIZ via @msftsecurity

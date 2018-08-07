@@ -1,8 +1,0 @@
----
-layout: post
-title: Naked Security
-date: 2018-07-27 03:00:21
-tourl: http://t.co/xOLRCy9nPS
-tags: [Attack]
----
-Nerves jangled by new ransomware attack on shipping giant https://t.co/8m31c5KTDh

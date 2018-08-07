@@ -1,9 +1,0 @@
----
-layout: post
-title: David Gerard
-date: 2018-07-30 01:00:22
-tourl: https://t.co/E240mnk62C
-tags: [GDPR]
----
-European sysadmins and devs: what have you been doing for GDPR? 
-https://t.co/BquyzkYXa1

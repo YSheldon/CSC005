@@ -1,8 +1,0 @@
----
-layout: post
-title: Black Hat
-date: 2018-07-13 03:00:21
-tourl: http://t.co/aMEkUhZgUH
-tags: [Source]
----
-Join more than 17,000 InfoSec professionals in Las Vegas August 4-9 - #BHUSA offers attendees access to 90+ individual Training courses, more than 115 Briefings, and 90 open-source tool demonstrations. Register by midnight TONIGHT to save https://t.co/nidyjqgjXh

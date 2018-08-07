@@ -1,8 +1,0 @@
----
-layout: post
-title: Virus Bulletin
-date: 2018-08-01 02:00:20
-tourl: https://t.co/3UVRbwBJWI
-tags: [Trojan]
----
-Check Point looks at the newly discovered Osiris banking trojan and the similarities with Kronos https://t.co/wK1AHaiwDL https://t.co/KiLcMMZULr

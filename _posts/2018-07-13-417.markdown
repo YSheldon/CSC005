@@ -1,8 +1,0 @@
----
-layout: post
-title: CyberScoop
-date: 2018-07-13 01:00:22
-tourl: https://t.co/UiSN102kIR
-tags: [Hack]
----
-READ: The full DOJ indictment against Russian intelligence officials and their role in the DNC hack https://t.co/yVbX4tnoz2

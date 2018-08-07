@@ -1,8 +1,0 @@
----
-layout: post
-title: Linux Security Labs
-date: 2018-07-15 03:00:21
-tourl: https://t.co/ee1vBPOO91
-tags: [Graphical User Interface]
----
-Tool review: Zenmap (graphical user interface for Nmap) #pentesting #gui https://t.co/LqJu2kyYiD

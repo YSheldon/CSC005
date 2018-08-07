@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-07-23 03:00:22
-tourl: https://t.co/k9HZz2bu5G
-tags: [Scripting,Attack]
----
-CVE-2018-1999021 Gleezcms Gleez Cms version 1.3.0 contains a Cross Site Scripting (XSS) vulnerability in Profile page that can result in Inject arbitrary web script or HTML via the profile page editor. This attack appear to be ... https://t.co/Duou39qXFf

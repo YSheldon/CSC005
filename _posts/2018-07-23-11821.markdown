@@ -1,8 +1,0 @@
----
-layout: post
-title: Black Hat
-date: 2018-07-23 03:00:21
-tourl: http://t.co/aMEkUhZgUH
-tags: [Attack]
----
-DELTA is an SDN security evaluation framework that can automatically instantiate known attack cases against SDN elements and assist in uncovering unknown security problems within an SDN deployment. #BHUSA Arsenal tool https://t.co/QRMVjftlnw

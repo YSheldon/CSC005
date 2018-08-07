@@ -1,8 +1,0 @@
----
-layout: post
-title: Menlo Security
-date: 2018-07-31 03:00:21
-tourl: https://t.co/KGGTO8JfLs
-tags: [Attack]
----
-Forensic investigators have discovered that #cybercriminals had access to patient personal &amp; medical #data for more than a month at @NorthStarAnes thanks to a recent #phishing attack @HDMmagazine - https://t.co/MIGJ3O7Vr7 https://t.co/W1eYSlLf7R

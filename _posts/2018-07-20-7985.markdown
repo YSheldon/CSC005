@@ -1,8 +1,0 @@
----
-layout: post
-title: Senator Gary Peters
-date: 2018-07-20 01:00:22
-tourl: http://t.co/LDQSc7zibg
-tags: [Bill]
----
-Good news! The Senate passed my bill with @SenatorRisch helping small businesses protect their intellectual property and patents! Great way to cap off #StartupWeek. https://t.co/2synB1v9jx

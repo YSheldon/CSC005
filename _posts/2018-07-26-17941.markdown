@@ -1,8 +1,0 @@
----
-layout: post
-title: Threatpost
-date: 2018-07-26 03:00:21
-tourl: http://t.co/rD9Wvdqf3e
-tags: [Attack]
----
-A #Bluetooth spec allowed vendors to opt out of implementing public key authentication, enabling a man-in-the-middle attack: https://t.co/Mdl3KcHFBt

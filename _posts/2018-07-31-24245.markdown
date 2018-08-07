@@ -1,8 +1,0 @@
----
-layout: post
-title: Roger Smith
-date: 2018-07-31 03:00:21
-tourl: https://t.co/Zn275afqZ2
-tags: [Attack]
----
-#MSP Vigilance and paranoia reduce the chance of a digital attack. Free webinar #wealth https://t.co/BhMaRNeQqn

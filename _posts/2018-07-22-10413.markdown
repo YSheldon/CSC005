@@ -1,8 +1,0 @@
----
-layout: post
-title: Security Response
-date: 2018-07-22 02:00:20
-tourl: http://t.co/Srj37yV6aw
-tags: [Group,Trojan]
----
-#ICYMI: Group behind #Emotet Trojan now operating a global packing and delivery service for other threat actors https://t.co/JoF0mEcjyH  #Mealybug https://t.co/bXDBi7eLZ3

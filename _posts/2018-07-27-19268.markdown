@@ -1,8 +1,0 @@
----
-layout: post
-title: Securelist
-date: 2018-07-27 01:00:22
-tourl: http://t.co/TCBqx6Tt0H
-tags: [Law]
----
-Kaspersky Lab played an active part in helping law enforcement bring those behind the #CoinVault ransomware to justice. https://t.co/PItIFgFjUK

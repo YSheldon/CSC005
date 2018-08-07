@@ -1,8 +1,0 @@
----
-layout: post
-title: Threatpost
-date: 2018-07-18 03:00:21
-tourl: http://t.co/rD9Wvdqf3e
-tags: [Group,Attack]
----
-Changes in Andariel groups script may indicate that the #hackers may start using attack vectors other than ActiveX: https://t.co/GeGPm5ri6X

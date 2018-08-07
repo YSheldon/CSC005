@@ -1,8 +1,0 @@
----
-layout: post
-title: Infosecurity Mag
-date: 2018-07-30 01:00:22
-tourl: http://t.co/ioT6nbGu1X
-tags: [Hack]
----
-Idaho Inmates Hack Tablets for Extra Credits https://t.co/xTgkuNCZMg https://t.co/LGwq4j72Lh

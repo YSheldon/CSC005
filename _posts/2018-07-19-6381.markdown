@@ -1,8 +1,0 @@
----
-layout: post
-title: AlienVault
-date: 2018-07-19 02:00:20
-tourl: http://t.co/7mZeFsDsoi
-tags: [Group,Trojan]
----
-Mealybug hacking group behind Emotet banking #malware finds new life spreading data-stealing trojan &amp; enabling other gangs to deliver their attacks: https://t.co/SLF3S6sbWz @ZDNet @dannyjpalmer https://t.co/WPuwrr1Yn1

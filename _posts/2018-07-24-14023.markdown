@@ -1,8 +1,0 @@
----
-layout: post
-title: Second Quarter 2018 Top-Clicked Phishing Email Subjects [INFOGRAPHIC]
-date: 2018-07-24 13:02:11
-tourl: https://blog.knowbe4.com/q2-2018-top-clicked-phishing-email-subjects
-tags: [Attack]
----
-We've been reporting on the top-clicked Sharing the latest threats with users is a great way to keep them on their toes. Also we see a lot of similarities in the subjects quarter over quarter, so knowing what the popular ones are can help them to stay vigilant and ultimately think twice before clicking. Hackers are smart and know how to leverage multiple psychological triggers to get the attention of an innocent victim. In todays world, its imperative that businesses continually educate their employees about the tactics that hackers are using so they can be savvy and not take an email at face-value. Hackers will continue to become more sophisticated with the tactics they use and advance their utilization of social engineering in order to get what they want, said Perry Carpenter, chief evangelist and strategy officer at KnowBe4.A new According to NIST, there are three parts to the strategy:Did you know that 91% of successful data breaches started with a spear phishing attack?PS: Don't like to click on redirected buttons? CutPaste this link in your browser: Topics: Š KnowBe4, Inc. All rights reserved. | 

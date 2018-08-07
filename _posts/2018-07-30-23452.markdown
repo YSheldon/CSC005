@@ -1,8 +1,0 @@
----
-layout: post
-title: Brandon Azad
-date: 2018-07-30 01:00:22
-tourl: https://t.co/pVhi7GiebQ
-tags: [exploit]
----
-I'll be presenting "Crashing to root: How to escape the iOS sandbox using abort()" at @bevxcon this September. I'll show how to exploit CVE-2018-4280, fixed in iOS 11.4.1, by crashing maliciously in order to elevate privileges, defeat codesigning, and spawn a shell on iOS 11.2.6. https://t.co/tRxLqD55fY

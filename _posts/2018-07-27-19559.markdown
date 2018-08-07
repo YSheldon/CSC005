@@ -1,8 +1,0 @@
----
-layout: post
-title: 0day Exploit Database
-date: 2018-07-27 03:00:23
-tourl: https://t.co/ifDhCPJfYM
-tags: [exploit,0day]
----
-#0daytoday #QNap #QVR Client 5.1.1.30070 - Password Denial of Service #PoC Exploit [#0day #Exploit] https://t.co/iea1IF22VY

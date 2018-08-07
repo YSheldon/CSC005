@@ -1,8 +1,0 @@
----
-layout: post
-title: AlienVault
-date: 2018-07-23 03:00:21
-tourl: http://t.co/7mZeFsDsoi
-tags: [Attack]
----
-Massive malspam campaign is leveraging a new attack vector for FlawedAmmyy RAT #malware - delivering weaponized PDFs with malicious SettingContent-ms files: https://t.co/gK8f6yNHup @threatpost @wirelesswench https://t.co/gpu2tupKNe

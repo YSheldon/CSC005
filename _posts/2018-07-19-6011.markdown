@@ -1,9 +1,0 @@
----
-layout: post
-title: NASA History Office
-date: 2018-07-19 01:00:22
-tourl: http://t.co/wWBPdTeoW6
-tags: [Bill]
----
-Our Chief Historian, Bill Barry, will be talking about NASA's 60th anniversary at Oshkosh AirVenture Monday. See you there!
-#NASA60th https://t.co/d8ILw93tH7

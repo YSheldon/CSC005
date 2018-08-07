@@ -1,8 +1,0 @@
----
-layout: post
-title: beVX Conference
-date: 2018-07-30 03:00:21
-tourl: https://t.co/F2qZZbrte0
-tags: [Attack]
----
-Announcing our 12th talk at our conference Julian Rauchberger and Tobias Dam on "Breaking the Bluetooth stack: Where to look and what to expect" - https://t.co/YQX55dQ4AA - during this talk an attack against the BlueZ will be demonstrated and talked upon https://t.co/NhSJujXI4k

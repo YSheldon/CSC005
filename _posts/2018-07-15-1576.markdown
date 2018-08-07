@@ -1,8 +1,0 @@
----
-layout: post
-title: CyberScoop
-date: 2018-07-15 01:00:24
-tourl: https://t.co/UiSN102kIR
-tags: [Cyber Command,Hack]
----
-Private sector warms to U.S. Cyber Command carrying out 'hack backs' https://t.co/E6vPgeGVvL

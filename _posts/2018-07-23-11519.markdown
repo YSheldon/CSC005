@@ -1,8 +1,0 @@
----
-layout: post
-title: That IE Zero-Day From May Needed a Second Patch in July
-date: 2018-07-23 13:02:13
-tourl: https://www.bleepingcomputer.com/news/security/that-ie-zero-day-from-may-needed-a-second-patch-in-july/
-tags: [exploit,Source]
----
-The July Patch Tuesday that was delivered two weeks ago included a second patch for an Internet Explorer zero-day discovered and initially fixed by Microsoft The original zero-day is a VBScript engine vulnerability that can be exploited via Internet Explorer, tracked as The original zero-day had been used In a report published today, the Qihoo 360 Core team says they analyzed Microsoft's May patch for CVE-2018-8174 and found it to be insufficient.The Qihoo team says they found two other issues that can still allow an attacker to exploit the original flaw. Researchers say they reported these two issues to Microsoft, which patched the two subsequent bugs under a new identifier of The Qihoo 360 Core Researchers confirmed this new update fixes the original zero-day CVE-2018-8174, although the July patch appears to have introduced a memory leak. They said this new "leak" is only a performance issue and not a security bug.Qihoo experts have also taken the occasion to remind other researchers that their job is not over when they report a bug and the vendor patches it. Security researchers must always audit the patch and verify the source of the issue has been patched the correct way, without introducing other security flaws.If users haven't applied the July 2018 Patch Tuesday, this may be a good time to do so or at least install the KB packages that fix this flaw in particular.

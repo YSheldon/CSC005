@@ -1,8 +1,0 @@
----
-layout: post
-title: Senator Bill Nelson
-date: 2018-07-31 01:00:22
-tourl: https://t.co/YUpBDdt7Jt
-tags: [Bill]
----
-BREAKING: A federal judge just issued a temporary restraining order to block the release of blueprints for 3D-printed guns! Now we need Congress to do the right thing and pass our bill to permanently block these blueprints from ever being published.

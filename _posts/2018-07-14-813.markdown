@@ -1,8 +1,0 @@
----
-layout: post
-title: Nicolas Krassas
-date: 2018-07-14 01:00:22
-tourl: http://t.co/nj3EPPRowo
-tags: [Hack]
----
-Bogus MDM System Used To Hack iPhones In India https://t.co/2chXOcxddq

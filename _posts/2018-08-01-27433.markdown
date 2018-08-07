@@ -1,8 +1,0 @@
----
-layout: post
-title: Virus Bulletin
-date: 2018-08-01 01:00:22
-tourl: https://t.co/3UVRbwBJWI
-tags: [GDPR]
----
-The GDPR appears to have led to an increase in reported data breaches https://t.co/SNAkCWVHpL

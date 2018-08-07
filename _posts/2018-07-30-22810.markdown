@@ -1,8 +1,0 @@
----
-layout: post
-title: Nicolas Krassas
-date: 2018-07-30 03:00:21
-tourl: http://t.co/nj3EPPRowo
-tags: [Attack]
----
-Tens of flaws in Samsung SmartThings Hub expose smart home to attack https://t.co/mTmw7yQyuM

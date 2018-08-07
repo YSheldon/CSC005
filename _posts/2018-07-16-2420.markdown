@@ -1,8 +1,0 @@
----
-layout: post
-title: Threatpost
-date: 2018-07-16 02:00:20
-tourl: http://t.co/rD9Wvdqf3e
-tags: [Trojan]
----
-DanaBot trojan targets bank customers in #phishing scam: https://t.co/6OxRnjOES3

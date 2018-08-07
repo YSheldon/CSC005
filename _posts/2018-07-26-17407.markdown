@@ -1,8 +1,0 @@
----
-layout: post
-title: Tanmay Ganacharya
-date: 2018-07-26 03:00:21
-tourl: www.baidu.com
-tags: [Attack]
----
-Final payload of this attack was yet another *CoinMiner*! When run, this malware consumed affected machines computing resources to mine Monero coins. https://t.co/G6ZZ3Mmbaa

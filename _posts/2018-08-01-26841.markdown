@@ -1,8 +1,0 @@
----
-layout: post
-title: The Uninitialized Pointer Guru ????
-date: 2018-08-01 03:00:21
-tourl: https://t.co/GhXZqPerpH
-tags: [Source]
----
-Murica, the most amazing source of dumb fuckery in the world bahahahahahahahahaha https://t.co/Qpu6Roqp0i

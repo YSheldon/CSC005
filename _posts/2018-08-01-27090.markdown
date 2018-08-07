@@ -1,8 +1,0 @@
----
-layout: post
-title: McAfee Home
-date: 2018-08-01 03:00:21
-tourl: https://t.co/Ubn9aM4dYB
-tags: [Attack]
----
-45,000 patient records were compromised in the Blue Springs Family Care #ransomware attack. @Garyjdavis has medical fraud and identity theft tips for those impacted. https://t.co/6IFLqeLZ8G

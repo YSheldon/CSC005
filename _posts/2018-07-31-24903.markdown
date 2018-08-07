@@ -1,8 +1,0 @@
----
-layout: post
-title: Malware-ransomware combo campaign hits North American inboxes
-date: 2018-07-31 13:02:11
-tourl: https://www.cyberscoop.com/hermes-ransomware-azorult-proofpoint/?category_news=technology
-tags: [Trojan,Attack,Group]
----
-An updated version of a popular credential-stealing malware variant has been paired with ransomware to send thousands of emails in North America, according to new research.Within a day of hackers releasing an update of the trojan malware known as The hybrid malware campaign targeted email users with job-related subject lines that came with malicious attachments, Proofpoint The Hermes 2.1 variant used in the attack Its a little unusual to see ransomware paired with other payloads, Patrick Wheeler, director of threat intelligence at Proofpoint, told CyberScoop, likening that combination to robbing a house and burning it down.But ransomware is a logical way of wringing extra money out of an already financially-driven operation. As Wheeler put it, hackers are trying to follow the money and look for every means possible [to try] to monetize the infected clients.There is a tradeoff for attackers that use ransomware in that it tends to be very noisy, making itself known to the infected party, Wheeler said. Once that machine has ransomware on it, everybody knows its infected.For this hacking group, the lure of making money appears to have trumped any desire to go undetected. And they are updating their malware to increase profits.As in legitimate software development, malware authors regularly update their software to introduce competitive new features, improve usability, and otherwise differentiate their products, Proofpoint said in its blog post.

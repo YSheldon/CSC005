@@ -1,8 +1,0 @@
----
-layout: post
-title: TrendLabs
-date: 2018-07-31 02:00:20
-tourl: http://t.co/MB171H1oL9
-tags: [Group]
----
-The #Andariel cybercriminal group has changed their reconnaissance tactics. We look into their new techniques here: https://t.co/Fnv8WtWmm9 #TargetedAttack https://t.co/WX7WCKl25c

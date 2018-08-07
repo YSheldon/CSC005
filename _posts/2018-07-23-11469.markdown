@@ -1,8 +1,0 @@
----
-layout: post
-title: Linux Security Labs
-date: 2018-07-23 03:00:21
-tourl: https://t.co/ee1vBPOO91
-tags: [sqlmap]
----
-Tool review: SQLMate (a friend of SQLMap with additional features) by @s0md3v #infosec #tools https://t.co/pZd2dH5MOb

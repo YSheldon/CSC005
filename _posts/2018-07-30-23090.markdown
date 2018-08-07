@@ -1,8 +1,0 @@
----
-layout: post
-title: the grugq
-date: 2018-07-30 03:00:21
-tourl: https://t.co/NOc43q5Iqq
-tags: [Attack]
----
-This attack has been really successful. Leaking docs is a really powerful technique. Everyone asks well, did they find anything interesting at the Watergate? and never thats a serious abuse of power, wtf?!? https://t.co/G2vOLzV7g3

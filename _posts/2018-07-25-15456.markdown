@@ -1,8 +1,0 @@
----
-layout: post
-title: ????
-date: 2018-07-25 01:00:22
-tourl: https://t.co/J1NkGTtiXb
-tags: [Hack]
----
-i want to quickly hack a prototype together to see if it can work ... python! https://t.co/ezRfBVEqmJ

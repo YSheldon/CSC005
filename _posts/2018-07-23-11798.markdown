@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-07-23 03:00:21
-tourl: https://t.co/k9HZz2bu5G
-tags: [Attack]
----
-CVE-2018-1999013 FFmpeg before commit a7e032a277452366771951e29fd0bf2bd5c029f0 contains a use-after-free vulnerability in the realmedia demuxer that can result in vulnerability allows attacker to read heap memory. This attack ... https://t.co/PYdfzzezMP

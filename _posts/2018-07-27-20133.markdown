@@ -1,8 +1,0 @@
----
-layout: post
-title: CrowdStrike
-date: 2018-07-27 01:00:22
-tourl: http://t.co/ULWFfruGKw
-tags: [Crowdstrike]
----
-Many organizations struggle to implement comprehensive #security solutions because of the time, cost and expertise required. Join CrowdStrike for a webcast on Aug. 1 hosted by @Bytes to see how the Falcon Platform offers a complete solution. https://t.co/NAbE7CP65S

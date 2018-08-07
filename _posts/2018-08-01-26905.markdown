@@ -1,8 +1,0 @@
----
-layout: post
-title: Phishing Catches 1.4 Million Patients' Records
-date: 2018-08-01 13:02:13
-tourl: https://blog.knowbe4.com/phishing-catches-1.4-million-patients-records
-tags: [Law,Attack]
----
-The personal information compromised included Social Security or drivers license numbers, some bank account or credit card information, and, unsurprisingly, other "personal and health-related" information. UnityPoint says it's been working with law enforcement, and also that it's notified every affected person.This is the second successful UnityPoint is the thirteenth largest not-for-profit healthcare system in the United States, serving patients in Iowa, Illinois, and Wisconsin. The attacks they've sustained serve as a useful reminder that you don't have to be a for-profit business to be attractive to cyber criminals. Any organization that handles personal data will draw phishing attacks. A culture of security is invaluable, and interactive, realistic training in how to resist social engineering can help any organization build that culture.The Waterloo Cedar Falls Courier has the story: Did you know that 91% of successful data breaches started with a spear-phishing attack?Cyber-attacks are rapidly getting more sophisticated. We help you train your employees to better manage the urgent IT security problems of PS: Don't like to click on redirected buttons? CutPaste this link in your browser: Topics: Š KnowBe4, Inc. All rights reserved. | 

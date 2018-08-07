@@ -1,8 +1,0 @@
----
-layout: post
-title: Samsam Ransomware infected thousands of LabCorp systems via brute force RDP
-date: 2018-07-20 13:02:11
-tourl: https://blog.knowbe4.com/samsam-ransomware-infected-thousands-of-labcorp-systems-via-brute-force-rdp
-tags: [Attack]
----
-It's all over the news. Steve Ragan at CSO has the best "executive summary":"LabCorp, one of the largest clinical labs in the U.S., said the Samsam ransomware attack that forced their systems offline was contained quickly and didn't result in a data breach.However, in the brief time between detection and mitigation, the ransomware was able to encrypt thousands of systems and several hundred production servers.The wider public first learned about the LabCorp incident on Monday, According to sources familiar with the investigation, the Samsam attack at LabCorp started at midnight on July 13.The LabCorp SOC (Security Operation Center) immediately took action after that first system was encrypted, alerting IR teams and severing various links and connections.These quick actions ultimately helped the company contain the spread of the infection and neutralize the attack within 50 minutes. However, before the attack was fully contained, 7,000 systems and 1,900 servers were impacted. Of those 1,900 servers, 350 were production servers."Below is a link to the whole story. Here are five things to do about this right away. Don'tTopics: Š KnowBe4, Inc. All rights reserved. | 

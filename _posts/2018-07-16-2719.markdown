@@ -1,8 +1,0 @@
----
-layout: post
-title: Vincent Yiu
-date: 2018-07-16 02:00:20
-tourl: https://t.co/tj7TTh8Vxh
-tags: [Group]
----
-In parts of the world, maintaining and levelling up skills in Cyber Security is real tough. Lets remind ourselves that when we share research, guides, and tutorials, that we are not only helping our immediate local group of friends. Inspire the whole world into #infosec.

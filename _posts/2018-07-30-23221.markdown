@@ -1,8 +1,0 @@
----
-layout: post
-title: Farsight Security
-date: 2018-07-30 01:00:22
-tourl: https://t.co/nCDvVNlFxj
-tags: [Hack]
----
-Russian hack targeting senator makes me want to break up with email &lt;-"Hackers have some sneaky tricks, including what's called a "full domain spoof." https://t.co/tgbc71fiIB #DNS #infosec #email

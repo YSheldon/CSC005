@@ -1,8 +1,0 @@
----
-layout: post
-title: Microsoft Secure
-date: 2018-07-30 01:00:22
-tourl: https://t.co/ydhbB7MGQA
-tags: [exploit]
----
-Lior Ben-Porat, Microsoft Security Researcher, leading his #RSAC session last week around exploit kits, malware ROI, and how to best avoid such attacks. Image courtesy of RSA Conference. https://t.co/LHfE9QIhiy

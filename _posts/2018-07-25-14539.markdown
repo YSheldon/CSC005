@@ -1,8 +1,0 @@
----
-layout: post
-title: Threatpost
-date: 2018-07-25 03:00:21
-tourl: http://t.co/rD9Wvdqf3e
-tags: [Crimson]
----
-Crimson Hexagon collects public posts from an array of social-media sites like Facebook and #Instagram. Now it's suspended from #Facebook: https://t.co/z1UjjA6YdK

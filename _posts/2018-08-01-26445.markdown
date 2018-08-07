@@ -1,8 +1,0 @@
----
-layout: post
-title: Joseph Cox
-date: 2018-08-01 01:00:22
-tourl: www.baidu.com
-tags: [Hack]
----
-To be clear, the hack on the Amnesty researcher was not successful; domain did not ultimately deliver the malware (perhaps deactivated after 24 hours, some other variable needed to trigger). But still pretty clear this was an attempt to use potent NSO malware.

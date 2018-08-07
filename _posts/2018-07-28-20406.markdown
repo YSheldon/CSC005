@@ -1,8 +1,0 @@
----
-layout: post
-title: The CyberWire
-date: 2018-07-28 03:00:21
-tourl: https://t.co/HQuCt1gLbK
-tags: [Aurora]
----
-#CWBriefing: @FlashpointIntel researchers report that #malware #loaders continue their evolution &amp; proliferation. They offer two new loaders, #Aurora &amp; #Kardon, as examples. #cybersecurity #infosec https://t.co/a8k3WlNmnJ

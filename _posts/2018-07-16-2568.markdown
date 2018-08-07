@@ -1,8 +1,0 @@
----
-layout: post
-title: CrowdStrike
-date: 2018-07-16 01:00:22
-tourl: http://t.co/ULWFfruGKw
-tags: [Crowdstrike]
----
-We are thrilled to report that the CrowdStrike Falcon platform was recently evaluated by the security experts at SC Labs, receiving the coveted Best Buy recommendation and highest possible rating  five stars. Start your free, no obligated trial today: https://t.co/nZ4Ma9dpvs

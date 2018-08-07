@@ -1,8 +1,0 @@
----
-layout: post
-title: CrowdStrike
-date: 2018-08-01 01:00:22
-tourl: http://t.co/ULWFfruGKw
-tags: [Crowdstrike]
----
-CrowdStrike experts will be offering up-to-date insights on the state of machine learning and #AI in #security at this years #BHUSA18. Learn more about our workshop that is on Aug. 8.  #GoCrowdStrike #BHUSA https://t.co/XndQsD3EtK

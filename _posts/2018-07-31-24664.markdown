@@ -1,8 +1,0 @@
----
-layout: post
-title: CyberScoop
-date: 2018-07-31 03:00:23
-tourl: https://t.co/UiSN102kIR
-tags: [CISO,FIREEYE]
----
-U.S. House of Representatives CISO Randy Vickers discusses #cybersecurity and leveraging #threatintel in this video sponsored by @FireEye: https://t.co/JdbfsuNRBZ https://t.co/NlIcR7XG7F

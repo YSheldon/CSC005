@@ -1,8 +1,0 @@
----
-layout: post
-title: SecurityWeek
-date: 2018-07-31 02:00:20
-tourl: https://t.co/nPBX8e3TNP
-tags: [Group]
----
-Today is the last day to save $400 on registration for SecurityWeeks 2018 ICS Cyber Security Conference: https://t.co/4qHqoa6qeS &lt; Join our group of 500 at the original ICS/SCADA Cyber Security Conference!

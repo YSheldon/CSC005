@@ -1,8 +1,0 @@
----
-layout: post
-title: Vincent Yiu
-date: 2018-07-16 03:00:21
-tourl: https://t.co/tj7TTh8Vxh
-tags: [0day]
----
-Russia wanted the world to know and understand: Spear phishing is highly effective and cheap to perform in comparison to spending millions on R&amp;D for an 0day. And with good network segregation were talking the 0day might not even be enough.

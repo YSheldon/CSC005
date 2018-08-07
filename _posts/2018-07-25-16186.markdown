@@ -1,8 +1,0 @@
----
-layout: post
-title: Want a $200k TIP? ZDI sticks bounties on bugs in big-name server code
-date: 2018-07-25 13:02:13
-tourl: /2018/07/25/zdi_server_bounty_rewards/
-tags: [Source,exploit]
----
-A bunch of new bug bounty rewards are up for grabs from the Zero Day Initiative, in a first-come, best-dressed program kicking off on August 1.The Trend Micro-backed operation announced on July 24 what it called the Targeted Incentive Program (TIP). Besides the mention of Microsoft Windows Server 2016, the TIP focuses paying out cash for vulnerabilities found in open-source server-side products.Bounty hunters, armed with fuzzers and exploits, will be rewarded if they're the first to exploit previously unseen bugs in one of the target platforms shown in the table below.The ZDI A harmless proof-of-concept demo won't fill a white-hat's bank account: the TIP seeks fully functioning exploits of zero-day vulnerabilities, affecting the core code of the selected target.Along the way, a winning attacker has to defeat mitigations including sandboxes, Address Space Layout Randomization (ASLR), operating system protections, and so on, and a vulnerability must lead to arbitrary code execution to qualify. Reported flaws will be passed on to vendors to patch. Good luck. Ž

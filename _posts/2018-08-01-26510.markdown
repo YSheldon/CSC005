@@ -1,8 +1,0 @@
----
-layout: post
-title: UK Insurer Beazley: \
-date: 2018-08-01 13:02:11
-tourl: https://blog.knowbe4.com/uk-insurer-beazley-phishing-attacks-up-in-second-quarter
-tags: [Source]
----
-Attacks that target business email accounts continued to increase in the second quarter of 2018, accounting for 23% of incidents reported to Beazley P.L.C. clients, the insurer said Tuesday in a report.This was particularly true for organizations using Microsoft Corp.s Office 365, said Beazleys breach response services unit in the Beazley Breach Insights Report. A Microsoft spokesman could not immediately be reached for comment.London-based Beazley said in its report that email compromises totaled 184 during the second quarter compared with 173 during the first quarter of this year, 89 in 2017s second quarter and just 45 during 2017s first quarter.Business email compromises are efficient for the hacker because the compromise of a single account gives the hacker a platform from which to spear phish within and outside the organization. While these compromises can prove very expensive to a company that has been successfully attacked, they are also easily preventable, says the report.The report says in addition to securing a base for spear Beazley said in its report that these attacks can be easily prevented by using two-factor authentication and Earlier this month, a federal appeals court reversed a lower court ruling and held that a Travelers Cos. Inc. unit is obligated to indemnify a tool and die manufacturer that lost $834,000 in a Cross-posted with grateful acknowledgement to source:Topics: Š KnowBe4, Inc. All rights reserved. | 

@@ -1,8 +1,0 @@
----
-layout: post
-title: AlienVault
-date: 2018-08-01 03:00:23
-tourl: http://t.co/7mZeFsDsoi
-tags: [Hack,Attack]
----
-Reddit announced yesterday that it was victim of a "serious hack" in June that compromised the #security of some of its users data; attack limited to pre-2007 emails &amp; scrambled passwords: https://t.co/nhIiSuFhwT @FortuneMagazine https://t.co/IptAymi8vY

@@ -1,8 +1,0 @@
----
-layout: post
-title: CrowdStrike
-date: 2018-08-01 01:00:22
-tourl: http://t.co/ULWFfruGKw
-tags: [Crowdstrike]
----
-Jennifer Ayers, CrowdStrike's VP Overwatch and Security Response Team, is featured on @DarkReading Women in Security you Should Know List! @tigercat6795 https://t.co/lx5cZC6IGw

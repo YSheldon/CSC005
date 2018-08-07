@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-07-31 01:00:22
-tourl: https://t.co/k9HZz2bu5G
-tags: [exploit]
----
-CVE-2018-14268 This vulnerability allows remote attackers to execute arbitrary code on vulnerable installations of Foxit Reader 9.0.1.1049. User interaction is required to exploit this vulnerability in that the target must visit a ... https://t.co/hesYwh05zz

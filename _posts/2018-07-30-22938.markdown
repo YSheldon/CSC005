@@ -1,8 +1,0 @@
----
-layout: post
-title: Virus Bulletin
-date: 2018-07-30 03:00:21
-tourl: https://t.co/3UVRbwBJWI
-tags: [Aurora]
----
-The Aurora and Kardon malware downloaders may soon become big names, Flashpoint believes https://t.co/hV4WpexgUT https://t.co/43MTVw0buS

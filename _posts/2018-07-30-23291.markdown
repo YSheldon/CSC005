@@ -1,8 +1,0 @@
----
-layout: post
-title: AlienVault
-date: 2018-07-30 03:00:21
-tourl: http://t.co/7mZeFsDsoi
-tags: [Attack]
----
-KICKICO, a blockchain-based initial coin offering (ICO) support platform, has fallen victim to a suspected cyber attack and lost more than 70 million KICK tokens worth ~$7.7 million: https://t.co/w0CaH6UUmn @Swati_THN @TheHackersNews https://t.co/0PaPVsrf32

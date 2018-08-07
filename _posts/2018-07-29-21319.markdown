@@ -1,8 +1,0 @@
----
-layout: post
-title: Palo Alto Networks
-date: 2018-07-29 02:00:25
-tourl: http://t.co/Cn7zCFVx8y
-tags: [OilRig,Group]
----
-#ICYMI The OilRig group continues to adapt their tactics and bolster their toolset with newly developed tools. Get the full report from Unit 42 https://t.co/NmT5xxcGhQ

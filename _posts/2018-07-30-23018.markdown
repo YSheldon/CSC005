@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-07-30 03:00:23
-tourl: https://t.co/k9HZz2bu5G
-tags: [Scripting,exploit]
----
-CVE-2017-7514 A cross-site scripting (XSS) flaw was found in how the failed action entry is processed in Red Hat Satellite before version 5.8.0. A user able to specify a failed action could exploit this flaw to perform XSS attacks ... https://t.co/Y20MjUWrDk

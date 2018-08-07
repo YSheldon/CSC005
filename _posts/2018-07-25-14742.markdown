@@ -1,8 +1,0 @@
----
-layout: post
-title: The CyberWire
-date: 2018-07-25 03:00:21
-tourl: https://t.co/HQuCt1gLbK
-tags: [Attack]
----
-#CWBriefing: #evilmaid attacks: they've been regarded as interesting outliers, less common than other forms of attack, perhaps sufficiently time-consuming &amp; complex to be regarded as relatively unlikely. #cybersecurity #infosec https://t.co/ieCVxf0yHf

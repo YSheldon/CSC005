@@ -1,8 +1,0 @@
----
-layout: post
-title: F5 Networks
-date: 2018-07-13 01:00:22
-tourl: https://t.co/Koj3fUWTNg
-tags: [AWS]
----
-Did you know the industrys most comprehensive #WAF solution, F5s Advanced WAF, is now available to protect both #AWS and #Azure-hosted applications from attackers? https://t.co/upoU7HE3Pr https://t.co/VGCm4WMYZa

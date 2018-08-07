@@ -1,8 +1,0 @@
----
-layout: post
-title: WIRED
-date: 2018-07-26 03:00:21
-tourl: https://t.co/KT14PZrouQ
-tags: [China]
----
-The impact of Trump's trade war against China rages on. Qualcomm says it will abandon its $38 billion bid for Dutch chipmaker NXP after failing to secure approval for the deal from the Chinese government. https://t.co/cJdDgXj0mI

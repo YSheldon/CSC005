@@ -1,8 +1,0 @@
----
-layout: post
-title: Infosecurity Mag
-date: 2018-08-01 03:00:21
-tourl: http://t.co/ioT6nbGu1X
-tags: [Attack]
----
-From Zero Day Attack to Zero Day Recovery https://t.co/tmlnl2cxm0 https://t.co/05eT4WYa40

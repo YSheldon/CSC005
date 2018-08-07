@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-07-16 03:00:21
-tourl: https://t.co/k9HZz2bu5G
-tags: [Attack]
----
-CVE-2018-10857 git-annex is vulnerable to a private data exposure and exfiltration attack. It could expose the content of files located outside the git-annex repository, or content from a private web server on localhost or the LAN.  https://t.co/uiKT5h7FxZ

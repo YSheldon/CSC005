@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-07-19 03:00:21
-tourl: https://t.co/k9HZz2bu5G
-tags: [Scripting]
----
-CVE-2018-1529 IBM Rational DOORS Next Generation 5.0 through 5.0.2, 6.0 through 6.0.5 and IBM Rational Requirements Composer 5.0 through 5.0.2 are vulnerable to cross-site scripting. This vulnerability allows users to embed ... https://t.co/utBZkUS27i

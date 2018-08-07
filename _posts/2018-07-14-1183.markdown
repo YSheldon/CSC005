@@ -1,8 +1,0 @@
----
-layout: post
-title: CyberScoop
-date: 2018-07-14 03:00:21
-tourl: https://t.co/UiSN102kIR
-tags: [China]
----
-Lawmakers urge Google to end partnership with China's Huawei https://t.co/Ibosa1M9bc

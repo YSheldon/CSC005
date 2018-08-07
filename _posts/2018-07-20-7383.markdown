@@ -1,8 +1,0 @@
----
-layout: post
-title: Infosecurity Mag
-date: 2018-07-20 03:00:21
-tourl: http://t.co/ioT6nbGu1X
-tags: [Source]
----
-Are you using open source? Get detailed insight into the level of usage of open source components and how companies are approaching DevOps and securitys role within this new paradigm - Watch this #ondemand #infosecwebinar now. https://t.co/xmccOgc7ll https://t.co/JDrzjTkIv2

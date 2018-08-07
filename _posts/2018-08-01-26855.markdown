@@ -1,8 +1,0 @@
----
-layout: post
-title: Cygilant
-date: 2018-08-01 02:00:20
-tourl: https://t.co/780K1rtOuu
-tags: [Group]
----
-Iowa Health Group Data #Breach Hits 1.4 Million Patients https://t.co/lfDLrIalQB #healthIT

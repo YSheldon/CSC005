@@ -1,8 +1,0 @@
----
-layout: post
-title: The CyberWire
-date: 2018-07-19 03:00:21
-tourl: https://t.co/HQuCt1gLbK
-tags: [Attack]
----
-#WeekThatWas: #Speculative execution side-channel attacks (spawn of #Spectre). Two new attack techniques similar to Spectre have been identified by researchers Vladimir Kiriansky &amp; Carl Waldspurger. #cybersecurity #infosec https://t.co/EaA2dZAQCU

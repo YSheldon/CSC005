@@ -1,8 +1,0 @@
----
-layout: post
-title: ak1t4 z3n ????????
-date: 2018-07-19 03:00:21
-tourl: https://t.co/3BMAuELFMm
-tags: [Source]
----
-So, Open Source Projects are uploaded to BBP and are Tested for free. This kind of things steal BugHunters time's value. #NoMoreFreeeBugs #BugBounty #infosec https://t.co/CWgku8Qfdb

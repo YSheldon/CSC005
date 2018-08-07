@@ -1,8 +1,0 @@
----
-layout: post
-title: 44CON
-date: 2018-07-31 03:00:21
-tourl: http://t.co/dlbSf1777O
-tags: [PowerShell]
----
-Join @nikhil_mitt for 3 days of training on Offensive PowerShell for Red and Blue Teams at 44CON from 10th-12th September https://t.co/dbs9Au2KB3

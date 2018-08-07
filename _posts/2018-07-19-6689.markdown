@@ -1,8 +1,0 @@
----
-layout: post
-title: CrowdStrike
-date: 2018-07-19 01:00:24
-tourl: http://t.co/ULWFfruGKw
-tags: [Crowdstrike,AWS]
----
-CrowdStrike is laser-focused on helping our customers protect their organizations against today's sophisticated adversaries. Read our blog to learn how the introduction of Falcon Discover for @AWS is further evidence of this commitment to our customers. https://t.co/4m63Fih2es

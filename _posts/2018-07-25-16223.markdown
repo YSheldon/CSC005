@@ -1,8 +1,0 @@
----
-layout: post
-title: Joseph Cox
-date: 2018-07-25 02:00:20
-tourl: www.baidu.com
-tags: [Group]
----
-@ErrataRob A vulnerability being discovered by one group means it will be discovered by another.

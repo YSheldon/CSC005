@@ -1,8 +1,0 @@
----
-layout: post
-title: Cyber Security News
-date: 2018-08-01 03:00:21
-tourl: https://t.co/U9KYaU2Lgx
-tags: [Attack]
----
-Hackers connected an IoT parking kiosk to porn in 'grey hat' attack https://t.co/INs3Ql0VTd

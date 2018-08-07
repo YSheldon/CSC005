@@ -1,9 +1,0 @@
----
-layout: post
-title: Binni Shah
-date: 2018-07-21 03:00:21
-tourl: https://t.co/LfZIicBDza
-tags: [TLS]
----
-SSL/TLS for dummies (Part 1): Ciphersuite, Hashing,Encryption : https://t.co/nVUsIlo8z7 , Part 2:  Understanding key exchange algorithm : https://t.co/k4rc8xvB3l 3: Understanding Certificate Authority
- : https://t.co/AfrY1tmGG7 4: TLS Handshake Protocol : https://t.co/IIlXKPqvSp

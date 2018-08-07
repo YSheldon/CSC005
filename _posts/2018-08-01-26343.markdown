@@ -1,8 +1,0 @@
----
-layout: post
-title: Virus Bulletin
-date: 2018-08-01 02:00:20
-tourl: https://t.co/3UVRbwBJWI
-tags: [APT,Group]
----
-The 1937CN APT group used a malicious Word document to target Vietnamese officials. @Sebdraven performed a thorough analysis https://t.co/yoI4rOnuPK https://t.co/lW90GlrHYU

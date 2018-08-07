@@ -1,8 +1,0 @@
----
-layout: post
-title: Nicolas Krassas
-date: 2018-07-29 03:00:21
-tourl: http://t.co/nj3EPPRowo
-tags: [China]
----
-Mysterious snail mail from China sent to US agencies includes Malware-Laden CD https://t.co/rKW8PF6XJ9

@@ -1,8 +1,0 @@
----
-layout: post
-title: You Cant Afford a Data Breach  And Theyre Only Getting More Expensive
-date: 2018-07-31 13:02:11
-tourl: https://blog.knowbe4.com/you-cant-afford-a-data-breach-and-theyre-only-getting-more-expensive
-tags: [Attack]
----
-Like everything else in this world, data breaches are costing organizations more too.The industry data available today provides valuable context for organizations looking to understand where to place their focus, budget, and efforts. Executives and IT teams alike are keenly aware of the need for cyber-security initiatives, but often lack the proper defense to stop an attack that results in a data breach.According to The answer can be found by looking at the alternative  what happens should a data breach occur. The scary thing is, despite organizations taking measures to improve security, the cost of data breaches is only Nearly every number in the 2018 report is up across the board, highlighting the need for organizations to take a detailed look at the attack methods used and implement effective security measures to counteract attacks. One of the most cost-effective and impactful ways is by securing the one part of the stack that you cant patch  the user. By leveraging Your organization already cant afford a data breach. And, with the costs increasing, its high time you take steps to minimize the risk of it happening. Topics: Š KnowBe4, Inc. All rights reserved. | 

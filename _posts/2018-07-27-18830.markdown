@@ -1,8 +1,0 @@
----
-layout: post
-title: Catalin Cimpanu
-date: 2018-07-27 02:00:20
-tourl: https://t.co/9lGQt24Ew6
-tags: [APT]
----
-Symantec Discovers New and Inexperienced Iranian APT https://t.co/tNg8qSfdVp #APT #cyberespionage #middleeast https://t.co/BrnUfYofom
