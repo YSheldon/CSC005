@@ -2,6 +2,7 @@
 layout: main
 ---
 <!--for post-->
+{% for post in site.posts %}
 
 <!--sday is current day-->
 {% assign sday={{site.time|date:'%d'|abs}} %}
@@ -87,5 +88,6 @@ layout: main
 {% endif %}
 
 <!--for post-->
+{% endfor %}
 
 {% include pagination.html %}
