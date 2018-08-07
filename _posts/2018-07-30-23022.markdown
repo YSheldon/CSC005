@@ -1,0 +1,12 @@
+---
+layout: post
+title: Catalin Cimpanu
+date: 2018-07-30 03:00:23
+tourl: https://t.co/9lGQt24Ew6
+tags: [Source,Hack]
+---
+Over the weekend, Trustwave has published a report on the possible source of the SingHealth breach, suspecting the hack was caused by a contractor. Today, it deleted the report.
+
+Google cache link here: https://t.co/oaO3El90MG
+
+Get it while it's still up! https://t.co/OSbRjr5uqc

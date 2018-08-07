@@ -1,0 +1,8 @@
+---
+layout: post
+title: SANS ISC
+date: 2018-08-01 03:00:21
+tourl: http://t.co/iYLQwRRAe1
+tags: [PowerShell]
+---
+Powershell Inside Certificates; TEMPEST is Back; Big Star Labs Spyware #podcast #security #daily https://t.co/cKDQyaq9WX

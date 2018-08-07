@@ -1,0 +1,8 @@
+---
+layout: post
+title: Daniel Cuthbert
+date: 2018-08-02 03:00:21
+tourl: https://t.co/56D5DZ92wB
+tags: [FIREEYE]
+---
+The FIN7 crew have shown some truly innovative skills never seen before in criminal groups. Their approach to targeting, obsfucation (fog of war tactics) and exfil has been noteworthy. Good write up by the Fireeye team.  https://t.co/ZFiMT0XCW3

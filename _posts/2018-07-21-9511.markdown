@@ -1,0 +1,8 @@
+---
+layout: post
+title: 0day Exploit Database
+date: 2018-07-21 03:00:23
+tourl: https://t.co/ifDhCPJfYM
+tags: [0day,exploit]
+---
+#0daytoday #Microsoft DNS dnslint.exe Tool Forced Drive-By Download Vulnerability [#0day #Exploit] https://t.co/xfPmd2w8mY

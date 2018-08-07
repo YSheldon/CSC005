@@ -1,0 +1,8 @@
+---
+layout: post
+title: Virus Bulletin
+date: 2018-07-17 03:00:21
+tourl: https://t.co/3UVRbwBJWI
+tags: [TLS]
+---
+Ixia's Konstantin Belov looks at how TLS is currently being used on websites https://t.co/K44gHrJSCP https://t.co/2xgyxbZRwl

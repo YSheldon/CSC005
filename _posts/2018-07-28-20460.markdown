@@ -1,0 +1,10 @@
+---
+layout: post
+title: Malwrologist
+date: 2018-07-28 03:00:21
+tourl: https://t.co/DMaAFKt4hs
+tags: [PowerShell]
+---
+Just for fun
+#vbs CreateObject("SAPI.SpVoice").Speak "I like it"
+#powershell (New-Object -ComObject SAPI.SPVoice).speak("I like it")

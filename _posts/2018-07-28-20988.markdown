@@ -1,0 +1,12 @@
+---
+layout: post
+title: Avast Software
+date: 2018-07-28 03:00:21
+tourl: https://t.co/bAP5udGmK6
+tags: [Source,Trojan]
+---
+Source code to banking trojan Exobot leaked online, ransomware hits shipping giant Cosco, and SIM hijacking claims victims.
+
+Exobot requires less user interaction than previous banking trojans.
+
+#ICYMI here's your weekly security news roundup ? https://t.co/KWsYoSyib6

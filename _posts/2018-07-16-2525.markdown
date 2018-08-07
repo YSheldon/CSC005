@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-16 03:00:21
+tourl: https://t.co/k9HZz2bu5G
+tags: [Attack]
+---
+CVE-2018-10859 git-annex is vulnerable to an Information Exposure when decrypting files. A malicious server for a special remote could trick git-annex into decrypting a file that was encrypted to the user's gpg key. This attack ... https://t.co/9CO2cpTq09

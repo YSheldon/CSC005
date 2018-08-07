@@ -1,0 +1,8 @@
+---
+layout: post
+title: 44CON
+date: 2018-08-02 01:00:22
+tourl: http://t.co/dlbSf1777O
+tags: [Exploitation]
+---
+Learn how to bypass KASLR using kernel pointer leaks with @HackSysTeam's Windows Kernel Exploitation Training https://t.co/8MeJ0JBfAW

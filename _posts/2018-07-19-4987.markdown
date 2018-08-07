@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-19 03:00:21
+tourl: https://t.co/k9HZz2bu5G
+tags: [ZLib]
+---
+CVE-2018-14340 In Wireshark 2.6.0 to 2.6.1, 2.4.0 to 2.4.7, and 2.2.0 to 2.2.15, dissectors that support zlib decompression could crash. This was addressed in epan/tvbuff_zlib.c by rejecting negative lengths to avoid a buffer ... https://t.co/oHbynNWs4Y

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Black Hat
+date: 2018-08-05 03:00:21
+tourl: http://t.co/aMEkUhZgUH
+tags: [Source]
+---
+With a #BHUSA Business Pass, you can check out Arsenal open-source tool demos, the hands-on Kali Linux Workshop, Career Sessions and other features. Learn more and register here: https://t.co/XLFymTWZE1

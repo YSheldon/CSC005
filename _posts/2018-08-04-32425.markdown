@@ -1,0 +1,8 @@
+---
+layout: post
+title: Anomali
+date: 2018-08-04 03:00:20
+tourl: https://t.co/Mm7Oxx7jzr
+tags: [Trojan]
+---
+Researchers from Proofpoint have discovered a new version of the Kronos banking trojan in the wild.  https://t.co/jcBhJ26iyg

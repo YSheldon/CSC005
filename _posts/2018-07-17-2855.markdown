@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-17 03:00:21
+tourl: https://t.co/k9HZz2bu5G
+tags: [Attack]
+---
+CVE-2018-14329 In HTSlib 1.8, a race condition in cram/cram_io.c might allow local users to overwrite arbitrary files via a symlink attack.  https://t.co/U8hHuwbk8t

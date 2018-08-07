@@ -1,0 +1,8 @@
+---
+layout: post
+title: CrowdStrike
+date: 2018-08-06 01:00:22
+tourl: http://t.co/ULWFfruGKw
+tags: [Crowdstrike]
+---
+The following video depicts CrowdStrike CEO and co-founder @George_Kurtzdiscussing the importance of automating threat intelligence and its role in ensuring proactive #cybersecurity that can actually prevent and predict future attacks. https://t.co/OWtIc75wSa https://t.co/Ec26K4HlV5

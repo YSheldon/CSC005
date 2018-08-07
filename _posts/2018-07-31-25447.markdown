@@ -1,0 +1,10 @@
+---
+layout: post
+title: SANS Institute
+date: 2018-07-31 01:00:22
+tourl: http://t.co/AJ81JwpA9v
+tags: [Hack]
+---
+At #SANSTysons Fall 2018, SANS senior instructor and Counter Hack director @joswr1ght will examine how #InfoSec pros can use #cyberattacks to propel their career into the next decade during his keynote discussion. 
+
+View details: https://t.co/hpbRMjy91b https://t.co/Zfd58bWnao

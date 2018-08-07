@@ -1,0 +1,8 @@
+---
+layout: post
+title: Recorded Future
+date: 2018-07-31 01:00:22
+tourl: http://t.co/a4ptBv2g71
+tags: [CISO]
+---
+In guarding New York City, CISO Geoff Brown aims to better protect the citys residents, workers, and visitors from cyber threats: https://t.co/MBqp7QPidr #ThreatIntelligence #Podcast

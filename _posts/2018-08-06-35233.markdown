@@ -1,0 +1,8 @@
+---
+layout: post
+title: CrowdStrike
+date: 2018-08-06 01:00:22
+tourl: http://t.co/ULWFfruGKw
+tags: [Crowdstrike]
+---
+eCrime has been around almost as long as the Internet has existed and criminal hackers continue to evolve, developing new tactics, techniques and procedures. This Wednesday at #BHUSA join CrowdStrike's experts for our eCrime workshop #GoCrowdStrike https://t.co/48MYwhfWye

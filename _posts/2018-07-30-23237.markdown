@@ -1,0 +1,8 @@
+---
+layout: post
+title: NuHarbor Security
+date: 2018-07-30 03:00:21
+tourl: https://t.co/HgnUUovsZg
+tags: [Attack]
+---
+New NetSpectre-Class Attack Raises Device-Hardening Concern - Infosecurity Magazine https://t.co/LlNz4SzRBk #cybersecurity #infosec

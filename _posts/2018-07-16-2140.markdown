@@ -1,0 +1,9 @@
+---
+layout: post
+title: Vitali Kremez
+date: 2018-07-16 03:00:22
+tourl: https://t.co/QF2nOffbMJ
+tags: [Tor,PowerShell]
+---
+Let's Learn: Decoding Latest #TrickBot #Loader String Template &amp; #Tor Plugin Server Comm | Loader Deobfuscation Walkthrough | OllyDBG + B64 Key &amp; Custom Alpha | Anti-Analysis &amp; Anti-AV| PowerShell -DisableRealtimeMonitoring | Oddity "capitaine bloode!" ????
+https://t.co/rz3nfwh59b https://t.co/LPr3BemfiZ

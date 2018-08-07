@@ -1,0 +1,8 @@
+---
+layout: post
+title: The CyberWire
+date: 2018-08-02 03:00:21
+tourl: https://t.co/HQuCt1gLbK
+tags: [Attack]
+---
+#WeekthatWas: #Shipper #Cosco was hit by an apparent #ransomware attack this week. @Threatpost #cybersecurity #infosec https://t.co/BixWcwCCdN

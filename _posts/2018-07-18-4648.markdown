@@ -1,0 +1,8 @@
+---
+layout: post
+title: Brad
+date: 2018-07-18 03:00:21
+tourl: http://t.co/o3Rah323cD
+tags: [Tor]
+---
+2018-07-18 - Anyone else finding Tor traffic in today's #Trickbot infections?  That's a new one on me. https://t.co/5ZZvxvOqQe

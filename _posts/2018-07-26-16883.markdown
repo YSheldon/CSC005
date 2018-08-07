@@ -1,0 +1,9 @@
+---
+layout: post
+title: Vitali Kremez
+date: 2018-07-26 03:00:21
+tourl: https://t.co/QF2nOffbMJ
+tags: [Tor]
+---
+7-26-2018: Let's Learn: #TrickBot #Banker: Analysis of the Latest TrickBot Core Possible Build '1041' | Hardcoded Tor Relay List | IP Resolution | Bot IP Check
+-&gt; Updated: https://t.co/aQfOrC66Gs https://t.co/o5OPz6RnPZ

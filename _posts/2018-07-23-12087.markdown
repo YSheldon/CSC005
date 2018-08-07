@@ -1,0 +1,8 @@
+---
+layout: post
+title: Roger Smith
+date: 2018-07-23 03:00:21
+tourl: https://t.co/Zn275afqZ2
+tags: [Attack]
+---
+#infosec #IOT #cybercrime "Trying to make sense of the https://t.co/3w9CY2hVgj DDOS attack?" https://t.co/p8YkBUkkno by @smesecurity on @LinkedIn

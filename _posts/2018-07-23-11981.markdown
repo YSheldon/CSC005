@@ -1,0 +1,8 @@
+---
+layout: post
+title: Cisco Security
+date: 2018-07-23 03:00:21
+tourl: http://t.co/OgCOugsnMe
+tags: [Attack]
+---
+How do you protect your multicloud data centers? Join us this Friday to discover how Cisco Tetration enables a zero-trust model using segmentation. Allowing you to identify security incidents faster, contain lateral movement, &amp; reduce your attack surface. https://t.co/KQP14KFbR3 https://t.co/e0WDPdvtzy

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Threatpost
+date: 2018-07-24 01:00:22
+tourl: http://t.co/rD9Wvdqf3e
+tags: [exploit]
+---
+A massive uptick in #exploit attempts was observed targeting model D-Link 2750B and Dasan GPON #routers running a version of the GPON firmware: https://t.co/Y9CG6k8Od3

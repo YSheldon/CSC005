@@ -1,0 +1,8 @@
+---
+layout: post
+title: Infosecurity Mag
+date: 2018-07-26 03:00:21
+tourl: http://t.co/ioT6nbGu1X
+tags: [Attack]
+---
+ERP Apps Under Attack Warns US-CERT https://t.co/SvD42GCzmb

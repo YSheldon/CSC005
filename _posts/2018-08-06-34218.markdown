@@ -1,0 +1,8 @@
+---
+layout: post
+title: 0day Exploit Database
+date: 2018-08-06 03:00:23
+tourl: https://t.co/ifDhCPJfYM
+tags: [0day,exploit]
+---
+#0daytoday #Vuze #Bittorrent Client 5.7.6.0 - SSDP Processing XML External Entity Injection Vulnera [#0day #Exploit] https://t.co/ry0BalAoyQ

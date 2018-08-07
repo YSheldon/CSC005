@@ -1,0 +1,8 @@
+---
+layout: post
+title: Trend Micro
+date: 2018-07-30 01:00:22
+tourl: http://t.co/f67vqZFY1d
+tags: [Hack]
+---
+Quick Question: Have you lost trust in a company that has had a publicized hack/breach?

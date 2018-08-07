@@ -1,0 +1,8 @@
+---
+layout: post
+title: SANS Institute
+date: 2018-07-30 03:00:21
+tourl: http://t.co/AJ81JwpA9v
+tags: [Attack]
+---
+7/31 @ 1PM ET: @SkyboxSecurity webcast 'How Visibility of the Attack Surface Minimizes Risk,' @daveshackleford @SANSDefense | https://t.co/Tr841STHHW

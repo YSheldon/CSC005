@@ -1,0 +1,8 @@
+---
+layout: post
+title: 44CON
+date: 2018-08-01 01:00:22
+tourl: http://t.co/dlbSf1777O
+tags: [exploit]
+---
+Learn how to effectively bypasse SMEP and other Windows Kernel exploit mitigations in Ashfaq Ansari of @HackSysTeam's training course https://t.co/qqad28MCDM

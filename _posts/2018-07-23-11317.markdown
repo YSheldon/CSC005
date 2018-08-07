@@ -1,0 +1,8 @@
+---
+layout: post
+title: 0day Exploit Database
+date: 2018-07-23 03:00:24
+tourl: https://t.co/ifDhCPJfYM
+tags: [File Deletion,0day,exploit]
+---
+#0daytoday #Zoho #ManageEngine 13 (13790 build) XSS / File Read / File Deletion Vulnerabilities [#0day #Exploit] https://t.co/BMf2fLeqvf

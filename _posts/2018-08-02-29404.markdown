@@ -1,0 +1,8 @@
+---
+layout: post
+title: CrowdStrike
+date: 2018-08-02 01:00:22
+tourl: http://t.co/ULWFfruGKw
+tags: [Crowdstrike]
+---
+CrowdStrike survey reveals supply chain attacks increase as cybercriminals focus on exploiting weak links via @Forbes https://t.co/A26A8tB11o

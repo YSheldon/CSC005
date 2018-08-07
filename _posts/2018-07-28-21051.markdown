@@ -1,0 +1,8 @@
+---
+layout: post
+title: Anomali
+date: 2018-07-28 03:00:21
+tourl: https://t.co/Mm7Oxx7jzr
+tags: [Attack]
+---
+New NetSpectre Attack Can Steal CPU Secrets via Network Connections https://t.co/I7v2Y7qE2U by @BleepinComputer https://t.co/QDbyPvRg0o

@@ -1,0 +1,8 @@
+---
+layout: post
+title: 0day Exploit Database
+date: 2018-08-06 03:00:23
+tourl: https://t.co/ifDhCPJfYM
+tags: [0day,exploit]
+---
+#0daytoday #Fortinet #FortiClient 5.2.3 ( #Windows10 x64 Creators) - Local Privilege Escalation Exp [#0day #Exploit] https://t.co/CX7t7qXm35

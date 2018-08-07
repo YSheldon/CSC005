@@ -1,0 +1,8 @@
+---
+layout: post
+title: AlienVault
+date: 2018-07-27 03:00:21
+tourl: http://t.co/7mZeFsDsoi
+tags: [PowerShell]
+---
+PowerGhost, a new form of #cryptocurrency-mining #malware, is targeting corporate networks around the world, using a combination of PowerShell and EternalBlue exploits to spread stealthily: https://t.co/TGQ1XyvpDt @dannyjpalmer @ZDNet https://t.co/WSagvDwB1o

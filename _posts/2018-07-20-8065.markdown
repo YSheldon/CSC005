@@ -1,0 +1,10 @@
+---
+layout: post
+title: Security Affairs
+date: 2018-07-20 03:00:20
+tourl: http://t.co/V3OIFUqNCm
+tags: [Group]
+---
+#SingHealth, largest healthcare group in #Singapore, suffered a massive data breach
+https://t.co/9gIhP91VWg
+#securityaffairs #hacking

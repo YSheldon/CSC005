@@ -1,0 +1,8 @@
+---
+layout: post
+title: RSA
+date: 2018-07-24 01:00:24
+tourl: https://t.co/bABGhyqAQB
+tags: [GDPR,Regulations]
+---
+What happens now that #GDPR is in effect? Businesses must change the way they think about data governance, #riskmanagement &amp; #cybersecurity strategies - to comply with this and future regulations - writes @steveschlarman: https://t.co/5v4aHYJGEg https://t.co/HsIpRdziNd

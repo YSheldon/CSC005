@@ -1,0 +1,9 @@
+---
+layout: post
+title: Enno Rey
+date: 2018-07-28 03:00:21
+tourl: http://t.co/zTbyQ0PeO1
+tags: [PowerShell]
+---
+IPv6 Properties of Windows Server 2016 / Windows 10
+https://t.co/Plzg5Ll80C &lt; many server admins forget the "basic hardening" listed at the bottom (disable Teredo &amp; ISATAP, disable DHCPv6 client via #PowerShell)

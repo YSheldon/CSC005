@@ -1,0 +1,8 @@
+---
+layout: post
+title: 0day Exploit Database
+date: 2018-08-05 03:00:23
+tourl: https://t.co/ifDhCPJfYM
+tags: [exploit,0day]
+---
+#0daytoday #PokerStars - Insecure Library Loading Code Execution Exploit [remote #exploits #0day #Exploit] https://t.co/NvXIRSuIwU

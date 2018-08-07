@@ -1,0 +1,11 @@
+---
+layout: post
+title: nusenu
+date: 2018-08-01 03:00:21
+tourl: https://t.co/pRq6GrBv4e
+tags: [Tor]
+---
+"7% of commercial blacklists block Tor proactively" 
+(because they are tor exits, as a matter of policy not due to detected 'malicious' traffic)
+
+originally presented at USENIX https://t.co/obTXIM7Kc5

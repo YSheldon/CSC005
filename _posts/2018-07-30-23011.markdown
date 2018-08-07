@@ -1,0 +1,8 @@
+---
+layout: post
+title: Cygilant
+date: 2018-07-30 03:00:23
+tourl: https://t.co/780K1rtOuu
+tags: [Attack,exploit]
+---
+#NetSpectre attack can exploit CPUs to leak information remotely, researchers say https://t.co/ZtZuuZ2GYu #infosec

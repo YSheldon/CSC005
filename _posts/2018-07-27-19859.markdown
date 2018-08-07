@@ -1,0 +1,8 @@
+---
+layout: post
+title: Securezoo
+date: 2018-07-27 03:00:21
+tourl: https://t.co/Y7LeuLjODq
+tags: [Attack]
+---
+NetSpectre - "remote Spectre variant 1 attack" https://t.co/XRhk3W5QAM #infosec #cybersecurity #NetSpectre #Spectre

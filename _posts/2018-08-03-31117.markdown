@@ -1,0 +1,8 @@
+---
+layout: post
+title: kevin
+date: 2018-08-03 01:00:22
+tourl: https://t.co/mJWyBQgFpy
+tags: [GDPR]
+---
+Oracle: your GDPR implementation is anti-consumer, bad faith, crap and doesnt mean ICO guidance. To opt out I had to change the default (yes to no), had to then confirm twice, then wait several minutes, then do the whole process again in HTTP. It took 4 minutes to reach site. https://t.co/Wq36qkq1m9

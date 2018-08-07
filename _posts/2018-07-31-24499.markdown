@@ -1,0 +1,8 @@
+---
+layout: post
+title: Linux Security Labs
+date: 2018-07-31 01:00:22
+tourl: https://t.co/ee1vBPOO91
+tags: [exploit]
+---
+Tool review: Albatar (SQL injection exploit tool) by @lanjelot #pentesting #analysis https://t.co/ak0jLHIb42

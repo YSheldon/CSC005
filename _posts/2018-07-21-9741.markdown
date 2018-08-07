@@ -1,0 +1,10 @@
+---
+layout: post
+title: FireEye
+date: 2018-07-21 03:00:22
+tourl: http://t.co/aHW53SAv83
+tags: [FIREEYE,Attack]
+---
+WHITEPAPER | The FireEye Approach to Cloud Security
+
+Learn the anatomy of a cloud compromise as we take you through a fictional public #cloud attack from start to finish, breaking down exactly what the attackers need to do to be successful: https://t.co/qZZaXz2t8v https://t.co/F2EeeHhrOI

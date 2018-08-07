@@ -1,0 +1,8 @@
+---
+layout: post
+title: Nicolas Krassas
+date: 2018-07-26 03:00:23
+tourl: http://t.co/nj3EPPRowo
+tags: [exploit,Bootkit]
+---
+New Underminer Exploit Kit Delivers Bootkit and Cryptocurrency-mining Malware with Encrypted TCP Tunnel https://t.co/PMfMkiN6ms

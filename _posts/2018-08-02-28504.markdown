@@ -1,0 +1,8 @@
+---
+layout: post
+title: The CyberWire
+date: 2018-08-02 01:00:22
+tourl: https://t.co/HQuCt1gLbK
+tags: [Department of Homeland Security]
+---
+#WeekthatWas: The US Department of Homeland Security's US-CERT has warned businesses that hackers are actively targeting SAP and Oracle enterprise resource planning (ERP) applications. @DHSgov @USCERT_gov #cybersecurity #infosec https://t.co/BixWcwCCdN

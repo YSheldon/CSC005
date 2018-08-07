@@ -1,0 +1,8 @@
+---
+layout: post
+title: Joseph Cox
+date: 2018-08-01 03:00:21
+tourl: www.baidu.com
+tags: [Attack]
+---
+In one doc, CYBERCOM assesses the likelihood of the Islamic State attributing the cyber attack back to US government. Typically, "perceived" is medium to high, and "technical" (someone actually reverse engineering etc) is low. Unless US wants to be seen https://t.co/epFqTrb5KF https://t.co/pTqDJEHf2l

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Tripwire, Inc.
+date: 2018-07-31 03:00:21
+tourl: http://t.co/1sHmVCRv8W
+tags: [PowerShell]
+---
+The MITRE ATT&amp;CK Framework: Execution https://t.co/f2hyGOR9UD via @MrTrav #container #PowerShell

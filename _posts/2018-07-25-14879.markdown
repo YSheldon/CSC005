@@ -1,0 +1,8 @@
+---
+layout: post
+title: Catalin Cimpanu
+date: 2018-07-25 03:00:20
+tourl: https://t.co/9lGQt24Ew6
+tags: [Trojan]
+---
+New Version of the Kronos Banking Trojan Discovered https://t.co/3b3YA2WYqs #malware #infosec #trojan https://t.co/pxFAnwD2T7

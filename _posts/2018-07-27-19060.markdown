@@ -1,0 +1,8 @@
+---
+layout: post
+title: Hakin9
+date: 2018-07-27 03:00:21
+tourl: https://t.co/4DC7miAMag
+tags: [Attack]
+---
+NetSpectre  New Remote Spectre Attack Steals Data Over the Network https://t.co/FnwnKhwuQ1 #infosec #hacking #hackers #pentesting #pentest #programming #opensource #cybersecurity #cyberattack #NetSpectre #network

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Threatpost
+date: 2018-07-27 03:00:21
+tourl: http://t.co/rD9Wvdqf3e
+tags: [Attack]
+---
+ICYMI: COSCO's U.S. website and phone lines remained down after a #ransomware attack: https://t.co/Bd0zoMn6m3

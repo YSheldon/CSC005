@@ -1,0 +1,8 @@
+---
+layout: post
+title: TrendLabs
+date: 2018-08-06 01:00:22
+tourl: http://t.co/MB171H1oL9
+tags: [GDPR]
+---
+While #DevOps provides agility and adaptability, incorporating security can be a challenge, especially in light of #DataRegulations like the #GDPR. Heres what organizations can do: https://t.co/wjmfprAaX0 https://t.co/m3I8ZhiG45

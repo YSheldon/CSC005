@@ -1,0 +1,8 @@
+---
+layout: post
+title: Digital Shadows
+date: 2018-07-30 02:00:31
+tourl: http://t.co/xLsTXDpFlT
+tags: [OilRig,PowerShell,Dragonfly]
+---
+New ShadowTalk Podcast episode is out!  Episode 24: Satori Botnet, OilRig, PowerShell Security, and the Dragonfly Campaign | Listen here: https://t.co/A7dRF2ym0e

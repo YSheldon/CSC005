@@ -1,0 +1,8 @@
+---
+layout: post
+title: Roger Smith
+date: 2018-07-31 03:00:23
+tourl: https://t.co/Zn275afqZ2
+tags: [exploit,Attack]
+---
+#infosec Exploit = attack! patch = more secure, do it today #smallbiz https://t.co/D7lq6X8hnm

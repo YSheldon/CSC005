@@ -1,0 +1,8 @@
+---
+layout: post
+title: Threatpost
+date: 2018-07-26 03:00:22
+tourl: http://t.co/rD9Wvdqf3e
+tags: [China,Attack]
+---
+Shipping giant China Ocean Shipping Company (COSCO) has been hit with a #ransomware attack that has crippled its U.S. operations: https://t.co/Bd0zoMEHdB

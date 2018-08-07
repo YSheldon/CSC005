@@ -1,0 +1,8 @@
+---
+layout: post
+title: The CyberWire
+date: 2018-07-26 01:00:22
+tourl: https://t.co/HQuCt1gLbK
+tags: [Bill]
+---
+#CWBriefing: Warnings of potential #Russian #hacking of #American #ICS come as the #US Congress shapes the defense authorization bill, in which #cyber provisions figure prominently. #cybersecurity #infosec https://t.co/d46JVSlHsS

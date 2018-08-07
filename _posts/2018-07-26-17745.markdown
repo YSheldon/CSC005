@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-26 03:00:20
+tourl: https://t.co/k9HZz2bu5G
+tags: [Trojan]
+---
+CVE-2018-0621 Untrusted search path vulnerability in LOGICOOL CONNECTION UTILITY SOFTWARE versions before 2.30.9 allows an attacker to gain privileges via a Trojan horse DLL in an unspecified directory.  https://t.co/iSizcqTeWj

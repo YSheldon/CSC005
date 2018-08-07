@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-08-06 03:00:21
+tourl: https://t.co/k9HZz2bu5G
+tags: [Scripting]
+---
+CVE-2017-8991 HPE has identified a cross site scripting (XSS) vulnerability in HPE CentralView Fraud Risk Management earlier than version CV 6.1. This isssue is resolved in HF16 for HPE CV 6.1 or subsequent version.  https://t.co/h720X9xo6L

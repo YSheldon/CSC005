@@ -1,0 +1,8 @@
+---
+layout: post
+title: Michael Gillespie
+date: 2018-07-30 03:00:21
+tourl: https://t.co/5o4Bi6q78V
+tags: [Aurora]
+---
+New variant of #Animus / #Aurora #Ransomware with the ".desu" extension, but it also renames files to hex of the original filename. Still decryptable. ???? https://t.co/Q61zE1y5Ow

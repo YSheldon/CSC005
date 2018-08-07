@@ -1,0 +1,8 @@
+---
+layout: post
+title: Virus Bulletin
+date: 2018-08-06 01:00:22
+tourl: https://t.co/3UVRbwBJWI
+tags: [Hack]
+---
+Sure, the Reddit hack exploited weaknesses in SMS based authentication. But, @gossithedog believes, that's no reason to ditch it altogether https://t.co/iQQC6fi1FN https://t.co/Lhxo1euZjt

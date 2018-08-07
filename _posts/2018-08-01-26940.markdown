@@ -1,0 +1,8 @@
+---
+layout: post
+title: Menlo Security
+date: 2018-08-01 03:00:21
+tourl: https://t.co/KGGTO8JfLs
+tags: [Attack]
+---
+Golden Heart Administrative Professionals was hit by a #ransomware attack that compromised #data of around 44.6k people and 500+ clients; @fairbanks_nsb was among the companies affected, with info of 6.5k patients leaked @BBB1216BBB @SCMagazine - https://t.co/jPvaavdkIh https://t.co/MYGax8FWNN

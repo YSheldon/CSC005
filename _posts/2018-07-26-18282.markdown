@@ -1,0 +1,10 @@
+---
+layout: post
+title: Malware Breakdown
+date: 2018-07-26 03:00:21
+tourl: https://t.co/UVJ0fXDYHJ
+tags: [NETWIRE]
+---
+#Malspam from today entitled "FW:Quote For New Project" contains attachment "TENDER.xlsx" -&gt; Downloads hxxp://23.249.161[.]109/imm.exe. Callback to 185.148.241.52 : 1718 and is being tagged as #NetWire #RAT -&gt;
+https://t.co/1mtT2KdAnq
+Some #opendir's at 23.249.161[.]109. https://t.co/iGqaT0XNsb

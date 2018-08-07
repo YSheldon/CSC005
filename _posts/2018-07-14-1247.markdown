@@ -1,0 +1,8 @@
+---
+layout: post
+title: Linux Security Labs
+date: 2018-07-14 01:00:24
+tourl: https://t.co/ee1vBPOO91
+tags: [Exploitation,exploit]
+---
+New tool added: AutoSploit (automated host exploitation) by @Real__Vector #exploit #exploitation https://t.co/xJY7Idhlon

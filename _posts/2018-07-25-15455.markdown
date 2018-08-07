@@ -1,0 +1,8 @@
+---
+layout: post
+title: CrowdStrike
+date: 2018-07-25 01:00:22
+tourl: http://t.co/ULWFfruGKw
+tags: [Crowdstrike]
+---
+. @InfosecurityM  reports that results of CrowdStrike's newly released global supply chain survey showed that companies lack both visibility and awareness when it comes to identifying and combating software supply chain attacks. https://t.co/AMGpQBPLvJ https://t.co/krJHMVfBxZ

@@ -1,0 +1,8 @@
+---
+layout: post
+title: TrendLabs
+date: 2018-07-18 01:00:22
+tourl: http://t.co/MB171H1oL9
+tags: [Group,exploit]
+---
+New reconnaissance strategies from the #Andariel cybercriminal group include an upgraded ActiveX zero-day exploit for watering hole attacks. More: https://t.co/Fnv8WtWmm9 #TargetedAttack https://t.co/yZaxwX8rjc

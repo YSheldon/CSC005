@@ -1,0 +1,8 @@
+---
+layout: post
+title: Farsight Security
+date: 2018-08-01 03:00:21
+tourl: https://t.co/nCDvVNlFxj
+tags: [Attack]
+---
+"To have an efficient and updated view of an organizations attack surface, IT security teams must look as deep into the past as possible.  How Russian hackers attack (and how to defend against it)  https://t.co/8s1RCtrdqj  #DNSDB  https://t.co/rcMz4Oe68g #DFIR

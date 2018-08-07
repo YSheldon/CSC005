@@ -1,0 +1,8 @@
+---
+layout: post
+title: Naked Security
+date: 2018-07-30 01:00:22
+tourl: http://t.co/xOLRCy9nPS
+tags: [exploit]
+---
+Prisoners exploit tablet vulnerability to steal nearly $225K https://t.co/S3gTT7KqnR

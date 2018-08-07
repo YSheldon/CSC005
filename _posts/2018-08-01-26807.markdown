@@ -1,0 +1,8 @@
+---
+layout: post
+title: SANS ISC
+date: 2018-08-01 03:00:21
+tourl: http://t.co/iYLQwRRAe1
+tags: [Attack]
+---
+When Cameras and Routers attack Phones. CVE-2014-8361 Exploits Against Port 52869 #adb #android #iot https://t.co/841NLtwJMJ

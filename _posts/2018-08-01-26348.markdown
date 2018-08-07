@@ -1,0 +1,9 @@
+---
+layout: post
+title: Nicolas Krassas
+date: 2018-08-01 03:00:21
+tourl: http://t.co/nj3EPPRowo
+tags: [Attack]
+---
+Breaking the Bluetooth Pairing: A Fixed Coordinate Invalid Curve Attack
+https://t.co/Vc3oKOQonf

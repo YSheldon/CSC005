@@ -1,0 +1,8 @@
+---
+layout: post
+title: Threatpost
+date: 2018-07-17 01:00:22
+tourl: http://t.co/rD9Wvdqf3e
+tags: [exploit]
+---
+No evidence of GandCrab leveraging SMB exploit  yet: https://t.co/2SMAl4ld0E

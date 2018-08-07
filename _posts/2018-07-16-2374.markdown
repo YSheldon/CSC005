@@ -1,0 +1,8 @@
+---
+layout: post
+title: Joseph Cox
+date: 2018-07-16 01:00:22
+tourl: www.baidu.com
+tags: [GDPR]
+---
+Here's how to use GDPR not really for privacy reasons, but security: send a deletion request to a company that has, say, a physical address linked to you and tell them to remove it from their databases https://t.co/jlzwXCQp4Z https://t.co/QpLHLyDiyO

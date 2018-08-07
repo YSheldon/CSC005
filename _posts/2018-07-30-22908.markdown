@@ -1,0 +1,8 @@
+---
+layout: post
+title: NuHarbor Security
+date: 2018-07-30 01:00:22
+tourl: https://t.co/HgnUUovsZg
+tags: [exploit]
+---
+Prisoners exploit tablet vulnerability to steal nearly $225K  Naked Security https://t.co/FOwlDXbGmC #cybersecurity #infosec

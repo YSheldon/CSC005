@@ -1,0 +1,8 @@
+---
+layout: post
+title: Binni Shah
+date: 2018-07-19 03:00:21
+tourl: https://t.co/LfZIicBDza
+tags: [Kerberoasting]
+---
+Abusing Kerberos : Kerberoasting : https://t.co/Ai1P9jCsCC (pdf) https://t.co/MyP69cAtnu

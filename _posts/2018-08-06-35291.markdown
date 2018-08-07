@@ -1,0 +1,13 @@
+---
+layout: post
+title: Phishing AI
+date: 2018-08-06 01:00:22
+tourl: www.baidu.com
+tags: [Bill]
+---
+More Canadian mobile telecom based phishing using SMS as delivery mechanism and a bill refund as the lure.
+
+hxxps://et-mobility-refund-canada.vfada.cf/
+178.159.36.241
+
+IP is hosting multiple other domains and phishing kits targeting @DocuSign @onedrive and others https://t.co/Nw3zq7VQ8U

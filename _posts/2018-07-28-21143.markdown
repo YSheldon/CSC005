@@ -1,0 +1,8 @@
+---
+layout: post
+title: Hakin9
+date: 2018-07-28 03:00:21
+tourl: https://t.co/4DC7miAMag
+tags: [Attack]
+---
+Microsoft Discovers Supply Chain Attack at Unnamed Maker of PDF Software @BleepinComputer https://t.co/Z2Mx1097cK #infosec #hacking #hackers #pentesting #pentest #programming #opensource #cybersecurity #PDF

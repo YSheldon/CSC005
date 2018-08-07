@@ -1,0 +1,11 @@
+---
+layout: post
+title: Saar Amar
+date: 2018-07-31 03:00:21
+tourl: https://t.co/KWHw9VDYo5
+tags: [Trap]
+---
+New in build 18204 kernel - new x86 emulator and decoder! nt!KiTp* functions, which trap and emulate instructions! Checkout new branch in nt!KiDispatchException calling to the flow:
+    nt!KiTpHandleTrap
+        nt!KiTpEmulateInstruction
+            nt!KiTpEmulate* https://t.co/cf5VTtkObg

@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-08-06 03:00:21
+tourl: https://t.co/k9HZz2bu5G
+tags: [Scripting]
+---
+CVE-2018-1422 IBM Jazz Foundation products (IBM Rational DOORS Next Generation 5.0 through 5.0.2 and 6.0 through 6.0.5) are vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in ... https://t.co/V84txwWuci

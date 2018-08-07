@@ -1,0 +1,8 @@
+---
+layout: post
+title: DarkReading
+date: 2018-07-16 01:00:22
+tourl: http://t.co/nSh7l5vd4x
+tags: [GDPR]
+---
+India Telecom Regulator: Users Have Primary Data Rights https://t.co/lGE74tlMVd #data #protection #metadata #GDPR

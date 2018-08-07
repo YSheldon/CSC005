@@ -1,0 +1,8 @@
+---
+layout: post
+title: Nicolas Krassas
+date: 2018-07-20 03:00:21
+tourl: http://t.co/nj3EPPRowo
+tags: [sqlmap]
+---
+Comprehensive Guide to Sqlmap (Target Options) https://t.co/5ZFY0yRGv1

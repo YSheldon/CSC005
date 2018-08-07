@@ -1,0 +1,8 @@
+---
+layout: post
+title: AlienVault
+date: 2018-08-06 03:00:21
+tourl: http://t.co/7mZeFsDsoi
+tags: [Attack]
+---
+Can you recover the power grid after a cyberattack? The US Department of Energy wants to find out through a "hands-on" test of the real-world consequences of a successful attack: https://t.co/IhrkJs7Uq8 @ZDNet @SecurityCharlie #IIoT #security https://t.co/MtLhZwezwQ

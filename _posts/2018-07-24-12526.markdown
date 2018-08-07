@@ -1,0 +1,8 @@
+---
+layout: post
+title: Threatpost
+date: 2018-07-24 03:00:21
+tourl: http://t.co/rD9Wvdqf3e
+tags: [Attack]
+---
+The attack, dubbed GangWang, spoofs a route that mimics the shape of the route displayed on the map - using navigation instructions that make sense: https://t.co/SA4Ph3msaN

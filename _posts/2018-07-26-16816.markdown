@@ -1,0 +1,8 @@
+---
+layout: post
+title: Linux Security Labs
+date: 2018-07-26 01:00:22
+tourl: https://t.co/ee1vBPOO91
+tags: [Exploitation]
+---
+Tool review: fimap (LFI discovery and exploitation) by @fimap #pentesting #analysis https://t.co/Nn5w7tp2sD

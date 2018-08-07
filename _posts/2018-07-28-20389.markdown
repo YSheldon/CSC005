@@ -1,0 +1,8 @@
+---
+layout: post
+title: Gallagher
+date: 2018-07-28 01:00:22
+tourl: https://t.co/biyaffQu65
+tags: [exploit]
+---
+Oh man, I was just shown an example of something happening in Splunk that @Securityshrimp and I were talking about trying to do. Now that I know it is possible, I am not going to be able to stop thinking of how to exploit it... Thanks @wshelldon! :D https://t.co/EwEhaCsf0t

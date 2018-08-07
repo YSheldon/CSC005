@@ -1,0 +1,8 @@
+---
+layout: post
+title: Scott Piper
+date: 2018-07-31 01:00:22
+tourl: http://t.co/Akrgmn9RNr
+tags: [AWS]
+---
+AWS managed ElasticSearch gives you access to the error logs at last! That had been a deal-breaker for me ever using this service because you had no way of knowing if your log ingestion was failing. https://t.co/Iip58CBwKf

@@ -1,0 +1,8 @@
+---
+layout: post
+title: The CyberWire
+date: 2018-07-31 03:00:21
+tourl: https://t.co/HQuCt1gLbK
+tags: [Attack]
+---
+#CWBriefing: Senator McCaskill confirms an attempt on her network. She (&amp; others) attribute the attack (said to have been both outrageous &amp; unsuccessful) to #FancyBear, #Russia's #GRU. #cybersecurity #infosec https://t.co/4WLAiKmMAT

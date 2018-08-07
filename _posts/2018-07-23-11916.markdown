@@ -1,0 +1,9 @@
+---
+layout: post
+title: BleepingComputer
+date: 2018-07-23 03:00:21
+tourl: https://t.co/pljq5SLdfN
+tags: [Attack]
+---
+Researchers Detail CPU Side-Channel Attack Named SpectreRSB - by @campuscodi
+https://t.co/MfvTMqvN41

@@ -1,0 +1,10 @@
+---
+layout: post
+title: Security Affairs
+date: 2018-07-30 03:00:21
+tourl: http://t.co/V3OIFUqNCm
+tags: [Attack]
+---
+Tens of flaws in #Samsung #SmartThings Hub expose smart home to attack
+
+#securityaffairs #hacking https://t.co/kYm6qeej3n

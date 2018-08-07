@@ -1,0 +1,8 @@
+---
+layout: post
+title: Stefan Esser
+date: 2018-08-02 01:00:22
+tourl: https://t.co/2UU3zpeRUH
+tags: [Hack]
+---
+The state of security of SMS 2FA is basically: If nobody wants to hack you it is secure.

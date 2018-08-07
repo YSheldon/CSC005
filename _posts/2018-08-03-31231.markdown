@@ -1,0 +1,8 @@
+---
+layout: post
+title: CrowdStrike
+date: 2018-08-03 03:00:23
+tourl: http://t.co/ULWFfruGKw
+tags: [Crowdstrike,Falcon X]
+---
+Next week, CrowdStrike will see you in Viva Las Vegas! We will be at #BHUSA18 highlighting our Falcon X solution, leading multiple expert sessions, and hosting meet and greets. Make sure you stop at #GoCrowdStrike booth 520 during the event. https://t.co/6raSgmm69w

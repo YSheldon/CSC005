@@ -1,0 +1,10 @@
+---
+layout: post
+title: Mandiant
+date: 2018-07-23 03:00:21
+tourl: https://t.co/WBLX5V8Iks
+tags: [Attack]
+---
+WEBINAR | Register: https://t.co/IzED0I997e
+
+Join Jon Horner, Sr. Consultant, @Mandiant w/ featured speakers Katherine Keefe, @BeazleyGroup &amp; Eric Packel, @BakerHostetler as they break out costs of a #cybersecurity attack &amp; show you how to better manage the associated risks. https://t.co/jthBDyV4w1

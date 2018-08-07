@@ -1,0 +1,10 @@
+---
+layout: post
+title: InfoSec PLOW
+date: 2018-07-16 03:00:21
+tourl: https://t.co/kZcPKJhvSW
+tags: [Attack]
+---
+Office 365 admins: How to mitigate new attack that bypasses 2FA on Windows sy...
+https://t.co/WCAbGRhcxU
++1 InfoSecBot

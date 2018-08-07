@@ -1,0 +1,10 @@
+---
+layout: post
+title: Siguza
+date: 2018-07-23 01:00:22
+tourl: https://t.co/MkzH2qpPw9
+tags: [GDPR]
+---
+On a political/legal level, is there any good reason for why we can't make it a criminal offense to store passwords in plain text?
+
+Because I'm pretty sure companies would care if they could get fined for it (as GDPR has shown :P). https://t.co/iel2sfJmsf

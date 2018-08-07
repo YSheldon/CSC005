@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-16 01:00:22
+tourl: https://t.co/k9HZz2bu5G
+tags: [exploit]
+---
+CVE-2018-5239 Norton App Lock prior to v1.3.0.332 can be susceptible to a bypass exploit. In this type of circumstance, the exploit can allow the user to circumvent the app to prevent it from locking the device, thereby allowing ... https://t.co/SWOEav6jxz

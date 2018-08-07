@@ -1,0 +1,8 @@
+---
+layout: post
+title: Securelist
+date: 2018-07-31 03:00:21
+tourl: http://t.co/TCBqx6Tt0H
+tags: [Attack]
+---
+How has Q2 fared for DDoS attacks? David Emm, security researcher here at Kaspersky Lab looks at how the previous quarter fared for attacks, as well as how your business can better protect itself from attack. For the full report, head here: https://t.co/E4zBb1Gw4G https://t.co/WUWVf6AMAb

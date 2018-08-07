@@ -1,0 +1,8 @@
+---
+layout: post
+title: Scott Piper
+date: 2018-08-04 03:00:21
+tourl: http://t.co/Akrgmn9RNr
+tags: [Attack]
+---
+Those payment processors however were delisted from VISA as being non-compliant with the PCI standard as a result of their hacks. This attack is advanced enough that I don't expect WP to be found non-compliant as a result.

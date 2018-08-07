@@ -1,0 +1,10 @@
+---
+layout: post
+title: Heimdal Security
+date: 2018-08-05 03:00:21
+tourl: https://t.co/MAGmtFp8Sf
+tags: [CALENDAR]
+---
+"Security researcher Ziyahan Albeniz says that during tests he was able to steal data from local computers and send it to a remote server by executing this file in both #Edge and the Mail and Calendar app."
+https://t.co/vxUu891oWf
+#socialengineering #hacking # https://t.co/aHhU3fFwEm

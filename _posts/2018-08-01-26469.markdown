@@ -1,0 +1,8 @@
+---
+layout: post
+title: TrendLabs
+date: 2018-08-01 01:00:22
+tourl: http://t.co/MB171H1oL9
+tags: [GDPR]
+---
+Implement these best practices to protect your business from #databreach and comply with #GDPR: https://t.co/VDYP3Otosc https://t.co/r60CMxB7DY

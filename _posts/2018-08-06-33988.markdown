@@ -1,0 +1,8 @@
+---
+layout: post
+title: SC Media
+date: 2018-08-06 03:00:21
+tourl: https://t.co/BYI1kkbds1
+tags: [Attack]
+---
+Phishing attack compromised the data of 1.4 million UnityPoint Health patients https://t.co/iI51TWmLst

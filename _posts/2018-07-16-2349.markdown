@@ -1,0 +1,8 @@
+---
+layout: post
+title: Black Hat
+date: 2018-07-16 03:00:21
+tourl: http://t.co/aMEkUhZgUH
+tags: [Source]
+---
+Guidelines, techniques, and new open-source tool to aid red teams in overcoming deception technologies and advanced mechanisms #BHUSA Briefing by @machosec https://t.co/xagA2EEwGs

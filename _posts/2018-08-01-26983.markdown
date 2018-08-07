@@ -1,0 +1,8 @@
+---
+layout: post
+title: Linux Security Labs
+date: 2018-08-01 03:00:21
+tourl: https://t.co/ee1vBPOO91
+tags: [VIPER]
+---
+Tool review: Viper (binary analysis tool) by @botherder #analysis #malware https://t.co/uFtRUOjRc8

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Scott Piper
+date: 2018-07-31 01:00:22
+tourl: http://t.co/Akrgmn9RNr
+tags: [AWS]
+---
+Interesting project from AWS for translating javascript or Java to CloudFormation. https://t.co/uD769DMLjR

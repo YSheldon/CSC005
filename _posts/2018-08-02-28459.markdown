@@ -1,0 +1,8 @@
+---
+layout: post
+title: 0day Exploit Database
+date: 2018-08-02 03:00:24
+tourl: https://t.co/ifDhCPJfYM
+tags: [Scripting,0day,exploit]
+---
+#0daytoday #DataLife Engine 13.0 Cross Site Scripting Vulnerability #CVE-2018-14777 [webapps #exploits #Vulnerability #0day #Exploit] https://t.co/MQG0NJt8qo

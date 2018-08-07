@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-27 03:00:20
+tourl: https://t.co/k9HZz2bu5G
+tags: [Group]
+---
+CVE-2018-14613 An issue was discovered in the Linux kernel through 4.17.10. There is an invalid pointer dereference in io_ctl_map_page() when mounting and operating a crafted btrfs image, because of a lack of block group item ... https://t.co/hI9utvj7RG

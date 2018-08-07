@@ -1,0 +1,9 @@
+---
+layout: post
+title: Daniel Cuthbert
+date: 2018-08-04 01:00:22
+tourl: https://t.co/56D5DZ92wB
+tags: [Exploitation]
+---
+OH in a hardware exploitation course Im an Emacs guy
+Queue lots of sighing and tuts. They walk among us...

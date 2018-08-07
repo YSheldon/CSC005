@@ -1,0 +1,8 @@
+---
+layout: post
+title: Kaspersky Lab
+date: 2018-07-16 03:00:26
+tourl: http://t.co/BuTnZTdejc
+tags: [Source,Carbanak]
+---
+Recently leaked malware source code isnt actually #Carbanak https://t.co/Iq4dZcc7yi

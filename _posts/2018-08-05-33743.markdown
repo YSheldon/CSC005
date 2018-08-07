@@ -1,0 +1,8 @@
+---
+layout: post
+title: avman
+date: 2018-08-05 03:00:20
+tourl: www.baidu.com
+tags: [Trojan]
+---
+Consoleapp thingy's are Trojan notifier....it's strange that the samples are older and still remain at a lower detection score.

@@ -1,0 +1,8 @@
+---
+layout: post
+title: x0rz
+date: 2018-07-26 03:00:21
+tourl: https://t.co/kXWHpfnvr3
+tags: [Mimikatz]
+---
+SafetyKatz: a combination of slightly modified version of @gentilkiwi's Mimikatz project and @subTee's .NET PE Loader ???? https://t.co/0ye6xOOGcT #windows #mimikatz #redteam

@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-20 03:00:21
+tourl: https://t.co/k9HZz2bu5G
+tags: [Attack]
+---
+CVE-2014-4150 The scheme48-send-definition function in cmuscheme48.el in Scheme 48 allows local users to write to arbitrary files via a symlink attack on /tmp/s48lose.tmp.  https://t.co/1nV5k9j5Pu

@@ -1,0 +1,8 @@
+---
+layout: post
+title: TrendLabs
+date: 2018-08-01 03:00:23
+tourl: http://t.co/MB171H1oL9
+tags: [PowerShell,exploit]
+---
+#PowerGhost targets corporate systems, running an obfuscated Powershell and using #EternalBlue exploit for propagation and infection. Spreading via the local network, infected computers can be used for DDoS attacks. Report: https://t.co/nuSoTVkyGJ

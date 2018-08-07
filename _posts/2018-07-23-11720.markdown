@@ -1,0 +1,9 @@
+---
+layout: post
+title: ESET
+date: 2018-07-23 03:00:20
+tourl: http://t.co/7tmiHMr0C2
+tags: [Group]
+---
+#ICYMI: @ESET has joined the @Europol Advisory Group on Internet Security. Representing ESET is Senior Research Fellow Righard Zwienenberg (@RighardZw):
+https://t.co/zB8xeta59N #cybersecurity

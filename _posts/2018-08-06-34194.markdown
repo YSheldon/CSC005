@@ -1,0 +1,8 @@
+---
+layout: post
+title: James Forshaw
+date: 2018-08-06 03:00:21
+tourl: https://t.co/sa2Sbjk8wB
+tags: [PowerShell]
+---
+For the few people who use OleViewDotNet, how annoyed would be if I removed IronPython support and replaced with PowerShell? Python is pain to maintain and isn't updated anymore.

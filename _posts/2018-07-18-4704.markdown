@@ -1,0 +1,8 @@
+---
+layout: post
+title: RSA
+date: 2018-07-18 01:00:22
+tourl: https://t.co/bABGhyqAQB
+tags: [CISO]
+---
+As organizations face new, complex #cybersecurity threats, watch as experts explain why the #CISO must act as a bridge between IT teams &amp; the C-Suite, putting #security risk into business terms: https://t.co/l7COr4HuTb https://t.co/iusPDDAEWF

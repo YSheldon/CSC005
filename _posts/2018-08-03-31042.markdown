@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-08-03 03:00:21
+tourl: https://t.co/k9HZz2bu5G
+tags: [Scripting]
+---
+CVE-2018-13055 A cross-site scripting (XSS) vulnerability in the View Filters page (view_filters_page.php) in MantisBT 2.1.0 through 2.15.0 allows remote attackers to inject arbitrary code (if CSP settings permit it) through a ... https://t.co/PwJPFoe79P

@@ -1,0 +1,9 @@
+---
+layout: post
+title: Nicolas Krassas
+date: 2018-08-04 03:00:21
+tourl: http://t.co/nj3EPPRowo
+tags: [Attack]
+---
+New attack on WPA/WPA using PMKID
+https://t.co/VYyos0y8YW

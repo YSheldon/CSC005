@@ -1,0 +1,8 @@
+---
+layout: post
+title: The CyberWire
+date: 2018-08-01 01:00:22
+tourl: https://t.co/HQuCt1gLbK
+tags: [Department of Homeland Security]
+---
+#CWPodcast: The #US Department of Homeland Security announces formation of a National Risk Management Center. @dhsgov #riskmanagement #cybersecurity #infosec https://t.co/ns7uXIhYTM

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Virus Bulletin
+date: 2018-07-17 03:00:21
+tourl: https://t.co/3UVRbwBJWI
+tags: [Attack]
+---
+"Information released to date seems insufficient to draw any definitive conclusions". Dragos's @jfslowik (also a #VB2018 speaker) looks at the story that an attack by VPNfilter at a chemical plant was stopped https://t.co/EPXxkZHoTx https://t.co/TUtYPAhy7c

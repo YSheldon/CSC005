@@ -1,0 +1,8 @@
+---
+layout: post
+title: 0day Exploit Database
+date: 2018-07-30 03:00:23
+tourl: https://t.co/ifDhCPJfYM
+tags: [exploit,0day]
+---
+#0daytoday #H2Database 1.4.197 - Information Disclosure Exploit CVE-2018-14335 [webapps #exploits #0day #Exploit] https://t.co/gOv1lCCtAG

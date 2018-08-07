@@ -1,0 +1,8 @@
+---
+layout: post
+title: beVX Conference
+date: 2018-07-31 01:00:22
+tourl: https://t.co/F2qZZbrte0
+tags: [exploit]
+---
+Announcing our 14th talk at our conference Brandon Azad / @_bazad on "Crashing to root: How to escape the iOS sandbox using abort()" - https://t.co/MTziVVxdSr - learn how to RE system services, bypass protection mechanisms, and how to exploit them all on the iOS platform https://t.co/6DpLsuDjKS

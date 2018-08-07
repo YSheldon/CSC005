@@ -1,0 +1,8 @@
+---
+layout: post
+title: Cyber Security News
+date: 2018-07-23 01:00:22
+tourl: https://t.co/U9KYaU2Lgx
+tags: [GDPR]
+---
+The negative impacts of GDPR https://t.co/7DlkTLVGlH

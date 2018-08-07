@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Recorded Future
-date: 2018-08-03 00:00:22
+date: 2018-08-03 01:00:22
 tourl: http://t.co/a4ptBv2g71
 tags: [GDPR]
 ---

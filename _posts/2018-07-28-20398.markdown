@@ -1,0 +1,10 @@
+---
+layout: post
+title: Catalin Cimpanu
+date: 2018-07-28 03:00:20
+tourl: https://t.co/9lGQt24Ew6
+tags: [APT,Process Doppelgänging]
+---
+New Iranian APT Borrows Techniques From Other Groups, Uses Process Doppelgänging
+
+https://t.co/tNg8qSfdVp #APT #cyberespionage #middleeast https://t.co/HJRJXJZ17Z

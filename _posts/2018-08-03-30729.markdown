@@ -1,0 +1,10 @@
+---
+layout: post
+title: Scott Piper
+date: 2018-08-03 01:00:22
+tourl: http://t.co/Akrgmn9RNr
+tags: [AWS]
+---
+AWS starting to incorporate HTTP/2 into their APIs to reduce latency. Looks like it's only in the go sdk (not python's boto) so far: 
+ https://t.co/1DxcRWdOiG
+https://t.co/6OaQBP7YDY

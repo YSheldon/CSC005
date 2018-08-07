@@ -1,0 +1,8 @@
+---
+layout: post
+title: Menlo Security
+date: 2018-07-23 03:00:23
+tourl: https://t.co/KGGTO8JfLs
+tags: [Hack,Xagent]
+---
+#RobertMueller's investigation of 2016 U.S. election exposed an #OPSEC #hack, #cryptolaundering, &amp; installation of #XAgent #malware on 13 #DNC &amp; #DCCC systems; #Organization1 released 20k+ stolen emails &amp; docs days before DNC @euroinfosec @bnkinfosecurity https://t.co/zSS7kUTbnX https://t.co/OxBzaf6F9G

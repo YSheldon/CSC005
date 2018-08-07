@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-08-06 03:00:21
+tourl: https://t.co/k9HZz2bu5G
+tags: [Scripting]
+---
+CVE-2016-4392 A remote cross site scripting vulnerability has been identified in HP Business Service Management software v9.1x, v9.20 - v9.25IP1.  https://t.co/WPuesUaY2s

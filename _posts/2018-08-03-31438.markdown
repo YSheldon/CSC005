@@ -1,0 +1,8 @@
+---
+layout: post
+title: The CyberWire
+date: 2018-08-03 03:00:21
+tourl: https://t.co/HQuCt1gLbK
+tags: [Attack]
+---
+#CWBriefing: #Matanuska-Susitna Borough attack: The town has declared that the incident amounts to an official emergency, &amp; is taking various measures to contain and remediate its problems, including reversion to typewriters. #cybersecurity #infosec https://t.co/DGAckOsfdi

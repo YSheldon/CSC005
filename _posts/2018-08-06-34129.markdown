@@ -1,0 +1,8 @@
+---
+layout: post
+title: x0rz @ not defcon
+date: 2018-08-06 03:00:21
+tourl: https://t.co/kXWHpfnvr3
+tags: [0-day]
+---
+CS:GO RCE 0-day https://t.co/urRGCzpx3r #vulnerability https://t.co/mQJ3wzQxjt

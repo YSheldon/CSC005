@@ -1,0 +1,8 @@
+---
+layout: post
+title: WIRED
+date: 2018-07-20 03:00:21
+tourl: https://t.co/KT14PZrouQ
+tags: [Rover]
+---
+This seafloor-mapping autonomous robot has to endure crushing pressures and frigid temperatures, but the most difficult part of its job is getting back to the surface. A task that can be more challenging than communicating with a Mars rover https://t.co/xJRgNLyt5F https://t.co/nshbTzjRdH

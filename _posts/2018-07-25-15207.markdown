@@ -1,0 +1,10 @@
+---
+layout: post
+title: InfoSec PLOW
+date: 2018-07-25 03:00:21
+tourl: https://t.co/kZcPKJhvSW
+tags: [Epic]
+---
+Equifax's Security Overhaul, a Year After Its Epic Breach
+https://t.co/m9gly0qTN6
++1 InfoSecBot

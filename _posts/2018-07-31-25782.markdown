@@ -1,0 +1,15 @@
+---
+layout: post
+title: Malwrologist
+date: 2018-07-31 03:00:21
+tourl: https://t.co/DMaAFKt4hs
+tags: [Masquerading]
+---
+masquerading #PE as a #doc file?
+https://t.co/51BuELtH77
+
+HA Threat Score: 7/100 ambiguous
+
+* couldn't extract the #PE
+Size doesn't match (add 16 null bytes but ...)
+https://t.co/5wjHXZjtMZ https://t.co/DqMRsb2Yd7

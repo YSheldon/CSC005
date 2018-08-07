@@ -1,0 +1,8 @@
+---
+layout: post
+title: The CyberWire
+date: 2018-07-26 03:00:21
+tourl: https://t.co/HQuCt1gLbK
+tags: [Bootkit]
+---
+#CWBriefing: @TrendLabs is tracking #Underminer, a #cryptojacking #bootkit with an encrypted TCP tunnel. #cybersecurity #infosec https://t.co/BYHK9ruLWx

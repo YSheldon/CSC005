@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-19 01:00:22
+tourl: https://t.co/k9HZz2bu5G
+tags: [exploit]
+---
+CVE-2018-10620 AVEVA InduSoft Web Studio v8.1 and v8.1SP1, and InTouch Machine Edition v2017 8.1 and v2017 8.1 SP1 a remote user could send a carefully crafted packet to exploit a stack-based buffer overflow vulnerability during ... https://t.co/skR9y2daJk

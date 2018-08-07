@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-23 03:00:21
+tourl: https://t.co/k9HZz2bu5G
+tags: [Attack]
+---
+CVE-2018-1999015 FFmpeg before commit 5aba5b89d0b1d73164d3b81764828bb8b20ff32a contains an out of array read vulnerability in ASF_F format demuxer that can result in heap memory reading. This attack appear to be exploitable via ... https://t.co/QJRcwb59UX

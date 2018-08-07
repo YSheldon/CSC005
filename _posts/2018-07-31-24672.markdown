@@ -1,0 +1,8 @@
+---
+layout: post
+title: Cygilant
+date: 2018-07-31 03:00:23
+tourl: https://t.co/780K1rtOuu
+tags: [Hack,Epic]
+---
+How #hack on 10,000 WordPress sites was used to launch an epic #malvertising campaign https://t.co/EnRHe8j0A0

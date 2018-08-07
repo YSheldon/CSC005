@@ -1,0 +1,8 @@
+---
+layout: post
+title: Rapid7
+date: 2018-08-06 03:00:21
+tourl: http://t.co/9msSD62Zsj
+tags: [Chaos]
+---
+In the latest blog from our CIS Critical Security Controls series, we break down the control chaos of application software security: https://t.co/uZKEH3uRYO

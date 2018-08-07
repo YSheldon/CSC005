@@ -1,0 +1,8 @@
+---
+layout: post
+title: John Lambert
+date: 2018-08-01 03:00:21
+tourl: https://t.co/FmulbJGxnz
+tags: [Attack]
+---
+#Azure should come with hunting and attack detection that understands threats specific to the cloud. ?????Hear Shain Wray of the Microsoft Threat Intelligence Center show just that ?????: https://t.co/ivv1HJmwFw https://t.co/sRfejM993s

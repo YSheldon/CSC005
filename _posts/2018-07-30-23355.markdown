@@ -1,0 +1,8 @@
+---
+layout: post
+title: CrowdStrike
+date: 2018-07-30 01:00:22
+tourl: http://t.co/ULWFfruGKw
+tags: [Crowdstrike]
+---
+Did you know CrowdStrike EPP Complete offers a warranty of up to $1 million if a breach occurs within the protected environment? Learn more about how CrowdStrike continues to revolutionize #cybersecurity in a webcast hosted by @Bytes on August 1. https://t.co/wwX5ZWQmja

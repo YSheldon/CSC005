@@ -1,0 +1,8 @@
+---
+layout: post
+title: Hakin9
+date: 2018-07-23 01:00:22
+tourl: https://t.co/4DC7miAMag
+tags: [AWS]
+---
+Scout2 - Security Auditing Tool For AWS Environments https://t.co/LDCmUQpVB1 #infosec #hacking #hackers #pentesting #pentest #programming #opensource #cybersecurity  #AWS #auditing #Scout2 #cloud https://t.co/wSNVKLEPni

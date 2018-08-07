@@ -1,0 +1,8 @@
+---
+layout: post
+title: AlienVault
+date: 2018-07-26 03:00:22
+tourl: http://t.co/7mZeFsDsoi
+tags: [Attack,China]
+---
+A #ransomware attack has crippled the US shipping networks of COSCO (China Ocean Shipping Company), one of the world's largest shipping companies; recovery expected to cost millions: https://t.co/sSe7JfgKJB; @TJowitt w/ comments by @J4vv4D https://t.co/JRgGAAkNUM

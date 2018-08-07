@@ -1,0 +1,8 @@
+---
+layout: post
+title: CrowdStrike
+date: 2018-08-06 03:00:23
+tourl: http://t.co/ULWFfruGKw
+tags: [Crowdstrike,Falcon X]
+---
+Today, CrowdStrike further expands its threat intelligence integration into the Falcon Platform through the launch of Falcon X Premium to equip #security teams with automated and contextualized intelligence. https://t.co/POlQDEbTFi https://t.co/amhvgajCIN

@@ -1,0 +1,12 @@
+---
+layout: post
+title: Avast Software
+date: 2018-07-27 01:00:22
+tourl: https://t.co/bAP5udGmK6
+tags: [Hack]
+---
+A new flaw affecting all Bluetooth devices lets third parties hack into the connection.
+
+The vulnerability opens the door to man-in-the-middle attacks, allowing an attacker to intercept and decrypt all device messages.
+
+Here's what users should do ? https://t.co/0mkaTRAUk5

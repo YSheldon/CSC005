@@ -1,0 +1,8 @@
+---
+layout: post
+title: Menlo Security
+date: 2018-07-19 03:00:23
+tourl: https://t.co/KGGTO8JfLs
+tags: [Attack,exploit]
+---
+41% of orgs experience #phishing attacks at least daily, &amp; 77% are hit by an attack at least once per month, finds a @Sophos study; also revealed #cybercriminals are adept at using #socialengineering to exploit human weaknesses @Wilyram @cu_times - https://t.co/rpD1qSOCvD https://t.co/F2hINr2S5i

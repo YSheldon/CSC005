@@ -1,0 +1,8 @@
+---
+layout: post
+title: RSA
+date: 2018-08-02 03:00:21
+tourl: https://t.co/bABGhyqAQB
+tags: [Attack]
+---
+As the attack surface expands with adoption of #IoT and digital tech, organizations need "defense in layers" to  understand where risk is &amp; how to mitigate potential #cybersecurity vulnerabilities, says RSA' Mike Adler to @rneelmani: https://t.co/5tYNNCBhyv

@@ -1,0 +1,8 @@
+---
+layout: post
+title: 0day Exploit Database
+date: 2018-07-24 03:00:23
+tourl: https://t.co/ifDhCPJfYM
+tags: [0day,exploit]
+---
+#0daytoday #NUUO NVRmini - upgrade_handle.php Remote Command Execution Vulnerability [#0day #Exploit] https://t.co/quOJQKK5ND

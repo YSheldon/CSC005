@@ -1,0 +1,8 @@
+---
+layout: post
+title: The CyberWire
+date: 2018-08-03 03:00:21
+tourl: https://t.co/HQuCt1gLbK
+tags: [Attack]
+---
+#billingtoncyber Sen. Peters: Cybersecurity will be paramount in coming legislation. Cyber attack on a bank account is bad, but a hacker driving me into a wall, "that's existential."

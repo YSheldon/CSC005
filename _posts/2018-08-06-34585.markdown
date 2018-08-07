@@ -1,0 +1,8 @@
+---
+layout: post
+title: Binni Shah
+date: 2018-08-06 03:00:21
+tourl: https://t.co/LfZIicBDza
+tags: [Private Keys]
+---
+repo-security-scanner : CLI tool that finds secrets accidentally committed to a git repo, eg passwords, private keys : https://t.co/kGCHZ8VlXN

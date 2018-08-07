@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-08-01 03:00:21
+tourl: https://t.co/k9HZz2bu5G
+tags: [Attack]
+---
+CVE-2016-8653 It was found that the JMX endpoint of Red Hat JBoss Fuse 6, and Red Hat A-MQ 6 deserializes the credentials passed to it. An attacker could use this flaw to launch a denial of service attack.  https://t.co/FJTXlRW1BT

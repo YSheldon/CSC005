@@ -1,0 +1,8 @@
+---
+layout: post
+title: dragosr
+date: 2018-08-05 03:00:21
+tourl: http://t.co/dD9Xkml3F6
+tags: [Source]
+---
+Anyone even remotely connected with designing systemd should be banished from all open source projects and preferably not ever allowed to use a code editor again, or even better, banished to some island or asteroid so that their design stupidity never infects anyone else.

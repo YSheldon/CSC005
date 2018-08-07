@@ -1,0 +1,8 @@
+---
+layout: post
+title: CrowdStrike
+date: 2018-07-16 01:00:22
+tourl: http://t.co/ULWFfruGKw
+tags: [Crowdstrike]
+---
+CrowdStrike's Scott Taschler discusses with @DarkReading why organizations need to detect an intrusion in under a minute, understand it in under 10 minutes, and eject the adversary in under an hour. https://t.co/68G13o6Vz2

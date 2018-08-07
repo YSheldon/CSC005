@@ -1,0 +1,8 @@
+---
+layout: post
+title: Virus Bulletin
+date: 2018-08-06 03:00:22
+tourl: https://t.co/3UVRbwBJWI
+tags: [Cobalt Strike,Attack]
+---
+JPCERT/CC released a Volatility plugin to detect the 'fileless' Cobalt Strike Beacon attack in memory https://t.co/5kHIoqKrDH https://t.co/7Anaukvvjk

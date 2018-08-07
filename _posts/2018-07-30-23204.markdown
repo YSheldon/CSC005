@@ -1,0 +1,8 @@
+---
+layout: post
+title: Infosecurity Mag
+date: 2018-07-30 03:00:21
+tourl: http://t.co/ioT6nbGu1X
+tags: [Attack]
+---
+New NetSpectre-Class Attack Raises Device-Hardening Concern https://t.co/RKjX6OKZE6 https://t.co/BsYxVziyba

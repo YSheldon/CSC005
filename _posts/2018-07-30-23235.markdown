@@ -1,0 +1,9 @@
+---
+layout: post
+title: BitSight
+date: 2018-07-30 01:00:22
+tourl: http://t.co/J7LgGQuadK
+tags: [CISO]
+---
+Studies suggest that up to 65% of people are visual learners. #CISO's  are you using the right visual approach to explain technical problems to non-technical execs?
+https://t.co/fFIKvENQm0 https://t.co/qqTIcAgHeE

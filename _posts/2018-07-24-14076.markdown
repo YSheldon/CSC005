@@ -1,0 +1,8 @@
+---
+layout: post
+title: Drunk Binary
+date: 2018-07-24 02:00:30
+tourl: www.baidu.com
+tags: [Energetic Bear,Dragonfly,Group]
+---
+Yeah this is misattribution on my part to Energetic Bear/Dragonfly. Symantec and Dragos should have reports out the threat group soonish. My bad.

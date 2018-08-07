@@ -1,0 +1,10 @@
+---
+layout: post
+title: Security Affairs
+date: 2018-07-28 03:00:21
+tourl: http://t.co/V3OIFUqNCm
+tags: [Attack]
+---
+#Microsoft revealed details of a supply chain attack at unnamed Maker of #PDF Editor
+https://t.co/xyoKk7l4XC
+#securityaffairs #hacking

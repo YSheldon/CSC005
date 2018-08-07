@@ -1,0 +1,8 @@
+---
+layout: post
+title: SANS Institute
+date: 2018-08-02 03:00:20
+tourl: http://t.co/AJ81JwpA9v
+tags: [Group]
+---
+Webcast | @Doug_Wylie (SANS) joins @ics_Marty (Automation Federation), and @Dcsanalyst (ARC Advisory Group) to discuss The Convergence of Cybersecurity and Process Safety --&gt; https://t.co/Tx2yrY8gsy -- #oilgassummit https://t.co/vrBn6DPqX2

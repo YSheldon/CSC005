@@ -1,0 +1,8 @@
+---
+layout: post
+title: Amanda Rousseau
+date: 2018-08-01 03:00:21
+tourl: https://t.co/KaEdDwSpfC
+tags: [Source]
+---
+I'm really happy I get to open source the disassembler I've been working on for 6 months. Hopefully I can lower the bar for entry into reversing. At the same time you get to see my dirty code :P

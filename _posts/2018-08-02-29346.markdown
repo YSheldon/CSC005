@@ -1,0 +1,8 @@
+---
+layout: post
+title: Cyber Security News
+date: 2018-08-02 01:00:22
+tourl: https://t.co/U9KYaU2Lgx
+tags: [GDPR]
+---
+Blockchain and GDPR: is a clash really inevitable? https://t.co/2zmYyOtoek

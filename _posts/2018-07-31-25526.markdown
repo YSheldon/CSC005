@@ -1,0 +1,8 @@
+---
+layout: post
+title: TrendLabs
+date: 2018-07-31 03:00:21
+tourl: http://t.co/MB171H1oL9
+tags: [PowerShell]
+---
+#PowerGhost propagates in local servers of corporate workstations and servers with Powershell and #EnternalBlue via WMI,  infecting systems with a cryptocurrency-mining malware. More: https://t.co/nuSoTVkyGJ

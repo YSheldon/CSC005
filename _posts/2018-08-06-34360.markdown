@@ -1,0 +1,8 @@
+---
+layout: post
+title: kevin
+date: 2018-08-06 02:00:25
+tourl: https://t.co/mJWyBQgFpy
+tags: [Equation]
+---
+Pwnie for Best Client-Side Bug - Equation Editor bug obviously.  Decades old executable with no security controls shipped in every version of Office?  Check.  100^ reliable code execution, woops.

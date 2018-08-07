@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-16 03:00:21
+tourl: https://t.co/k9HZz2bu5G
+tags: [Scripting]
+---
+CVE-2018-5229 The NotificationRepresentationFactoryImpl class in Atlassian Universal Plugin Manager before version 2.22.9 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability ... https://t.co/baI8W7SViK

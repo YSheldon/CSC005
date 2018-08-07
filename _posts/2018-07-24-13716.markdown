@@ -1,0 +1,9 @@
+---
+layout: post
+title: BleepingComputer
+date: 2018-07-24 03:00:21
+tourl: https://t.co/pljq5SLdfN
+tags: [Web Shell]
+---
+Hackers Hiding Web Shell Logins in Fake HTTP Error Pages
+https://t.co/4BXNjy7gyl

@@ -1,0 +1,10 @@
+---
+layout: post
+title: Nick Carr
+date: 2018-08-01 03:00:21
+tourl: https://t.co/mZbXbe0al0
+tags: [FIREEYE]
+---
+Crime doesn't pay. Unless you worked for Combi Security, in which case it paid a pretty decent wage for Russian/Ukrainian "pen testers" ????
+
+Sidenote: @FireEye's red team is hiring but their operations *are* authorized and the only payment card hijinks is over who expenses dinner.

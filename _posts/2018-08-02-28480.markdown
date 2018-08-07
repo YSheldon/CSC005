@@ -1,0 +1,12 @@
+---
+layout: post
+title: Catalin Cimpanu
+date: 2018-08-02 03:00:21
+tourl: https://t.co/9lGQt24Ew6
+tags: [MikroTik]
+---
+An updateon the MikroTik story (via @bad_packets)
+
+There's now a second Coinhive key used in MikroTik attacks
+
+Total number of pwned routers has now gone over 200,000 ???? https://t.co/96oDZoQtDG

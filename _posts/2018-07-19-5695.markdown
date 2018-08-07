@@ -1,0 +1,8 @@
+---
+layout: post
+title: Brad
+date: 2018-07-19 03:00:21
+tourl: http://t.co/o3Rah323cD
+tags: [Tor]
+---
+2018-07-19 - No Tor traffic or NewBCtestDll64 module when I checked a recent #Trickbot sample this morning: gtag: ser0719.  #Trickbot .exe sample at: https://t.co/VqdFWY3ysz https://t.co/wgTIidS5c5

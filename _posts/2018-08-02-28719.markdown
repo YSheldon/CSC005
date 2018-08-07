@@ -1,0 +1,8 @@
+---
+layout: post
+title: \u2028\u2029
+date: 2018-08-02 03:00:21
+tourl: https://t.co/hdgd71R1Zu
+tags: [Epic]
+---
+Just had a preview of @albinowax's epic cache poisoning talk. So much pwnage, so many cool exploits. Look out for the Blackhat talk.

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Cyber Security News
+date: 2018-08-01 01:00:22
+tourl: https://t.co/U9KYaU2Lgx
+tags: [GDPR]
+---
+Breach reporting rules under GDPR a "watershed change" https://t.co/bKNSan8cZv

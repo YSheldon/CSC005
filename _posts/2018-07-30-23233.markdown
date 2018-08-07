@@ -1,0 +1,8 @@
+---
+layout: post
+title: Kevin Beaumont
+date: 2018-07-30 03:00:21
+tourl: https://t.co/mJWyBQgFpy
+tags: [Attack]
+---
+Heres an update from @MatSuBorough on their IT system restoration post ransomware attack. The network is being rebuilt from scratch, with services gradually being returned. Theyve called in FBI cyber division. https://t.co/M7D2kTniPK

@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-31 03:00:21
+tourl: https://t.co/k9HZz2bu5G
+tags: [Scripting]
+---
+CVE-2018-10609 Martem TELEM GW6 and GWM devices with firmware 2018.04.18-linux_4-01-601cb47 and prior allow improper sanitization of data over a Websocket which may allow cross-site scripting and client-side code execution with ... https://t.co/aok5QEYuGb

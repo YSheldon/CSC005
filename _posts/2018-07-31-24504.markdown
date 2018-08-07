@@ -1,0 +1,8 @@
+---
+layout: post
+title: Niklas B
+date: 2018-07-31 03:00:23
+tourl: https://t.co/AOnUIv4eqV
+tags: [Attack,exploit]
+---
+Looks like I'll talk about VMware Workstation vs VirtualBox attack surface at @bevxcon, and explain my exploit for CVE-2018-2860, an OOB read turned TOCTOU turned heap overflow issue in the Virtual Machine Monitor device of VirtualBox :)

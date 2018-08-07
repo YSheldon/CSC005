@@ -1,0 +1,8 @@
+---
+layout: post
+title: WIRED
+date: 2018-07-31 03:00:20
+tourl: https://t.co/KT14PZrouQ
+tags: [Group]
+---
+A group of UK residents who had their data scraped by Cambridge Analytica has sent a letter to Facebook threatening to sue for damages. WIRED reviewed it and the letter reads like a checklist of Facebook's failures https://t.co/oVTRcP92yh

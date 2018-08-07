@@ -1,0 +1,8 @@
+---
+layout: post
+title: Black Hat
+date: 2018-07-18 01:00:22
+tourl: http://t.co/aMEkUhZgUH
+tags: [exploit]
+---
+Details of a new exploit technique that can take advantage of 0-days in common frameworks written in Python, Ruby, Java, and JavaScript, presented by Orange Tsai (@orange_8361) in this #BHUSA Briefing https://t.co/5F7fM6nRRm

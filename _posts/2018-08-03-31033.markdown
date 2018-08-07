@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-08-03 02:00:24
+tourl: https://t.co/k9HZz2bu5G
+tags: [Web Service]
+---
+CVE-2018-14908 Samsung Syncthru Web Service V4.05.61 is vulnerable to CSRF on every request, as demonstrated by sws.application/printinformation/printReportSetupView.sws for a "Print emails sent" action.  https://t.co/jBuCQi01dy

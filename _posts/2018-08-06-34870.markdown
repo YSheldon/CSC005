@@ -1,0 +1,8 @@
+---
+layout: post
+title: Cyber Security News
+date: 2018-08-06 01:00:22
+tourl: https://t.co/U9KYaU2Lgx
+tags: [GDPR]
+---
+British consumers are already taking advantage of GDPR https://t.co/08CH6lBSGU

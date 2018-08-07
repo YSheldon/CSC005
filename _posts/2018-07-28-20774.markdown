@@ -1,0 +1,9 @@
+---
+layout: post
+title: BleepingComputer
+date: 2018-07-28 01:00:22
+tourl: https://t.co/pljq5SLdfN
+tags: [exploit]
+---
+New Underminer Exploit Kit Discovered Pushing Bootkits and CoinMiners - by @campuscodi
+https://t.co/bGTeqnr3Wa

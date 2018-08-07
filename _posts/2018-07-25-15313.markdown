@@ -1,0 +1,8 @@
+---
+layout: post
+title: Bitdefender
+date: 2018-07-25 01:00:22
+tourl: http://t.co/tim1usJskE
+tags: [exploit]
+---
+Directory traversal is a type of HTTP exploit that allows attackers to gain unauthorized access to directories, files, and even commands. Read about this #IoT vulnerability in our latest #BitdefenderBOX article https://t.co/swuhonLILu

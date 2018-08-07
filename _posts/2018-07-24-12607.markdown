@@ -1,0 +1,8 @@
+---
+layout: post
+title: Hakin9
+date: 2018-07-24 03:00:21
+tourl: https://t.co/4DC7miAMag
+tags: [TLS]
+---
+SSL/TLS for dummies part 2  Understanding key exchange algorithm https://t.co/5ihb2DaThk #infosec #hacking #hackers #pentesting #pentest #programming #opensource #cybersecurity #SSL #TLS

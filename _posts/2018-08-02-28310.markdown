@@ -1,0 +1,8 @@
+---
+layout: post
+title: Niklas B
+date: 2018-08-02 01:00:22
+tourl: https://t.co/AOnUIv4eqV
+tags: [Hack]
+---
+TIL: You cannot hack a Bitfi because if you do that it is no longer a Bitfi https://t.co/4S9OVVfkrE

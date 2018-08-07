@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-31 03:00:21
+tourl: https://t.co/k9HZz2bu5G
+tags: [Scripting]
+---
+CVE-2018-12943 Cross-Site Scripting (XSS) vulnerability in every page that includes the "action" URL parameter in SeedDMS (formerly LetoDMS and MyDMS) before 5.1.8 allows remote attackers to inject arbitrary web script or HTML via ... https://t.co/LmMjMhaw0D

@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-24 03:00:23
+tourl: https://t.co/k9HZz2bu5G
+tags: [Scripting,exploit]
+---
+CVE-2018-11059 RSA Archer, versions prior to 6.4.0.1, contain a stored cross-site scripting vulnerability. A remote authenticated malicious Archer user could potentially exploit this vulnerability to store malicious HTML or ... https://t.co/cIbS9RLH6r

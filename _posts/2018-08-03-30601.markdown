@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Donald J. Trump
-date: 2018-08-03 00:00:22
+date: 2018-08-03 01:00:22
 tourl: https://t.co/OMxB0x7xC5
 tags: [Bill]
 ---

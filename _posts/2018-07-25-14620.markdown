@@ -1,0 +1,8 @@
+---
+layout: post
+title: Anomali
+date: 2018-07-25 03:00:21
+tourl: https://t.co/Mm7Oxx7jzr
+tags: [Source]
+---
+Palo Alto Networks Unit 42 researchers have published a report discussing multiple malware campaigns in which the malware is based off of the publicly available source code of the Mirai and Gafgyt Distributed Denial-of-Service (DDoS) #malware. https://t.co/Ba0zvs0gQd

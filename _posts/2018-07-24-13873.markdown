@@ -1,0 +1,9 @@
+---
+layout: post
+title: Scott Piper
+date: 2018-07-24 01:00:22
+tourl: http://t.co/Akrgmn9RNr
+tags: [AWS]
+---
+Full list of expanded privileges for SecurityAudit and ViewOnlyAccess AWS IAM policies: https://t.co/n2F5X7sQH6 https://t.co/5yMXI1ux1y
+There are 534 and 598 privileges in each, but SecurityAudit has 209 privs not found in ViewOnly, and ViewOnly has 273 not in SecurityAudit

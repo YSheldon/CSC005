@@ -1,0 +1,8 @@
+---
+layout: post
+title: Kaspersky Lab
+date: 2018-07-30 03:00:21
+tourl: http://t.co/BuTnZTdejc
+tags: [Attack]
+---
+Bugs in #Samsung's IoT hub leaves smarthome open to attack. https://t.co/PigBU6d3IO

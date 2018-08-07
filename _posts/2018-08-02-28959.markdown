@@ -1,0 +1,8 @@
+---
+layout: post
+title: CrowdStrike
+date: 2018-08-02 01:00:22
+tourl: http://t.co/ULWFfruGKw
+tags: [Crowdstrike]
+---
+CrowdStrike's new Supply Chain Survey shows organizations take an average of 63 hours to detect and remediate #cyber attacks - roughly 32 times longer than recommended by experts. Identify threats immediately with CrowdStrike. https://t.co/cdQnpztrpE

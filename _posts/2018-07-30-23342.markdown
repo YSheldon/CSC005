@@ -1,0 +1,8 @@
+---
+layout: post
+title: Scott Piper
+date: 2018-07-30 01:00:22
+tourl: http://t.co/Akrgmn9RNr
+tags: [AWS]
+---
+It's a little odd and scary that the AWS best practice (#8) here is to ensure an AWS service role has minimum privs. The only way that role can abuse its privs is if AWS gets compromised.    https://t.co/R4fWEC0RHE

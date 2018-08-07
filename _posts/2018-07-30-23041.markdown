@@ -1,0 +1,8 @@
+---
+layout: post
+title: Virus Bulletin
+date: 2018-07-30 03:00:20
+tourl: https://t.co/3UVRbwBJWI
+tags: [Trojan]
+---
+Both Symantec and Check Point recently looked at the evolution of the Emotet trojan https://t.co/vcR3bRMSEP https://t.co/dSnkpNhtVb https://t.co/iPRvAfXLpG

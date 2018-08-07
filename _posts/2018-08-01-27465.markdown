@@ -1,0 +1,8 @@
+---
+layout: post
+title: Ali ????
+date: 2018-08-01 03:00:21
+tourl: https://t.co/APc5IMv8oq
+tags: [Source]
+---
+Can't believe @reddit uses SMS 2FA when there's time-based multi factor authentication laying around in open source tools. Just use @LastPass Authenticator ffs

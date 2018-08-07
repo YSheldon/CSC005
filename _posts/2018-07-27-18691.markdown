@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-27 03:00:20
+tourl: https://t.co/k9HZz2bu5G
+tags: [Group]
+---
+CVE-2018-14612 An issue was discovered in the Linux kernel through 4.17.10. There is an invalid pointer dereference in btrfs_root_node() when mounting a crafted btrfs image, because of a lack of chunk block group mapping validation ... https://t.co/IOJuCQMqs5

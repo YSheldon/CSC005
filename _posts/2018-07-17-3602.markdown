@@ -1,0 +1,8 @@
+---
+layout: post
+title: CrowdStrike
+date: 2018-07-17 01:00:22
+tourl: http://t.co/ULWFfruGKw
+tags: [Crowdstrike]
+---
+Our latest blog introduces some of the innovative techniques the CrowdStrike Data Science team is using to address the unique challenges inherent in supporting a solution as robust and comprehensive as the CrowdStrike Falcon platform. #NextGenAV #AI https://t.co/nsk12NZrQo

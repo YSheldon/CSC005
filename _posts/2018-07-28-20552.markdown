@@ -1,0 +1,8 @@
+---
+layout: post
+title: Binni Shah
+date: 2018-07-28 03:00:21
+tourl: https://t.co/LfZIicBDza
+tags: [Attack]
+---
+Breaking the Bluetooth Pairing  Fixed Coordinate Invalid Curve Attack : https://t.co/f9NEy0o6EJ (pdf) , More : https://t.co/zzSrpaeLSg https://t.co/tOEBNBL15J

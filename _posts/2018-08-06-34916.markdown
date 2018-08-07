@@ -1,0 +1,8 @@
+---
+layout: post
+title: WIRED
+date: 2018-08-06 01:00:22
+tourl: https://t.co/KT14PZrouQ
+tags: [Bill]
+---
+Quantum computer scientists are in high demand, but short supply. So industry experts put together a Congressional bill that guides federal science agencies to invest in quantum technology and training for the next 10 years. https://t.co/0Xv9zcKy0l

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Threatpost
+date: 2018-07-19 01:00:22
+tourl: http://t.co/rD9Wvdqf3e
+tags: [exploit]
+---
+Evidence that the GandCrab #ransomware is self-propagating via the Windows SMB #exploit still remains to be seen: https://t.co/s0WTVMV3C2

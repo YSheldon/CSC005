@@ -1,0 +1,9 @@
+---
+layout: post
+title: Hakin9
+date: 2018-08-06 03:00:21
+tourl: https://t.co/4DC7miAMag
+tags: [Attack]
+---
+New attack on WPA/WPA2 using PMKID https://t.co/OwmyFwxygx 
+ #infosec #hacking #hackers #pentesting #pentest #programming #opensource #cybersecurity #WPA/WPA2 #wireless #wpa #wifi #cyberattack

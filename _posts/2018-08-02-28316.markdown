@@ -1,0 +1,9 @@
+---
+layout: post
+title: BleepingComputer
+date: 2018-08-02 03:00:21
+tourl: https://t.co/pljq5SLdfN
+tags: [MikroTik]
+---
+Massive Coinhive Cryptojacking Campaign Infects 170,000 MikroTik Routers - by @campuscodi
+https://t.co/Hz99Qv2StM

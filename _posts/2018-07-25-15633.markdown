@@ -1,0 +1,8 @@
+---
+layout: post
+title: Hakin9
+date: 2018-07-25 03:00:21
+tourl: https://t.co/4DC7miAMag
+tags: [Source]
+---
+Robber is open source tool for finding executables prone to DLL hijacking  https://t.co/Ev8dgmEOu5 #infosec #hacking #hackers #pentesting #pentest #programming #opensource #cybersecurity #github #tech #cyber

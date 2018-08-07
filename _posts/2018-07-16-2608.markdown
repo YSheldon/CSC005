@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-16 03:00:21
+tourl: https://t.co/k9HZz2bu5G
+tags: [Scripting]
+---
+CVE-2018-13832 Multiple Persistent cross-site scripting (XSS) issues in the Techotronic all-in-one-favicon (aka All In One Favicon) plugin 4.6 for WordPress allow remote attackers to inject arbitrary web script or HTML via ... https://t.co/hkrOwYS6Po

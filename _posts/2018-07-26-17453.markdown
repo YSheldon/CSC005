@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-26 03:00:23
+tourl: https://t.co/k9HZz2bu5G
+tags: [Scripting,exploit]
+---
+CVE-2017-7538 A cross-site scripting (XSS) flaw was found in how an organization name is displayed in Satellite 5, before 5.8. A user able to change an organization's name could exploit this flaw to perform XSS attacks against ... https://t.co/xez1yRD0uE

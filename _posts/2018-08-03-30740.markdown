@@ -1,0 +1,8 @@
+---
+layout: post
+title: ????
+date: 2018-08-03 03:00:21
+tourl: https://t.co/J1NkGTtiXb
+tags: [Source]
+---
+it looks like TMobile authorized employees have this jsonp thing running on their localhost that accepts requests from any source ... iframes, forms, links and stuff ... lulz https://t.co/GSkB9oLncY

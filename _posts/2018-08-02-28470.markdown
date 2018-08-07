@@ -1,0 +1,8 @@
+---
+layout: post
+title: kevin
+date: 2018-08-02 03:00:21
+tourl: https://t.co/mJWyBQgFpy
+tags: [Source]
+---
+Heres the source of the problem. I was being sarcastic with the original tweet - the instructions for setting up any security are way too complicated for people. They need secure defaults. https://t.co/PFSM83p7zG

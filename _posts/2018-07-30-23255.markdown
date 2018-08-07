@@ -1,0 +1,8 @@
+---
+layout: post
+title: AlienVault
+date: 2018-07-30 01:00:22
+tourl: http://t.co/7mZeFsDsoi
+tags: [exploit]
+---
+#Security researchers have discovered a new exploit kit, Underminer EK - currently active mainly in Asian countries - which is spreading bootkits and #cryptocurrency-mining #malware. Here's how it works: https://t.co/VZlFSVlibf @campuscodi @BleepinComputer https://t.co/UZLXUKc1gb

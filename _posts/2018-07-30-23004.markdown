@@ -1,0 +1,8 @@
+---
+layout: post
+title: Menlo Security
+date: 2018-07-30 01:00:22
+tourl: https://t.co/KGGTO8JfLs
+tags: [APT,DHS]
+---
+US Electric utility control rooms were breached by Russian #APT, #Dragonfly2.0 (aka #EnergeticBear) &amp; could have caused blackouts; @DHS says attackers used #spearphishing &amp; #wateringhole attacks to steal credentials for network access @stevenmusil @cnet - https://t.co/NuQdQ5pGZQ https://t.co/TWuvdolSgi

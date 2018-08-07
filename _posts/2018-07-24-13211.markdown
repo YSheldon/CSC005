@@ -1,0 +1,8 @@
+---
+layout: post
+title: Securelist
+date: 2018-07-24 03:00:21
+tourl: http://t.co/TCBqx6Tt0H
+tags: [Attack]
+---
+Q2 2018 #DDoS attack report shows attackers targeting #cryptocurrency exchanges, #railway companies, #poker tournaments as well as #Mexican elections. #KLReport https://t.co/PIgogHEjkw

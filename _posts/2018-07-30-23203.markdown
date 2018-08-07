@@ -1,0 +1,8 @@
+---
+layout: post
+title: Cygilant
+date: 2018-07-30 03:00:21
+tourl: https://t.co/780K1rtOuu
+tags: [Attack]
+---
+#Ransomware Attack Leads to Discovery of Lots More #Malware https://t.co/2CAqgEpHAQ

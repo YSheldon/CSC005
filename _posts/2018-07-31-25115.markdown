@@ -1,0 +1,8 @@
+---
+layout: post
+title: WIRED
+date: 2018-07-31 03:00:21
+tourl: https://t.co/KT14PZrouQ
+tags: [Source]
+---
+Google, Facebook, Microsoft, and Amazon have made some artificial intelligence tools open source. But they're also seeking more patents. https://t.co/0lTHTU5abV https://t.co/Hfu5TA3PMr

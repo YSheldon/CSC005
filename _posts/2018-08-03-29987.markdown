@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Universe Today
-date: 2018-08-03 00:00:25
+date: 2018-08-03 02:00:25
 tourl: http://t.co/9oGDfXChG0
 tags: [Dust Storm]
 ---

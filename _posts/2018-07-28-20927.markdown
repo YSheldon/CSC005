@@ -1,0 +1,8 @@
+---
+layout: post
+title: Security Response
+date: 2018-07-28 03:00:21
+tourl: http://t.co/Srj37yV6aw
+tags: [Attack]
+---
+NetSpectre attack can steal data over network connection https://t.co/RNQiOXnmVA

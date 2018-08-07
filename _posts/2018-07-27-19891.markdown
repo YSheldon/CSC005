@@ -1,0 +1,10 @@
+---
+layout: post
+title: Heimdal Security
+date: 2018-07-27 03:00:21
+tourl: https://t.co/MAGmtFp8Sf
+tags: [Attack]
+---
+#NetSpectre is a fully remote #attack based on #Spectre. With it, an attacker can remotely read the memory of a victim system without running any code on that system.
+
+https://t.co/wbjTNXWCPY

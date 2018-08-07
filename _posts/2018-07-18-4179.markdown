@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-18 01:00:22
+tourl: https://t.co/k9HZz2bu5G
+tags: [exploit]
+---
+CVE-2018-2990 Vulnerability in the PeopleSoft Enterprise PeopleTools component of Oracle PeopleSoft Products (subcomponent: Integration Broker). Supported versions that are affected are 8.55 and 8.56. Difficult to exploit ... https://t.co/wKo4wZJcdf

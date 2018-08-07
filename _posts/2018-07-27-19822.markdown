@@ -1,0 +1,9 @@
+---
+layout: post
+title: LiveOverflow ????
+date: 2018-07-27 01:00:22
+tourl: https://t.co/1kOWTiXGLR
+tags: [Hack]
+---
+Bullshit bug bounty rules to rule them all ????!
+Bitfi uses a secret derivation function from user's passphrase. So even if you hack all the key material, without bruteforcing the user's component you don't qualify for the bounty. Malware, shouldersurfin, ... is all out of scope. https://t.co/We9eAcJJqP

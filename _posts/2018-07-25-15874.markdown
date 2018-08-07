@@ -1,0 +1,8 @@
+---
+layout: post
+title: Scott Piper
+date: 2018-07-25 03:00:23
+tourl: http://t.co/Akrgmn9RNr
+tags: [AWS,Source]
+---
+Dow Jones released an AWS autoremediation tool called Hammer.  The open-source options in this space are filling up, with Cap One's CloudCustodian having started it. https://t.co/V8GySbzlMd

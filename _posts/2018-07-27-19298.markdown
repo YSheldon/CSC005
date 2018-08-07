@@ -1,0 +1,8 @@
+---
+layout: post
+title: Cygilant
+date: 2018-07-27 01:00:22
+tourl: https://t.co/780K1rtOuu
+tags: [AWS]
+---
+AWS Security and Monitoring: What You Need to Know https://t.co/GRN5iu8itZ

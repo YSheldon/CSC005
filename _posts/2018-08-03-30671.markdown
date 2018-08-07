@@ -1,0 +1,8 @@
+---
+layout: post
+title: Recorded Future
+date: 2018-08-03 03:00:20
+tourl: http://t.co/a4ptBv2g71
+tags: [Group]
+---
+Our research team, Insikt Group, revisits an earlier #analysis on North Korea to reveal an overwhelming presence of American hardware and software on North Korean networks: https://t.co/1g10Pa5zVn #ThreatIntelligence

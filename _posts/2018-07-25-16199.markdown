@@ -1,0 +1,12 @@
+---
+layout: post
+title: HackRead.com
+date: 2018-07-25 03:00:21
+tourl: https://t.co/n5DKssLSIP
+tags: [Trojan,Tor]
+---
+#WannaCry hero #MalwareTech who was arrested for creating #Kronos tweeted that Im still on trial for writing Kronos, meanwhile the real author is still updating the code.
+
+#Security #Banking #Trojan #Malware #WannaCry #TOR
+
+Read More: https://t.co/LEFI8TnDRV

@@ -1,0 +1,8 @@
+---
+layout: post
+title: CrowdStrike
+date: 2018-07-20 01:00:22
+tourl: http://t.co/ULWFfruGKw
+tags: [Crowdstrike]
+---
+There are exciting things happening with CrowdStrike, a must-see at @BlackHatEvents! Check out our new products, get your adversary t-shirt, meet @MarioAndretti, attend our speaking sessions and much more. Learn more here. #GoCrowdStrike #BHUSA https://t.co/CGMeGDGql0

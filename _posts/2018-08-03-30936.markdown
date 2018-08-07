@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-08-03 03:00:21
+tourl: https://t.co/k9HZz2bu5G
+tags: [Attack]
+---
+CVE-2018-13416 In Universal Media Server (UMS) 7.1.0, the XML parsing engine for SSDP/UPnP functionality is vulnerable to an XML External Entity Processing (XXE) attack. Remote, unauthenticated attackers can use this vulnerability ... https://t.co/XjUJGGliwg

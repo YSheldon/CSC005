@@ -1,0 +1,8 @@
+---
+layout: post
+title: The CyberWire
+date: 2018-08-01 03:00:21
+tourl: https://t.co/HQuCt1gLbK
+tags: [Attack]
+---
+#WeekthatWas: #Cosco attack: Its workarounds have included some creative use of #Facebook &amp; #Twitter. @theloadstar #cybersecurity #infosec https://t.co/BixWcwCCdN

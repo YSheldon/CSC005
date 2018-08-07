@@ -1,0 +1,8 @@
+---
+layout: post
+title: CYJAX
+date: 2018-08-06 01:00:22
+tourl: https://t.co/FzXphkn5Kb
+tags: [GDPR]
+---
+Lithuanian companies hit by #GDPR phishing scam. Malicious servers now blocked, but reaction suggests many businesses in country still to get their heads round #compliance. See our blog https://t.co/tmhiyo4I4E

@@ -1,0 +1,8 @@
+---
+layout: post
+title: The CyberWire
+date: 2018-07-27 02:00:25
+tourl: https://t.co/HQuCt1gLbK
+tags: [OilRig]
+---
+#CWBriefing: @PaloAltoNtwks repeats its warnings of the #OilRig campaign against the #energy sector. #Iran #cybersecurity #infosec https://t.co/BYHK9ruLWx

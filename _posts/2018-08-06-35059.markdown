@@ -1,0 +1,8 @@
+---
+layout: post
+title: DarkReading
+date: 2018-08-06 03:00:21
+tourl: http://t.co/nSh7l5vd4x
+tags: [TLS]
+---
+Facebook Launches Fizz Library for Dev Speed, Security https://t.co/yfDGPnjzhP #TLS #opensource #developers

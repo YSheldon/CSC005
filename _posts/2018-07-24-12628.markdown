@@ -1,0 +1,8 @@
+---
+layout: post
+title: CrowdStrike
+date: 2018-07-24 01:00:22
+tourl: http://t.co/ULWFfruGKw
+tags: [Crowdstrike]
+---
+Attending @Gartner_inc Security &amp; Risk Management Summit in Tokyo today? Hear from Tetsuya Kawai, Managing Director CrowdStrike in his session - Effortless Operation for Protection, Detection and Analysis. 11:30am - 12:15pm https://t.co/ykgVO0Ybon  #GoCrowdStrike

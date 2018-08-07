@@ -1,0 +1,15 @@
+---
+layout: post
+title: Nextron Systems
+date: 2018-08-01 02:00:41
+tourl: https://t.co/hQmU0Olg2T
+tags: [Winnti,Energetic Bear,OilRig,Sofacy,Turla]
+---
+THOR v8.49.1 released
+
+- 4th gen license format support
+- thor-util "report" feature *.log to HTML (for up to 50 host log files)
+- option "--noresume" becomes the new default
+- 84 new signature sets (incl. Winnti, Energetic Bear, OilRig, Sofacy, Turla ..)
+
+https://t.co/697bo0wC5R https://t.co/kgCC87k6a2

@@ -1,0 +1,8 @@
+---
+layout: post
+title: The CyberWire
+date: 2018-08-03 03:00:21
+tourl: https://t.co/HQuCt1gLbK
+tags: [Attack,Trojan]
+---
+#CWBriefing: #Matanuska-Susitna Borough attack: The attack included installation of the #Emotet #Trojan &amp; #BitPaymer #cryptolocker #ransomware. #cybersecurity #infosec https://t.co/DGAckOsfdi

@@ -1,0 +1,8 @@
+---
+layout: post
+title: kevin
+date: 2018-08-07 01:00:22
+tourl: https://t.co/mJWyBQgFpy
+tags: [CISO]
+---
+I cant even find a Voatz CISO (or security person) to report stuff to. They have long unpatched boxes and weird services online, this wouldnt pass a crab paste company pentest.

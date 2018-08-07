@@ -1,0 +1,8 @@
+---
+layout: post
+title: 0day Exploit Database
+date: 2018-08-02 03:00:23
+tourl: https://t.co/ifDhCPJfYM
+tags: [0day,exploit]
+---
+#0daytoday #Universal Media Server 7.1.0 - SSDP Processing XML External Entity Injection Vulnerabil [#0day #Exploit] https://t.co/zjfG0nFRPM

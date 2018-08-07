@@ -1,0 +1,8 @@
+---
+layout: post
+title: Linux Security Labs
+date: 2018-07-22 01:00:22
+tourl: https://t.co/ee1vBPOO91
+tags: [Exploitation]
+---
+Tool review: arpag (automatic exploiting tool) by @anilbaranyelken #pentesting #exploitation https://t.co/226m8SCXq1

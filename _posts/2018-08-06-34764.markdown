@@ -1,0 +1,8 @@
+---
+layout: post
+title: ThousandEyes
+date: 2018-08-06 01:00:22
+tourl: https://t.co/YU1Vf0xer9
+tags: [AWS]
+---
+Whoa, AWS, don't slip off your cloudy perch. Google and Microsoft are coming up to help via @TheRegister https://t.co/OmumsFuXw6

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Niklas B
+date: 2018-07-31 01:00:22
+tourl: https://t.co/AOnUIv4eqV
+tags: [exploit]
+---
+@tylerni7 @NedWilliamson Can MAYHEM exploit those?

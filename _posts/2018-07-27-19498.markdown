@@ -1,0 +1,8 @@
+---
+layout: post
+title: CrowdStrike
+date: 2018-07-27 01:00:22
+tourl: http://t.co/ULWFfruGKw
+tags: [Crowdstrike]
+---
+CrowdStrike will be at this year's @BlackHatEvents in Las Vegas! Our executives and top security specialists will be talking about the evolving CrowdStrike Falcon platform and leading informative workshops. Learn more from our blog. #GoCrowdStrike https://t.co/GxAXunsqZG

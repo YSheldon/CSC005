@@ -1,0 +1,8 @@
+---
+layout: post
+title: Menlo Security
+date: 2018-08-02 03:00:20
+tourl: https://t.co/KGGTO8JfLs
+tags: [Group]
+---
+#Cyber threat group, #RANCOR, is targeting users in Singapore &amp; Cambodia with #malware based espionage attacks via #spearphishing; after observation, researchers at @Unit42_Intel have discovered new strains, #DDKONG &amp; #PLAINTEE @dougbonderud @ibmsecurity - https://t.co/TGzOaGPY1v https://t.co/aYCX4oLdbd

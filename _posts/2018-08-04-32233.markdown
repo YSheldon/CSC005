@@ -1,0 +1,8 @@
+---
+layout: post
+title: Stefan Esser
+date: 2018-08-04 03:00:21
+tourl: https://t.co/2UU3zpeRUH
+tags: [Source]
+---
+Hey does anyone with access to that giant tarball of leaked Apple source code know what AFU actually stands for? Apple Firmware Update? Asset Firmware Update? Accessory Firmware Update? &lt;-- i somehow think the last one is right.

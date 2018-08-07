@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-08-06 03:00:21
+tourl: https://t.co/k9HZz2bu5G
+tags: [Scripting]
+---
+CVE-2018-7090 HPE XP P9000 Command View Advanced Edition Software (CVAE) has local and remote cross site scripting vulnerability in versions 7.0.0-00 to earlier than 8.60-00 of DevMgr, TSMgr and RepMgr.  https://t.co/SyEBXyXoVA

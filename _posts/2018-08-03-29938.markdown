@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tripwire, Inc.
-date: 2018-08-03 00:00:20
+date: 2018-08-03 03:00:20
 tourl: http://t.co/1sHmVCRv8W
 tags: [Group]
 ---

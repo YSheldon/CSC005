@@ -1,0 +1,8 @@
+---
+layout: post
+title: Hakin9
+date: 2018-08-06 03:00:21
+tourl: https://t.co/4DC7miAMag
+tags: [PowerShell]
+---
+Win-PortFwd - Powershell Script To Setup Windows Port Forwarding Using Native Netsh Client https://t.co/xpsciz9yh2  #infosec #hacking #hackers #pentesting #pentest #programming #opensource #github #powershell #windows #port #cyberaware

@@ -1,0 +1,8 @@
+---
+layout: post
+title: DarkReading
+date: 2018-07-18 01:00:22
+tourl: http://t.co/nSh7l5vd4x
+tags: [CISO]
+---
+Make Security Boring Again https://t.co/dlB1njMz28 #basics #CISO #identity #visiblity

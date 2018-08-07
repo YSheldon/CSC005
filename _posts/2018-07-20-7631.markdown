@@ -1,0 +1,8 @@
+---
+layout: post
+title: Security Response
+date: 2018-07-20 03:00:20
+tourl: http://t.co/Srj37yV6aw
+tags: [Group,Trojan]
+---
+Group behind #Emotet Trojan now operating a global packing and delivery service for other threat actors https://t.co/JoF0mEtUXh  #Mealybug https://t.co/B6aPbpVCAg

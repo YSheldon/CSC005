@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-08-02 03:00:20
+tourl: https://t.co/k9HZz2bu5G
+tags: [Group]
+---
+CVE-2018-14836 Subrion 4.2.1 is vulnerable to Improper Access control because user groups not having access to the Admin panel are able to access it (but not perform actions) if the Guests user group has access to the Admin panel.  https://t.co/bg7wswMiNh

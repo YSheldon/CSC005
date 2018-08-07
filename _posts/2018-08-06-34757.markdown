@@ -1,0 +1,8 @@
+---
+layout: post
+title: CrowdStrike
+date: 2018-08-06 01:00:22
+tourl: http://t.co/ULWFfruGKw
+tags: [Crowdstrike]
+---
+Join CrowdStrike Services President @Shawn365Henry and other CrowdStrike incident response (IR) experts on Aug. 28 for a webcast where they will discuss how they respond to breaches alongside our legal counsel. Register now: https://t.co/z6PlTpEt3b

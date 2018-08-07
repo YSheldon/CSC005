@@ -1,0 +1,8 @@
+---
+layout: post
+title: Menlo Security
+date: 2018-08-06 03:00:21
+tourl: https://t.co/KGGTO8JfLs
+tags: [Attack]
+---
+An overseas #phishing attack on 30k @dcgovweb employees has been handed over to federal authorities; @OCTODC took multiple actions to mitigate the attacks, &amp; while no #data was compromised, Russian involvement is suspected @FenitN @WashingtonPost - https://t.co/zzN3zMrb53 https://t.co/C1FvBU0m6V

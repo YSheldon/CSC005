@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-08-01 03:00:21
+tourl: https://t.co/k9HZz2bu5G
+tags: [Attack]
+---
+CVE-2017-5692 Out-of-bounds read condition in older versions of some Intel Graphics Driver for Windows code branches allows local users to perform a denial of service attack.  https://t.co/nHQPZTMNwD

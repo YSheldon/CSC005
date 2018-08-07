@@ -1,0 +1,8 @@
+---
+layout: post
+title: CrowdStrike
+date: 2018-07-31 01:00:22
+tourl: http://t.co/ULWFfruGKw
+tags: [Crowdstrike]
+---
+Watch our on-demand webcast on the 1/10/60 minute challenge. Learn from CrowdStrike experts on more efficient incident response and get guidance on overcoming the obstacles that stand in the way of fast and effective response. https://t.co/AHaL1LSoLg

@@ -1,0 +1,8 @@
+---
+layout: post
+title: E Hacking News
+date: 2018-07-18 03:00:20
+tourl: http://t.co/nPhPD5aTI4
+tags: [Trojan]
+---
+DanaBot Trojan steals sensitive information of bank customers https://t.co/6yFhxd02m0 https://t.co/k6QzPShBo4

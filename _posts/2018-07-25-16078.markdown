@@ -1,0 +1,10 @@
+---
+layout: post
+title: AlienVault
+date: 2018-07-25 03:00:21
+tourl: http://t.co/7mZeFsDsoi
+tags: [Graphical User Interface]
+---
+Hey #infosec, #IT &amp; #security folks - Time for another #WouldYouRather Wednesday challenge! 
+
+Would you rather never be able to use a command line interface (CLI) again or never use a graphical user interface (GUI) again? Please vote and leave a comment to tell us why!

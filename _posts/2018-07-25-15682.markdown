@@ -1,0 +1,8 @@
+---
+layout: post
+title: 0day Exploit Database
+date: 2018-07-25 03:00:23
+tourl: https://t.co/ifDhCPJfYM
+tags: [exploit,0day]
+---
+#0daytoday #SMPlayer 18.6.0 Memory Corruption Exploit [dos #exploits #0day #Exploit] https://t.co/HExItXhCTh

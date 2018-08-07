@@ -1,0 +1,8 @@
+---
+layout: post
+title: 0day Exploit Database
+date: 2018-08-02 03:00:23
+tourl: https://t.co/ifDhCPJfYM
+tags: [exploit,0day]
+---
+#0daytoday #Sun #Solaris #SunSolaris 11.3 AVS - Local #Kernel #root Exploit #CVE-2018-2892 [remote #exploits #0day #Exploit] https://t.co/emJgzHKHwe

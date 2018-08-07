@@ -1,0 +1,8 @@
+---
+layout: post
+title: Threatpost
+date: 2018-08-02 03:00:21
+tourl: http://t.co/rD9Wvdqf3e
+tags: [MikroTik]
+---
+A massive #hacking campaign has been uncovered, compromising tens of thousands of MikroTik routers: https://t.co/zjuhYxA1Sc

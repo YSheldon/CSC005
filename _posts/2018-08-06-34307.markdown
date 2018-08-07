@@ -1,0 +1,12 @@
+---
+layout: post
+title: patrick wardle
+date: 2018-08-06 03:00:22
+tourl: www.baidu.com
+tags: [Komplex,Xagent]
+---
+In 2017, presented at the awesome @phdays conf in Moscow - about Mac malware such as the (alleged) .ru Mac implants Komplex/XAgent ????????????
+
+Some named in the Mueller indictment also attended the con that year!? https://t.co/DNufJkC56w
+
+...wonder if they were at my talk ????????????????

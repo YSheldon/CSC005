@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-30 03:00:21
+tourl: https://t.co/k9HZz2bu5G
+tags: [Trap]
+---
+CVE-2017-7518 A flaw was found in the Linux kernel before version 4.12 in the way the KVM module processed the trap flag(TF) bit in EFLAGS during emulation of the syscall instruction, which leads to a debug exception(#DB) being ... https://t.co/UZvhir7WDy

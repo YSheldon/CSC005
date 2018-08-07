@@ -1,0 +1,8 @@
+---
+layout: post
+title: Rob??? Graham ???? [will be at DEF CON]
+date: 2018-08-01 03:00:21
+tourl: http://t.co/9cYcfxcC7y
+tags: [0day]
+---
+So 10 years ago I did an analysis of a new AV product that can catch 0day viruses for a VC. I used BackOrifice 2k to test it. It wasn't caught. The AV company cited Microsoft's claim it wasn't a problem in order to defend itself. https://t.co/S2eNGWrkVV

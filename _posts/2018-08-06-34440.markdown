@@ -1,0 +1,12 @@
+---
+layout: post
+title: MalwareHunterTeam
+date: 2018-08-06 03:00:21
+tourl: https://t.co/5o4Bi68whn
+tags: [Source]
+---
+An old fake ransomware thing: https://t.co/JyB8v2RzKv
+Has an interesting PDB and source link: http://aka[.]ms/ioavtest (redirects to: https://wdtestgroundstorage.blob.core.[windows].net/public/validate/validatecloud.exe)
+Some test by @WDSecurity?
+????
+@BleepinComputer @demonslay335 https://t.co/SCxHA0YTI7

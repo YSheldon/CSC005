@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-31 03:00:21
+tourl: https://t.co/k9HZz2bu5G
+tags: [Attack]
+---
+CVE-2016-8626 A flaw was found in Red Hat Ceph before 0.94.9-8. The way Ceph Object Gateway handles POST object requests permits an authenticated attacker to launch a denial of service attack by sending null or specially crafted ... https://t.co/emnfuU6fa8

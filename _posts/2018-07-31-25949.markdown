@@ -1,0 +1,8 @@
+---
+layout: post
+title: CrowdStrike
+date: 2018-07-31 01:00:22
+tourl: http://t.co/ULWFfruGKw
+tags: [Crowdstrike]
+---
+To help board members navigate what for many are uncharted waters, CrowdStrike has developed a guide that offers insights and practical advice on what you need to know about #cybersecurity and how it impacts your organization. Learn more: https://t.co/IPFQgcXiQq https://t.co/D8PpBEFaY4

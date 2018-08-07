@@ -1,0 +1,10 @@
+---
+layout: post
+title: The Hacker News
+date: 2018-07-13 03:00:21
+tourl: https://t.co/tbidM9ew0f
+tags: [Source]
+---
+ODAT  Open Source Oracle Database Attacking (Penetration Testing) Tool
+
+https://t.co/7fmNQ6Ovko https://t.co/PNvEMzvXGF

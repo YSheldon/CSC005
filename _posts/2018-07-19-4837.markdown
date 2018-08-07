@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-19 01:00:22
+tourl: https://t.co/k9HZz2bu5G
+tags: [exploit]
+---
+CVE-2018-0380 Multiple vulnerabilities exist in the Cisco Webex Network Recording Player for Advanced Recording Format (ARF) and Webex Recording Format (WRF) files. An attacker could exploit these vulnerabilities by providing a ... https://t.co/w28Slqx32q

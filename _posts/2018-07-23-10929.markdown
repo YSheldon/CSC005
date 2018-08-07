@@ -1,0 +1,12 @@
+---
+layout: post
+title: Tripwire, Inc.
+date: 2018-07-23 01:00:22
+tourl: http://t.co/1sHmVCRv8W
+tags: [AWS]
+---
+(Webinar) DevOps Security: Build-Time Identification of Security Issues  A case study with Jenkins, Docker, and AWS 
+
+Register here: https://t.co/47EWKY08jK 
+
+ #DevSecOps #DevOps https://t.co/VgBIiKgrFR

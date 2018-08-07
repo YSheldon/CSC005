@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-08-05 03:00:21
+tourl: https://t.co/k9HZz2bu5G
+tags: [Attack]
+---
+CVE-2018-14952 The mail message display page in SquirrelMail through 1.4.22 has XSS via a "&lt;math&gt;&lt;maction xlink:href=" attack.  https://t.co/sWKsamrOO8

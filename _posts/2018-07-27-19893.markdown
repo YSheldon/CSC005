@@ -1,0 +1,8 @@
+---
+layout: post
+title: CyberScoop
+date: 2018-07-27 03:00:23
+tourl: https://t.co/UiSN102kIR
+tags: [Attack,exploit]
+---
+NetSpectre attack can exploit CPUs to leak information remotely, researchers say -  https://t.co/lYRtQYf1yk by @zbajee https://t.co/duTXuWvLxQ

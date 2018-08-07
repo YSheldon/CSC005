@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-07-20 01:00:22
+tourl: https://t.co/k9HZz2bu5G
+tags: [Exploitation]
+---
+CVE-2018-5008 Adobe Flash Player 30.0.0.113 and earlier versions have an Out-of-bounds read vulnerability. Successful exploitation could lead to information disclosure.  https://t.co/TF1GQxcjRO

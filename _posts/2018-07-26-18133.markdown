@@ -1,0 +1,8 @@
+---
+layout: post
+title: CrowdStrike
+date: 2018-07-26 01:00:22
+tourl: http://t.co/ULWFfruGKw
+tags: [Crowdstrike]
+---
+#Cybersecurity has become an integral part of organizational risk assessment and management for corporate boards.  Read more here in a blog from CrowdStrike CSO @Shawn365Henry: https://t.co/1gE2SZe6EA

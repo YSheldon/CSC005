@@ -1,0 +1,8 @@
+---
+layout: post
+title: David Gerard
+date: 2018-07-23 01:00:22
+tourl: https://t.co/E240mnk62C
+tags: [GDPR]
+---
+Shocked, shocked to hear that GDPR "consent" doesn't work - who'd have thought! In the meantime, adblock like hell. Firefox Android works well with uBlock Origin. https://t.co/CBtRYsW13I

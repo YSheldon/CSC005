@@ -1,0 +1,8 @@
+---
+layout: post
+title: TrendLabs
+date: 2018-07-30 03:00:21
+tourl: http://t.co/MB171H1oL9
+tags: [Bootkit]
+---
+Heres a closer look of the payloads of #Underminer #ExploitKit: a bootkit, and a cryptocurrency-mining malware that reportedly affected 500k machines: https://t.co/d5MmAKQDgu https://t.co/TljeSLwacd

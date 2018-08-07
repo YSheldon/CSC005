@@ -1,0 +1,8 @@
+---
+layout: post
+title: 0day Exploit Database
+date: 2018-08-06 03:00:23
+tourl: https://t.co/ifDhCPJfYM
+tags: [0day,exploit]
+---
+#0daytoday #onArcade 2.4.2 - Cross-Site Request Forgery (Add Admin) Vulnerability [#0day #Exploit] https://t.co/SYS4lDhd3R

@@ -1,0 +1,8 @@
+---
+layout: post
+title: CyberScoop
+date: 2018-07-20 03:00:21
+tourl: https://t.co/UiSN102kIR
+tags: [Attack]
+---
+LabCorp attack highlights persistent ransomware threat to health sector  https://t.co/LfD2CH72pl by @snlyngaas https://t.co/7OhrIrKQAz

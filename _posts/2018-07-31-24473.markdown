@@ -1,0 +1,11 @@
+---
+layout: post
+title: Drunk Binary
+date: 2018-07-31 02:00:25
+tourl: www.baidu.com
+tags: [Fancy Bear]
+---
+Possible APT28/Fancy Bear Zekapab Sample
+191ec5d12bf4fbca8c15239e2b34e291
+
+https://t.co/wDdhQ0I4E0

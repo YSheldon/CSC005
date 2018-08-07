@@ -1,0 +1,8 @@
+---
+layout: post
+title: TrendLabs
+date: 2018-07-26 01:00:22
+tourl: http://t.co/MB171H1oL9
+tags: [exploit]
+---
+The TCP port 5555 is no stranger to security issues. A new, possible #Satori variant is making the rounds, being spread via an ADB port exploit. More: https://t.co/tsyxVC7Kl4

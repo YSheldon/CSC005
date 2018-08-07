@@ -1,0 +1,8 @@
+---
+layout: post
+title: 44CON
+date: 2018-07-30 01:00:22
+tourl: http://t.co/dlbSf1777O
+tags: [Exploitation]
+---
+Learn Windows Kernel Exploitation with Ashfaq Ansari of @HackSysTeam https://t.co/DjfI2RlMk4
