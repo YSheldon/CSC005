@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-08-07 02:00:20
+tourl: https://t.co/k9HZz2bu5G
+tags: [Group]
+---
+CVE-2018-15130 ThinkSAAS through 2018-07-25 has XSS via the index.php?app=group&amp;ac=create&amp;ts=do groupdesc parameter.  https://t.co/MlNcHPt6SD

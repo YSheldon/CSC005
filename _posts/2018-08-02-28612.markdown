@@ -1,8 +1,0 @@
----
-layout: post
-title: Nuisance Call Firm Hit with Ł100K ICO Fine
-date: 2018-08-02 11:02:12
-tourl: https://www.infosecurity-magazine.com:443/news/nuisance-call-firm-hit-with-100k/
-tags: [Regulations]
----
-Cookies enable us to provide the best experience possible and help us understand how visitors use our website. By browsing Infosecurity Magazine, you agree to our use of cookies.The The UKs data protection watchdog also enforces the Privacy and Electronic Communications Regulations (PECR), which govern the use of marketing emails, calls, texts, faxes and other aspects.It has levied a Ł100,000 fine against East Sussex-based AMS Marketing, which made the calls to tens of thousands of individuals who had specifically opted out by registering with the Telephone Preference Service (TPS).It claimed to have received over 100 complaints about the calls, which were made between October 1 2016 and December 31 2017.An ICO investigation found that AMS bought lists of prospects from third parties but made no attempt to check whether they were on the TPS list.Firms that buy in lists of data are duty-bound to check whether people are registered with the TPS, a spokesperson for the Firms that fail to make the proper checks, do so at their peril. The ICO can and will take action.The announcement is the latest in a long list of similar financial penalties levied by the ICO against nuisance calls companies, amounting to some of the largest fines ever issued by the watchdog.In September last year Welsh marketerA few months earlier in May,The government is said to be In January this year the fines kept on coming, with In this case its director applied to strike it off the Companies House Register  a move the ICO blocked in a bid to help it recover the money.

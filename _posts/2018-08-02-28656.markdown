@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-08-02 03:00:22
-tourl: https://t.co/k9HZz2bu5G
-tags: [Scripting,Attack]
----
-CVE-2018-8032 Apache Axis 1.x up to and including 1.4 is vulnerable to a cross-site scripting (XSS) attack in the default servlet/services.  https://t.co/7vbTXEzPxd

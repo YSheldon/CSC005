@@ -1,8 +1,0 @@
----
-layout: post
-title: Cyber Security News
-date: 2018-08-02 02:00:20
-tourl: https://t.co/U9KYaU2Lgx
-tags: [Group]
----
-Y-Ventures Group Launches ICO in Bid to Bring Crypto to e-Commerce https://t.co/989EulpXbp

@@ -1,0 +1,8 @@
+---
+layout: post
+title: 44CON
+date: 2018-08-07 01:00:22
+tourl: http://t.co/dlbSf1777O
+tags: [exploit]
+---
+Learn Windows Pool Allocator internals for better Kernel exploit reliability with Ashfaq Ansari of @HackSysTeam https://t.co/y5H41H4cLT

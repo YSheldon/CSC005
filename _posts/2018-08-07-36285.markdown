@@ -1,0 +1,8 @@
+---
+layout: post
+title: Cygilant
+date: 2018-08-07 03:00:21
+tourl: https://t.co/780K1rtOuu
+tags: [Attack]
+---
+Whitepaper: Learn How to Reduce Attack Surface and Improve ROI for Your #Security Investment: https://t.co/FGEKSVBJ03 #infosec #patchmanagement #vulnerabilitymanagement https://t.co/1w0LY17y4s

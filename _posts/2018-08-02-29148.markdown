@@ -1,8 +1,0 @@
----
-layout: post
-title: kevin
-date: 2018-08-02 03:00:21
-tourl: https://t.co/mJWyBQgFpy
-tags: [TLS]
----
-@pollo290987 @malware_traffic Ah, cheers. I used to get .gov creds in there. They stopped targeting UK so I lost visibility. You can memory scrape the process for the email address and get the password, even for TLS SMTP servers.

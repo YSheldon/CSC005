@@ -1,0 +1,8 @@
+---
+layout: post
+title: Hakin9
+date: 2018-08-07 03:00:21
+tourl: https://t.co/4DC7miAMag
+tags: [TLS]
+---
+Facebook Open Sources Fizz  TLS 1.3 Library For Speed and Security https://t.co/0NP0q0xoe4 #infosec #hacking #hackers #pentesting #pentest #programming #opensource #Facebook #TLS

@@ -1,8 +1,0 @@
----
-layout: post
-title: Stefan Esser
-date: 2018-08-02 01:00:22
-tourl: https://t.co/2UU3zpeRUH
-tags: [Hack]
----
-Complete misrepresentation of reality. SMS 2FA is broken so badly that angry kiddies on the internet bypass it to hack YouTube creators they have beef with. It is "good enough" if nobody actually wants to hack you. https://t.co/AfnxjZKJ3o

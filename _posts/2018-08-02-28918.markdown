@@ -1,8 +1,0 @@
----
-layout: post
-title: AlienVault
-date: 2018-08-02 03:00:21
-tourl: http://t.co/7mZeFsDsoi
-tags: [MikroTik]
----
-#Security researchers have uncovered a massive #cryptojacking campaign targeting  200,000+ MikroTik routers that changes their configuration to inject Coinhive #cryptocurrency mining script: https://t.co/91trOyC5yd @campuscodi @BleepinComputer https://t.co/ECZKzLzDsw

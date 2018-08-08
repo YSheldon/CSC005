@@ -1,0 +1,8 @@
+---
+layout: post
+title: x0rz @ not defcon
+date: 2018-08-07 03:00:21
+tourl: https://t.co/kXWHpfnvr3
+tags: [Source]
+---
+Clearly this isn't the full source code, this seems very small for such an app (2 MB unzipped and ~22k SLOC) https://t.co/B7743nl5Pl

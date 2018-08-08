@@ -1,0 +1,8 @@
+---
+layout: post
+title: E Hacking News
+date: 2018-08-07 03:00:21
+tourl: http://t.co/nPhPD5aTI4
+tags: [MikroTik]
+---
+Over 200,000 MikroTik Routers Jeopardized. Coinhive Cryptojacking To Blame https://t.co/K2D9hCTR7e https://t.co/pmNnprib6P

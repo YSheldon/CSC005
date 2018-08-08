@@ -1,8 +1,0 @@
----
-layout: post
-title: Farsight Security
-date: 2018-08-02 02:00:20
-tourl: https://t.co/nCDvVNlFxj
-tags: [Group]
----
-"Within days, Fin7 had mapped Red Robins internal network." The Wild Inner Workings of a Billion-Dollar Hacking Group https://t.co/evWdEmyOKw by @wired #phishing #DNS#cybersecurity

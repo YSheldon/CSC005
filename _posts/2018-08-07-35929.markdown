@@ -1,0 +1,10 @@
+---
+layout: post
+title: x0rz @ not defcon
+date: 2018-08-07 03:00:21
+tourl: https://t.co/kXWHpfnvr3
+tags: [Source]
+---
+Snapchat source code leaked? Apparently yes https://t.co/A58TZ28FEK (Snap Inc. DMCA request to GitHub)
+
+Does anyone have a mirror of the (now deleted) repository? hxxps://github[.]com/i5xx/Source-SnapChat/ #snapchat #leaked

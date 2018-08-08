@@ -1,8 +1,0 @@
----
-layout: post
-title: McAfee Labs
-date: 2018-08-02 03:00:21
-tourl: https://t.co/WeHybHp2wV
-tags: [Attack]
----
-Popular network #Reddit announced that a hacker accessed their systems through an SMS intercept attack. SMS is one of the weakest forms of 2FA and must be replaced with stronger methods, like one-time-password algorithms. @shannonliao of @verge shares. https://t.co/A1kz7JTzsL

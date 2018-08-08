@@ -1,8 +1,0 @@
----
-layout: post
-title: Trend Micro
-date: 2018-08-02 01:00:22
-tourl: http://t.co/f67vqZFY1d
-tags: [exploit]
----
-We analyzed a recent #exploit that abuses Androids ADB tool to target mobile devices and spread possible #Satori variant. Details: https://t.co/HBzlJCdMcG https://t.co/ErfK0pvF9h

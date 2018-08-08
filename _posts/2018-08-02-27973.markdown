@@ -1,8 +1,0 @@
----
-layout: post
-title: RSA
-date: 2018-08-02 01:00:22
-tourl: https://t.co/bABGhyqAQB
-tags: [CISO]
----
-In an increasingly complex #technology landscape with growing #cybersecurity risks, see why the #CISO needs new skills &amp; must act as a bridge between #InfoSec teams &amp; the C-Suite: https://t.co/l7COr4pTuB https://t.co/OvOVAhxuax

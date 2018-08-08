@@ -1,8 +1,0 @@
----
-layout: post
-title: kevin
-date: 2018-08-02 03:00:21
-tourl: https://t.co/mJWyBQgFpy
-tags: [TLS]
----
-@malware_traffic If its still the same as 2016, you can extract the SMTP creds from memory (or TLS MITM the creds). I used to do that and notify the organisations. When you get the SMTP module its a nice goldmine ????

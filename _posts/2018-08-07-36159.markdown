@@ -1,0 +1,8 @@
+---
+layout: post
+title: Eric Romang
+date: 2018-08-07 03:00:21
+tourl: https://t.co/U0Dm2KYuqW
+tags: [Attack]
+---
+#TIBEREU Threat intelligence will be used by the RT provider to develop attack scenarios and execute an intelligence-led red team test of specified critical live production systems, people and processes

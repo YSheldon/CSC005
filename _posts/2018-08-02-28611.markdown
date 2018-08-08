@@ -1,8 +1,0 @@
----
-layout: post
-title: New Zealand school on naughty step after ransomware failure
-date: 2018-08-02 13:02:11
-tourl: /2018/08/02/new_zealand_school_hit_by_ransomware_scum/
-tags: [Attack]
----
-A Kiwi high school has learned the don't click on the link lesson the hard way, with a ransomware attack locking down its student's course work.The H?wera High School is being asked for US$5,000 to unlock the ransomed files. According to New Zealand's Taranki Daily News, the attack didn't affect staff or student records, and the school has disconnected its network while it works out what to do.Because the school was in the process of migrating storage to the cloud, the attacker didn't lock out everything, principal Rachel Williams told Radio New Zealand. She added that the school is conducting a full audit to work out what's been lost.The worst hit, she said, will be students in photography and some technology subjects, who were more likely to be storing their work locally.The government's school Internet provider N4L had already decided better protection is needed at a national level, and has Fortinet has landed the job of providing firewalls and content filtering for the upgrade, with N4L taking on administration of the kit as a managed service. The upgrade will cover all 2,450 schools and 800,000 students in New Zealand.New Zealand's Fairfax outlet Stuff 

@@ -1,0 +1,11 @@
+---
+layout: post
+title: x0rz @ not defcon
+date: 2018-08-07 03:00:21
+tourl: https://t.co/kXWHpfnvr3
+tags: [Source]
+---
+FWIW, if you wondered what's the number of women within the #infosec community, I'd say it's roughly 5%*
+
+__
+* from a sample of 63,372 people following me (source https://t.co/iPNVCLtYuG) https://t.co/hhZq0m5Msk

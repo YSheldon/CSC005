@@ -1,8 +1,0 @@
----
-layout: post
-title: Naked Security
-date: 2018-08-02 03:00:21
-tourl: http://t.co/xOLRCy9nPS
-tags: [WebAuthn]
----
-Microsoft Edge adds WebAuthn as passwords near the end https://t.co/n9Qq7MmvPP

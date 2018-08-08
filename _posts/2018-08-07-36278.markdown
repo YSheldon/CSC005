@@ -1,0 +1,8 @@
+---
+layout: post
+title: Threatpost
+date: 2018-08-07 03:00:21
+tourl: http://t.co/rD9Wvdqf3e
+tags: [Attack]
+---
+#Spam is back with a vengeance, thanks to the demise of attack vectors such as #Adobe Flash: https://t.co/DUbMR98r2Z

@@ -1,8 +1,0 @@
----
-layout: post
-title: Cyber Security News
-date: 2018-08-02 03:00:21
-tourl: https://t.co/U9KYaU2Lgx
-tags: [Attack]
----
-Cybercriminals targeted at least 400 industrial companies with spear-phishing attack for financial ... https://t.co/NE1ejJdazI

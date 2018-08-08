@@ -1,8 +1,0 @@
----
-layout: post
-title: Metasploit Project
-date: 2018-08-02 01:00:22
-tourl: http://t.co/Y7tDS1MHez
-tags: [Hack]
----
-Think you have what it takes to hack a target in under 5 minutes? Test your Metasploit skills and sling shells at the @Rapid7 booth at #BSidesLV. Game on. https://t.co/SndDrDfzAM

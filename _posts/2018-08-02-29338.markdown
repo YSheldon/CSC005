@@ -1,8 +1,0 @@
----
-layout: post
-title: WorldScienceFestival
-date: 2018-08-02 03:00:21
-tourl: https://t.co/OZRsH4glSJ
-tags: [Trap]
----
-In addition to explaining why the sky is blue, John Tyndall discoveredmore than 150 years agothat atmospheric gases trap heat, what we now call the greenhouse effect, a key component in climate change. Born August 2, 1820. https://t.co/LaRp3JWXu3

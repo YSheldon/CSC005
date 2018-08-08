@@ -1,8 +1,0 @@
----
-layout: post
-title: Catalin Cimpanu
-date: 2018-08-02 03:00:23
-tourl: https://t.co/9lGQt24Ew6
-tags: [exploit,MikroTik]
----
-Attacker has been leveraging a former zero-day exploit in MikroTik routers, detailed in our previous coverage here: https://t.co/z9VVYDyyam

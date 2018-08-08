@@ -1,0 +1,8 @@
+---
+layout: post
+title: 0day Exploit Database
+date: 2018-08-07 03:00:23
+tourl: https://t.co/ifDhCPJfYM
+tags: [exploit,0day]
+---
+#0daytoday #OpenEMR 5.0.1 - Remote Code Execution Exploit [webapps #exploits #0day #Exploit] https://t.co/YxswuAPD1v

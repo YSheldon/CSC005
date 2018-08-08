@@ -1,8 +1,0 @@
----
-layout: post
-title: kevin
-date: 2018-08-02 03:00:21
-tourl: https://t.co/mJWyBQgFpy
-tags: [MikroTik]
----
-Theres almost a quarter of a million MikroTik routers running cryptocurrency mining now. Vendors, please stop shipping devices with default credentials and remote access enabled. https://t.co/wdyywEGqWE

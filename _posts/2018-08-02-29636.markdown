@@ -1,8 +1,0 @@
----
-layout: post
-title: Threatpost
-date: 2018-08-02 03:00:21
-tourl: http://t.co/rD9Wvdqf3e
-tags: [Attack]
----
-Threatpost talks to Matt Tyrer with @Commvault about the recent COSCO #ransomware attack: https://t.co/UQXJ9BGwqf

@@ -1,0 +1,8 @@
+---
+layout: post
+title: SANS Institute
+date: 2018-08-07 03:00:21
+tourl: http://t.co/AJ81JwpA9v
+tags: [Source]
+---
+Webcast: 'Automating Open Source #Security' | 8/22 @ 1PM EST @WhiteSourceSoft SANS Serge Borso @SANSDefense https://t.co/joFTqWrYUH

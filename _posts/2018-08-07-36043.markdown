@@ -1,0 +1,10 @@
+---
+layout: post
+title: The Hacker News
+date: 2018-08-07 03:00:21
+tourl: https://t.co/tbidM9ew0f
+tags: [Attack]
+---
+Apple Chip Maker TSMC Blames #WannaCry Ransomware Attack for Production Halt by @unix_root
+
+https://t.co/db2Rn3UowG https://t.co/cxjtXqtjj9

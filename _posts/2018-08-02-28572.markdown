@@ -1,8 +1,0 @@
----
-layout: post
-title: Threatpost
-date: 2018-08-02 03:00:22
-tourl: http://t.co/rD9Wvdqf3e
-tags: [Attack,WhatsApp]
----
-Amnesty International says that it has been targeted in a cyberespionage attack via a malicious #WhatsApp message:  https://t.co/tDkf2YLJax

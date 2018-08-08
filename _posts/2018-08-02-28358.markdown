@@ -1,8 +1,0 @@
----
-layout: post
-title: 0day Exploit Database
-date: 2018-08-02 03:00:23
-tourl: https://t.co/ifDhCPJfYM
-tags: [exploit,0day]
----
-#0daytoday #Allok Fast AVI MPEG Splitter 1.2 SEH Overwrite Exploit [dos #exploits #0day #Exploit] https://t.co/Xs2y5KoeiV

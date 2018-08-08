@@ -1,8 +1,0 @@
----
-layout: post
-title: Cyber Security News
-date: 2018-08-02 01:00:22
-tourl: https://t.co/U9KYaU2Lgx
-tags: [GDPR]
----
-EU GDPR-Consent to Process Personal Data https://t.co/4YPGPmc1ic
