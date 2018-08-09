@@ -19,6 +19,7 @@ permalink: /tags/
         <h3 class="post-title"><a href="{{post.tourl}}">{{post.title}}</a></h3>
         <p>{{ post.content | strip_html | slice:0,90 }}...</p>
         <span class="post-date">{{post.date | date: '%Y, %b %d'}}&nbsp;&nbsp;</span>
+        <span class="post-download"><a href="https://raw.githubusercontent.com/cscinsight/CSC005/gh-pages/{{post.path}}" download="{{post.title}}" target="_blank">下载此信息</a></span>
     </div>
     {% endif %}{% endfor %}
   {% endunless %}{% endfor %}
