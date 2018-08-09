@@ -1,8 +1,0 @@
----
-layout: post
-title: Universe Today
-date: 2018-08-03 02:00:25
-tourl: http://t.co/9oGDfXChG0
-tags: [Dust Storm]
----
-The Mars Exploration Rovers Update: Dust Storm Wanes, Opportunity Sleeps, Team Prepares Recovery Strategy https://t.co/0QyGdhjd42 via @exploreplanets https://t.co/qvC4289HP9

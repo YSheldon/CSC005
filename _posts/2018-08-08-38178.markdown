@@ -1,0 +1,9 @@
+---
+layout: post
+title: DarkReading
+date: 2018-08-08 03:00:21
+tourl: http://t.co/nSh7l5vd4x
+tags: [Attack]
+---
+Breaking Down the PROPagate Code Injection Attack https://t.co/4N8c425yae by 
+@_snus #Windows #API #PROPagate

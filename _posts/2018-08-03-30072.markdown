@@ -1,8 +1,0 @@
----
-layout: post
-title: Linux Security Labs
-date: 2018-08-03 03:00:21
-tourl: https://t.co/ee1vBPOO91
-tags: [MimiPenguin]
----
-Tool review: mimipenguin (password extractor) by @HunterGregal #password #infosec #tools https://t.co/aoHKcuB0rW

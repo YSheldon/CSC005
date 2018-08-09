@@ -1,0 +1,9 @@
+---
+layout: post
+title: Scott Piper
+date: 2018-08-08 01:00:22
+tourl: http://t.co/Akrgmn9RNr
+tags: [AWS]
+---
+Diff of the 2016 AWS DDoS whitepaper and the one released in July: https://t.co/FE6FZXppJ6
+The update is mostly to discuss AWS Shield and with that the AWS DDoS Response Team (DRT).

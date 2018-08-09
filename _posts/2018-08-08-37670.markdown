@@ -1,0 +1,8 @@
+---
+layout: post
+title: CrowdStrike
+date: 2018-08-08 02:00:27
+tourl: http://t.co/ULWFfruGKw
+tags: [Crowdstrike,Gothic Panda]
+---
+"This guy gives me the creeps." But that won't stop @CrowdStrike's Peter Ingebrigtsen (@skinnypete76) from treating every visitor like a VIP at Black Hat booth #520. Stop by for a personalized demo of Falcon platform and find out how CrowdStrike stops breaches (even GOTHIC PANDA) https://t.co/TNiPcVTGlc

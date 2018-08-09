@@ -1,8 +1,0 @@
----
-layout: post
-title: Scott Piper
-date: 2018-08-03 01:00:22
-tourl: http://t.co/Akrgmn9RNr
-tags: [AWS]
----
-It's hard to compare an OS (that has thousand of userland functions as well) with AWS, but wanted to get numbers on this. after seeing a quote from @marcoslaviero again.

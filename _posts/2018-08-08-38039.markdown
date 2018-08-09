@@ -1,0 +1,8 @@
+---
+layout: post
+title: 44CON
+date: 2018-08-08 01:00:22
+tourl: http://t.co/dlbSf1777O
+tags: [Exploitation]
+---
+Dive deep into IPC exploitation with @MDSecLabs' Mobile Hacker's Handbook: Live Edition training at 44CON https://t.co/KEwxBhFz3o

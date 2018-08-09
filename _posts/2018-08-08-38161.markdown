@@ -1,0 +1,8 @@
+---
+layout: post
+title: Mathy Vanhoef
+date: 2018-08-08 03:00:21
+tourl: https://t.co/DaaCiQYBqF
+tags: [Attack]
+---
+The bug is in the implementation of WPA2's 4-way handshake. For a proof-of-concept attack in a virtual environment, see https://t.co/GMPjNTS6CN

@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-08-03 03:00:21
-tourl: https://t.co/k9HZz2bu5G
-tags: [Scripting]
----
-CVE-2018-14504 An issue was discovered in manage_filter_edit_page.php in MantisBT 2.x through 2.15.0. A cross-site scripting (XSS) vulnerability in the Edit Filter page allows execution of arbitrary code (if CSP settings permit it) ... https://t.co/7g984lfANr

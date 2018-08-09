@@ -1,8 +1,0 @@
----
-layout: post
-title: Threatpost
-date: 2018-08-03 03:00:21
-tourl: http://t.co/rD9Wvdqf3e
-tags: [MikroTik]
----
-Carrier-grade MikroTik #routers are delivering potentially millions of daily cryptomining pages to a single attacker: https://t.co/zjuhYxRDgM

@@ -1,8 +1,0 @@
----
-layout: post
-title: The CyberWire
-date: 2018-08-03 03:00:23
-tourl: https://t.co/HQuCt1gLbK
-tags: [Attack,Hack]
----
-#billingtoncyber Chertoff: In addition to traditional threats, new modes of attack are emerging. A central, core part of a network need not be the point of attack. Consider the well-known Target hack. Mechanics in a shop will use their own, possibly infected devices.

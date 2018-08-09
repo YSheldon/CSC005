@@ -1,8 +1,0 @@
----
-layout: post
-title: Vincent Yiu ?????
-date: 2018-08-03 03:00:21
-tourl: https://t.co/tj7TTh8Vxh
-tags: [Domain Fronting]
----
-Another note. Domain Fronting isnt something Id probably rely on for 15 years though. :D

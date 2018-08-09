@@ -1,8 +1,0 @@
----
-layout: post
-title: SC Media
-date: 2018-08-03 03:00:21
-tourl: https://t.co/BYI1kkbds1
-tags: [MikroTik]
----
-Cryptominers put a new twist on injecting miners into webpages ---- Vulnerable MikroTik routers being used to spread Coinhive miner https://t.co/kZoJY6kc8T via @scmagazine

@@ -1,8 +1,0 @@
----
-layout: post
-title: The CyberWire
-date: 2018-08-03 03:00:21
-tourl: https://t.co/HQuCt1gLbK
-tags: [China]
----
-#billingtoncyber Panelist Jason Bilonski (FBI Detroit Field Office) on threats to automotive sector stresses APTs. State actors are in this for the long haul. Let's not forget about China's industrial espionage.

@@ -1,8 +1,0 @@
----
-layout: post
-title: Air Force outlines five-year, $25M SIGINT research project
-date: 2018-08-03 11:02:12
-tourl: https://defensesystems.com/articles/2018/08/03/air-force-intell-exploitation.aspx
-tags: [Exploitation]
----
-Defense ITThe Air Force has plans for a five-year, $24.9 million project for Measurement and Signatures Intelligence Exploitation.The department wants research on innovative, disruptive technologies and methods in MASINT-X and six similar disciplines.Sub-disciplines include:The Air Force will make awards in the form of contracts, grants, cooperative agreements and other transactions, based on the proposed work.Officials are currently asking for white papers.They will accept them until Sept. 30, 2020. However, they warned that the likelihood of funding will decrease in each fiscal year.About the AuthorSign up for our newsletter.ttI agree to this site's 

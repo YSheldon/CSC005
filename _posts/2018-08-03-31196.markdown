@@ -1,8 +1,0 @@
----
-layout: post
-title: Ali (n0p)
-date: 2018-08-03 03:00:21
-tourl: https://t.co/APc5IMv8oq
-tags: [Attack]
----
-@BleepinComputer @campuscodi Thank you guys for your comprehensive overview of what happened. This attack is bound to grow larger with new attack vectors as well

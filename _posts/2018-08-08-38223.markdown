@@ -1,0 +1,8 @@
+---
+layout: post
+title: CrowdStrike
+date: 2018-08-08 03:00:21
+tourl: http://t.co/ULWFfruGKw
+tags: [Falcon X]
+---
+The predictive capabilities delivered by Falcon X automated threat intelligence can benefit any size organization. With Falcon X, any organization can elevate its #security posture instantly. @George_Kurtz #BHUSA #GoCrowdStrike https://t.co/inLR98vNsU

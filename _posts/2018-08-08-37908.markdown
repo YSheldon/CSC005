@@ -1,0 +1,8 @@
+---
+layout: post
+title: The CyberWire
+date: 2018-08-08 03:00:21
+tourl: https://t.co/HQuCt1gLbK
+tags: [Attack]
+---
+#CWBriefing: #TSMC #cyber incident: It appears to have been due to operator #carelessness, a secondary #infection &amp; not a direct attack, as had been widely feared in #Taiwan when #malware infection was first reported. #WannaCry #cybersecurity #infosec https://t.co/JNU5DEz0Fo

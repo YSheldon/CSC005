@@ -1,8 +1,0 @@
----
-layout: post
-title: The CyberWire
-date: 2018-08-03 01:00:22
-tourl: https://t.co/HQuCt1gLbK
-tags: [CISO]
----
-#CWpodcast guest is David Spark, cohost of the CISO Security Vendor Relationship podcast. @dspark #cybersecurity #infosec https://t.co/daHr1LcaRi

@@ -1,0 +1,8 @@
+---
+layout: post
+title: WhatsApp for Windows 10 Updated With Forwarding Restriction to Reduce Fake news
+date: 2018-08-08 13:02:11
+tourl: https://www.bleepingcomputer.com/news/microsoft/whatsapp-for-windows-10-updated-with-forwarding-restriction-to-reduce-fake-news/
+tags: [WhatsApp]
+---
+Launched back in 2017, WhatsApp Desktop is a Windows 10 app that acts as a wrapper for the WhatsApp web version and it can be downloaded from the Microsoft Store. Facebook-owned WhatsApp has just rolled a new update that aims to stop the spread of fake news by restricting the amount of people you can forward a message.The message forwarding restriction feature was "Investigations into these incidents have shown that people often forwarded false messages or doctored videos to large groups, some with more than 100 participants," stated a This latest version will bring the build number to 0.3.255.0 and includes general bug fixes and a global restriction of only allowing a message to be forwarded 20 times.This new restriction means that if a message is forwarded twenty times from the same account, the forwarding option will be disabled for that message. For users in India,  this restriction has been set to a lower number of 5 forwards."Today, we're launching a test to limit forwarding that will apply to everyone using WhatsApp. In India - where people forward more messages, photos, and videos than any other country in the world - we'll also test a lower limit of 5 chats at once and we'll remove the quick forward button next to media messages," the company As always, you can 

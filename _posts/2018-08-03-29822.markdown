@@ -1,8 +1,0 @@
----
-layout: post
-title: JPCERT/CC
-date: 2018-08-03 03:00:21
-tourl: http://t.co/GTbWARVmQn
-tags: [Cobalt Strike]
----
-New Blog Post: Volatility Plugin for Detecting Cobalt Strike Beacon ^TE https://t.co/9UwKQvQExs

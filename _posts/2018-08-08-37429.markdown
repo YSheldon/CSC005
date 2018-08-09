@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-08-08 03:00:21
+tourl: https://t.co/k9HZz2bu5G
+tags: [Scripting]
+---
+CVE-2018-15169 A reflected Cross-site scripting (XSS) vulnerability in Zoho ManageEngine Applications Manager 13 before build 13820 allows remote attackers to inject arbitrary web script or HTML via the /deleteMO.do method parameter.  https://t.co/oMkXocn5N9

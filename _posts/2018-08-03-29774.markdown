@@ -1,8 +1,0 @@
----
-layout: post
-title: kevin
-date: 2018-08-03 03:00:21
-tourl: https://t.co/mJWyBQgFpy
-tags: [Source]
----
-This is not how it works in the UK. Source: I worked number portability for a telco. https://t.co/b9xbJty62W

@@ -1,8 +1,0 @@
----
-layout: post
-title: AlienVault
-date: 2018-08-03 02:00:20
-tourl: http://t.co/7mZeFsDsoi
-tags: [Group]
----
-U.S. electric utilities are being targeted by suspected state-sponsored hacking group, security researchers warn: https://t.co/J8VoqIQTBa @WashTimes @apblake - thanks for sharing @cybersecboardrm! https://t.co/aRSpHoAEhO

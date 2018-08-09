@@ -1,0 +1,8 @@
+---
+layout: post
+title: Mathy Vanhoef
+date: 2018-08-08 03:00:21
+tourl: https://t.co/DaaCiQYBqF
+tags: [Group,Attack]
+---
+Using the oracle to e.g. decrypt a group key is slow (~20min to recover each byte). Several clients can be attacked in parallel, but still a non-trivial attack. So patch, but don't worry too much. For Hostap's disclosure, see https://t.co/m1GYoWP8Y7 and https://t.co/XmGUfJ4WOi

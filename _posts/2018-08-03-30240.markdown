@@ -1,8 +1,0 @@
----
-layout: post
-title: 0day Exploit Database
-date: 2018-08-03 03:00:23
-tourl: https://t.co/ifDhCPJfYM
-tags: [exploit,0day]
----
-#0daytoday #Linux Kernel UDP Fragmentation Offset (UFO) Privilege Escalation Exploit [#0day #Exploit] https://t.co/NIZUuGQkbd

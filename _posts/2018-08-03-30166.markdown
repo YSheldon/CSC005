@@ -1,8 +1,0 @@
----
-layout: post
-title: 0day Exploit Database
-date: 2018-08-03 03:00:23
-tourl: https://t.co/ifDhCPJfYM
-tags: [0day,exploit]
----
-#0daytoday #Seq 4.2.476 - Authentication Bypass Vulnerability CVE-2018-8096 [webapps #exploits #Vulnerability #0day #Exploit] https://t.co/Vev3wIOrRu

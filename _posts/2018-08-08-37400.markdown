@@ -1,0 +1,8 @@
+---
+layout: post
+title: The CyberWire
+date: 2018-08-08 03:00:21
+tourl: https://t.co/HQuCt1gLbK
+tags: [Attack]
+---
+#CWPodcast Partner Mike Benjamin of @CenturyLink describes #DDoS attack trends on the Podcast. #cybersecurity #infosec https://t.co/4UOi6rQ0VS https://t.co/e8FS8RTPsw

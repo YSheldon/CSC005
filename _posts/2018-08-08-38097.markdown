@@ -1,0 +1,8 @@
+---
+layout: post
+title: Binni Shah
+date: 2018-08-08 03:00:22
+tourl: https://t.co/LfZIicBDza
+tags: [Source,TLS]
+---
+Step :  a new open source security tool that makes it easier to work with zero trust tech like TLS, OAuth/OIDC, JWT, OATH OTP, etc :  https://t.co/WpH1XhtUMC , Repo : https://t.co/uYiSiBFwM4  cc @smallsteplabs https://t.co/A5U4urgOUD

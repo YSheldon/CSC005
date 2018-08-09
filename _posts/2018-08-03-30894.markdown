@@ -1,8 +1,0 @@
----
-layout: post
-title: Naked Security
-date: 2018-08-03 02:00:20
-tourl: http://t.co/xOLRCy9nPS
-tags: [Group]
----
-Alleged high-ranking members of the cybercrime group Fin7 arrested. https://t.co/80CPAEpszC

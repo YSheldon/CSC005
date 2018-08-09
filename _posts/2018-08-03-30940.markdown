@@ -1,8 +1,0 @@
----
-layout: post
-title: Scott Piper
-date: 2018-08-03 01:00:22
-tourl: http://t.co/Akrgmn9RNr
-tags: [AWS]
----
-"The number of known attacks against AWS is small, which is at odds with the huge number (and complexity) of services available. It's not a deep insight to argue that the number of classes of cloud specific attacks will rise." https://t.co/1dCZp2K2LR

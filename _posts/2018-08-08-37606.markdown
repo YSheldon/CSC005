@@ -1,0 +1,8 @@
+---
+layout: post
+title: Hakin9
+date: 2018-08-08 03:00:21
+tourl: https://t.co/4DC7miAMag
+tags: [Source]
+---
+New Open Source Tools Help Find Large Twitter Botnets @SecurityWeek https://t.co/oqNEedL0EJ  #infosec #hacking #hackers #pentesting #pentest #programming #opensource #botnets #twitter

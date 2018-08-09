@@ -1,0 +1,8 @@
+---
+layout: post
+title: The CyberWire
+date: 2018-08-08 01:00:22
+tourl: https://t.co/HQuCt1gLbK
+tags: [Exploitation]
+---
+#CWPodcast: #Twitter #botnets are said to be growing in reach &amp; sophistication. Experts warn of their potential for exploitation in #informationoperations. #cybersecurity #infosec https://t.co/4UOi6rQ0VS

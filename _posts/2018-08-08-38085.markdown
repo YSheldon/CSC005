@@ -1,0 +1,8 @@
+---
+layout: post
+title: Menlo Security
+date: 2018-08-08 03:00:21
+tourl: https://t.co/KGGTO8JfLs
+tags: [Attack]
+---
+Blue Springs Family Care is notifying 44,979 patients that their health #data may have been compromised after a #ransomware attack; clinic has deployed a new firewall &amp; an unnamed EHR vendor will encrypt all of its patients' PHI @juliespitzer94 @BeckersHR https://t.co/MMd2MLZ62z https://t.co/Re2dIBI5rx

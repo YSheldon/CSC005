@@ -1,8 +1,0 @@
----
-layout: post
-title: SANS Institute
-date: 2018-08-03 03:00:21
-tourl: http://t.co/AJ81JwpA9v
-tags: [Source]
----
-Take a first-hand look at why SANS is the most trusted source for #cybersecurity training, certification, and research! Find an event near you and get unrivaled #InfoSec training: https://t.co/o0AxEID91M

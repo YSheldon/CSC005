@@ -1,0 +1,8 @@
+---
+layout: post
+title: Menlo Security
+date: 2018-08-08 02:00:25
+tourl: https://t.co/KGGTO8JfLs
+tags: [OilRig]
+---
+.@Unit42 has singled out #OilRig (aka #PT34 &amp; #HelixKitten) for launching multiple #spearphishing attacks in Iran; at the same time, #Leafminer was also noted as the #hackers responsible for a range of other attacks across ME @DougOlenick @SCmagazine - https://t.co/bfuVkD1Tav https://t.co/ThMR9bkR70

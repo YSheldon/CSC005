@@ -1,8 +1,0 @@
----
-layout: post
-title: The CyberWire
-date: 2018-08-03 03:00:22
-tourl: https://t.co/HQuCt1gLbK
-tags: [WINDSHIELD,Wiper]
----
-#billingtoncyber Piastrelli: The first time there's a cyber problem with an autonomous car, even if it's a windshield wiper turning on, will be perceived as a big issue.

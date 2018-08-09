@@ -1,0 +1,8 @@
+---
+layout: post
+title: CVE
+date: 2018-08-08 03:00:21
+tourl: https://t.co/k9HZz2bu5G
+tags: [Attack]
+---
+CVE-2018-15177 In Gxlcms 2.0, a news/index.php?s=Admin-Admin-Insert CSRF attack can add an administrator account.  https://t.co/VTUiC28YAJ

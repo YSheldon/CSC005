@@ -1,8 +1,0 @@
----
-layout: post
-title: NASA History Office
-date: 2018-08-03 02:00:20
-tourl: http://t.co/wWBPdTeoW6
-tags: [Group]
----
-Representatives of Martin Company briefed Director (of what is now @NASA_Johnson) Robert Gilruth and the Space Task Group on Titan II technical characteristics and expected performance #OTD in 1961. This rocket launched crews during the Gemini program and was a modified ICBM. https://t.co/3EX5yWcwmv

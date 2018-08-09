@@ -1,0 +1,8 @@
+---
+layout: post
+title: CYJAX
+date: 2018-08-08 03:00:21
+tourl: https://t.co/FzXphkn5Kb
+tags: [Attack]
+---
+While researching ways to attack the new WPA3 standard, @hashcat developer Jens Steube discovers a simpler method to crack access credentials for WPA/WPA2 https://t.co/XS9I1m4Fk7 #cybersecurity #WPA2 #WPA3

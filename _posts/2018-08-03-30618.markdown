@@ -1,8 +1,0 @@
----
-layout: post
-title: SecurityWeek
-date: 2018-08-03 03:00:21
-tourl: https://t.co/nPBX8e3TNP
-tags: [MikroTik]
----
-MikroTik Routers Exploited in Massive Crypto-Mining Campaign https://t.co/kp5MNRUdFg

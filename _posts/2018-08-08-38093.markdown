@@ -1,0 +1,8 @@
+---
+layout: post
+title: SecurityWeek
+date: 2018-08-08 03:00:21
+tourl: https://t.co/nPBX8e3TNP
+tags: [WhatsApp]
+---
+Researchers Find Flaw in WhatsApp https://t.co/27aRLDrwdY

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Virus Bulletin
+date: 2018-08-08 03:00:21
+tourl: https://t.co/3UVRbwBJWI
+tags: [Group,Source]
+---
+The DarkHydrus threat group appears to have been using the open source phishery tool in a recent campaign https://t.co/K1XrRitV8O https://t.co/KlAgqIKzu7

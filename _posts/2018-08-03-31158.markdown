@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-08-03 01:00:22
-tourl: https://t.co/k9HZz2bu5G
-tags: [exploit,Trojan]
----
-CVE-2018-14911 A file upload vulnerability exists in ukcms v1.1.7 and earlier. The vulnerability is due to the system not strictly filtering the file upload type. An attacker can exploit the vulnerability to upload a script Trojan ... https://t.co/LNL6HlXRvT

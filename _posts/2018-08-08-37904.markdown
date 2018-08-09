@@ -1,0 +1,8 @@
+---
+layout: post
+title: Monitoring _CYOPS
+date: 2018-08-08 03:00:21
+tourl: www.baidu.com
+tags: [WhatsApp]
+---
+FakesApp: A Vulnerability in WhatsApp - Check Point Research https://t.co/fyiepA22D3

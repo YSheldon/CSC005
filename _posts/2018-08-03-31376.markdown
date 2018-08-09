@@ -1,8 +1,0 @@
----
-layout: post
-title: Pentestit
-date: 2018-08-03 03:00:21
-tourl: https://t.co/ycuwfNwHyj
-tags: [PowerShell]
----
-#PowerShell #Injection Hunter: #Security #Auditing for PowerShell Scripts - https://t.co/uiICRxxixz

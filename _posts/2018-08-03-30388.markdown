@@ -1,8 +1,0 @@
----
-layout: post
-title: The CyberWire
-date: 2018-08-03 03:00:21
-tourl: https://t.co/HQuCt1gLbK
-tags: [China]
----
-#billingtoncyber Chertoff (to a question about global cooperation): Global character of auto industry lends itself to sharing of best practices. There are some challenges in cooperating with China, a bit of discomfort sharing.
