@@ -1483,9 +1483,14 @@ a.newer-posts:hover {
   font-size: 12px;
 }
 
+.blog-tags .tag-list .post-download{
+  font-size: 12px;
+  float: right;
+}
+
 .blog-tags .tag-list .post-title {
   margin: 0 0 10px;
-  font-size: 20px;
+  font-size: 30px;
   font-weight: 400;
 }
 
