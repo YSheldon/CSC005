@@ -1,0 +1,12 @@
+---
+layout: post
+title: avman
+date: 2018-08-09 02:00:20
+tourl: www.baidu.com
+tags: [Trojan]
+---
+https://t.co/WNATf0Ftqm
+#JS #Miner here:
+jonnyveloov[.]com/update/
+
+also downloads run_update.exe which is  a strange trojan that uses windows installer to restart the computer.

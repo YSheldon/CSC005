@@ -1,0 +1,8 @@
+---
+layout: post
+title: Cyber Security News
+date: 2018-08-09 01:00:22
+tourl: https://t.co/U9KYaU2Lgx
+tags: [GDPR]
+---
+GDPR means over 1000 US news sites are still unavailable in EU https://t.co/8FOYefHWYL

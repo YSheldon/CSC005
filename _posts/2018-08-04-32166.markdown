@@ -1,9 +1,0 @@
----
-layout: post
-title: Nicolas Krassas
-date: 2018-08-04 03:00:21
-tourl: http://t.co/nj3EPPRowo
-tags: [Attack]
----
-A Linux Auditd rule set mapped to MITRE's Attack Framework
-https://t.co/rXoCAEy3g1

@@ -1,8 +1,0 @@
----
-layout: post
-title: 44CON
-date: 2018-08-04 01:00:22
-tourl: http://t.co/dlbSf1777O
-tags: [exploit]
----
-Theres an Intel on every desktop, but an ARM in every pocket. - Learn how to exploit ARM IoT with @therealsaumil's IoT Exploit lab https://t.co/RT7F23BTej

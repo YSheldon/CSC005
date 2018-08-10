@@ -1,0 +1,8 @@
+---
+layout: post
+title: Heimdal Security
+date: 2018-08-09 03:00:21
+tourl: https://t.co/MAGmtFp8Sf
+tags: [WhatsApp]
+---
+Researchers found a #Whatsapp #vulnerability that could allow attackers to send fake messages but the app's maker does not think this is a flaw. Be careful! https://t.co/24m63qObaa

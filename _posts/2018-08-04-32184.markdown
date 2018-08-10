@@ -1,8 +1,0 @@
----
-layout: post
-title: Nicolas Krassas
-date: 2018-08-04 03:00:21
-tourl: http://t.co/nj3EPPRowo
-tags: [Attack]
----
-Massive ransomware attack forcing authorities to move to typewriters https://t.co/8wVqKCOV5j

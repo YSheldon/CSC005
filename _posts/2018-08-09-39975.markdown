@@ -1,0 +1,9 @@
+---
+layout: post
+title: Virus Bulletin
+date: 2018-08-09 01:00:22
+tourl: https://t.co/3UVRbwBJWI
+tags: [exploit]
+---
+Dont call it a comeback: @jeromesegura wrote his quarterly overview of the exploit kit landscape https://t.co/LQgA2nbC8z
+Don't forget Jerome is also speaking at #VB2018 https://t.co/Yt0ycOEYJj https://t.co/MRfzKWMik2

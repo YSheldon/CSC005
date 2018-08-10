@@ -1,8 +1,0 @@
----
-layout: post
-title: Nicolas Krassas
-date: 2018-08-04 01:00:22
-tourl: http://t.co/nj3EPPRowo
-tags: [exploit]
----
-Telewreck - A Burp extension to detect and exploit versions of Telerik Web UI vulnerable to CVE-2017-9248. https://t.co/53RNOmr8Ck

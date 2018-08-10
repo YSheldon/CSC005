@@ -1,8 +1,0 @@
----
-layout: post
-title: David Gerard
-date: 2018-08-04 01:00:22
-tourl: https://t.co/E240mnk62C
-tags: [Hack]
----
-News: BitFi hack, Court of the Blockchain,  BitForex fake volume, .luxe for Ethereum domain names, crypto mining  still environmentally awful, Bitcoin still useless, Tether https://t.co/Xs7mGQ7EiH https://t.co/mQmH7jDbJd

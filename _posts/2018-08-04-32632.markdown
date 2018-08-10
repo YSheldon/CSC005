@@ -1,8 +1,0 @@
----
-layout: post
-title: The CyberWire
-date: 2018-08-04 02:00:20
-tourl: https://t.co/HQuCt1gLbK
-tags: [Group]
----
-#CWPodcast: #US Department of Justice announced the arrest &amp; indictment of 3 #Ukrainian nationals who are alleged to be members of the notorious #cybercrime group #Fin7. #cybersecurity #infosec https://t.co/CbSpuP5SAy

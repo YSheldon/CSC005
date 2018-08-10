@@ -1,0 +1,8 @@
+---
+layout: post
+title: Microsoft to hackers: Finding Hyper-V bugs is hard. Change my mind. PS: Here's a head start...
+date: 2018-08-09 13:02:13
+tourl: https://www.theregister.co.uk/2018/08/09/hyperv_hacking/
+tags: [Hypervisor,exploit]
+---
+On Wednesday, Redmond not only reiterated its offer of oodles of cash in exchange for details of exploitable vulnerabilities in Hyper-V, it went as far as telling hackers the best places to look for lucrative mistakes in its hypervisor software.In a If someone can find a way to exploit Hyper-V, they could be looking at a $250,000 payout  and Bialek said Microsoft would be keen to cough up.Finding bugs in Hyper-V is very hard, he told the crowd, so we pay out the maximum bounty more often than not for them.He advised hackers not to spend too much time on the hypervisor itself. Rather, a much more promising area is the The root partition also implements emulated hardware as well as providing paravirtualized networking, storage, video, and PCI devices, which makes it a crucial and inviting component.The low-level communications channels between partitions and the hypervisor are also worth exploring  particularly the VMBus, which is a high-speed software interface between partitions and the root partition which has all those goodies inside it.The duo acknowledged there are still a few bugs to be found  all code has flaws, and more than 40 have been discovered in the past year in Hyper-V. There are bounties for all kind of vulnerabilities with the software, with rewards ranging from $5,000 up to the quarter-of-a-million jackpot, and you can check out the 

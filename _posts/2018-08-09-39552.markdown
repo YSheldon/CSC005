@@ -1,0 +1,10 @@
+---
+layout: post
+title: Malwrologist @ Black Hat
+date: 2018-08-09 03:00:21
+tourl: https://t.co/DMaAFKt4hs
+tags: [Attack]
+---
+the lesson (at least for me): sometimes adding garbage code that runs  (not dead code) is good (e.g. overriding the log records related to the  attack) 
+
+direct link to video: https://t.co/psh8wjvk78

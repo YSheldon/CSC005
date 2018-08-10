@@ -1,0 +1,8 @@
+---
+layout: post
+title: 0day Exploit Database
+date: 2018-08-09 03:00:23
+tourl: https://t.co/ifDhCPJfYM
+tags: [0day,exploit]
+---
+#0daytoday #Sitecore.Net 8.1 - Directory Traversal Vulnerability CVE-2018-7669 [webapps #exploits #Vulnerability #0day #Exploit] https://t.co/l6uAyFZFAY

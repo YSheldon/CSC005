@@ -1,0 +1,8 @@
+---
+layout: post
+title: Menlo Security
+date: 2018-08-09 02:00:20
+tourl: https://t.co/KGGTO8JfLs
+tags: [Trojan]
+---
+.@CheckPointSW has lifted the lid on the infrastructure &amp; methods of an enormous #malvertising &amp; #banking trojan campaign by #Master134, who redirected stolen traffic from over 10k @WordPress sites &amp; sold it to @AdsterraNetwork @jleyden @theregister - https://t.co/q8EeVeIsus https://t.co/L1Roh642Qu

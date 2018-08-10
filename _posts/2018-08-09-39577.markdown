@@ -1,0 +1,17 @@
+---
+layout: post
+title: Malwrologist @ Black Hat
+date: 2018-08-09 03:00:21
+tourl: https://t.co/DMaAFKt4hs
+tags: [PowerShell]
+---
+#powershell nerds, #redteamer|s
+In PS prompt, enter:
+history 
+r r
+r
+
+What happens? 
+Ans: endless #recursive calls
+Side effect: soon size of PS event log will reach to max &amp; old data will be overwritten (default) or no more disk space
+reported to @msftsecresponse, #bydesign issue https://t.co/qpdUDuJxrA

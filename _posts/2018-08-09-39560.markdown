@@ -1,0 +1,8 @@
+---
+layout: post
+title: SANS ISC
+date: 2018-08-09 03:00:23
+tourl: http://t.co/iYLQwRRAe1
+tags: [WhatsApp,AWS]
+---
+Homebrew Exposed Github Creds; WhatsApp Vuln.; Netflix AWS Methodology #podcast #security #daily https://t.co/7McPawqVpt

@@ -1,8 +1,0 @@
----
-layout: post
-title: DarkReading
-date: 2018-08-04 02:00:20
-tourl: http://t.co/nSh7l5vd4x
-tags: [Group]
----
-Follow @INsecurityCon Linkedin Group for event updates and conversations with your peers &gt;&gt;  https://t.co/tld8cf5dvv #INsec18

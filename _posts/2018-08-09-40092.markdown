@@ -1,0 +1,8 @@
+---
+layout: post
+title: #CiscoChampion Radio, S5|Ep.17: Nerding out on UCS
+date: 2018-08-09 12:02:10
+tourl: https://blogs.cisco.com/perspectives/ciscochampion-radio-s5ep17-nerding-out-on-ucs
+tags: [Group]
+---
+ttt#CiscoChampion Radio is a podcast series by technologists for technologists. In this episode, Cisco Champion Joel Sprague discusses Cisco UCS with James Leach at Cisco Live in Orlando.Listen in and provide us feedback, we would love to hear from you!Cisco Champions are an elite group of technical experts who are passionate about IT and enjoy sharing their knowledge, expertise, and thoughts across the social web and with Cisco. The program has been running for over five years and has earned two industry awards as an industry best practice. Learn more about the program at  Tags:We'd love to hear from you! To earn points and badges for participating in the conversation, join 

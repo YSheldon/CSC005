@@ -1,0 +1,12 @@
+---
+layout: post
+title: The Hacker News
+date: 2018-08-09 03:00:21
+tourl: https://t.co/tbidM9ew0f
+tags: [Source]
+---
+Security researchers release open sourceSocial Mapperfacial recognition tool that tracks people across social media networks, including: Facebook, Instagram, Twitter, LinkedIn, Google+, VKontakte, Weibo &amp; Douban.
+
+https://t.co/8nLPNaC4rL
+
+by @Swati_THN #hacking #infosec #OSINT https://t.co/0xg7pWtISR

@@ -1,8 +1,0 @@
----
-layout: post
-title: TrendLabs
-date: 2018-08-04 01:00:22
-tourl: http://t.co/MB171H1oL9
-tags: [exploit]
----
-While using adversarial samples to enhance #MachineLearning systems can be effective, security holes may still appear for attackers to exploit. Mitigation techniques against possible evasion methods: https://t.co/uw0FcRg9UX https://t.co/5SaUsqDQ3P

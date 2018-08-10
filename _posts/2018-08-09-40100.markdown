@@ -1,0 +1,8 @@
+---
+layout: post
+title: TrendLabs
+date: 2018-08-09 03:00:21
+tourl: http://t.co/MB171H1oL9
+tags: [Attack]
+---
+The convergence of many technologies in a #SmartFactory translates to a wider attack surface. Read about the building blocks of these advanced facilities and their security implications here: https://t.co/cm749BXHcV #IIoT https://t.co/6KDzr82geB

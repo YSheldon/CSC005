@@ -1,0 +1,8 @@
+---
+layout: post
+title: Check Point Software
+date: 2018-08-09 03:00:21
+tourl: http://t.co/600NBhpU0d
+tags: [Attack]
+---
+Did you know attack surfaces are expanding? Are your #endpoints, #mobile devices, #networks and #cloud covered? In our booth presentation, learn how SandBlast Agent applies #threat emulation, prevention and extraction to all surfaces. #BHUSA #BlackHat2018 #GenV https://t.co/HTeFbyARAB

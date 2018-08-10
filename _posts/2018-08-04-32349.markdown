@@ -1,8 +1,0 @@
----
-layout: post
-title: CyberScoop
-date: 2018-08-04 03:00:21
-tourl: https://t.co/UiSN102kIR
-tags: [Domain Fronting]
----
-Lawmakers call on Amazon and Google to reconsider ban on domain fronting https://t.co/je1OWNq3fl

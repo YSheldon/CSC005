@@ -1,0 +1,10 @@
+---
+layout: post
+title: Security Affairs
+date: 2018-08-09 03:00:21
+tourl: http://t.co/V3OIFUqNCm
+tags: [WhatsApp,Group]
+---
+@CheckPointSW @_odisseus @GranetMan Researchers find vulnerabilities in #WhatsApp that allow to spread #FakeNews via group chats
+https://t.co/f8FLmeElqD
+#securityaffairs #hacking

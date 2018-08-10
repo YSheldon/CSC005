@@ -1,8 +1,0 @@
----
-layout: post
-title: The CyberWire
-date: 2018-08-04 01:00:22
-tourl: https://t.co/HQuCt1gLbK
-tags: [Department of Homeland Security]
----
-#CWPodcast: The #US Department of Homeland Security this week announced a new program to share information on #cyberrisks between Government &amp; the private sector. @DHSgov #cybersecurity #infosec https://t.co/CbSpuP5SAy

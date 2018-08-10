@@ -1,0 +1,8 @@
+---
+layout: post
+title: CrowdStrike
+date: 2018-08-09 01:00:22
+tourl: http://t.co/ULWFfruGKw
+tags: [Crowdstrike]
+---
+Join CrowdStrike's VP of EDR Strategy, @aionescu and @quarkslabsecurity engineer @pwissenlit tomorrow at 9:45 AM, for a briefing event to learn about the Windows Notification Facility, a new facility implemented by the kernel. #BHUSA #GoCrowdStrike

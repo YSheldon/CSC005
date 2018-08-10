@@ -1,0 +1,10 @@
+---
+layout: post
+title: Avast Software
+date: 2018-08-09 03:00:21
+tourl: https://t.co/bAP5udGmK6
+tags: [Attack]
+---
+White hat hackers have discovered an easy way to crack passwords from routers with WPA2 security.
+
+"Those with a short Wi-Fi password should change it right now. To prevent your router from being hacked with this new attack, we recommend the following ? https://t.co/5aM0YYgSwV

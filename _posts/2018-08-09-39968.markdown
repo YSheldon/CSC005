@@ -1,0 +1,8 @@
+---
+layout: post
+title: Infosecurity Mag
+date: 2018-08-09 03:00:21
+tourl: http://t.co/ioT6nbGu1X
+tags: [Attack]
+---
+Dont forget to register for our live webinar on Reduce Your Attack Surface, Marginalize the Breach taking place today at 13:00 EDT - https://t.co/ZI29YgrHMR

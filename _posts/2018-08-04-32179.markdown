@@ -1,8 +1,0 @@
----
-layout: post
-title: Binni Shah
-date: 2018-08-04 03:00:21
-tourl: https://t.co/LfZIicBDza
-tags: [Attack]
----
-Exploiting a Microsoft Edge Vulnerability to Steal Files (w simple HTML file): https://t.co/gRWPLrtLt5 , PoC of attack : https://t.co/mw6QBi4VUO cc @netsparker https://t.co/nW9EaUHIdv
