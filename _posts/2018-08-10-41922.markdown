@@ -1,0 +1,8 @@
+---
+layout: post
+title: TrendLabs
+date: 2018-08-10 03:00:21
+tourl: http://t.co/MB171H1oL9
+tags: [Attack]
+---
+Aside from an existing security flaw in a device, we also discuss other elements of an #IoT attack this @defcon. Read our case study on this here: https://t.co/aPz3ufLouM #DEFCON2018 https://t.co/scNIWX4I9A

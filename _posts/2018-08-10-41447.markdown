@@ -1,0 +1,8 @@
+---
+layout: post
+title: RSA
+date: 2018-08-10 03:00:21
+tourl: https://t.co/bABGhyqAQB
+tags: [TLS]
+---
+65% of traffic this week was encrypted via #VPN or TLS, explains @Grifter801 during #BHUSA NOC debrief. https://t.co/Ez7Wc8S1Pw

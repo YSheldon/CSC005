@@ -1,0 +1,8 @@
+---
+layout: post
+title: The CyberWire
+date: 2018-08-10 01:00:22
+tourl: https://t.co/HQuCt1gLbK
+tags: [Exploitation]
+---
+#CWatBHUSA: @IBM is describing their work on #DeepLocker, &amp; what it has to say about potential exploitation of #artificialintelligence by criminals &amp; other #threatactors. #AI #BHUSA #cybersecurity #infosec https://t.co/YQfdW4ba0S

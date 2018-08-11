@@ -1,0 +1,8 @@
+---
+layout: post
+title: SC Media
+date: 2018-08-10 03:00:21
+tourl: https://t.co/BYI1kkbds1
+tags: [Attack]
+---
+@SCMagazine is conducting a poll on #Phishing, #CEOfraud, vishing and similar malware attack defenses to analyze what CISOs like you are most concerned about when it comes to keeping your organization safe. To take the poll visit https://t.co/ZRN6k75GtF

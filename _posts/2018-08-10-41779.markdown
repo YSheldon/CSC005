@@ -1,0 +1,8 @@
+---
+layout: post
+title: The CyberWire
+date: 2018-08-10 03:00:21
+tourl: https://t.co/HQuCt1gLbK
+tags: [Attack]
+---
+#CWBriefing: @WashingtonPost sniffs that these #cyberattack #sanctions are "toothless," but the measures #US is taking in response to #Novichok attack appear to be severe, &amp; have been recognized as such by the #Russian government. #cybersecurity #infosec https://t.co/YQfdW4ba0S

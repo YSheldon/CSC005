@@ -1,0 +1,8 @@
+---
+layout: post
+title: Threatpost
+date: 2018-08-10 03:00:21
+tourl: http://t.co/rD9Wvdqf3e
+tags: [Source]
+---
+DarkHydrus uses the open-source Phishery tool to create two of the known #Word documents used in the attacks: https://t.co/segOSpfA2W

@@ -1,0 +1,12 @@
+---
+layout: post
+title: 0patch
+date: 2018-08-10 01:00:22
+tourl: https://t.co/W4paJUxeHg
+tags: [exploit]
+---
+A classic elegant micropatch with two small patchlets:
+
+Patchlet #1 sabotages the "free" code and marks the buffer.
+
+Patchlet #2 checks for the presence of the mark; if found, shows "Exploit Blocked" and bypasses the "use" code. https://t.co/8Cv7Veyrqc

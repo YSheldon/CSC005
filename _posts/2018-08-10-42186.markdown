@@ -1,0 +1,8 @@
+---
+layout: post
+title: Casey Smith
+date: 2018-08-10 01:00:22
+tourl: https://t.co/hYGaGQStCs
+tags: [Crowdstrike]
+---
+@CrowdStrike @aionescu @quarkslab @pwissenlit Im curious if the beginnings of this talk started at RECON? ????

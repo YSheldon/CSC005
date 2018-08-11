@@ -1,0 +1,8 @@
+---
+layout: post
+title: AlienVault
+date: 2018-08-10 03:00:21
+tourl: http://t.co/7mZeFsDsoi
+tags: [Source]
+---
+A new threat actor called DarkHydrus is harvesting the credentials of government entities and educational institutions in the Middle East using malicious Office docs created with open-source tool Phishery: https://t.co/v2T1HQ1XGZ @wirelesswench @threatpost https://t.co/ojWDPtwJhn

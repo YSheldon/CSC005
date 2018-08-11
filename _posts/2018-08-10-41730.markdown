@@ -1,0 +1,8 @@
+---
+layout: post
+title: Cyber Security News
+date: 2018-08-10 01:00:24
+tourl: https://t.co/U9KYaU2Lgx
+tags: [Law,GDPR]
+---
+Italian privacy law integrating the GDPR adopted, with some concerns! https://t.co/urRDWCOcxP

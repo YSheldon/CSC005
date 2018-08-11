@@ -1,0 +1,8 @@
+---
+layout: post
+title: The CyberWire
+date: 2018-08-10 03:00:21
+tourl: https://t.co/HQuCt1gLbK
+tags: [Attack]
+---
+#WeekthatWas: #Atlanta's cost to remediate the #SamSam #ransomware attack it sustained in March is now estimated at $17 million, according to a confidential report. @ajc #cybersecurity #infosec https://t.co/zydOhPEJUM

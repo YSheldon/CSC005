@@ -1,0 +1,8 @@
+---
+layout: post
+title: TrendLabs
+date: 2018-08-10 03:00:21
+tourl: http://t.co/MB171H1oL9
+tags: [MikroTik]
+---
+#ICYMI: A malicious #cryptocurrency-mining campaign is exploiting a vulnerability in #MikroTiks Winbox. While the majority of affected routers were in Brazil, its now also spreading outside the country. More: https://t.co/5ez11uGZVJ

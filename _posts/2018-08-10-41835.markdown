@@ -1,0 +1,8 @@
+---
+layout: post
+title: NuHarbor Security
+date: 2018-08-10 03:00:21
+tourl: https://t.co/HgnUUovsZg
+tags: [Source]
+---
+Crowdfense launches platform to source new zero-day vulnerabilities for sale | ZDNet https://t.co/WOrUPALbuM #cybersecurity #infosec

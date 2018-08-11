@@ -1,0 +1,8 @@
+---
+layout: post
+title: ?Linux kernel network TCP bug fixed
+date: 2018-08-10 13:02:11
+tourl: https://www.zdnet.com/article/linux-kernel-tcp-bug-fixed/
+tags: [Attack]
+---
+Another day, another bit of security hysteria. This time around the usually reliable True, this bug, already given the trendy name SegmentSmack, could cause DoS attacks. But it's already been fixed. In fact, it was patched two weeks before the problem was announced. The fixed code is alreadyin both the True, some Linux distributors, such as Besides, to attack a system, you need Like so many other Linux security vulnerabilities, this one was way overstated. Yes, it was important and it needed addressed. But, the Linux kernel developers, unlike some other operating system programmers I could name, pounce and fix security holes as soon as they're made aware of them. 

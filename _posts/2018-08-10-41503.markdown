@@ -1,0 +1,8 @@
+---
+layout: post
+title: WhatsApp security snafu allows sneaky 'message manipulation'
+date: 2018-08-10 13:02:11
+tourl: https://www.theregister.co.uk/2018/08/09/whatsapp_message_manipulation/
+tags: [WhatsApp,Group]
+---
+Researchers claim to have uncovered weaknesses in WhatsApp that can be potentially exploited to manipulate messages in private and group conversations.Eggheads at Israeli security firm Check Point this week described how, with some social engineering trickery and Essentially, you can potentially fake message content, quote it back, and sow the seeds of all sorts of confusion. All the techniques involve social engineering tactics to hoodwink marks, as well as obtaining your public-private key pair from WhatsApp, as explained at some length in a blog post by Check Point's Dikla Barda, Roman Zaikin, and Oded Vanunu There's also a video illustrating the approach, as embedded below.Kevin Bocek, chief cybersecurity strategist at machine identity protection vendor Venafi, told us: This was a serious flaw and its made possible thanks to machine identities  encryption keys and digital certificates that enable privacy and authentication between our devices, apps, and clouds.

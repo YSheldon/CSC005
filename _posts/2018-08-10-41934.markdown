@@ -1,0 +1,8 @@
+---
+layout: post
+title: The CyberWire
+date: 2018-08-10 03:00:21
+tourl: https://t.co/HQuCt1gLbK
+tags: [Attack]
+---
+#CWBriefing: In a move widely applauded in the #UK, the #US has announced imposition of very heavy #sanctions against #Russia over Moscow's nerve agent attack in #Salisbury, England. #novichok #cybersecurity #infosec https://t.co/YQfdW4ba0S

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Hakin9
+date: 2018-08-10 03:00:21
+tourl: https://t.co/4DC7miAMag
+tags: [Source]
+---
+Qalculate!  An Open-Source Multi-Purpose Calculator https://t.co/1ut62UzaEO #infosec #hacking #hackers #pentesting #pentest #programming #opensource #calculator #tech

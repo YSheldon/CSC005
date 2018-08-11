@@ -1,0 +1,8 @@
+---
+layout: post
+title: SC Media
+date: 2018-08-10 03:00:21
+tourl: https://t.co/BYI1kkbds1
+tags: [Attack]
+---
+Following IG report, FCC admits net neutrality comment process was never subjected to DDoS attack https://t.co/yEUIZjFKac

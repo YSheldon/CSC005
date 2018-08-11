@@ -1,0 +1,8 @@
+---
+layout: post
+title: USENIX Association
+date: 2018-08-10 03:00:21
+tourl: http://t.co/ZfQy92bvIw
+tags: [Epic]
+---
+#usesec18 @USENIXSecurity has SOLD OUT! There's still room at the co-located events: #soups2018, #woot18, #ase18, #cset18, #foci18, and #hotsec18. Register now to join us in Baltimore next week! The hallway track is going to be epic. https://t.co/ERwr4YLvHc

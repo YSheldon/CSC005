@@ -1,0 +1,8 @@
+---
+layout: post
+title: Security Affairs
+date: 2018-08-10 03:00:21
+tourl: http://t.co/V3OIFUqNCm
+tags: [WhatsApp,Group]
+---
+Researchers find vulnerabilities in WhatsApp that allow to spread Fake News via group chats  https://t.co/f8FLmeElqD #securityaffairs

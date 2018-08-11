@@ -1,0 +1,8 @@
+---
+layout: post
+title: SANS ISC
+date: 2018-08-10 03:00:21
+tourl: http://t.co/iYLQwRRAe1
+tags: [TLS]
+---
+Hunting SSL/TLS clients using JA3 https://t.co/rYJP4X1ZsF

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Samuel Groß
+date: 2018-08-10 01:00:22
+tourl: https://t.co/ayWtssHkcg
+tags: [exploit]
+---
+The demo video shows the webkit exploit together with two macOS logic bugs to escape the sandbox and then escalate first to root and then to kernel (loading an unsigned kext). I'll publish details about those at a later this year

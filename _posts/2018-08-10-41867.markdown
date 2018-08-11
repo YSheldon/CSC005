@@ -1,0 +1,9 @@
+---
+layout: post
+title: HackRead.com
+date: 2018-08-10 03:00:21
+tourl: https://t.co/n5DKssLSIP
+tags: [Attack]
+---
+"Back to the good old days." #Ransomware attack forces authorities to use typewriters and hand receipts.
+https://t.co/rCQU6iS193

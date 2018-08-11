@@ -1,0 +1,8 @@
+---
+layout: post
+title: qwertyoruiop @ vegas airbnb
+date: 2018-08-10 03:00:21
+tourl: https://t.co/4ib2WlwXVt
+tags: [0day]
+---
+0xFFFFFFFF RTs and i leak @gabe_k's new 0day integer overflow

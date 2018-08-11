@@ -1,0 +1,9 @@
+---
+layout: post
+title: MalwareHunterTeam
+date: 2018-08-10 03:00:21
+tourl: https://t.co/5o4Bi68whn
+tags: [Source]
+---
+Someone got double encrypted with GandCrab and KEYPASS...
+(Source: https://t.co/TAs1U6S2Sg) https://t.co/StleQ1DKdT
