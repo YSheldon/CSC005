@@ -1,0 +1,8 @@
+---
+layout: post
+title: IoT Village
+date: 2018-08-11 03:00:21
+tourl: https://t.co/wn1PIrnV6J
+tags: [0-day]
+---
+This is a washing machine. Its on the internet. Come get an 0-day on it. Win prizes. Find it at @IoTvillage in @defcon. https://t.co/JYsIWxx5LG

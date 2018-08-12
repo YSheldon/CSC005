@@ -1,8 +1,0 @@
----
-layout: post
-title: Trend Micro
-date: 2018-08-05 03:00:21
-tourl: http://t.co/f67vqZFY1d
-tags: [Bootkit]
----
-We delved into the recent activities of the #Underminer #ExploitKitespecially the stealthy ways it delivers a bootkit and cryptocurrency-mining malware: https://t.co/I11DqEDw1c https://t.co/OJnT2X0kPE

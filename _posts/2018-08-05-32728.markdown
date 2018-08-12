@@ -1,8 +1,0 @@
----
-layout: post
-title: The CyberWire
-date: 2018-08-05 03:00:21
-tourl: https://t.co/HQuCt1gLbK
-tags: [Group,CozyBear]
----
-#WeekthatWas: The #Sandworm group, a less famous relative of #CozyBear &amp; #FancyBear, is working against the #Spiez Laboratory in Switzerland. #cybersecurity #infosec https://t.co/zydOhPEJUM

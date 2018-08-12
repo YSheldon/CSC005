@@ -1,0 +1,8 @@
+---
+layout: post
+title: The CyberWire
+date: 2018-08-11 03:00:21
+tourl: https://t.co/HQuCt1gLbK
+tags: [Attack]
+---
+#CWBriefing: #PGA #ransomware attack: Investigation &amp; remediation are in progress, but there's widespread speculation that ransomware used was a strain of #Bitpaymer. The hoods want their ransom in #cryptocurrency. #cybersecurity #infosec https://t.co/OJ213mHYnp

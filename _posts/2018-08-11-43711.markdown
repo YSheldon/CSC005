@@ -1,0 +1,8 @@
+---
+layout: post
+title: 0day Exploit Database
+date: 2018-08-11 03:00:23
+tourl: https://t.co/ifDhCPJfYM
+tags: [exploit,0day]
+---
+#0daytoday #Oracle Weblogic Server Deserialization Remote Code Execution Exploit [#0day #Exploit] https://t.co/ERoLv39631

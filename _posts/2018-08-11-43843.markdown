@@ -1,0 +1,8 @@
+---
+layout: post
+title: Dave dwizzzle Weston
+date: 2018-08-11 03:00:21
+tourl: www.baidu.com
+tags: [0day]
+---
+@aionescu Blackhat 2019 Alex dropping 0day for ai powered toilets

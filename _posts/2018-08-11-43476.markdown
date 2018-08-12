@@ -1,0 +1,8 @@
+---
+layout: post
+title: Rob??? Graham ???? [at DEF CON/Vegas]
+date: 2018-08-11 03:00:21
+tourl: http://t.co/9cYcfxcC7y
+tags: [Attack]
+---
+2/ Airplanes aren't under *attack* by gravity, the weather, etc. When you improve the plane's resistance to bad weather, the weather doesn't change to try some new way of attacking you. Your airplane improvements have no effect on the weather.

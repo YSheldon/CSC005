@@ -1,0 +1,10 @@
+---
+layout: post
+title: IoT Village
+date: 2018-08-11 03:00:21
+tourl: https://t.co/wn1PIrnV6J
+tags: [0-day]
+---
+There are 32 @nest devices in @IoTvillage at @defcon. Rip them apart do whatever it takes to find an 0-day. Win prizes. 
+
+Details: https://t.co/GTWqvqagrx https://t.co/bfKhCnkT5u

@@ -1,8 +1,0 @@
----
-layout: post
-title: Binni Shah
-date: 2018-08-05 03:00:21
-tourl: https://t.co/LfZIicBDza
-tags: [Attack]
----
-auditd-attack : A Linux Auditd rule set mapped to MITRE's Attack Framework : https://t.co/tRIZ2Or02Z https://t.co/oqYbYxaxNv

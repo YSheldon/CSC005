@@ -1,0 +1,8 @@
+---
+layout: post
+title: Infosecurity Mag
+date: 2018-08-11 01:00:22
+tourl: http://t.co/ioT6nbGu1X
+tags: [DHS]
+---
+#Defcon DHS Says Collaboration Needed for Secure Infrastructure and Elections https://t.co/6AnCQrochm https://t.co/cdHX4t3y8i

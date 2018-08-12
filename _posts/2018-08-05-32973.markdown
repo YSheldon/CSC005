@@ -1,8 +1,0 @@
----
-layout: post
-title: Binni Shah
-date: 2018-08-05 03:00:21
-tourl: https://t.co/LfZIicBDza
-tags: [Attack]
----
-New attack on WPA/WPA using PMKID : https://t.co/rQoN5sPsiK

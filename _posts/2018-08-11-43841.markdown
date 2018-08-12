@@ -1,0 +1,8 @@
+---
+layout: post
+title: Vincent Yiu ?????
+date: 2018-08-11 01:00:22
+tourl: https://t.co/tj7TTh8Vxh
+tags: [Exploitation]
+---
+Gotta love it!!!!!! Stealing code, reminds me of my University lecturer who taught binary exploitation :) https://t.co/nuyKaU1DaA

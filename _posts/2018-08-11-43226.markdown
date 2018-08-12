@@ -1,0 +1,8 @@
+---
+layout: post
+title: E Hacking News
+date: 2018-08-11 03:00:21
+tourl: http://t.co/nPhPD5aTI4
+tags: [WhatsApp]
+---
+Whatsapp Flaw Lets Attackers Alter Messages in Chats https://t.co/sfonBpB4tR https://t.co/2eteHS5wJo

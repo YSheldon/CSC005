@@ -1,0 +1,8 @@
+---
+layout: post
+title: McAfee Labs
+date: 2018-08-11 02:00:25
+tourl: https://t.co/WeHybHp2wV
+tags: [HIDDEN COBRA]
+---
+ICYMI: Our team analyzed Operation GhostSecret, a Hidden Cobra campaign that leveraged multiple #malware implants including one similar to #Bankshot. https://t.co/zZtQC7W2iR

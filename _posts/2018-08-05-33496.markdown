@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-08-05 03:00:21
-tourl: https://t.co/k9HZz2bu5G
-tags: [Source]
----
-CVE-2018-14939 The get_app_path function in desktop/unx/source/start.c in LibreOffice through 6.0.5 mishandles the realpath function in certain environments such as FreeBSD libc, which might allow attackers to cause a denial of ... https://t.co/QGzYtS8E3h

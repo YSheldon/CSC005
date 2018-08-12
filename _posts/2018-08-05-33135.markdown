@@ -1,8 +1,0 @@
----
-layout: post
-title: Charlie Miller
-date: 2018-08-05 03:00:21
-tourl: www.baidu.com
-tags: [Code Signing]
----
-7. Fun and Games with Mac OS X and iPhone payloads (2009) (with @_snagg).  Used code signing vulnerability and in memory library loading to load payloads like meterpreter in iOS.  This was almost a disaster since I didn't know I needed a code signing bug until after talk was in.

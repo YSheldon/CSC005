@@ -1,8 +1,0 @@
----
-layout: post
-title: Roger Smith
-date: 2018-08-05 03:00:21
-tourl: https://t.co/Zn275afqZ2
-tags: [Attack]
----
-#outsourcing How mature is your organisation against cyber attack? Try these 7 questions!  #SMB https://t.co/ogV96bwU59

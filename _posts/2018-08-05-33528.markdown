@@ -1,8 +1,0 @@
----
-layout: post
-title: Anomali
-date: 2018-08-05 03:00:21
-tourl: https://t.co/Mm7Oxx7jzr
-tags: [Web Shell]
----
-Hackers Hiding Web Shell Logins in Fake HTTP Error Pages https://t.co/B5Y4mAH9LF

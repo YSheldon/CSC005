@@ -1,8 +1,0 @@
----
-layout: post
-title: Mathy Vanhoef
-date: 2018-08-05 03:00:21
-tourl: https://t.co/DaaCiQYBqF
-tags: [Attack]
----
-New bruteforce attack on pre-shared WPA2 passwords. Abuses the PMKID to test if a password is correct. Cool technique :) Only works against networks with roaming enabled, so I suspect most personal networks aren't affected. Does not affect enterprise networks. https://t.co/eF64ig6ZTX

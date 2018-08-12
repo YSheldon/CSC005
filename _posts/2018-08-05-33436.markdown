@@ -1,8 +1,0 @@
----
-layout: post
-title: The Uninitialized Pointer Guru ????
-date: 2018-08-05 01:00:22
-tourl: https://t.co/GhXZqPerpH
-tags: [Hack]
----
-I am going to hack all the things this Sunday... Arrive home...Fuck it, this weather is impossible, too hot for thinking!

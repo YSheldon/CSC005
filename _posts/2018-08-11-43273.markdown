@@ -1,0 +1,8 @@
+---
+layout: post
+title: Brad
+date: 2018-08-11 01:00:22
+tourl: http://t.co/o3Rah323cD
+tags: [exploit]
+---
+2018-08-10 - [telephone rings] - Hello? - Okay, I'll pass the message - Hey #KaiXinEK, 2012 called, and they want their Java exploit back! - Sample at: https://t.co/pJiVqRJZ3n https://t.co/sVpm8Dvd02

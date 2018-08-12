@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-08-05 03:00:21
-tourl: https://t.co/k9HZz2bu5G
-tags: [Attack]
----
-CVE-2018-14951 The mail message display page in SquirrelMail through 1.4.22 has XSS via a "&lt;form action='data:text" attack.  https://t.co/WVVllG8v5H

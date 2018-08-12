@@ -1,0 +1,9 @@
+---
+layout: post
+title: IoT Village
+date: 2018-08-11 03:00:23
+tourl: https://t.co/wn1PIrnV6J
+tags: [Hack,0-day]
+---
+Can you hack this? Can you? I dare you to get and 0-day in this device in our contest. Then share you findings with @GEOTAB!
+Details at https://t.co/GTWqvqagrx https://t.co/7K28KzUNsW

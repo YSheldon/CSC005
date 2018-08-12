@@ -1,8 +1,0 @@
----
-layout: post
-title: Palo Alto Networks
-date: 2018-08-05 02:00:20
-tourl: http://t.co/Cn7zCFVx8y
-tags: [Group]
----
-#ICYMI Slithering between nation state and cybercrime: Unit 42 examined the Gorgon Groups unsophisticated yet effective attacks. Read the full report https://t.co/gB40tXryXO

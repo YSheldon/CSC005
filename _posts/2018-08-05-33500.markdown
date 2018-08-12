@@ -1,8 +1,0 @@
----
-layout: post
-title: Security Affairs
-date: 2018-08-05 03:00:21
-tourl: http://t.co/V3OIFUqNCm
-tags: [MikroTik]
----
-Hundreds of thousands MikroTik Routers involved in massive Coinhive cryptomining campaign  https://t.co/31LVHqUm7m

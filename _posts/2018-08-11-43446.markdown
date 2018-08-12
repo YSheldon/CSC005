@@ -1,0 +1,8 @@
+---
+layout: post
+title: The CyberWire
+date: 2018-08-11 01:00:22
+tourl: https://t.co/HQuCt1gLbK
+tags: [AWS]
+---
+#CWPodcast: A sales call results in inadvertent #data #exposure. We talk more about it on the Podcast. #AWS #GoDaddy #cybersecurity #infosec https://t.co/i2RwXBbNFI

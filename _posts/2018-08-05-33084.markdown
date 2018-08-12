@@ -1,8 +1,0 @@
----
-layout: post
-title: CyberScoop
-date: 2018-08-05 02:00:20
-tourl: https://t.co/UiSN102kIR
-tags: [Group]
----
-Criminal hacking group targets U.S., U.K. agencies in Pakistan https://t.co/DmZ54ij9L9

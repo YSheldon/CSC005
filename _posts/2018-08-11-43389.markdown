@@ -1,0 +1,8 @@
+---
+layout: post
+title: b33f
+date: 2018-08-11 03:00:21
+tourl: http://t.co/0C8dV0haCL
+tags: [PowerShell]
+---
+Don't think attackers can modify your event logs? Are you shipping logs off for remote collection? Have you set traps for EventLogEdit type attacks (e.g. handle duplication, thread state, file write events)? Check out my #PowerShell POC demo ???????????? - https://t.co/wu5d1uVYm0

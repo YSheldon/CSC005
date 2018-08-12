@@ -1,0 +1,8 @@
+---
+layout: post
+title: Rob??? Graham ???? [at DEF CON/Vegas]
+date: 2018-08-11 01:00:22
+tourl: http://t.co/9cYcfxcC7y
+tags: [NSA]
+---
+6/ Look at the vast changes in Microsoft, for example. They worked hard to get rid of all network worms that none but the NSA's brightest could create, and even then, the NSA's worm didn't affect their latest stuff.
