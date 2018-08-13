@@ -1,0 +1,9 @@
+---
+layout: post
+title: Enno Rey
+date: 2018-08-12 01:00:22
+tourl: http://t.co/zTbyQ0PeO1
+tags: [AWS]
+---
+Excellent Guide on "AWS Privilege Escalation  Methods and Mitigation"
+https://t.co/PrQHJNOq3x

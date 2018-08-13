@@ -1,0 +1,8 @@
+---
+layout: post
+title: beVX Conference
+date: 2018-08-12 01:00:22
+tourl: https://t.co/F2qZZbrte0
+tags: [Exploitation]
+---
+Last 7 seats (out of 15) are available for our iOS Sandbox Escape Vulnerability and Exploitation by Hao Xu / @panguteam - https://t.co/raHOjbFgjS https://t.co/Nyb4jA2Ybx

@@ -1,8 +1,0 @@
----
-layout: post
-title: CrowdStrike
-date: 2018-08-06 03:00:23
-tourl: http://t.co/ULWFfruGKw
-tags: [Crowdstrike,Attack]
----
-In conjunction with #BHUSA, CrowdStrike announces a new module of Falcon Device Control and support for Docker as an emerging attack surface. The CrowdStrike Falcon platform has also adopted the ATT&amp;CK framework from MITRE. https://t.co/5DN6m9si3K

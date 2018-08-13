@@ -1,8 +1,0 @@
----
-layout: post
-title: Mathy Vanhoef
-date: 2018-08-06 03:00:21
-tourl: https://t.co/DaaCiQYBqF
-tags: [Attack]
----
-Usual security advice still applies: use a strong pre-shared key. Previously, weak keys could be bruteforced. Now it's easier to capture the required material to start bruteforcing, but strong passwords still prevent the attack.

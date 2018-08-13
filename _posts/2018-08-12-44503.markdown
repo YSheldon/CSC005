@@ -1,0 +1,8 @@
+---
+layout: post
+title: The CyberWire
+date: 2018-08-12 03:00:21
+tourl: https://t.co/HQuCt1gLbK
+tags: [Attack]
+---
+#CWBriefing: @McAfee &amp; @IntezerLabs conducted joint research into #Pyongyang's attack tools &amp; found considerable code reuse: some code uses goes back to 2009's #Brambul, one of the earlier #malware strains to come from the #DPRK. #cybersecurity #infosec https://t.co/OJ213mHYnp

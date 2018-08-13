@@ -1,0 +1,9 @@
+---
+layout: post
+title: Enno Rey
+date: 2018-08-12 01:00:22
+tourl: http://t.co/zTbyQ0PeO1
+tags: [AWS]
+---
+prowler. AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool. It follows guidelines of the CIS Amazon Web Services Foundations Benchmark and additional checks
+https://t.co/PUT7GHClAm

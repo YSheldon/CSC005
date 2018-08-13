@@ -1,8 +1,0 @@
----
-layout: post
-title: Demisto
-date: 2018-08-06 03:00:21
-tourl: https://t.co/XPRqviKWpH
-tags: [Attack]
----
-[#BHUSA] Looking for some fun at Black Hat? Stop by Booth #L65 to gain granular visibility into attack campaigns with the Investigation Canvas, just one of many new features in our v4.0! See a live demo Wednesday! https://t.co/Ti13wYBIwO #DFIR #Infosec #SOAR

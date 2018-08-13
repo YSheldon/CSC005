@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-08-06 03:00:21
-tourl: https://t.co/k9HZz2bu5G
-tags: [Attack]
----
-CVE-2017-12614 It was noticed an XSS in certain 404 pages that could be exploited to perform an XSS attack. Chrome will detect this as a reflected XSS attempt and prevent the page from loading. Firefox and other browsers don't, and ... https://t.co/QXtemVadRT

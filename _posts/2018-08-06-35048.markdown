@@ -1,8 +1,0 @@
----
-layout: post
-title: Virus Bulletin
-date: 2018-08-06 03:00:21
-tourl: https://t.co/3UVRbwBJWI
-tags: [FIREEYE,Group]
----
-FireEye wrote a long and detailed analysis of the activities of the FIN7 group, some of whose members were indicted by a US court recently https://t.co/Ay9dsTDJSg https://t.co/8QCGQkzRN5

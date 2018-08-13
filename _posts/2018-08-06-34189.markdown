@@ -1,8 +1,0 @@
----
-layout: post
-title: nulldev
-date: 2018-08-06 01:00:22
-tourl: www.baidu.com
-tags: [Hack]
----
-when you hack a router &amp; see youre not the only one to try your luck???? https://t.co/Kkx4BMQa5a

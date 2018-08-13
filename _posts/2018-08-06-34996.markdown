@@ -1,8 +1,0 @@
----
-layout: post
-title: Rob??? Graham ???? [will be at DEF CON]
-date: 2018-08-06 01:00:22
-tourl: http://t.co/9cYcfxcC7y
-tags: [Hack]
----
-I disagree. It's a hack story, based on anonymous sources saying vague things using confusing technical terms. The entire story could be explained by power companies being hit by generic phishing attacks along with everyone else. https://t.co/ctjgJTc74V

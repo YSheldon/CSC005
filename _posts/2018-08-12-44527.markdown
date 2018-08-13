@@ -1,0 +1,8 @@
+---
+layout: post
+title: Securezoo
+date: 2018-08-12 01:00:22
+tourl: https://t.co/Y7LeuLjODq
+tags: [AWS]
+---
+AWS S3 error exposes data on 31K Godaddy servers https://t.co/swr6OTzj4t #Cloud #Cybersecurity #infosec https://t.co/ePmHpwNWnp

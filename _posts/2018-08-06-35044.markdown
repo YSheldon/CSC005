@@ -1,8 +1,0 @@
----
-layout: post
-title: Richard Blumenthal
-date: 2018-08-06 01:00:22
-tourl: http://t.co/MfF8W57FEu
-tags: [DOD]
----
-Sensitive military operations shouldnt be exposed by fitness trackers &amp; insecure devices. DOD is responding with action I urged to protect military service members from emerging threats posed by digital tracking. https://t.co/IO2NRfHYlA

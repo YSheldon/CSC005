@@ -1,8 +1,0 @@
----
-layout: post
-title: Check Point Software
-date: 2018-08-06 03:00:21
-tourl: http://t.co/600NBhpU0d
-tags: [Attack]
----
-On Aug 7, join us to learn the many attack modes cyber criminals use on mobile devices and conduct sophisticated #network attacks. Defend with SandBlast #Mobile 3.0. Register for the webinar: https://t.co/uurDgIxt5F? https://t.co/k8meSwLHbK

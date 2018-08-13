@@ -1,0 +1,8 @@
+---
+layout: post
+title: Threatpost
+date: 2018-08-12 03:00:21
+tourl: http://t.co/rD9Wvdqf3e
+tags: [Attack]
+---
+Part of the issue behind the attack is because the UI on the locked #Windows10 screen now has app functionality even before unlocking: https://t.co/p2vom0xYMu

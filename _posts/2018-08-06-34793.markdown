@@ -1,8 +1,0 @@
----
-layout: post
-title: Dmytro Oleksiuk
-date: 2018-08-06 03:00:21
-tourl: https://t.co/W5EypKF6p9
-tags: [Rootkit]
----
-@dwizzzleMSFT @Freddrickk_ @vxradius @jiboutin And by the way, first publicly known weaponized UEFI rootkit was already shown to the public thankfully to Vault 7 leak. So much bs in single tweet ???????????

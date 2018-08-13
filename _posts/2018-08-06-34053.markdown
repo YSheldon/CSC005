@@ -1,8 +1,0 @@
----
-layout: post
-title: NASA History Office
-date: 2018-08-06 03:00:21
-tourl: http://t.co/wWBPdTeoW6
-tags: [Rover]
----
-Hey there friend! The High-Resolution Imaging Science Experiment (@HiRISE) camera on our Mars Reconnaissance Orbiter captured this image of the Curiosity rover as it descended to Mars's surface #now in 2012. Touchdown came at 1:32 am EDT #NASA60th https://t.co/a7vQyUqoto

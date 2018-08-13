@@ -1,8 +1,0 @@
----
-layout: post
-title: TrendLabs
-date: 2018-08-06 03:00:21
-tourl: http://t.co/MB171H1oL9
-tags: [MikroTik]
----
-Over 200,000 #MikroTik routers have been compromised in a #cryptojacking campaign, exploiting a vulnerability to inject a malicious version of #Coinhive. Report: https://t.co/5ez11uGZVJ

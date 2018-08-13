@@ -1,8 +1,0 @@
----
-layout: post
-title: 0day Exploit Database
-date: 2018-08-06 03:00:24
-tourl: https://t.co/ifDhCPJfYM
-tags: [Scripting,0day,exploit]
----
-#0daytoday #PHP Template Store Script 3.0.6 - Cross-Site Scripting Vulnerability [#0day #Exploit] https://t.co/qXsz9pqPZH

@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-08-06 03:00:21
-tourl: https://t.co/k9HZz2bu5G
-tags: [Scripting]
----
-CVE-2016-4400 A security vulnerability was identified in HP Network Node Manager i (NNMi) Software 10.00, 10.01 (patch1), 10.01 (patch 2), 10.10. The vulnerability could result in cross-site scripting (XSS).  https://t.co/xmoJfvW8L9

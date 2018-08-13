@@ -1,9 +1,0 @@
----
-layout: post
-title: F-Secure
-date: 2018-08-06 03:00:21
-tourl: https://t.co/fsJY27uDKB
-tags: [Attack]
----
-So then, how does a company really detect a targeted attack?
-https://t.co/jmnuQimd6x https://t.co/MnEmNJEseS

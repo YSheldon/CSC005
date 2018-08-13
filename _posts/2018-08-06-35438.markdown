@@ -1,8 +1,0 @@
----
-layout: post
-title: Tom Cotton
-date: 2018-08-06 01:00:22
-tourl: http://t.co/gR93LLUqRV
-tags: [Bill]
----
-Thank you @davidm_cook for visiting my office and bringing this important bill to my attention, more than happy to help! https://t.co/7HcEZGm4ue

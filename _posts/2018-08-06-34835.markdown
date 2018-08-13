@@ -1,8 +1,0 @@
----
-layout: post
-title: SDxCentral's Weekly Roundup  August 3, 2018 Huawei's first half of 2018 revenues increased 15 percent year over...
-date: 2018-08-06 12:02:10
-tourl: https://www.sdxcentral.com/articles/news/sdxcentrals-weekly-roundup-august-3-2018/2018/08/
-tags: [Group]
----
-Login to SDxCentraltttttttYour login link has been emailed to you.tttEnter Your PasswordtttttttJoin SDxCentral and get information tailored to your particular interests everyday.ttttttttttttttThe The Cloud Native Computing Foundation (CNCF) accepted Data security company Security company Technology group Data analytics software provider Security provider Threat intelligence provider Machine data provider Storage and NVMe software provider You must be Join SDxCentralThis material may not be copied, reproduced, or modified in whole or in part for any purpose except with express written permission from an authorized representative of SDxCentral, LLC. In addition to such written permission to copy, reproduce, or modify this document in whole or part, an acknowledgement of the authors of the document and all applicable portions of the copyright notice must be clearly referenced. All Rights Reserved.ttttŠ 2012-2018SDxCentral, LLC, All Rights Reserved. SDNCentral, the SDNCentral logo, SDxCentral, SDxCentral logo, SDxNews, SDxTech, SDx, the SDx logo, and DemoFriday are trademarks of SDxCentral, LLC in the U.S. and other countries.tttWe are requesting you provide a valid business, education, non-profit or government email address not from free or temporary email providers or ISPs. If you feel that our filters are incorrectly disallowing your email, please contact us at 

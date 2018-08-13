@@ -1,0 +1,8 @@
+---
+layout: post
+title: Specter @ Defcon
+date: 2018-08-12 02:00:25
+tourl: https://t.co/ZcZv1Ph8K7
+tags: [Dust Storm]
+---
+Only in Vegas can you have a dust storm then a flash flood warning 15 minutes later.

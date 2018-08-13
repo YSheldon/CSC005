@@ -1,0 +1,8 @@
+---
+layout: post
+title: Kevin Beaumont
+date: 2018-08-12 03:00:21
+tourl: https://t.co/mJWyBQgFpy
+tags: [Source]
+---
+Heard level - can compile Linux kernel from source without Google. https://t.co/MpC0sK9JAq

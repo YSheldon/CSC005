@@ -1,0 +1,8 @@
+---
+layout: post
+title: Threatpost
+date: 2018-08-12 03:00:21
+tourl: http://t.co/rD9Wvdqf3e
+tags: [Attack]
+---
+Government entities and educational institutions in the Middle East are under attack in an ongoing credential-harvesting campaign: https://t.co/segOSpxaUu

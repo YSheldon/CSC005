@@ -1,8 +1,0 @@
----
-layout: post
-title: 0day Exploit Database
-date: 2018-08-06 03:00:24
-tourl: https://t.co/ifDhCPJfYM
-tags: [Scripting,0day,exploit]
----
-#0daytoday #Subrion CMS 4.2.1 - Cross-Site Scripting Vulnerability CVE-2018-14840 [webapps #exploits #Vulnerability #0day #Exploit] https://t.co/qE4zfrryKo

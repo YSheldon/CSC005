@@ -1,8 +1,0 @@
----
-layout: post
-title: CVE
-date: 2018-08-06 03:00:21
-tourl: https://t.co/k9HZz2bu5G
-tags: [Attack]
----
-CVE-2018-7068 HPE has identified a remote HOST header attack vulnerability in HPE CentralView Fraud Risk Management earlier than version CV 6.1. This isssue is resolved in HF16 for HPE CV 6.1 or subsequent version.  https://t.co/mzS88Fqh2t

@@ -1,8 +1,0 @@
----
-layout: post
-title: Eric Romang
-date: 2018-08-06 01:00:22
-tourl: https://t.co/U0Dm2KYuqW
-tags: [GDPR]
----
-#GDPR WP251 Automated individual decision-making. Bugs to take in consideration in #DPIA https://t.co/6p2U8LjKRu

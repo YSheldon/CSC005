@@ -1,8 +1,0 @@
----
-layout: post
-title: Nicolas Krassas
-date: 2018-08-06 03:00:21
-tourl: http://t.co/nj3EPPRowo
-tags: [TLS]
----
-Fizzing Up The New TLS Security Protocol https://t.co/UCTDYc8upg

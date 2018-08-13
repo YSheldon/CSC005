@@ -1,0 +1,8 @@
+---
+layout: post
+title: Security Affairs
+date: 2018-08-12 01:00:22
+tourl: http://t.co/V3OIFUqNCm
+tags: [Hack]
+---
+Experts explained how to hack macs in enterprises through MDM  https://t.co/8P5SYqSGlm #securityaffairs

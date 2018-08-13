@@ -1,0 +1,8 @@
+---
+layout: post
+title: SC Media
+date: 2018-08-12 03:00:21
+tourl: https://t.co/BYI1kkbds1
+tags: [Attack]
+---
+Ransomware attack at Blue Springs Family Care in Missouri affects 45,000 patients https://t.co/vOKGspCq7Z

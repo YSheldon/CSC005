@@ -1,8 +1,0 @@
----
-layout: post
-title: Mathy Vanhoef
-date: 2018-08-06 03:00:21
-tourl: https://t.co/DaaCiQYBqF
-tags: [Attack]
----
-The #KRACK attack against WPA2 got nominated for Best Cryptographic Attack :) https://t.co/PuEav85p2x

@@ -1,8 +1,0 @@
----
-layout: post
-title: Menlo Security
-date: 2018-08-06 03:00:23
-tourl: https://t.co/KGGTO8JfLs
-tags: [Attack,Hack]
----
-.@Clairecmc was targeted by a #phishing attack similar to the #hacks against @johnpodesta during @HillaryClinton's campaign; while #malware encrypted emails were sent to Senate officials, @DailyBeast says the hack was unsuccessful @EliBWatkins @cnnpolitics https://t.co/69pq9C0zcG https://t.co/pJO8OK14tZ

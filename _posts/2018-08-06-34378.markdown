@@ -1,8 +1,0 @@
----
-layout: post
-title: Daniel Cuthbert
-date: 2018-08-06 03:00:21
-tourl: https://t.co/56D5DZ92wB
-tags: [Epic]
----
-Knowing this team, this would be a very epic role for someone wanting to see cloud at scale and learn how to do red/blue well. https://t.co/Kr9hWhRJDI
