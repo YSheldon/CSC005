@@ -1,8 +1,0 @@
----
-layout: post
-title: Kacper Szurek
-date: 2018-08-07 03:00:21
-tourl: https://t.co/LrZXkkOJB2
-tags: [MikroTik]
----
-[PL] Czwarty (i trzeci) odcinek #podcast Szurkogadanie czyli o bezpiecze?stwie dla wszystkich jest ju? dost?pny. Opowiadam o p?atno?ciach w wi?zieniu, kradzie?y plików przy u?yciu HTML oraz atakach na routery MikroTik. Zapraszam do komentowania. https://t.co/QfaaUsR4ON

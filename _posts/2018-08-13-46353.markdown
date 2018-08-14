@@ -1,0 +1,8 @@
+---
+layout: post
+title: Trend Micro
+date: 2018-08-13 03:00:21
+tourl: http://t.co/f67vqZFY1d
+tags: [MikroTik]
+---
+More than 200,000 #MikroTik routers have been compromised in a #cryptojacking campaign, exploiting a vulnerability to inject a malicious version of #Coinhive. Details here: https://t.co/hIYrCurguR https://t.co/oOexiWVyK1

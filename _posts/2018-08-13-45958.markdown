@@ -1,0 +1,8 @@
+---
+layout: post
+title: 0day Exploit Database
+date: 2018-08-13 03:00:23
+tourl: https://t.co/ifDhCPJfYM
+tags: [0day,exploit]
+---
+#0daytoday #Linux/x64 - Add Root User (toor/toor) #Shellcode (99 bytes) [shellcode #0day #Exploit] https://t.co/w9gUzDNsJZ

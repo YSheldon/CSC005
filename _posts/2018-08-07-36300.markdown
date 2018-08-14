@@ -1,8 +1,0 @@
----
-layout: post
-title: CyberScoop
-date: 2018-08-07 03:00:21
-tourl: https://t.co/UiSN102kIR
-tags: [FIREEYE]
----
-Watch @NSAGov's David Hogue in our latest video, sponsored by @FireEye, talking about consolidating tools in order to get the most out of #threatintelligence. https://t.co/8FN6jMHmOF https://t.co/qqMhqqXBFI

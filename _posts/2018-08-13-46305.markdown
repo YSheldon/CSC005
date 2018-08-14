@@ -1,0 +1,8 @@
+---
+layout: post
+title: Fortinet
+date: 2018-08-13 03:00:23
+tourl: http://t.co/QGsCLLACry
+tags: [exploit,Attack]
+---
+With 96% of firms experiencing at least one severe exploit, almost no organization is immune to the evolving attack trends of #cybercriminals. Get the latest from our Threat landscape Report. https://t.co/wdB9mBUf1W #FortiResearch https://t.co/Hdb5muPR8v

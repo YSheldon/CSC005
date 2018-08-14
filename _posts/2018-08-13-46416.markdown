@@ -1,0 +1,8 @@
+---
+layout: post
+title: AlienVault
+date: 2018-08-13 03:00:21
+tourl: http://t.co/7mZeFsDsoi
+tags: [Attack]
+---
+Beware - Some Popular Android applications on your phone may be vulnerable to a new type of attack called "Man-in-the-Disk" that can grant a 3rd-party app the ability to crash them and/or run malicious code: https://t.co/MH7nMCAVag @campuscodi @BleepinComputer https://t.co/UENlqy1Icx

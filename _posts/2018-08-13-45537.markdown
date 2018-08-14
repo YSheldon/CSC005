@@ -1,0 +1,8 @@
+---
+layout: post
+title: Check Point Software
+date: 2018-08-13 01:00:22
+tourl: http://t.co/600NBhpU0d
+tags: [exploit]
+---
+Live at @DEFCON, @Ynvb and @eyalitkin @_CPResearch_ unveils #Faxploit, how millions of fax machines can be hacked to infiltrate an IT #network worldwide. Learn how: https://t.co/CNXFZ4Bbyt  #DEFCON26 #exploit https://t.co/8gezsoApEt

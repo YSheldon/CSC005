@@ -1,0 +1,8 @@
+---
+layout: post
+title: RSA
+date: 2018-08-13 03:00:21
+tourl: https://t.co/bABGhyqAQB
+tags: [Attack]
+---
+At Black Hat, roughly 35% of emails were sent in clear text, a poor #cybersecurity practice that puts organizations at risk of a #phishing attack and #databreach. See what else was monitored in the @BlackHatEvents NOC this week: https://t.co/Ac8FqCv5eB

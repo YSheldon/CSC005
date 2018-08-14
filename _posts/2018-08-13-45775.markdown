@@ -1,0 +1,8 @@
+---
+layout: post
+title: WIRED
+date: 2018-08-13 03:00:21
+tourl: https://t.co/KT14PZrouQ
+tags: [Attack]
+---
+You might think fax machines are just a relic, but fields like healthcare and government still rely on them every day. Unfortunately new research shows that vulnerabilities in that very old tech could expose entire corporate networks to attack. https://t.co/Z1rKm6KzYh

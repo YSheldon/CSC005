@@ -1,8 +1,0 @@
----
-layout: post
-title: kevin
-date: 2018-08-07 03:00:21
-tourl: https://t.co/mJWyBQgFpy
-tags: [Source]
----
-To be clear - I don't think there's anything wrong with having Russian nationals, remote workers, or a VC manager partner who speaks Russian - it's just the optics don't look great in climate of US election security.  Voatz hire some cool people who have good open source projects

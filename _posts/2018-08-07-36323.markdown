@@ -1,8 +1,0 @@
----
-layout: post
-title: 0day Exploit Database
-date: 2018-08-07 03:00:23
-tourl: https://t.co/ifDhCPJfYM
-tags: [0day,exploit]
----
-#0daytoday #Microsoft #Windows #MicrosoftWindows SCF File Feature Bypass Vulnerability [#0day #Exploit] https://t.co/CNwEujwgQk

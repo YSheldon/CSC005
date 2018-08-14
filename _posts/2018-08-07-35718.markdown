@@ -1,8 +1,0 @@
----
-layout: post
-title: F5 Networks
-date: 2018-08-07 03:00:21
-tourl: https://t.co/Koj3fUWTNg
-tags: [China]
----
-Why China will surpass the world in #5G deployment speed: https://t.co/2cvobzqnaj via @TechRepublic

@@ -1,0 +1,8 @@
+---
+layout: post
+title: 0day Exploit Database
+date: 2018-08-13 03:00:23
+tourl: https://t.co/ifDhCPJfYM
+tags: [exploit,0day]
+---
+#0daytoday #PostgreSQL 9.4-0.5.3 - Privilege Escalation Exploit CVE-2017-14798 [remote #exploits #0day #Exploit] https://t.co/KuUaLqUbwS

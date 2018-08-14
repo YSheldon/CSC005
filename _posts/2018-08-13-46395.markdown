@@ -1,0 +1,8 @@
+---
+layout: post
+title: Hakin9
+date: 2018-08-13 01:00:24
+tourl: https://t.co/4DC7miAMag
+tags: [Exploitation,exploit]
+---
+RouterSploit v3.3.0 - Exploitation Framework For Embedded Devices https://t.co/09b2SwHZZI #infosec #hacking #hackers #pentesting #pentest #programming #opensource #CyberAttack #exploit #devices #framework #tech https://t.co/8jIT7UXf7N

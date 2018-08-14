@@ -1,0 +1,8 @@
+---
+layout: post
+title: 6DegreesCyber
+date: 2018-08-13 03:00:21
+tourl: www.baidu.com
+tags: [Attack]
+---
+Yet - many companies allow BYOD to be in their environments. Such a risky attack surface #CyberInAfrica https://t.co/44b2qGxqn3

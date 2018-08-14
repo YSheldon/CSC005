@@ -1,8 +1,0 @@
----
-layout: post
-title: kevin
-date: 2018-08-07 01:00:22
-tourl: https://t.co/mJWyBQgFpy
-tags: [Biometric]
----
-If a startup (Im sure theyre nice people btw) with 2m in funding approaches and says they have biometric security and Blockchain it still need independent vetting, at least to level a crab paste company would get a HR provider. There needs to be oversight here.

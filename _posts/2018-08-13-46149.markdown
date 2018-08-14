@@ -1,0 +1,8 @@
+---
+layout: post
+title: The CyberWire
+date: 2018-08-13 03:00:21
+tourl: https://t.co/HQuCt1gLbK
+tags: [Attack]
+---
+#WeekThatWas: Various international investigations of #Novichok incident are in progress, &amp; at least one laboratory consulted about the attack, #Spies Laboratory in #Switzerland, came under #phishing attack during last week in July. #cybersecurity #infosec https://t.co/SY27b3m17S

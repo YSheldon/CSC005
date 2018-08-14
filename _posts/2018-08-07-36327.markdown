@@ -1,8 +1,0 @@
----
-layout: post
-title: 0day Exploit Database
-date: 2018-08-07 03:00:24
-tourl: https://t.co/ifDhCPJfYM
-tags: [Scripting,0day,exploit]
----
-#0daytoday #Open-AudIT Community 2.2.6 - Cross-Site Scripting Vulnerability [webapps #exploits #Vulnerability #0day #Exploit] https://t.co/lLkLyCnQIH

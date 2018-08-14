@@ -1,0 +1,8 @@
+---
+layout: post
+title: Nicolas Krassas
+date: 2018-08-13 03:00:21
+tourl: http://t.co/nj3EPPRowo
+tags: [Attack]
+---
+DEF CON 2018: Critical Bug Opens Millions of HP OfficeJet Printers to Attack https://t.co/oVd3eILb0M

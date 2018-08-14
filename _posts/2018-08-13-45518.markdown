@@ -1,0 +1,8 @@
+---
+layout: post
+title: Linux Security Labs
+date: 2018-08-13 03:00:21
+tourl: https://t.co/ee1vBPOO91
+tags: [Source]
+---
+New tool added: DejaVU (open source canary and deception framework) by @bhdresh #canary #decoy https://t.co/SKyyZyZO2F

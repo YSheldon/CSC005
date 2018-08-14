@@ -1,0 +1,12 @@
+---
+layout: post
+title: Malwrologist
+date: 2018-08-13 03:00:21
+tourl: https://t.co/DMaAFKt4hs
+tags: [PowerShell]
+---
+#doc -&gt; #vba macro executes encoded #powershell stored in a variable (ActiveDocument.Variables) -&gt; #PE (/db-private.ga/m/m.exe)
+
+https://t.co/lgalWapwH7
+
+#PE https://t.co/dDCjPXVpoy https://t.co/9CNSCdmRKw

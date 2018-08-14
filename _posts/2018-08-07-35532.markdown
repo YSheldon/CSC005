@@ -1,8 +1,0 @@
----
-layout: post
-title: TrendLabs
-date: 2018-08-07 03:00:21
-tourl: http://t.co/MB171H1oL9
-tags: [MikroTik]
----
-Security researchers found a #cryptojacking campaign that compromises #MikroTik routers and injects a malicious version of #Coinhive. Heres what you need to know: https://t.co/5ez11uGZVJ

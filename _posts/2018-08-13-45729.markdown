@@ -1,0 +1,10 @@
+---
+layout: post
+title: Gallagher
+date: 2018-08-13 03:00:21
+tourl: https://t.co/biyaffQu65
+tags: [Private Keys]
+---
+Oh the irony of stating that running the APK on your phone would be insecure because your private keys could be grabbed by malware...
+
+This is literally what has been done. The device is running on a stripped down phone. We can install malware on it and grab things. ??????? https://t.co/FDoONqL2Xr

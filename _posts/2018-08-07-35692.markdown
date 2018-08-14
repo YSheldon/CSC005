@@ -1,8 +1,0 @@
----
-layout: post
-title: 44CON
-date: 2018-08-07 03:00:21
-tourl: http://t.co/dlbSf1777O
-tags: [PowerShell]
----
-Learn how to use powershell for everything from mapping to credential extraction with @nikhil_mitt's 44CON training course https://t.co/Zu572p6iB9

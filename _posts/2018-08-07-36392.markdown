@@ -1,8 +1,0 @@
----
-layout: post
-title: Nikita Shvetsov
-date: 2018-08-07 02:00:20
-tourl: www.baidu.com
-tags: [Group]
----
-The Donau Chemie Group, established European brand in the chemical industry, selected @Kaspersky as its trusted #cybersec partner https://t.co/weFylcPSqT

@@ -1,0 +1,8 @@
+---
+layout: post
+title: 0day Exploit Database
+date: 2018-08-13 03:00:23
+tourl: https://t.co/ifDhCPJfYM
+tags: [exploit,0day]
+---
+#0daytoday #iSmartViewPro 1.5 - SavePath for ScreenShots Buffer Overflow Exploit [#0day #Exploit] https://t.co/glZqwLMA79

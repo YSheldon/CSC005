@@ -1,0 +1,8 @@
+---
+layout: post
+title: Social Media Facial Recognition Could Make the Bad Guys Worse
+date: 2018-08-13 13:02:11
+tourl: https://blog.knowbe4.com/social-media-facial-recognition-could-make-the-bad-guys-worse
+tags: [Attack]
+---
+Trustwave shows how the latest advancements in technology could be used to aid cybercriminal activity.One of the biggest establishers of credibility for any Covering the major sites, such as Facebook, Twitter, Google +, LinkedIn, and Instagram, this tool is used by Trustwave for penetration testing of their customers by identifying potential test targets within customer organizations for social media phishing attacks aimed at testing the customers user security.While Trustwave is using this technology to improve the security of their customers, they point out how facial recognition could be used by cybercriminals to improve the accuracy and effectiveness of phishing scams.Some ideas include:The uses are somewhat endless.While Trustwave only plans on using this new tool for good, its existence demonstrates the potential use of such technology to further the efforts of cybercriminals. Keep in mind that the Whether facial recognition tech is used, or if good old-fashioned manual labor is the key, this misuse of social media account information should serve as a warning of just how easy it can be for someone to fool one of your users. Keeping users up to speed on the latest attack methods and how they can better protect themselves (and the organization) viaTopics: Š KnowBe4, Inc. All rights reserved. | 

@@ -1,0 +1,10 @@
+---
+layout: post
+title: Security Affairs
+date: 2018-08-13 03:00:21
+tourl: http://t.co/V3OIFUqNCm
+tags: [0day]
+---
+Apple #0day exposes #macOS to Synthetic Mouse-Click attacks
+
+#securityaffairs #hacking https://t.co/mNWCS7tnS7

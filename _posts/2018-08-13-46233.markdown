@@ -1,0 +1,8 @@
+---
+layout: post
+title: Palo Alto Networks
+date: 2018-08-13 01:00:22
+tourl: http://t.co/Cn7zCFVx8y
+tags: [Law]
+---
+In this Q&amp;A, @daniellekrizcyb, Sr. Director Global Policy and @streaf, Sr. Manager, Product Marketing EMEA, cover the basics of the EUs first law focused specifically on cybersecurity and how CISOs should approach it https://t.co/xuYKIfd19r https://t.co/PLJ9UobxuJ https://t.co/I3eGvzMTnQ

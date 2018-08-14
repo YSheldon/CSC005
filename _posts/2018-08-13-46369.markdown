@@ -1,0 +1,8 @@
+---
+layout: post
+title: Rapid7
+date: 2018-08-13 03:00:21
+tourl: http://t.co/9msSD62Zsj
+tags: [Attack]
+---
+In today's ever-evolving attack landscape, a security incident can occur in your organization at any time. Read the latest blog in our CIS Critical Security Controls series and learn how to effectively set up your incident response and management strategy. https://t.co/n8GBsY5DSE

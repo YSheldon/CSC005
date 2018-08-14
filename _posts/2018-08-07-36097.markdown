@@ -1,8 +1,0 @@
----
-layout: post
-title: dragosr
-date: 2018-08-07 03:00:21
-tourl: http://t.co/dD9Xkml3F6
-tags: [Attack]
----
-New attack on WPA PSK, using PMKID in Optional RSN element in management frame. Attacker can request directly from AP, no client traffic needed. With known SSID hashcat can precompute crack tables for key attack from PMKID. B00M https://t.co/RxHUupts7r

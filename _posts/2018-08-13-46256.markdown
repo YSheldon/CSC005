@@ -1,0 +1,10 @@
+---
+layout: post
+title: James Kettle
+date: 2018-08-13 03:00:21
+tourl: https://t.co/Vrrdacv9Ut
+tags: [Attack]
+---
+I didn't have space to discuss this in my talk, but Param Miner is a seriously powerful general purpose tool for finding that extra bit of overlooked attack surface https://t.co/wFbqgN9Xzx
+
+If you have the RAM, I highly recommend enabling 'learn observed words' :)

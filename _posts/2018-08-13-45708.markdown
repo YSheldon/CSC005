@@ -1,0 +1,8 @@
+---
+layout: post
+title: Gray Hats
+date: 2018-08-13 03:00:21
+tourl: https://t.co/vJQyYSQa6S
+tags: [Attack]
+---
+Cisco researchers show the latest attack methods for cryptocurrencies at Black Hat conference https://t.co/4Og6zCQ5U9

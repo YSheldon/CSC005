@@ -1,0 +1,8 @@
+---
+layout: post
+title: 0day Exploit Database
+date: 2018-08-13 03:00:23
+tourl: https://t.co/ifDhCPJfYM
+tags: [exploit,0day]
+---
+#0daytoday #Microsoft #DirectX #SDK - Xact.exe Remote Code Execution Exploit [remote #exploits #0day #Exploit] https://t.co/5gx8ePWtbc

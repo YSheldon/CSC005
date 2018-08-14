@@ -1,0 +1,8 @@
+---
+layout: post
+title: Menlo Security
+date: 2018-08-13 03:00:21
+tourl: https://t.co/KGGTO8JfLs
+tags: [Source]
+---
+According to @PaloAltoNtwks' @Unit24, #DarkHydrus is now using the open-source #Phishery tool to harvest credentials from an educational institution in the Middle East using a #spearphishing email w/ a malicious word attachment @RobertJAAbel @scmagazineuk https://t.co/OSb3SEzJ6k https://t.co/MyLgPPLe1X

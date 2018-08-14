@@ -1,0 +1,8 @@
+---
+layout: post
+title: FireF0X
+date: 2018-08-13 03:00:21
+tourl: www.baidu.com
+tags: [UACMe]
+---
+Decent list of Windows Defender emulator related API,https://t.co/VDzaGBGAdb - communication, VFS API part. This part of WD is it strong and weakness at the same time because you can detect it little sandbox from emulated code, e.g. as UACMe doing for a long time. /cont

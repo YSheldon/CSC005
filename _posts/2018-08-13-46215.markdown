@@ -1,0 +1,8 @@
+---
+layout: post
+title: NuHarbor Security
+date: 2018-08-13 03:00:21
+tourl: https://t.co/HgnUUovsZg
+tags: [Attack]
+---
+In-flight satellite comms vulnerable to remote attack, researcher finds  Naked Security https://t.co/Lu6BYzh8ax #cybersecurity #infosec

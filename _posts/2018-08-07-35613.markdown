@@ -1,8 +1,0 @@
----
-layout: post
-title: Threatpost
-date: 2018-08-07 03:00:21
-tourl: http://t.co/rD9Wvdqf3e
-tags: [Epic]
----
-Security experts arent happy after #Fortnites creator, Epic Games, announced it would not go through Google Play: https://t.co/PiQ5gOtQkv

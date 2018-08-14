@@ -1,8 +1,0 @@
----
-layout: post
-title: Linux Security Labs
-date: 2018-08-07 01:00:22
-tourl: https://t.co/ee1vBPOO91
-tags: [Exploitation]
----
-Tool review: RootHelper (script to retrieve exploitation tools) by @AntiSec_Inc #pentesting #enumeration https://t.co/nY3zqxZ6La

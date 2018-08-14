@@ -1,0 +1,8 @@
+---
+layout: post
+title: Naked Security
+date: 2018-08-13 03:00:21
+tourl: http://t.co/xOLRCy9nPS
+tags: [Attack]
+---
+In-flight satellite comms vulnerable to remote attack, researcher finds https://t.co/Mb0s2h0EIH

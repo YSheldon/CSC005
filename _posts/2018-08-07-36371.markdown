@@ -1,8 +1,0 @@
----
-layout: post
-title: Trend Micro
-date: 2018-08-07 03:00:21
-tourl: http://t.co/f67vqZFY1d
-tags: [PowerShell]
----
-Fileless #malware #PowerGhost targets corporate systems and propagates using Powershell and #EternalBlue. It infects servers connected to the local network with a cryptocurrency-mining malware, and a DDoS tool in one other variant. Details: https://t.co/QKrtboja7d https://t.co/LwXv5wQdSi

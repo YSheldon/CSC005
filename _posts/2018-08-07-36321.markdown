@@ -1,8 +1,0 @@
----
-layout: post
-title: Recorded Future
-date: 2018-08-07 01:00:22
-tourl: http://t.co/a4ptBv2g71
-tags: [CISO]
----
-No CISO wants to be caught without the necessary context to make accurate, risk-based decisions. Read to find out how #threatintelligence can provide a fix: https://t.co/xibEBeFpxR #Cybersecurity https://t.co/XPxtOpmNPy

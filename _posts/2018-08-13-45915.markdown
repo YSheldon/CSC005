@@ -1,0 +1,8 @@
+---
+layout: post
+title: Infosecurity Mag
+date: 2018-08-13 01:00:22
+tourl: http://t.co/ioT6nbGu1X
+tags: [GDPR]
+---
+The GDPR Aftermath: What Else Can be Done to Improve Data Security https://t.co/kOA1vN4lG3

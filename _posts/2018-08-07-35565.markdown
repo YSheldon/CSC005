@@ -1,8 +1,0 @@
----
-layout: post
-title: kevin
-date: 2018-08-07 01:00:24
-tourl: https://t.co/mJWyBQgFpy
-tags: [DHS,NSA]
----
-The US needs to put somebody like DHS in charge of signing off all remote voting systems (like vetting vendors, pentests etc), with NSA involvement. In UK any election stuff has to be approved by GCHQ. Not doing this is an open goal with people already queuing up.
